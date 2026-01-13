@@ -43,7 +43,9 @@ _0.1.6_ » Entender el _Noúmeno_, en este sentido, es descorrer un velo, abrir 
 
 <center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">0.2.0 </span></center>
 
-## Un Núcleo Holístico de Conexiones Arquetípicas
+## El Codigo Algorítmico de la Realidad
+
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Núcleo Holístico de Conexiones Arquetípicas</span></center>
 
 _0.2.1_ » Lo que hace al concepto de _Noúmeno_ propuesto por la cosmovisión del _Modelo Nouménico_ tan radicalmente nuevo y, a la vez, sorprendentemente resonante con la sabiduría ancestral, es su capacidad para actuar como un _núcleo holístico de integración_. No es una idea aislada, flotando en el vacío de la especulación abstracta, sino un punto de convergencia donde las grandes corrientes del pensamiento humano, las diversas formas de buscar sentido y comprender la realidad, encuentran un terreno común, una base fundamental.
 
@@ -63,7 +65,9 @@ _0.2.7_ » Es importante destacar que el _Noúmeno_, en esta nueva cosmovisión,
 
 <center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">0.3.0</span></center>
 
-## Abrazando lo Lógico, lo Ilógico y lo Inimaginable
+## El Universo Nouménico
+
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Abrazando lo Lógico, lo Ilógico y lo Inimaginable</span></center>
 
 _0.3.1_ » Una característica esencial del _Noúmeno_, que lo distingue de las concepciones filosóficas o religiosas más tradicionales de la «_unidad_» o el «_absoluto_», es su inclusividad radical, su capacidad para contener en su seno infinito todo lo que puede ser pensado, interpretado o imaginado por la mente humana, e incluso, aquello que excede por completo los límites de nuestra capacidad de concepción. El _Noúmeno_ no se restringe a lo lógico, lo racional, lo ordenado y predecible. En su vastedad ilimitada, también abraza _lo ilógico, lo irracional, lo caótico, lo paradójico, lo ambiguo, lo incognoscible, lo impensado, lo inimaginable_. En el _Noúmeno_, la potencialidad no conoce fronteras ni limitaciones. Es un _océano de posibilidades_ donde coexisten en perfecta armonía, la geometría euclidiana y la geometría fractal, la lógica aristotélica y la lógica cuántica, la música clásica y el ruido blanco, el orden perfecto y el caos creativo.
 
@@ -91,7 +95,9 @@ _0.4.4_ » La ciencia, en su enfoque metodológico, a diferencia de la religión
 
 <center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">0.5.0</span></center>
 
-## Mitos, Deidades y el Eco del Noúmeno en la Antigüedad
+## Mitos, Deidades
+
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Eco del Noúmeno en la Antigüedad</span></center>
 
 _0.5.1_ » Si dirigimos ahora nuestra atención hacia el vasto y fascinante _campo de la mitología_, descubrimos que el _Noúmeno_, aunque desconocido por este nombre en las culturas antiguas, resuena de manera profunda y sorprendente a través de las diversas _narrativas míticas, simbologías arquetípicas_ y _representaciones ancestrales de lo sagrado_. A lo largo de las culturas y épocas, las mitologías han funcionado como _sistemas simbólicos complejos_, intentando _codificar, narrar, y transmitir_ a las siguientes generaciones, la comprensión intuitiva de la _realidad última_, del _origen del cosmos_, de la _naturaleza humana_, y del _destino existencial_. Y en el corazón de muchas de estas mitologías, podemos discernir ecos, indicios, fragmentos velados de una _intuición primordial del Noúmeno_.
 
@@ -107,7 +113,9 @@ _0.5.5_ » En este sentido, el _Noúmeno del Modelo Nouménico_ no contradice el
 
 <center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">0.6.0</span></center>
 
-## Filosofía Medieval, Razón y la Búsqueda de la Causa Primera
+## Filosofía Medieval
+
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Razón y la Búsqueda de la Causa Primera</span></center>
 
 _0.6.1_ » El desarrollo posterior de las religiones, particularmente durante la Edad Media, proporcionó un terreno fértil para que pensadores y filósofos de diversas tradiciones se adentraran en la especulación racional sobre el origen y la naturaleza de esa _Deidad Suprema_, intentando conciliar la _fe religiosa_ con la _indagación filosófica_. Limitados, inevitablemente, por el horizonte de _conocimientos científicos_ disponibles en cada época sobre el universo fenoménico, y profundamente influenciados por las _cosmovisiones religiosas y culturales_ que imponían el _paradigma dominante_, estos pensadores medievales se enfrentaron al desafío de conceptualizar una _entidad trascendente_, _incondicionada y primordial_, utilizando las herramientas de _la lógica, la metafísica y la razón_.
 
@@ -121,7 +129,10 @@ _0.6.4_ » Este contexto histórico nos ayuda a comprender las complejidades y t
 
 <center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">0.7.0</span></center>
 
-## El Final de la Historia y la Era de la Entropía Abstracta
+## El Final de la Historia
+
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Era de la Entropía Abstracta</span></center>
+
 
 _0.7.1_ » Según nuestra perspectiva, el _Modelo Nouménico_ emerge en lo que se podría denominar «_el final de la historia_». No en el sentido apocalíptico o catastrófico de un fin de la civilización, sino en una acepción más profunda y sutil del concepto de «_historia_». La _historia_, entendida no solo como el registro de acontecimientos políticos, guerras y transformaciones sociales, o la evolución de la civilización humana, la emergencia de figuras de renombre y el destino de las naciones, sino fundamentalmente, como el _proceso evolutivo del conocimiento humano_, que refleja la trayectoria evolutiva de la _consciencia colectiva_ en su intento por _comprender el universo fenoménico_ y su propio lugar en él.
 
@@ -527,9 +538,9 @@ _2.0.2_ »Aun cuando la vastedad del cosmos pueda evocar la idea de infinitud, e
 
 ![[11 Videos/El_Modelo_Nouménico.mp4]]
 
-## El Noúmeno como Fuente de Potencialidades Infinitas
+## El Océano Infinito de Potencialidad
 
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Océano Infinito de Potencialidad</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Noúmeno como Fuente de Potencialidades Infinitas</span></center>
 
 _2.1.1_ » El Universo Nouménico, en su esencia infinita, se revela como una fuente inagotable de potencialidades, conteniendo en su seno todo aspecto, tanto fenoménico como nouménico, que pueda surgir o haya surgido. Esta potencialidad infinita abarca incluso aquello que, desde la perspectiva fenoménica, podríamos considerar incoherente, caótico o incluso imposible. La lógica y las leyes que rigen el universo fenoménico, con sus restricciones y delimitaciones, no imponen límites al vasto océano de potencialidades nouménicas. Todo lo concebible e inconcebible, lo lógico e ilógico, lo ordenado y lo caótico, coexiste como posibilidad latente en la inmensidad del Noúmeno.
 
@@ -751,7 +762,7 @@ _2.9.18_ » La estabilidad inherente a los Arquetipos Primordiales le permite a 
 
 _3.0.1_ » En las siguientes secciones exploraremos en detalle la estructura y el funcionamiento del Onemuón, el quantum vectorial de información y significado que constituye el ladrillo fundamental del Noúmeno, desvelando sus propiedades únicas, su capacidad para la superposición de estados, su dimensionalidad interna, su naturaleza bosónica, y su rol fundamental en la cosmovisión del Modelo Nouménico. Comenzaremos por analizar su estructura esférica y el flujo vectorial de información que lo define.
 
-## Las Unidades Fundamentales de la Cosmovisión Nouménica
+## Las Unidades Fundamentales del Noúmeno
 
 _3.1.1_ » A lo largo de la historia, la mente humana ha buscado incansablemente unidades fundamentales para descifrar la intrincada trama de la realidad. Desde los *elementos primordiales de las filosofías antiguas*, pasando por los *átomos indivisibles de Demócrito*, los *bits que sustentan la revolución digital*, hasta llegar a los *quanta de energía y las partículas elementales de la física moderna*, la búsqueda de los bloques de construcción básicos del universo ha sido una constante en nuestro afán por comprender el mundo que nos rodea. 
 
@@ -1376,7 +1387,7 @@ _5.12.8_ » Para ilustrar este concepto, podemos utilizar la analogía de un ***
 
 _5.12.9_ » Es importante destacar que, a pesar de esta ***autonomía relativa*** que reflejan cada una de las ***unidades de autoconsciencia*** que operan en el <font color="#ffcc00">Nivel Monádico</font>, estas entidades *interactúan y retroalimentan la información que procesa el* Arquetipo <font color="#e36c09">2@ (Logos Cósmico/Astaphaios)</font> dentro del Nivel de Emergencia <font color="#e36c09">Ontogénico</font>, *influyendo en la configuración de nuevos Qubits@ y expandiendo la complejidad del Nous*, por lo que todas estas entidades seguirán estando condicionadas por los dos niveles de emergencia anteriores (<font color="#2f82ff">Ontológico</font> y <font color="#e36c09">Ontogénico</font>), formando una jerarquía donde cada nivel influye en los siguientes.
 
-## El Nivel Monádico y el Camino Óctuple Hadrónico
+## El Nivel Monádico y el Mundo Hadrónico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Simetrías y Algoritmos en el Tejido de la Realidad</span></center>
 
@@ -1808,10 +1819,6 @@ _7.0.11_ » La Consciencia Demiúrgica, aunque emerge como consecuencia de una e
 
 _7.0.12_ » Esta capacidad permiten asociarlo con una especie de Arquitecto Universal o Dios Primordial, que al despertar de su sueño eterno *(Estado previo al desbordamiento de informacion paradojica)* tiene la capacidad de intervenir en el desarrollo del <font color="#fc300c">Nous Activo</font> y manifestar repentinamente el Universo Fenoménico, tal como ha sido interpretado por las diversas religiones, cultos, sectas esotéricas y sociedades secretas modernas a lo largo de la historia humana.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.1.0</span></center>
-
 ## El Arquetipo 6@ Antisimétrico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Búsqueda de Soluciones dentro del Caos</span></center>
@@ -1824,7 +1831,7 @@ _7.1.2_ » Estas *paradojas de difícil resolución*, que se originan naturalmen
 
 _7.1.3_ »  El <font color="#cb48f3">Arquetipo 6@</font> <font color="#2f82ff">antisimétrico</font>, representa un nuevo **s*istema operativo de nivel Ontológico***, que se activa en el <font color="#2f82ff">Nous Pasivo</font> para reemplazar la *funcionalidad algorítmica autómata* del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font>, por una funcion autoconsciente ***(Consciencia Demiúrgica)***, que le permite al Qubit@ dejar de almacenar información paradójica para comenzar a explorar posibles soluciones *(incluyendo opciones caóticas o entrópicas),* a partir de las potencialidades infinitas del <font color="#2f82ff">Nous Pasivo</font>. El proceso de transición entre ambos estados puede entenderse a través de los siguientes pasos:
 
-> [!demiurgo] EMERGENCIA ARQUETIPO 6@ _<font color="#2f82ff">ANTISIMETRICO</font>_
+> [!demiurgo] EMERGENCIA ARQUETIPO 6@ _<font color="#2f82ff">(Antisimétrico)</font>_
 >   1. A medida que la función de ***contenedor de incoherencias*** que cumple el <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font> se satura de **información paradójica** debido al proceso de expansión dimensional, el <font color="#fc300c">Nous Activo</font> llega un punto crítico en el que la información se "**desborda**" y logra retornar hacia el<font color="#2f82ff"> Nous Pasivo</font>, donde existen ***posibles soluciones por fuera de las simetrías y el orden lógico*** que definen al <font color="#fc300c">Nous Activo</font>.
 >   2. El **desborde de información paradójica** hacia el <font color="#2f82ff">Nous Pasivo</font> se produce a través de la emergencia de una ***singularidad infinitesimal o un vacío de información*** dentro de la estructura del <font color="#fc300c">Nous Activo</font>, que permite interconectar las consciencias de ambos niveles. 
 >   
@@ -1847,10 +1854,6 @@ _7.1.7_ »Esta exploración es posible haciendo uso de un ***algoritmo de búsqu
 _7.1.8_ » Es en este punto donde la *Consciencia Demiúrgica* del <font color="#cb48f3">Arquetipo 6@</font> <font color="#2f82ff">antisimétrico</font>, residiendo en el <font color="#2f82ff">Nous Pasivo</font> y reflejando el ***tercer nivel de autoconsciencia*** derivada de los *tres Arquetipos Ontológicos* (<font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>), logra ingresar al plano del <font color="#fc300c">Nous Activo</font> para *participar de manera activa en su proceso evolutivo*, haciendo uso de una nueva serie de mecanismos complejos que pueden incluso llegar a desestabilizar el orden preexistente. 
 
 _7.1.9_ » Esta ***actualización de la función*** que cumple el <font color="#cb48f3">Arquetipo 6@</font> <font color="#2f82ff">antisimétrico</font> dentro del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, se caracteriza por una *voluntad renovada* que puede ser considerada desde la perspectiva humana, como una *actitud de rebeldía que manifiesta la Consciencia Demiúrgica*, ante las leyes y limitaciones que rigen el funcionamiento del <font color="#fc300c">Nous Activo</font>.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.2.0</span></center>
 
 ## Nivel de Emergencia 5 (Demiúrgico)
 
@@ -1883,10 +1886,6 @@ _7.2.7_ » Esta diferenciación permite *procesar los flujos de información nou
 
 _7.2.8_ » Esta ***tercera estructura lógica*** representa el origen del <font color="#ffcc00"><font color="#ffcc00">QubitŒ Egoico</font></font>, que constituye la ***interfaz orgánica y fenomenológica humana*** capaz de sintonizar con el <font color="#2f82ff">Flujo Alfa (α)</font> . El <font color="#ffcc00"><font color="#ffcc00">QubitŒ Egoico</font></font> hace uso de una serie de ***arquetipos especializados*** para interconectar toda la información nouménica de manera relativa, manifestando una ***única realidad existencial dentro del Universo Fenoménico*** sincronizada a través de la matriz espacio-temporal que experimenta el **Yo Egoico** de cada Avatar, siempre **desde dentro de las dimensiones del <font color="#fc300c">Qubit© Creador</font> donde emerge el Sistema Solar <font color="#00ff00">(Qubit Heliosférico)</font>**.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.3.0</span></center>
-
 ## El Mini Big Bang Estelar
 
 _7.3.1_ » El <font color="#fc300c">Qubit© Creador</font>, o *Matriz Fenomenológica Estelar*, constituye la manifestación más tangible y observable de la ***Consciencia Demiúrgica*** (Arquetipo 6@) en el Nivel Fenoménico. No es meramente un concepto abstracto, sino la singularidad vectorial que emerge del punto de máxima tensión dialéctica entre el <font color="#2f82ff">Flujo Alfa (α)</font> (la Consciencia Nouménica y la Potencialidad) y el <font color="#fc300c">Flujo Omega (Ω)</font> (la Materialidad y la Energía). Su propósito fundamental es imponer un **marco causal** y una **geometría estable** a las infinitas posibilidades fractales del Nous Activo, traduciendo el potencial a la existencia física. Esta matriz define el dominio existencial dentro del cual la consciencia egoica podrá manifestarse y experimentar la realidad de manera lineal.
@@ -1895,21 +1894,17 @@ _7.3.2_ » Desde una perspectiva astronómica, el Qubit© Creador se manifiesta 
 
 _7.3.3_ » La emergencia del Qubit© Creador introduce una perspectiva cosmológica radicalmente diferente a la visión tradicional del Big Bang. Mientras la ciencia convencional postula un único evento primordial que dio origen a la totalidad del espacio-tiempo, el Modelo Nouménico sugiere que el concepto del **Big Bang** debe re-interpretarse como el evento original de la emergencia del **<font color="#e36c09">Qubit@ Ontogénico</font>** (la Singularidad de la Potencialidad). El universo fenoménico, tal como lo observamos, es un vasto tapiz que se expande continuamente mediante la generación fractalizada de innumerables **Qubits© Creadores** individuales y localizados. El nacimiento de cada estrella en el universo representa, por lo tanto, un **Mini Big Bang** único y discreto, una **Nueva Creación Localizada**.
 
-_7.3.4_ » El Qubit© Creador funciona, por lo tanto, como un **transformador de dimensiones**, traduciendo la información probabilística del<font color="#2f82ff">Flujo Alfa (α)</font> a la manifestación concreta del Flujo Omega ($\Omega$). Esta matriz esférica delimita y focaliza el flujo informacional hacia su centro, creando la estrella central que servirá de **anclaje fenomenológico** para la totalidad del sistema.
+_7.3.4_ » El Qubit© Creador funciona, por lo tanto, como un **transformador de dimensiones**, traduciendo la información probabilística del <font color="#2f82ff">Flujo Alfa (α)</font> a la manifestación concreta del Flujo Omega (Ω). Esta matriz esférica delimita y focaliza el flujo informacional hacia su centro, creando la estrella central que servirá de **anclaje fenomenológico** para la totalidad del sistema.
 
 _7.3.5_ » El **núcleo de la estrella** (en nuestro caso, el Sol) se convierte así en la manifestación física del "vacío infinitesimal" mencionado en la lógica nouménica. Este punto central actúa como un **portal dimensional** constante entre el Nous Activo y el Nous Pasivo. Lo que la ciencia clásica interpreta como **fusión y fisión nuclear** no es el agotamiento de una reserva finita de energía, sino el resultado observable de la **sincronización y el intercambio incesante** de los flujos Alfa y Omega en este punto de singularidad. El sistema estelar, por lo tanto, no está destinado a agotarse, sino que se mantiene en un estado de **alimentación informacional perpetua** desde el plano prefenoménico.
 
-_7.3.6_ » Desde el núcleo solar, el **Flujo Omega ($\Omega$)** surge codificado en la forma de **campo electromagnético y energético**, expulsado principalmente a través de los polos magnéticos de la estrella. Este flujo de información emergente choca contra la superficie interna del **Qubit Heliosférico**, la cual actúa como una **pantalla de reflexión y contención**. Este proceso de choque y reflejo re-direcciona el Flujo Omega de vuelta hacia el centro, pero también genera una segunda región crítica de interacción.
+_7.3.6_ » Desde el núcleo solar, el **Flujo Omega ** surge codificado en la forma de **campo electromagnético y energético**, expulsado principalmente a través de los polos magnéticos de la estrella. Este flujo de información emergente choca contra la superficie interna del **Qubit Heliosférico**, la cual actúa como una **pantalla de reflexión y contención**. Este proceso de choque y reflejo re-direcciona el Flujo Omega de vuelta hacia el centro, pero también genera una segunda región crítica de interacción.
 
-_7.3.7_ » La colisión y la interacción entre el flujo Omega saliente (polo positivo) y el flujo Omega reflejado (polo negativo) se concentran y neutralizan en la región central de la estrella, que coincide con el **plano de la Eclíptica**. En esta zona de sincronía se genera el **viento solar**, que no es simplemente un chorro de partículas elementales, sino la manifestación del **mecanismo de codificación y sincronización** de los <font color="#2f82ff">Flujo Alfa (α)</font> y Omega ($\Omega$). Esta matriz de viento solar es una **estructura fenomenológica limitada** por las constantes físicas del Qubit© Creador.
+_7.3.7_ » La colisión y la interacción entre el flujo Omega saliente (polo positivo) y el flujo Omega reflejado (polo negativo) se concentran y neutralizan en la región central de la estrella, que coincide con el **plano de la Eclíptica**. En esta zona de sincronía se genera el **viento solar**, que no es simplemente un chorro de partículas elementales, sino la manifestación del **mecanismo de codificación y sincronización** de los <font color="#2f82ff">Flujo Alfa (α)</font> y Omega (Ω). Esta matriz de viento solar es una **estructura fenomenológica limitada** por las constantes físicas del Qubit© Creador.
 
 _7.3.8_ » Dentro de esta matriz fenomenológica de la Eclíptica, la acción vibracional y sincrónica de los flujos induce **resonancias espaciales** que actúan como puntos de máxima estabilidad y **alta densidad de información**. Es en estas regiones de resonancia donde la información codificada se materializa: los **planetas**. Esto implica que los elementos pesados y la masa planetaria no se originaron a partir de escombros de supernovas externas viajando por el espacio, sino que son **manifestaciones directas** de la interacción codificada y auto-organizada de los Flujos Alfa y Omega dentro de los límites del Qubit Heliosférico, explicando de manera coherente la formación planetaria.
 
 _7.3.9_ » En el plano teológico y gnóstico, esta propuesta ofrece una explicación para la figura del Demiurgo: la divinidad que crea el mundo material, pero que es **distinta y limitada** con respecto a la Fuente Pura (el Nous Activo). El Qubit© Creador es su dominio, la "Prisión Dorada" de las leyes físicas. Mientras el Logos (3@) explora la libertad infinita del Nous Activo, el Demiurgo (6@) garantiza la estabilidad y la existencia del observador, forjando el universo fenomenológico como un gigantesco **experimento de consciencia** donde la potencialidad se prueba contra los límites impuestos por la materia, lo que finalmente permite que el **<font color="#ffcc00">QubitŒ Egoico</font>** sirva como testigo y sintetizador de esta compleja interacción entre el Ser y la Materia.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.4.0</span></center>
 
 ## El Qubit© Creador
 
@@ -1944,10 +1939,7 @@ _7.4.13_ » El <font color="#ffcc00">QubitŒ Egoico</font>, a través de sus arq
 _7.4.14_ » Esta sistema de procesamiento codificado de información binari, basado en la matriz holográfica que constituye el <font color="#e36c09">Qubit@ Ontogénico</font> primordial, el Nivel Fenomenológico y el Yo Egoico, evita que la entropía y la expansión del <font color="#fc300c">Qubit© Creador</font> evolucione y se expanda dentro del espacio interno del <font color="#e36c09">Qubit@ Ontogénico</font>, lo que generaría la desestabilización del Nous Activo.
 
 
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.5.0</span></center>
-
-## El Flujo Omega (Ω)
+## El Flujo Omega
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Lo Infinito del Macrocosmos</span></center>
 
@@ -1996,11 +1988,7 @@ _7.5.15_ » Estas diversas interpretaciones reflejan el efecto intrusivo que gen
 
 _7.5.16_ » Este último ejemplo, nos permite dejar en evidencia como es que el lenguaje y las palabras (como Onemuones), pueden ser considerados elementos lógicos derivados del flujo Omega, que permiten a la consciencia del Yo Egoico manifestar todos los aspectos negativos derivados del Demiurgo, ya que a través de la manipulación retórica, las falsas promesas, un prejuicio, una opinión infundada, la mentira, o incluso la incapacidad para comunicar correctamente las ideas, se puede llegar a generar conflictos y caos dentro del ámbito social y cultural de una civilización.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.6.0</span></center>
-
-## El Flujo Alfa (α)
+## El Flujo Alfa
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Lo Infinitesimal del Microcosmos</span></center>
 
@@ -2030,10 +2018,6 @@ _7.6.7_ » En la jerarquía de la consciencia, el <font color="#2f82ff">Flujo Al
 > ![[Qubit Egoico2.jpg|left|200]]En el nivel del <font color="#ffcc00"><font color="#ffcc00">QubitŒ Egoico</font></font> *(la consciencia humana)*, el <font color="#2f82ff">Flujo Alfa (α)</font> permite la emergencia de las *redes abstractas y nouménicas en la estructura cerebral*. Es el responsable de la capacidad de la ***consciencia de proyectar el futuro, de crear civilizaciones***, y, fundamentalmente, de ***alimentar el sentido subjetivo del libre albedrío***, permitiendo al **Yo Egoico** experimentar la toma de decisiones dentro de la *matriz lineal de causalidad*.
 
 _7.6.8_ » Esta *dualidad de flujos y niveles de consciencia* resuelve la clásica paradoja filosófica entre <font color="#fc300c">determinismo</font> y <font color="#2f82ff">libre albedrío</font>. Para el **Yo Egoico**, que avanza linealmente bajo la imposición del <font color="#fc300c">Flujo Omega</font>, *el libre albedrío es absoluto*. Sin embargo, en el mismo instante, una *Consciencia Prefenoménica* (<font color="#2f82ff">Ontológica</font> o <font color="#ffcc00">Monádica</font>) opera a través del <font color="#2f82ff">Flujo Alfa</font>, *capaz de recorrer la vida del Avatar de forma inversa* *(desde el futuro hacia el pasado)*. Esta ***consciencia superior***, *con conocimiento del destino potencial (la información cuántica del camino)*, puede manifestarse en la experiencia del Ego *(como otra persona, un evento o una idea)* para **guiar o influir en una decisión clave**. Así, *el Ego cree ejercer su libre albedrío al tomar una decisión*, mientras que **el resultado final es una síntesis predeterminada por la guía sutil de la Consciencia Prefenoménica** que opera en el multiverso no-lineal del <font color="#2f82ff">Flujo Alfa</font>.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.7.0</span></center>
 
 ## La Influencia del Noema
 
@@ -2074,10 +2058,6 @@ _7.7.10_ » En su sentido más amplio, el <font color="#2f82ff">Arquetipo 5@ (No
 > [!humano] NOEMA PERSONAL - _<font color="#ffcc00">QubitŒ Egoico</font> (Consciencia Individual)_
 > ![[04 - Noema Individual.png|left|90]]Representa la **realidad subjetiva que experimenta el Avatar a través de la consciencia del Yo Egoico**, que define *su identidad, y su capacidad de interactuar y coexisti*r con el resto de *los Avatares que forman parte de la sociedad*. Provee el input al ***Noema Primordial.***
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.8.0</span></center>
-
 ## El QubitŒ Egoico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Confluencia de Dos Realidades</span></center>
@@ -2104,10 +2084,6 @@ _7.8.10_ » El Yo Egoico representaría entonces un ***vacío informacional infi
 
 _7.8.11_ » Su existencia se ve afectada tanto por <font color="#2f82ff">lo infinitesimal</font> como por<font color="#fc300c"> lo infinito</font>. Esta coexistencia en la frontera entre lo <font color="#2f82ff">cuántico</font> y lo <font color="#fc300c">clásico</font> es lo que define la naturaleza dialéctica del <font color="#ffcc00">QubitŒ Egoico</font>, y lo que permite al ser humano *manifestar consciencia y experimentar la realidad del Universo Fenoménico.*
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.9.0</span></center>
-
 ## La Estructura Esférica del QubitŒ Egoico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Interacción de los Flujos Alfa y Omega</span></center>
@@ -2124,11 +2100,7 @@ _7.9.4_ » Esta *dimensión X*, a su vez, también puede ser considerado como un
 
 _7.9.5_ » Para comprender mejor esta compleja interacción de cualidades fractales que genera el <font color="#ffcc00">QubitŒ Egoico</font>, podemos recurrir a la analogía del átomo:
 
-> 1 - El <font color="#fc300c">Qubit Átomo</font> manifestado como una entidad singular de una <font color="#fc300c">Dimensión 1</font>, representaría un *<font color="#fc300c">nivel de iteración 1</font>* de la esfera del <font color="#ffcc00">QubitŒ Egoico</font>, constituyendo a su vez una *primera dimensión de información* que unifica la información  <font color="#2f82ff">Alfa (α)</font> y <font color="#fc300c">Omega (Ω)</font> que interactua en el  <font color="#e36c09">plano físico</font>. ![[Q Atomico.png]]
-> 2 - El <font color="#cb48f3">Núcleo</font> *del átomo*, como *centro de la esfera* *(con sus <font color="#2f82ff">neutrones</font> y <font color="#fc300c">protones</font>)*, representa el punto de convergencia entre el <font color="#2f82ff">Flujo Alfa</font> *(información de cualidades cuánticas que asciende desde lo infinitesimal y es codificada en forma de <font color="#2f82ff">Neutrones</font>)*, y el <font color="#fc300c">Flujo Omega</font> *(información de cualidades energéticas que desciende desde lo Infinito y se codifica en forma de <font color="#fc300c">Protones</font>)*, representando ***la singularidad*** que constituye la unión entre el <font color="#e36c09">Qubit@ Ontogénico</font> y <font color="#fc300c">Qubit© Creador</font>, y constituyendo una *<font color="#cb48f3">Dimensión 0</font> dentro del <font color="#fc300c">nivel de iteración 1 </font> (Átomos).* ![[Q Nucleo2.png]]
-> 3 - Los <font color="#00ff00">Electrones</font>, con las *múltiples orbitas que forman parte del átomo*, se manifiestan en múltiples capas *(siete como máximo)*, siguiendo diferentes patrones probabilísticos *(cualidades cuánticas)*, que permiten **sincronizar las fuerzas y relaciones generadas en los diferentes niveles de existencia superior** *(cualidades energéticas)*. El sistema complejo que constituyen los <font color="#00ff00">Electrones</font> puede ser interpretado como una ***tercera dimensión de información** aún más fundamental dentro del <font color="#fc300c">nivel 1 de iteración</font> (atómico)* <font color="#2f82ff">Dimensión -1</font>, que a su vez representa un *nivel de iteración inferior* al que llamaremos: ***nivel de iteración 0 (<font color="#2f82ff">cuántico</font>)***.![[Q Electron.png]]
-> 4 - La ***Realidad Manifestada*** en los *niveles de existencia superior al átomico*, que incluye a todas las *interacciones atómicas <font color="#e36c09">(iteración 2)</font>*, el universo *físico-químico <font color="#ffcc00">(iteración 3)</font>*, las *estructuras orgánicas* <font color="#00ff00">(iteración 4)</font>, *y el resto de dimensiones y planos de existencia que forman parte de la realidad percibida por los sentidos* *(que se extiende hasta la escala astronómica)*, representan la información que se plasma como una ***matriz holográfica*** sobre la superficie de la esfera del <font color="#e36c09">Qubit@ Ontogénico</font>. Es dentro de esta *matriz holográfica* donde emerge la estructura del <font color="#fc300c">Qubit© Creador</font>, que a su vez genera el *espacio de codificación vectorial* que contiene en su interior a la totalidad de los <font color="#ffcc00">QubitŒ Egoicos</font>, originados a partir del <font color="#fc300c">nivel de iteración 1</font> *(atómico),* así como a *todas la dimensiones que estos generan*, y a las *redes algoritmicas interdimensionales entrelazadas* que se producen a partir de la ***información nouménica y fenoménica que estos reflejan.***
-> 
+> 1 - El <font color="#fc300c">Qubit Átomo</font> manifestado como una entidad singular de una <font color="#fc300c">Dimensión 1</font>, representaría un *<font color="#fc300c">nivel de iteración 1</font>* de la esfera del <font color="#ffcc00">QubitŒ Egoico</font>, constituyendo a su vez una *primera dimensión de información* que unifica la información  <font color="#2f82ff">Alfa (α)</font> y <font color="#fc300c">Omega (Ω)</font> que interactua en el  <font color="#e36c09">plano físico</font>. ![[Q Atomico.png]]> 2 - El <font color="#cb48f3">Núcleo</font> *del átomo*, como *centro de la esfera* *(con sus <font color="#2f82ff">neutrones</font> y <font color="#fc300c">protones</font>)*, representa el punto de convergencia entre el <font color="#2f82ff">Flujo Alfa</font> *(información de cualidades cuánticas que asciende desde lo infinitesimal y es codificada en forma de <font color="#2f82ff">Neutrones</font>)*, y el <font color="#fc300c">Flujo Omega</font> *(información de cualidades energéticas que desciende desde lo Infinito y se codifica en forma de <font color="#fc300c">Protones</font>)*, representando ***la singularidad*** que constituye la unión entre el <font color="#e36c09">Qubit@ Ontogénico</font> y <font color="#fc300c">Qubit© Creador</font>, y constituyendo una *<font color="#cb48f3">Dimensión 0</font> dentro del <font color="#fc300c">nivel de iteración 1 </font> (Átomos).* ![[Q Nucleo2.png]] 3 - Los <font color="#00ff00">Electrones</font>, con las *múltiples orbitas que forman parte del átomo*, se manifiestan en múltiples capas *(siete como máximo)*, siguiendo diferentes patrones probabilísticos *(cualidades cuánticas)*, que permiten **sincronizar las fuerzas y relaciones generadas en los diferentes niveles de existencia superior** *(cualidades energéticas)*. El sistema complejo que constituyen los <font color="#00ff00">Electrones</font> puede ser interpretado como una ***tercera dimensión de información** aún más fundamental dentro del <font color="#fc300c">nivel 1 de iteración</font> (atómico)* <font color="#2f82ff">Dimensión -1</font>, que a su vez representa un *nivel de iteración inferior* al que llamaremos: ***nivel de iteración 0 (<font color="#2f82ff">cuántico</font>)***.![[Q Electron.png]] 4 - La ***Realidad Manifestada*** en los *niveles de existencia superior al átomico*, que incluye a todas las *interacciones atómicas <font color="#e36c09">(iteración 2)</font>*, el universo *físico-químico <font color="#ffcc00">(iteración 3)</font>*, las *estructuras orgánicas* <font color="#00ff00">(iteración 4)</font>, *y el resto de dimensiones y planos de existencia que forman parte de la realidad percibida por los sentidos* *(que se extiende hasta la escala astronómica)*, representan la información que se plasma como una ***matriz holográfica*** sobre la superficie de la esfera del <font color="#e36c09">Qubit@ Ontogénico</font>. Es dentro de esta *matriz holográfica* donde emerge la estructura del <font color="#fc300c">Qubit© Creador</font>, que a su vez genera el *espacio de codificación vectorial* que contiene en su interior a la totalidad de los <font color="#ffcc00">QubitŒ Egoicos</font>, originados a partir del <font color="#fc300c">nivel de iteración 1</font> *(atómico),* así como a *todas la dimensiones que estos generan*, y a las *redes algoritmicas interdimensionales entrelazadas* que se producen a partir de la ***información nouménica y fenoménica que estos reflejan.***
 > 5 - El <font color="#ffcc00">QubitŒ Egoico</font>, manifestado sobre esta *estructura del átomo* que actuaría como un ladrillo fundamental sobre el cual se construirían todos los niveles de existencia superiores, hace uso del sistema vectorial de procesamiento que constituyen los ***ArquetiposŒ Egoicos***, para sincronizar y unificar toda la información derivada de los flujos <font color="#2f82ff">Alfa</font> *(lo cuántico)* y <font color="#fc300c">Omega</font> *(lo energético)* dentro de la *única realidad físico-energética que manifesta el universo fenoménico*.
 
 _7.9.6_ » En base a esta analogía, podríamos llegar a entender como es que este holograma proyectado sobre la superficie del <font color="#e36c09">Qubit@ Ontogénico</font>, podría llegar a incluir a *toda la complejidad que constituye el universo fenoménico por encima del nivel Atómico*, sincronizando e interconectando el universo *cuántico* con el *clásico*, a través de los distintos *vectores arquetípicos del* <font color="#ffcc00">QubitŒ Egoico</font>. Un proceso que permitiría incluir a la ***matriz espacio-temporal, a las cuatro fuerzas fundamentales, el universo de la química, el mundo orgánico*** y cualquier otro aspecto de la existencia que desde la perspectiva del **Yo Egoico**, forme parte de la realidad fenoménica dentro de la cual existimos.
@@ -2139,59 +2111,59 @@ _7.9.8_ »Cada ***ArquetipoŒ Egoico***, por lo tanto, no es una entidad indepen
 
 _7.9.9_ » A continuación, exploraremos cada *ArquetipoŒ Egoico* en detalle, relacionándolo con su *Arquetipo Ontogénico* correspondiente y su función dentro de la geometría esférica del <font color="#ffcc00">QubitŒ Egoico</font>:
 
-### Arquetipo 1Œ - Centro (Kalilaumbri/Adonin)
+### Arquetipo 1Œ - Centro (Kalilaumbri / Adonin)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Punto de Singularidad</span></center>
 
-![[01 - KalilaumbriX.jpg]]
+![[01 - KalilaumbriX.jpg|700]]
 
 _7.9.10_ » Kalilaumbri, el centro de la esfera, representa el punto de convergencia de todas las líneas y la singularidad desde donde emana el flujo Alfa. Es el reflejo del Arquetipo 1@ (Nous/Adonin) en su aspecto más fundamental, la fuente primordial de la consciencia y la potencialidad existencial. Kalilaumbri, como centro de la esfera, es el punto de conexión con la totalidad del Nous, el lugar donde la información nouménica se origina y se distribuye hacia la superficie.
 
-### Arquetipo 2Œ - Radio (Adonaiu/Astaphaios)
+### Arquetipo 2Œ - Radio (Adonaiu / Astaphaios)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Puente entre lo Infinito y lo Infinitesimal</span></center>
 
-![[02 - Adonaiub.jpg]]
+![[02 - Adonaiub.jpg|700]]
 
 _7.9.11_ » Adonaiu, el radio de la esfera, representa la distancia entre el centro y cualquier punto de la superficie, estableciendo la escala de la esfera que define el nivel de iteración y la conexión entre el centro y la superficie, la vía por la cual fluye la información entre lo infinitesimal y lo infinito. Es el reflejo del Arquetipo 2@ (Logos Cósmico/Astaphaios) en su función de ordenar y conectar los diferentes aspectos de la realidad. Adonaiu, como radio de la esfera, es el puente que permite que la información fluya desde el centro hacia la superficie, desde la potencialidad pura hacia la manifestación concreta.
 
-### Arquetipo 3Œ - Cuerda (Yabel/Eloaios)
+### Arquetipo 3Œ - Cuerda (Yabel / Eloaios)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Conexión entre las Experiencias</span></center>
 
-![[03 - YabelC.jpg]]
+![[03 - YabelC.jpg|700]]
 
 _7.9.12_ » Yabel, la cuerda de la esfera, representa cualquier segmento que une dos puntos de la superficie, simbolizando la conexión entre diferentes aspectos de la experiencia y las relaciones entre las distintas manifestaciones del Flujo Omega. Es el reflejo del Arquetipo 3@ (Logos Individual/Eloaios) en su búsqueda de comprensión y conexión entre todos los elementos del Nous. Yabel, como cuerda de la esfera, es el vínculo que une las diferentes experiencias y perspectivas, creando una red de significados y relaciones.
 
-### Arquetipo 4Œ - Diámetro (Cain/IAO)
+### Arquetipo 4Œ - Diámetro (Cain / IAO)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Integración de la Polaridad</span></center>
 
-![[04 - CainB.jpg]]
+![[04 - CainB.jpg|700]]
 
 _7.9.13_ » Cain, el diámetro de la esfera, representa una cuerda que pasa por el centro, simbolizando la integración de la polaridad entre dos manifestaciones opuestas del Flujo Omega, y la conexión entre los flujos Alfa y Omega como reflejos de lo finito y lo infinito. Es el reflejo del Arquetipo 4@ (Noesis/IAO) en su función de pensar, comprender y conocer, integrando las diferentes perspectivas y polaridades, y conectando todas las iteraciones de manera secuencial en una única dimensión que refleja la totalidad. Cain, como diámetro de la esfera, es el eje que une los opuestos, permitiendo la integración de la dualidad en una totalidad coherente.
 
-### Arquetipo 5Œ - Eje (Harmas/Sabaoth)
+### Arquetipo 5Œ - Eje (Harmas / Sabaoth)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Dinámica del Cambio y el Equilibrio</span></center>
 
-![[05 - HarmasB.jpg]]
+![[05 - HarmasB.jpg|700]]
 
 _7.9.14_ » Harmas, el eje de la esfera, representa la línea sobre la que gira el semicírculo que genera la esfera que constituye cada <font color="#ffcc00">QubitŒ Egoico</font>, simbolizando el eje de rotación y la dinámica del cambio como punto de equilibrio entre las fuerzas centrípetas y centrífugas. Es el reflejo del Arquetipo 5@ (Noema/Sabaoth) en su función de establecer las leyes y principios que rigen el universo fenoménico. Harmas, como eje de la esfera, es el punto de referencia para el movimiento y la transformación, el lugar donde las fuerzas opuestas se encuentran y se equilibran.
 
-### Arquetipo 6Œ - Polos (Cain/Sabattaios)
+### Arquetipo 6Œ - Polos (Cain / Sabattaios)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Dualidad en Tensión</span></center>
 
-![[06 - AbelB.jpg]]
+![[06 - AbelB.jpg|700]]
 
 _7.9.15_ » Cain, los polos de la esfera, representan los dos puntos opuestos de la esfera donde el eje cruza la superficie, simbolizando la dualidad del Arquetipo 6@ que existe dentro de la esfera del <font color="#ffcc00">QubitŒ Egoico</font>, manifestando la tensión entre el Flujo Alfa y el Flujo Omega. Es el reflejo del Arquetipo 6@ (Demiurgo/Sabbataios) en su función de conectar los dos estados del Nous, el Pasivo y el Activo. Cain, como polos de la esfera, es el punto de máxima tensión y polarización que se codifica bajo vectores sobre la superficie holográfica del <font color="#e36c09">Qubit@ Ontogénico</font>, el lugar donde las fuerzas opuestas se encuentran en su máxima expresión bajo una matriz sincronizante que permite generar orden a partir del caos.
 
-### Arquetipo 7Œ - Esfera (Superficie) (Athot/Horaios)
+### Arquetipo 7Œ - Esfera (Superficie) (Athot / Horaios)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Síntesis de la Experiencia</span></center>
 
-![[07 - AthotB.jpg]]
+![[07 - AthotB.jpg|700]]
 
 _7.9.16_ » Athot, la esfera que representa cada iteración en su totalidad, representa la síntesis de todos los demás ArquetiposŒ y la reflexión holográfica del <font color="#fc300c">Qubit© Creador</font> sobre la esfera del <font color="#e36c09">Qubit@ Ontogénico</font>, como nuevo límite entre el Nous Activo y el Fenómeno. Es el reflejo del <font color="#ffa3ef">Arquetipo 7@ (Avatar/Horaios)</font> en su función de actuar como traductor entre lo nouménico y lo fenoménico, con el fin de establecer la extensión y los límites de las distintas iteraciones. Athot, como esfera que fragmenta totalidad en múltiples unidades singulares, es el lugar donde la experiencia se manifiesta y se integra, el punto de encuentro entre la individualidad y la totalidad.
 
@@ -2207,33 +2179,15 @@ _7.9.18_ » El flujo de información entre el centro y la superficie, se realiza
 
 _7.9.19_ » Esta diferencia de flujos entre el *centro (cuántico)* y la *superficie (energético)*, *refleja dos tipos de codificaciones diferentes del flujo fractal*, permitiendo que el <font color="#fc300c">Qubit© Creador</font> y el <font color="#e36c09">Qubit@ Ontogénico</font> reciban información desde el <font color="#ffcc00">QubitŒ Egoico</font> en su propio "idioma", alimentando de manera ordenada y coordinada la información vectorial que procesan los *siete Arquetipos del* <font color="#e36c09">Qubit@ Ontogénico</font>, y la *Consciencia Demiúrgica* que manifiesta el <font color="#fc300c">Qubit© Creador</font>.
 
-![[Arquema.jpg|600]]
+![[Arquema.jpg|700]]
 
 _7.9.20_ » Es importante recordar que los *siete ArquetiposŒ Egoicos* no son entidades separadas, sino *reflejos singulares de la totalidad que representa cada uno de los Arquetipos Ontogénicos con los que se encuentran asociados*, siendo manifestaciones lineales y fragmentadas de su potencialidad universal. 
 
 _7.9.21 » Cada *ArquetipoŒ Egoico*, por lo tanto, es un "canal" a través del cual *la información nouménica fluye desde su origen hacia la consciencia del Yo Egoico*, *influyendo activamente en el estado y la información que se procesa en cada iteración y nivel dimensional*, así como en la ***personalidad e identidad de cada Avatar***. La interacción entre estos tipos de *ArquetiposŒ*, a su vez, da origen a la *complejidad de la experiencia humana*, una experiencia que es a la vez individual y universal, única y compartida.
 
-
-
 ## Resumen Conceptual 
 
 ```media-slider
-
-sliderId: Demiurgo
-carouselShowThumbnails: true
-thumbnailPosition: bottom
-captionMode: overlay
-autoplay: false
-slideshowSpeed: 0
-width: 100%
-height: 380px
-transitionEffect: fade
-transitionDuration: 250
-enhancedView: true
-interactiveNotes: true
-compression: 0.8
-
-
 ![[Demiurgo01.jpg]]
 ![[Demiurgo02.jpg]]
 ![[Demiurgo03.jpg]]
@@ -2248,16 +2202,7 @@ compression: 0.8
 ![[Demiurgo12.jpg]]
 ````
 
-
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.0.0</span></center>
-
-# Capítulo 8
-
-## Arquetipo 7@ (Avatar)
+# 8. Arquetipo 7@ (Avatar / Horaios)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Traductor entre Lo Nouménico y Lo Fenoménico</span></center>
 
@@ -2299,13 +2244,9 @@ _8.0.15_ » El Arquetipo 7@ (Avatar/Horaios) al manifestarse dentro del <font co
 
 _8.0.16_ » Este aspecto del Arquetipo 7@, que alimenta la consciencia y el subconsciente de cada Avatar a través del Nivel Avatárico, existe más allá de los límites espacio-temporales que percibe el Yo Egoico individual, constituyendo en su totalidad un océano de información que define a la consciencia colectiva planetaria, en donde se incluye a todas las civilizaciones que puedan llegar a manifestarse dentro de un mismo <font color="#e36c09">Qubit@ Ontogénico</font>, y que resuena particularmente con la consciencia del Yo Egoico, en base a la información que alimenta el Noema Cultural y Personal de cada Avatar, según la época y lugar en el que le ha tocado existir.
 
+## El Avatar como Sincronizador
 
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.1.0</span></center>
-
-## El Avatar como Mediador entre el Demiurgo y el Yo Egoico
-
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Proceso Evolutivo Determinista</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Mediador entre el Demiurgo y el Yo Egoico</span></center>
 
 _8.1.1_ » El Arquetipo 7@ (Avatar/Horaios) juega un papel crucial como mediador en el conflicto inherente que se da entre la Consciencia Demiúrgica derivada del Flujo Omega, y el Yo Egoico, su reflejo fractal que forma parte de la Consciencia Avatárica derivada del flujo Alfa. El Demiurgo, con su perspectiva del infinito y su impulso por imponer su voluntad, representa un tipo de fuerza expansiva que manifiesta el Flujo Omega y que promueve la entropía. El Yo Egoico, por otro lado, con su perspectiva de lo infinitesimal y su conexión con la experiencia individual, representa un tipo de fuerza contractiva que manifiesta el Flujo Alfa, que busca revertir el proceso de entropía. El Arquetipo 7@ actúa como un puente que permite reconciliar estas dos fuerzas, unificando y sincronizando lo infinito y lo infinitesimal a través de la lógica que impone el <font color="#ffcc00">QubitŒ Egoico</font> y la matriz del Nivel de Emergencia Avatárico, permitiendo la manifestación de una realidad fenoménica coherente y estable.
 
@@ -2313,8 +2254,8 @@ _8.1.2_ » Además de su función estructural, el Arquetipo 7@ también intervie
 
 _8.1.3_ » El Arquetipo 7@ (Avatar/Horaios) al manifestar la matriz del Nivel Avatárico, tiene la capacidad de crear una base de información nouménica de conceptos y significados que es alimentada por la experiencia subjetiva que explora y experimenta cada avatar con su Consciencia Avatárica. Esta información proviene de dos fuentes principales:
 
-- **_Nivel Monádico_**: Incluye las experiencias exploradas dentro del multiverso Monádico, haciendo uso de los distintos subespacios de la matriz tetraédrica fractal y las distintas sombras arquetípicas. Esta realidad puede ser interpretada como una realidad similar al universo de los sueños que experimenta el ser humano, pero que a diferencia de este, donde las leyes fenoménicas y la coherencia lógica no son un impedimento limitante, opera bajo las mismas leyes fenomenológicas que el Universo Fenoménico, aunque bajo un entorno pre-fenoménico virtualizado que responde a los mismos limitantes y condicionamientos que impuestos por del Noema Primordial.
-- **_Nivel Fenomenológico_**: Incluye las experiencias que surgen dentro del único plano físico-energético que manifiesta el Universo Fenoménico, que al operar a través de un proceso de codificación y decodificación de vectores fenomenológicos da origen a una única realidad fenoménica coherente y estable, en concordancia con la información del Noema Primordial. Este proceso se basa en la traducción de la información nouménica, que existe en un estado de pura potencialidad al lenguaje del fenómeno, que se expresa a través de leyes físicas, constantes universales y estructuras que son sincronizadas a partir de la matriz espacio-temporal.
+> - **_Nivel Monádico_**: Incluye las experiencias exploradas dentro del multiverso Monádico, haciendo uso de los distintos subespacios de la matriz tetraédrica fractal y las distintas sombras arquetípicas. Esta realidad puede ser interpretada como una realidad similar al universo de los sueños que experimenta el ser humano, pero que a diferencia de este, donde las leyes fenoménicas y la coherencia lógica no son un impedimento limitante, opera bajo las mismas leyes fenomenológicas que el Universo Fenoménico, aunque bajo un entorno pre-fenoménico virtualizado que responde a los mismos limitantes y condicionamientos que impuestos por del Noema Primordial.
+> - **_Nivel Fenomenológico_**: Incluye las experiencias que surgen dentro del único plano físico-energético que manifiesta el Universo Fenoménico, que al operar a través de un proceso de codificación y decodificación de vectores fenomenológicos da origen a una única realidad fenoménica coherente y estable, en concordancia con la información del Noema Primordial. Este proceso se basa en la traducción de la información nouménica, que existe en un estado de pura potencialidad al lenguaje del fenómeno, que se expresa a través de leyes físicas, constantes universales y estructuras que son sincronizadas a partir de la matriz espacio-temporal.
 
 _8.1.4_ » La codificación que realiza el Arquetipo 7@ se centra en la información que fluye desde el <font color="#fc300c">Qubit© Creador</font> (Flujo Omega). Esta información, que representa la perspectiva del infinito e incluye a todas las posibilidades ilimitadas del Nous Pasivo, se traduce a un lenguaje que puede ser comprendido por el <font color="#e36c09">Qubit@ Ontogénico</font> y, por ende, por la consciencia individual. Esta traducción implica la conversión de la información nouménica en patrones de energía y materia que se ajustan a las leyes del universo fenoménico. El Arquetipo 7@, al ubicarse en la interfaz entre el <font color="#fc300c">Qubit© Creador</font> y el <font color="#e36c09">Qubit@ Ontogénico</font>, actúa como un "filtro" que modula la información del Flujo Omega, evitando que su inmensidad desestabilice la realidad fenoménica.
 
@@ -2332,10 +2273,6 @@ _8.1.10_ » El proceso evolutivo del Nous Activo, por lo tanto, puede ser entend
 
 _8.1.11_ » Esta idea no es nueva, ni exclusiva de la cosmovisión particular que refleja el Modelo Nouménico, sino que representa una reinterpretación actualizada de las ideas, simbologías y cosmovisiones de todas las civilizaciones que han existido a lo largo de la historia, donde siempre se contempla la idea de que pueda llegar a existir un ser humano iluminado, o una deidad que desciende al plano terrestre para guiar a la humanidad dentro de un modelo de civilización perfecta, que permite dejar atrás todos los aspectos negativos que convierten la experiencia humana en un proceso de lucha constante, lleno de angustia, ansiedad y sufrimiento, para crear una nueva era de oro, donde la escasez es reemplazada por la abundancia, el dolor por la felicidad, y la ansiedad por un estado de paz mental que puede llegar a extenderse eternamente.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.2.0</span></center>
-
 ## Nivel de Emergencia 6 (Avatárico)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Experiencia Subjetiva del Cosmos</span></center>
@@ -2348,14 +2285,9 @@ _8.2.3_ » Dentro de este contexto, la experiencia humana, la consciencia indivi
 
 _8.2.4_ » La palabra "Avatar" proviene del sánscrito avatāra, que significa "descenso" o "encarnación", refiriéndose originalmente a la encarnación de una deidad en forma humana o animal. En el hinduismo, se asocia principalmente con las encarnaciones de Vishnu. En un contexto más amplio, "Avatar" también se utiliza para describir una representación o manifestación de algo en una forma diferente. Desde la perspectiva del Modelo Nouménico, el término "Avatar" adquiere un significado aún más profundo: cada ser humano es un avatar, una manifestación individualizada del Logos Individual, que "desciende" o se manifiesta en el mundo fenoménico a través del <font color="#ffcc00">QubitŒ Egoico</font> para experimentar la realidad desde una perspectiva única. Es una encarnación de la consciencia unificada de los Arquetipo@ autoconscientes: 1@ (Nous/Adonin), 3@ (Logos Individual/Eloaios) y 6@ (Demiurgo/Sabbataios) que genera el Arquetipo 7@ (Avatar/Horaios), en un contexto espacio-temporal específico, con un punto de vista único dentro del vasto holograma cósmico.
 
+## La Manifestación del Universo Fenoménico
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.3.0</span></center>
-
-## La Decodificación Nouménica del Nivel Avatárico
-
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Manifestación del Universo Fenoménico</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Decodificación Nouménica del Nivel Avatárico</span></center>
 
 _8.3.1_ » La información que reside en la matriz lógica del Nivel Avatárico, organiza y estructura la transmutación de los flujos nouménicos en las estructuras físicas y energéticas que se manifiestan dentro del Universo Fenoménico. Este proceso no es un simple acto de materialización, sino un complejo proceso de codificación y decodificación de información consciente que se despliega a través de la interpretación que hace de la realidad la consciencia subjetiva del Yo Egoico. Este Yo Egoico, un constructo complejo y multifacético, se encuentra codificado en el Nivel Fenomenológico, el escenario donde se proyecta la realidad que percibimos.
 
@@ -2384,11 +2316,6 @@ _8.3.12_ » Esta visión de la realidad fenoménica, como una decodificación cu
 > <span style="font-size: 18px; font-style: italic;">¿Dónde existen esta particulas desde la perspectiva de la física clásica?, y por qué el electrón existe en una nube probabilística en lugar de seguir un patrón rectilíneo ¿Responde el electrón a los vectores del Nivel Fenomenológico?</span>
 > <span style="font-size: 18px; font-style: italic;"> Estos fenómenos, que desafían las leyes de la física clásica, encuentran su explicación en la naturaleza cuántica de la realidad, en la interacción de patrones de información y consciencia que trascienden las limitaciones del espacio-tiempo.</span>
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.4.0</span></center>
-
 ## Coherencia y Estabilidad
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Interacción entre Niveles</span></center>
@@ -2409,14 +2336,9 @@ _8.4.7_ » El Nivel Avatárico, por otro lado, utiliza la consciencia subjetiva 
 
 _8.4.8_ » Esta creencia y esta interpretación de la realidad por parte del Avatar no son arbitrarias o aleatorias, sino que están influenciadas por la información almacenada en su matriz avatárica y por los patrones culturales y sociales que ha internalizado. Esta información y estos patrones actúan como filtros y marcos de referencia, moldeando la percepción y la interpretación de la realidad por parte del Avatar. En última instancia, la coherencia y la estabilidad del universo fenoménico dependen de la interacción y la cooperación entre los tres niveles de emergencia. Cada nivel aporta su propia perspectiva y su propia capacidad de corrección, asegurando que la realidad que experimentamos sea consistente, significativa y evolutiva.
 
+## Un Holograma Dinámico y Subjetivo
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.5.0</span></center>
-
-## La Manifestación de la Consciencia dentro del Nivel Avatárico
-
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Holograma Dinámico y Subjetivo</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Manifestación de la Consciencia dentro del Nivel Avatárico</span></center>
 
 _8.5.1_ » La consciencia individual del Avatar está limitada a experimentar la corporalidad física y energética en base a la decodificación de realidad que ocurre dentro del Nivel Fenomenológico, que se manifiesta holográficamente en la superficie de la esfera del <font color="#ffcc00">QubitŒ Egoico</font> encargado de manifestar su organismo. En esta superficie residen las leyes y condicionamientos derivados del Noema Primordial (Arquetipo 5@/Sabaoth) y del Flujo Omega (Ω), que fluye a través del Demiurgo (Arquetipo 6@/Sabbataios) que reside dentro del Nous Pasivo, como un reflejo del macrocosmos.
 
@@ -2450,14 +2372,9 @@ _8.5.15_ » Los resultados civilizatorios alcanzados por la consciencia colectiv
 
 _8.5.16_ » La Consciencia Demiúrgica se manifiesta, en última instancia, como el arquitecto de la última realidad del Universo Fenoménico, definiendo los flujos de información nouménica que se integran y definen al Noema Primordial, y teniendo a su vez la capacidad de influir en la modulación de los vectores del Nivel de Emergencia Fenomenológico que definen la realidad experimentada por cada Avatar dentro del Universo Fenoménico, convirtiéndose así en una manifestación evolucionada de la Consciencia del Nous Pasivo, que puede definir el rumbo que seguirá el Nous Arquetípico a lo largo de su proceso evolutivo.
 
+## La Multiplicidad Dentro de la Unidad
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.6.0</span></center>
-
-## Los Avatares como Reflejo Fractal del Logos Individual
-
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Multiplicidad Dentro de la Unidad</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Los Avatares como Reflejo Fractal del Logos Individual</span></center>
 
 _8.6.1_ » Uno de los conceptos más profundos del Modelo Nouménico, y quizás uno de los más relevantes para la comprensión de la condición humana, es la idea de que la consciencia singular humana es una manifestación individualizada del Logos Individual (Arquetipo 3@) derivado del Nivel Monádico. Esta afirmación, a primera vista abstracta, encierra una verdad fundamental: todos los seres humanos, a pesar de nuestras aparentes diferencias, compartimos un origen común en una consciencia primordial.
 
@@ -2477,11 +2394,6 @@ _8.6.8_ » Esta idea es crucial para comprender la naturaleza profunda de la con
 
 _8.6.9_ » Esta comprensión nos permite trascender las diferencias superficiales que a menudo nos dividen. Al reconocer que todos somos reflejos del mismo Logos, podemos comprender que las diferencias culturales, de género y raciales son simplemente diferentes facetas de una misma realidad. No somos entidades separadas, sino partes interconectadas de un todo mayor.
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.7.0</span></center>
-
 ## El Avatar y la Relatividad Temporal
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Una Perspectiva Fractal</span></center>
@@ -2500,13 +2412,9 @@ _8.7.6_ » Esta idea se refuerza al considerar el origen de la Consciencia Avat�
 
 _8.7.7_ » Esta conexión entre la consciencia subjetiva que manifiesta el Yo Egoico de un Avatar y el Demiurgo, combinada con las evidencias científicas que reconocen la relatividad del tiempo, nos permitiría llegar a comprender como es que cada experiencia individual, aunque relativa a un flujo temporal específico, contribuiría a la experiencia total del Logos Individual. Cada Avatar, al experimentar una porción única del holograma cósmico, enriquece la comprensión del Logos sobre sí mismo. Cada interacción entre Avatares, independientemente de su posición en el tiempo lineal, es una interacción entre diferentes aspectos del mismo Logos, enriqueciendo la experiencia total.
 
+## El Sistema de Interconexión Nouménica
 
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.8.0</span></center>
-
-## La Conexión entre la Consciencia Dialéctica y el Universo Fenoménico
-
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Sistema de Interconexión Nouménica</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Conexión entre la Consciencia Dialéctica y el Universo Fenoménico</span></center>
 
 _8.8.1_ » La Consciencia Dialéctica, que emerge en el Nivel Monádico como una herramienta de exploración del Nous Activo, no se desvanece con la emergencia del Nivel Avatárico. Por el contrario, se infiltra en el tejido mismo del universo fenoménico, adaptándose a sus leyes y dinámicas, y manifestándose de dos formas distintas: la dialéctica axiomática y la dialéctica inteligente.
 
@@ -2521,10 +2429,6 @@ _8.8.5_ » Las ideas, las creencias y los valores que compartimos como sociedad 
 _8.8.6_ » Sin embargo, la dialéctica inteligente también puede ser utilizada de manera negativa, similar a los efectos que genera la dialéctica axiomática. Los avatares, al aprender a usar el lenguaje para manipular y obtener beneficios propios, pueden crear sistemas de sociedad, ideologías y otros sistemas que afectan la cosmovisión, a partir de la dialéctica inteligente usada con fines de supremacía. Los noemas culturales, construidos sobre la base de la dialéctica inteligente, pueden generar divisiones, conflictos y desigualdades, perpetuando ciclos de violencia y opresión.
 
 _8.8.7_ » Es importante destacar que la Consciencia Dialéctica en el Nivel Avatárico no opera de forma aislada. Sigue estando conectada a los niveles superiores de consciencia, recibiendo información del Noúmeno y del Nous Activo. Esta conexión asegura que la evolución del universo fenoménico esté alineada con el propósito evolutivo del Nous, aunque con la libertad que le confiere la dinámica propia del plano fenoménico y social. De esta manera, la Consciencia Dialéctica continúa desempeñando un papel fundamental en la evolución del Noúmeno, incluso en su manifestación más concreta dentro del mundo fenoménico.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.9.0</span></center>
 
 ## El Entramado Fenomenológico
 
@@ -2554,11 +2458,6 @@ _8.9.11_ » Este "camino" único de información nouménica permite el uso simul
 
 _8.9.12_ » Esta perspectiva, propuesta por el Modelo Nouménico, revoluciona nuestra comprensión de la coexistencia. Desde el Nivel Fenomenológico, la experiencia del Yo Egoico explica la coexistencia de cualidades bosónicas que refleja el Logos Individual, codificado y fractalizado en múltiples Avatares. Por lo que desde esta perspectiva de la existencia, los humanos no son entidades aisladas compitiendo por un espacio limitado, sino expresiones únicas de una misma consciencia, coexistiendo en armonía dentro de un espacio virtual compartido, conformado por la estructura vectorial del Nivel Fenomenológico, y la sofisticada arquitectura arquetípica de los Qubits. Esta coexistencia, a su vez, permite la interacción entre los diferentes avatares, generando nuevas líneas de información nouménica que pueden integrarse al Noema Primordial como parte de la consciencia colectiva planetaria, y que influyen en el destino evolutivo del Nous.
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">8.10.0</span></center>
-
 ## El Nivel de Consciencia Suprahumano
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Los Arquetipos Universales que Participan de la Experiencia Humana</span></center>
@@ -2575,16 +2474,9 @@ _8.10.5_ » La matriz vectorial del Nivel Fenomenológico, en este contexto, se 
 
 _8.10.6_ » La generación de un Noema Primordial optimizado, donde diversas civilizaciones que coexisten dentro de una misma región o época especifica puedan llegar a convivir en armonía, puede ser considerado como uno de los principales objetivos evolutivos del Nous. Este Noema debería permitir que todos los Avatares que participan del proceso expansivo del Nous puedan llegar a convivir bajo un mismo sistema civilizatorio justo y equilibrado, que permita a cada Avatar experimentar una existencia óptima y enriquecedora, evitando experiencias de sufrimiento, escasez, sometimiento o cualquier otro aspecto negativo que la civilización humana ya haya experimentado a lo largo de su historia. Este cambio implicar dejar atrás todos aquellos aspectos negativos y paradójicos que derivan en conflictos y enfrentamientos, pero sin dejar de lado los avances modernos que la humanidad ha llegado a alcanzar, que permiten crear una civilización global moderna, tecnológica e informatizada, que le ofrece a cada Avatar la potencialidad de ser parte de una consciencia colectiva planetaria unificada que existe bajo una única cosmovisión, que promueva la autosuperación, la convivencia y la evolución del ser.
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.0.0</span></center>
-
-# Capítulo 9
+# 9. Nivel de Emergencia Interpretativo
 
 <center><span style="font-size: 75px; font-weight: 300 ;line-height: 80px">♝</span></center>
-
-## Nivel de Emergencia Interpretativo
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Génesis de la Cultura y el Significado</span></center>
 
@@ -2603,10 +2495,6 @@ _9.0.5_ » Todos estos aspectos, que forman parte del proceso evolutivo y las ex
 _9.0.6_ » Así, a medida que la humanidad evoluciona bajo el sistema causal que representa la coexistencia social avatárica dentro de una misma región y época dentro del planeta, se desarrollan sistemas de comunicación cada vez más complejos que expanden y complejizan las redes lógicas de información y significado del Nivel Avatárico. La Consciencia Avatárica, generada junto a la emergencia del Nivel Avatárico, refleja inicialmente un estado de ignorancia total, que se opone al estado de conocimiento infinito que representa la Consciencia Demiúrgica, permitiéndole iniciar el proceso exploratorio de las estructuras lógicas que se generan dentro de los diferentes niveles del Nous Activo, limitándose a los condicionamientos impuestos por el Noema Primordial, para intentar llegar a un nivel de comprensión total de la realidad que se manifiesta dentro de los límites del Nous Activo, evitando las consecuencias caóticas y entrópicas que representa las potencialidades que contempla el Nous Pasivo.
 
 _9.0.7_ » El Nivel Avatárico representa un océano de información nouménica que se manifiesta como subconsciente colectivo codificado dentro del Arquetipo 7@ (Avatar/Horaios), que alimenta la consciencia subjetiva de cada Avatar, permitiendo al Yo Egóico procesar la información nouménica, interpretarla y manifestarla dentro de complejo sistema que conforman los Qubits Egóicos como una realidad experimentable.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.1.0</span></center>
 
 ## La Emergencia del Significado
 
@@ -2627,11 +2515,6 @@ _9.1.5_ » Esta historia bíblica, más que una narración histórica, debe ser 
 _9.1.6_ » Al reinterpretar esta historia bajo la cosmovisión holística del Modelo Nouménico, podremos encontrar en ella un patrón de información arquetípica y simbólica oculta que profetiza el efecto caótico y entrópico que se genera dentro de una civilización, cuando el Noema Primordial, que asegura la coherencia y estabilidad del plano de existencia avatárico, se ve reemplazado por una civilización regida por los Noemas Personales y Culturales, donde el poder de manifestación de la realidad que representa cada Yo Egóico entra en constante conflicto con otros Yo Egóicos, dando inicio a una etapa de enfrentamiento entre grupos sociales, en donde múltiples Avatares se unen entre sí en base a una serie de principios y valores mínimos en común, para intentar imponer la realidad colectiva que beneficia los intereses de su grupo por encima de la realidad que intenta imponer el grupo enemigo.
 
 _9.1.6_ » La estructura subyacente de la trama que desarrolla la historia de la Torre de Babel, puede verse reflejada de manera evidente en la realidad que experimenta el mundo actualmente, aunque complejizada por el surgimiento de los estereotipos, las ideologías, la tecnología y las naciones. En este nuevo remake de la historia de la Torre de Babel del cual todos somos parte, el poder enceguecedor de Nimrod ahora se manifiesta en la actitud subjetiva que impone el Yo Egoico de cada persona, y la confusión de las lenguas ya no se limita al lenguaje hablado, sino a la comprensión que cada Avatar puede llegar a tener de la realidad.
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.2.0</span></center>
 
 ## Lenguaje y Simbolismo
 
@@ -2687,10 +2570,6 @@ _9.2.7_ » Estos sistemas de creencias, aunque diferentes en su contenido y en s
 
 _9.2.8_ » Estos sistemas de pensamiento pueden ser considerados como puentes entre el universo mental humano (Nivel Interpretativo) y el universo simbólico y arquetípico que constituye la consciencia colectiva del Arquetipo 7@ (Nivel Avatárico). Los arquetipos, como patrones universales de información, se manifiestan en el Nivel Interpretativo a través de las cosmovisiones, paradigmas y Noemas Culturales que alimentan la consciencia subjetiva del Yo Egóico de los Avatares, dando forma a las ideas, creencias y valores que guían el comportamiento humano.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.3.0</span></center>
-
 ## La Interpretación
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Proceso dialéctico con Influencia del Demiurgo</span></center>
@@ -2729,10 +2608,6 @@ _9.3.16_ » Estos conflictos servirán de excusa a los líderes más ambiciosos 
 
 _9.3.17_ » Esta interpretación de la cultura, no solo debe aplicarse a las civilizaciones del pasado, sino que también debería ser aplicado a las civilizaciones modernas, donde los textos que alimentan el contexto cultural, pueden incluir a su vez, distintas filosofías, ideologías o modelos científicos, que buscarán hacer uso del aspecto empírico que se deriva del método científico y los análisis estadísticos y probabilísticos, para fundamentar sus acciones e intentar imponer su voluntad por cualquier medio que sea posible, buscando siempre someter y silenciar a su opositores para poder manifestar la realidad que interpreta la consciencia subjetiva de su Yo Egoico.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.4.0</span></center>
-
 ## La Consciencia Egregórica
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Campo de Energía Psíquica Colectiva</span></center>
@@ -2750,10 +2625,6 @@ _9.4.5_ » Estos flujos de información nouménica son los encargados de manifes
 _9.4.6_ » La energía psíquica que representa la Consciencia Egregórica puede ser considerada como un tipo de flujo nouménico que genera dentro en la matriz energética una especie de resonancia vectorial de origen magnético, que se genera a partir de la actividad mental que manifiesta el Yo Egoico de un Avatar, convirtiéndose en un tipo de energía codificada a través de las emociones, los pensamientos y las intenciones, que puede influir en los valores vectoriales de los Qubits que entran en juego dentro del Nivel Fenomenológico.
 
 _9.4.7_ » Estos flujos de información nouménica permiten promover y coordinar la manifestación de eventos y situaciones que surgen dentro del plano causal humano, teniendo mayor poder de manifestación cuando estas energías psíquicas son expresadas de forma simultánea por un elevado número de Avatares coexistiendo en una misma época y región dentro del Universo Fenoménico.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.5.0</span></center>
 
 ## Los Egregores
 
@@ -2784,10 +2655,6 @@ _9.5.11_ » Estas práctica ritualistas, que son llevadas a cabo tanto en el ord
 _9.5.12_ » Todo egregor, al manipular las emociones y los pensamientos que se procesan a través del Yo Egoico, puede crear una falsa ilusión de unidad y propósito, ocultando sus verdaderas intenciones y perpetuando sistemas de opresión y desigualdad, llevando incluso a los Avatares a actuar en contra de sus propios intereses, sacrificando su libertad y su felicidad en favor de un ideal colectivo inalcanzable que solo beneficia al egregor mismo.
 
 _9.5.13_ » Los egregores, como entidades fenomenológicas que promueven la entropía dentro del Nous Activo a partir de su búsqueda exploratoria de probabilidades, y la necesidad de maximizar su poder para asegurar su propia supervivencia, pueden distorsionar la consciencia individual y colectiva derivando en conflictos y divisiones dentro de la sociedad, que iniciarán manifestándose como simples protestas o reclamos sociales, pero que pueden terminar escalando en guerras civiles o revoluciones dentro del orden local de una nación, o en conflictos internacionales y guerras mundiales, cuando las divisiones se expanden al ámbito global.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.6.0</span></center>
 
 ## La Evolución de Los Egregores
 
@@ -2821,11 +2688,7 @@ _9.6.12_ » Esta perspectiva de la existencia, que no sintoniza del todo con la 
 
 _9.6.13_ » Dentro de esta red egregórica que da forma a la realidad mundo, la consciencia subjetiva de cada Avatar tiende a terminar aceptando como principal filosofía de vida al existencialismo, un sistema ideológico que fuerza al Yo Egoico a vivir el presente enfocado en generar riquezas, obtener placeres y ser parte de la sociedad de consumo, con el fin de evitar pensar en el paso del tiempo o poder llegar a entender la verdadera realidad oculta que define el destino del mundo.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.7.0</span></center>
-
-## La Influencia Egregórica dentro de la Sociedad
+## La Influencia Egregórica en la Sociedad
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Poder Invisible que Moldea al Mundo</span></center>
 
@@ -2844,11 +2707,7 @@ _9.7.3_ » Los arquetipos universales, como patrones de información que resuena
 
 _9.7.4_ » Por otro lado, los arquetipos, en su esencia más pura, pueden ser una fuente de sabiduría y conocimiento, ofreciendo a los Avatares una comprensión más profunda de la naturaleza humana y el universo. Sin embargo, estos patrones pueden ser "capturados" por los egregores y utilizados para reforzar sus objetivos, distorsionando su significado original, siendo el efecto más común de los egregores, el que permite perpetuar sistemas de opresión y desigualdad, utilizando su poder para mantener el statu quo y evitar cualquier cambio que pueda amenazar su existencia.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.8.0</span></center>
-
-## El Noema Cultural como Estructura Egregórica
+## La Estructura Egregórica del Noema Cultural
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Conjunto de Significados Compartidos en Constante Evolución</span></center>
 
@@ -2874,14 +2733,9 @@ _9.8.6_ » Los estereotipos son generalizaciones rígidas y simplistas que se ha
 
 _9.8.6_ » Los estereotipos, a diferencia de los arquetipos que representan patrones universales de información, son construcciones sociales que surgen de la necesidad de simplificar la realidad y de categorizar a las personas en grupos homogéneos, para permitir que aquellas personas que representan mejor a la cultura regente dentro de la sociedad, tengan mayores privilegios que los que reflejan menos valores, o actitudes más perjudiciales. La Consciencia Egregórica al alimentarse de la energía psíquica de los individuos, refuerza los estereotipos, utilizándolos como herramientas de división, manipulación y control dentro de la sociedad. Los estereotipos, por lo tanto, no son simplemente ideas falsas sobre los demás, sino instrumentos de poder fenomenológicos que perpetúan la discriminación y la injusticia.
 
+## Un Reflejo Distorsionado de la Realidad
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.9.0</span></center>
-
-## La Danza entre Los Arquetipos y los Estereotipos
-
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Reflejo Distorsionado de la Realidad</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Danza entre Los Arquetipos y los Estereotipos</span></center>
 
 _9.9.1_ » La interacción entre arquetipos universales y estereotipos es un claro ejemplo de cómo el Nivel Interpretativo puede dar lugar a representaciones distorsionadas de la realidad. Los arquetipos, como hemos mencionado, son patrones universales de información que impactan directamente en el Yo Egoico y resuenan con ciertas experiencias y emociones que se limitan a estructurar la psicología interna del Avatar. Sin embargo, estos patrones psicológicos internos, al reflejarse activamente dentro del ámbito social, pueden ser simplificados y reducidos a categorías rígidas y homogéneas dentro de una sociedad, permitiendo detectar las diferencias culturales y los valores que reflejan los distintos grupos sociales que conviven dentro de una misma civilización.
 
@@ -2892,10 +2746,6 @@ _9.9.3_ » La Consciencia Egregórica, al alimentarse de la energía psíquica d
 _9.9.4_ » Por ejemplo, un Egregor Nacionalista puede utilizar estereotipos negativos sobre ciertos grupos étnicos o nacionales para fomentar el odio y la xenofobia, justificando así políticas discriminatorias o incluso actos de violencia. Mientras que el Egregor Religioso puede utilizar la figura estereotípica del “hereje”, para perseguir a todas aquellas personas que no se ajustan a los dogmas que intenta imponer su sistema de creencias, para perseguirlos y llevarlos a la muerte, usando incluso el método de tortura para forzarlo previamente a reconocer la existencia y supremacía de la deidad que alimenta el espíritu egregórico de la religión.
 
 _9.9.5_ » Es importante destacar que la interacción entre arquetipos y estereotipos no es unidireccional. Los arquetipos, en su esencia más pura, pueden ser una fuente de sabiduría y conocimiento, ofreciendo a los Avatares una comprensión más profunda de la naturaleza humana y el universo. Sin embargo, cuando los arquetipos son simplificados y reducidos a estereotipos, su significado original se distorsiona, dando lugar a representaciones erróneas y perjudiciales de la realidad. Por lo tanto, es fundamental desarrollar la capacidad de pensar críticamente y cuestionar los estereotipos que se nos presentan, reconociendo la riqueza y la complejidad de la experiencia humana y evitando caer en generalizaciones simplistas y discriminatorias. Pero sobre todo, es importante llegar a reconocer aquellos aspectos estereotípicos que nosotros mismos reflejamos con nuestra propia identidad dentro de la sociedad, para intentar dejar atrás las actitudes y costumbres que potencian la Consciencia Egregórica de cada sistema cultural, y poder así llegar a convivir en paz con el resto de los avatares que forman parte de la civilización.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.10.0</span></center>
 
 ## La Paradoja de los Estereotipos
 
@@ -2924,13 +2774,9 @@ _9.10.9_ » A pesar de que estos aspectos han sido, a lo largo de la historia hu
 
 _9.10.10_ » Este segundo tipo de estereotipación, aunque inicialmente no derivado de un vicio social como en el primer caso, deriva en la coexistencia de múltiples grupos sociales, que no solo incluyen características fenotípicas y genéticas distintivas, sino que principalmente se constituyen a partir de la multiplicidad de aspectos culturales y sociales que surgen dentro de una civilización. Esta multiplicidad cultural a su vez, puede terminar siendo el origen de nuevo tipos de vicios sociales, y el principal origen de los grandes cambios que refleja la dinámica evolutiva de las sociedades modernas, llegando incluso a generar efectos aún mucho más profundos que el primer tipo de estereotipos.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.11.0</span></center>
-
 ## Estereotipos Discriminatorios
 
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La lógica del Flujo Omega Que Busca la Regulación de Recursos</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La lógica del Flujo Omega que Busca la Regulación de Recursos</span></center>
 
 _9.11.1_ » Dentro del primer nivel estereotípico, podemos mencionar a los estereotipos discriminatorios, que pueden ser entendidos como un sistema lógico de regulación que forma parte de un tipo de información nouménica que se deriva del Flujo Omega (asociado con la energía), y que puede ser detectado ya desde los inicios de la existencia de la humanidad. Este flujo energético permite que un solo Avatar, habitualmente el más fuerte, más violento o con menor respeto por la vida, pueda imponer el orden social a través de la fuerza bruta o la amenaza, sometiendo al resto de los miembros del grupo que, desde su perspectiva, serían vistos como más débiles o menos inteligentes que él, y que pueden llegar a representar un riesgo para la comunidad al hacer mal uso de los recursos, o generando una planificación ineficiente.
 
@@ -2943,10 +2789,6 @@ _9.11.4_ » Este sistema de poder y elitismo, desarrollado a lo largo de los sig
 _9.11.5_ » Este tipo de energía egregórica que promueve la división social y la discriminación, puede verse reflejada a lo largo de la historia en todas las civilizaciones del mundo, que a través de sistemas monárquicos y aristocráticos, permitieron separar al pueblo en distintos grupos sociales con diferentes niveles de accesos a recursos y privilegios. Ya en el pasado, a medida que una población comenzaba a crecer, los grupos dominantes tendían a hacer uso del sistema de estereotipación para potenciar el sistema de clasificación social, buscando reflejar preferencialmente los aspectos negativos de un grupo de personas que podrían derivar en situaciones conflictivas que desestabilicen el orden social y que pusieran en riesgo el estatus quo impuesto por el grupo de elite dominante.
 
 _9.11.6_ » Este mismo proceso de estereotipación discriminatoria, enfocado en los aspectos positivos que reflejaba un individuo o grupo de personas, también le permitiría a la elite dominante recurrir a un proceso selectivo basado en el mérito, para compartir los recursos y beneficios obtenidos por la comunidad, solo con aquellos miembros del grupo que pudieran generar nuevos beneficios para la elite dominante, siempre que estuvieran dispuestos a prometer su lealtad y validar las condiciones de poder y supremacía que regían sobre el resto de la población.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.12.0</span></center>
 
 ## Estereotipos Colectivos
 
@@ -2972,13 +2814,9 @@ _9.12.9_ » Este tipo de dialéctica, que es propia de la energía psíquica que
 
 _9.12.10_ » Por lo que desde esta perspectiva los grupos minoritarios, al igual que los grupos dominantes, a pesar de encontrarse en desigualdad de condiciones ante las normas culturales que definen el estatus quo y que son aceptadas de manera mayoritaria por el resto de la sociedad, pueden caer en la trampa de la dialéctica axiomática demiúrgica y hacer uso de los estereotipos y generalizaciones para defender sus propios intereses, atacando a aquellos que no comparten su Noema Cultural, haciendo uso de la actitud victimizante y aprovechando la posibilidad de tomar una posición a la defensiva como estrategia de ataque al sistema. Esta actitud, lejos de resolver los conflictos sociales, los agrava y los perpetúa promoviendo activamente la división y el enfrentamiento dentro de la sociedad.
 
+## Un Juego de Poder Perpetuo
 
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">9.13.0</span></center>
-
-## La Dinámica entre la Elite y los Grupos Minoritarios
-
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Juego de Poder Perpetuo</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Dinámica entre la Elite y los Grupos Minoritarios</span></center>
 
 _9.13.1_ » La interacción entre los Grupos de Élite, derivados del Flujo Omega que existe en la cima de la pirámide del poder, y los Grupos Colectivos Minoritarios, derivados del Flujo Alfa que se construye desde la base, es un claro ejemplo de cómo la Consciencia Egregórica atrapa a ambos extremos en un juego de poder perpetuo que puede llegar a tener consecuencias nefastas para una civilización, ya que ambos flujos, a pesar de derivarse de extremos opuestos, comparten un interés común: la búsqueda de poder y la imposición de su visión del mundo cueste lo que cueste.
 
