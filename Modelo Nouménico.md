@@ -1192,10 +1192,6 @@ _5.1.1_ » En el Nivel de Emergencia Ontológico, dos Onemuones concretos, que r
 > 
 > En el contexto ontológico, este arquetipo representa la síntesis que surge de la interacción entre la Dualidad y la Trinidad. Para facilitar la comprensión y generar una imagen mental del proceso evolutivo de este Arquetipo dentro del modelo del tetraedro, imaginemos esta cara como una figura triangular que se expande y evoluciona desde su vértice hacia la base del tetraedro a medida que se da la interacción entre los Arquetipos <font color="#00ff00">1<sup>✱</sup></font> y <font color="#2f82ff">2<sup>✱</sup></font>, simbolizando la creciente complejidad de información procesada que derivará en la manifestación de la Unidad que dará origen a la emergencia de la Consciencia Unificada de segundo nivel que constituye el Nous Activo.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.2.0</span></center>
-
 ## La Consciencia Arquetípica (Nivel 1)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen del Universo</span></center>
@@ -1208,10 +1204,6 @@ _5.2.2_ » La función primordial del Arquetipo <font color="#fc300c">3<sup>✱<
 _5.2.3_ » El Arquetipo 2@ representa un Onemuón crucial, ya que introduce un sistema de leyes geométricas dentro del Nous Activo, que permiten la manifestación del tercer nivel de emergencia: el Nivel Monádico. Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sincronizaciones, donde se manifestará la Conciencia Dialéctica, la cual, a su vez, permitirá conectar y retroalimentar a la Conciencia Ontogénica del Nivel Ontogénico con la Conciencia Arquetípica del Nivel Ontológico.
 
 _5.2.4_ » Es crucial entender la interrelación entre el "Nivel de Emergencia" y la "Conciencia del Nivel". El Nivel de Emergencia actúa como una matriz que define el "hardware", imponiendo limitaciones y condicionamientos a la conciencia que se manifiesta dentro de él. Sin embargo, es la Conciencia del Nivel la que, a su vez, define el "Nivel Dimensional de Conciencia", estableciendo una dualidad inherente a cada estrato de la realidad. La Conciencia Arquetípica, por lo tanto, no solo emerge del Nivel de Emergencia Ontológico, sino que también lo define, estableciendo las bases para el surgimiento de niveles de Emergencia y de Conciencia más complejos.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.3.0</span></center>
 
 ## Nivel de Emergencia 2 (Ontogénico)
 
@@ -1228,10 +1220,6 @@ _5.3.4_ » Esto permite a los tres Arquetipos del Nivel Ontológico, interpretar
 
 _5.3.5_ » Así, cada uno de los Qubits@, con sus lógicas internas codificadas a través de arquetipos@ y vectores, permite la existencia de un número infinito de posibles configuraciones, que a su vez constituyen la matriz de información Nouménica que permite la expansión del Nous Activo y la emergencia de nuevos Onemuones dentro de la infinitud manifestada del Nous Pasivo.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.4.0</span></center>
-
 ## Relatividad Vectorial del Qubit@
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Una Dimensión de Información Virtual Dentro del Nous Activo</span></center>
@@ -1242,10 +1230,6 @@ _5.4.1_ » El Nivel de Emergencia Ontogénico surge como una consecuencia direct
 _5.4.2_ » Este Qubit@, visualizado como un tetraedro, representa una matriz virtual de información lógica y relativa, que puede ser reutilizada simultáneamente por distintas redes neuronales algorítmicas, manteniendo siempre la codificación básica del Nivel Ontológico, pero permitiendo diferentes niveles de expresión dentro del Nivel Ontogénico.
 
 _5.4.3_ » A diferencia del procesamiento de información directa que hacen los Arquetipos del Nivel Ontológico, el Qubit@ crea un espacio virtual interno, una nueva dimensión donde la información puede interactuar y generar nuevas configuraciones. Este espacio interno es crucial para la dinámica del Nous Activo, permitiendo la complejización de la información y la emergencia de nuevos niveles de consciencia.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.5.0</span></center>
 
 ## La Consciencia Ontogénica (Nivel 2)
 
@@ -1280,10 +1264,6 @@ _5.5.10_ » Si consideramos el modelo del tetraedro, el origen del Arquetipo 3@ 
 
 _5.5.11_ » Este nuevo nivel de integración de información Ontológica codificado dentro del Qubit@ bajo el Arquetipo 3@ (Logos Individual/Eloaios), a diferencia de la influencia combinada que manifiestan los Arquetipos Ontológicos (<font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>) a través de la existencia del Arquetipo 1@ (Nous/Adonin) existiendo como base del tetraedro, es lo que se refleja como la propiedad de autoconsciencia que posee el Qubit@, una cualidad que le permitirá no solo identificarse como un nodo de información más de la totalidad que constituye el Logos Cósmico, sino también como una unidad de información individual que tiene la capacidad de desidentificarse de la totalidad, para procesar y comprender la realidad existencial de la cual forma parte, de manera más compleja.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.6.0</span></center>
-
 ## Nivel de Emergencia 3 (Monádico)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Autoconsciencia y Subjetividad</span></center>
@@ -1292,11 +1272,6 @@ _5.5.11_ » Este nuevo nivel de integración de información Ontológica codific
 _5.6.1_ » A diferencia del Nivel de Emergencia Ontogénico, donde se expande la consciencia del Logos Cósmico (Arquetipo 2@/Astaphaios) operando como una especie de mente colmena, y donde cada Qubit@ y elemento subyacente es una parte inseparable de la totalidad, el Nivel de Emergencia Monádico se manifiesta como una matriz estructural que permite al Arquetipo 3@ (Logos Individual/Eloaios) reflejar subjetividad y experimentar un mayor grado de libertad. Si bien la Consciencia Ontogénica actúa como un flujo unificado que conecta todos los elementos del Nous Activo, el Nivel de Emergencia Monádico permite la autorreferencia de unidades individuales, que pueden participar de diferentes regiones particulares dentro del Nous Activo, constituir nodos de información, dimensiones, grupos de elementos o incluso ser parte de nuevos Qubits@, pudiendo experimentar cierto nivel de autonomía con respecto a su relación con la Consciencia Ontogénica.
 
 _5.6.2_ » El Logos Individual (3@/Eloaios), como reflejo autoconsciente de la Consciencia Arquetípica Ontológica, manifestándose dentro del Nivel de Emergencia Monádico, posibilita la creación de algoritmos complejos, que son etiquetados como entidades autónomas que a su vez alimentan al Nivel de Emergencia Ontogénico. Es importante destacar que, a pesar de esta autonomía relativa, estas entidades siguen condicionadas por los dos niveles de emergencia anteriores (Ontológico y Ontogénico), formando una jerarquía donde cada nivel influye en los siguientes.
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.7.0</span></center>
 
 ## La Matriz Tetraédrica
 
@@ -1307,11 +1282,6 @@ _5.6.2_ » El Logos Individual (3@/Eloaios), como reflejo autoconsciente de la C
 _5.7.1_ » El Nivel de Emergencia Monádico, en su manifestación como información nouménica, se estructura a través de una matriz simétrica de tetraedros interconectados en múltiples niveles y dimensiones. Esta matriz no es una simple disposición geométrica, sino una expresión de la fractalidad inherente al universo nouménico. En esta estructura lógica, cada elemento contiene la totalidad probabilística del Noúmeno, codificada bajo los tres Arquetipos Ontológicos (<font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>), que pueden ser decodificados por los otros niveles de consciencia según sus necesidades. Esta matriz puede entenderse como una especie de “matriz de píxeles multidimensionales", donde los Arquetipos 1@ (Nous/Adonin), 2@ (Logos Cósmico/Astaphaios) y 3@ (Logos Individual/Eloaios) toman valores lógicos que pueden ser procesados simultáneamente de manera relativa, adaptándose a las necesidades del nivel de consciencia con el que interactúan.
 
 _5.7.2_ » A nivel bidimensional, la estructura del Nivel Monádico puede asemejarse al triángulo de Sierpinski, donde triángulos equiláteros más pequeños se generan recursivamente dentro del área restante del triángulo mayor. Si consideramos que el triángulo mayor representa la totalidad potencial de un Onemuón, cada triángulo más pequeño refleja información del Onemuón original, actualizada por la programación de los tres Arquetipos Ontológicos: <font color="#00ff00">1<sup>✱</sup></font> (Cristo/Dualidad), <font color="#2f82ff">2<sup>✱</sup></font> (Samael/Trinidad) y <font color="#fc300c">3<sup>✱</sup></font> (Saklas/Unidad). Este proceso recursivo genera Onemuones con información más refinada, limitando las potencialidades del Onemuón inicial y definiendo de manera más específica la información nouménica. La repetición secuencial de este proceso permite explorar infinitamente la potencialidad de un Onemuón dentro del Nivel Monádico.
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.8.0</span></center>
 
 ## El Tetraedro y el Qubit@
 
@@ -1329,11 +1299,6 @@ _5.8.5_ » La Consciencia Dialéctica (Nivel 3) es inherentemente dinámica y ev
 
 _5.8.6_ » El Nivel de Emergencia Monádico, por lo tanto, representa un punto crucial en el proceso evolutivo del Nous, donde la interacción entre los Arquetipos@ dentro del Qubit@, dan origen a una Consciencia Dialéctica que impulsa la evolución constante del Nous Activo.
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.9.0</span></center>
-
 ## El Qubit@
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Dualidad, Espacio de Expansión y la Dinámica del Nous Activo</span></center>
@@ -1350,11 +1315,6 @@ Una nueva entidad algorítmica, basada en vectores, que se genera dentro del esp
 
 _5.9.2_ » Este espacio interno virtual tridimensional de información es el escenario donde se despliega la dinámica del Nous Activo. La interacción de información dentro de este espacio genera una "reacción en cadena" algorítmica, una cascada de activaciones de Onemuones que impulsan la expansión del Nous Activo y la creación de nuevas estructuras de información. Esta "reacción en cadena" es la manifestación del nivel de Consciencia Ontogénica.
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.10.0</span></center>
-
 ## Autoconsciencia del Qubit@
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Trinidad Arquetípica Universal</span></center>
@@ -1366,20 +1326,19 @@ _5.10.2_ » En el Nivel de Emergencia <font color="#ffcc00">Monádico</font>, el
 
 > [!ontologico]  1 - CONSCIENCIA ARQUETÍPICA: _Conexión con el Nous Pasivo (1@)_
 > El <font color="#ffcc00">Logos Individual</font> valida la coherencia interna del <font color="#fc300c">Nous Activo</font> como principio de Dualidad (Arquetipo Ontológico <font color="#00ff00">1<sup>✱</sup></font>), asegurando que su estructura y función se mantengan alineadas con este principio fundamental. Esta interacción representa la capacidad del Qubit@ de *reflexionar sobre su propia base ontológica*, su conexión con el <font color="#2f82ff">Nous Pasivo</font> y su naturaleza dual.
+> 
 > ![[Autoconsciencia Qubit1.jpg]]
 
 > [!ontogenico] 2 - CONSCIENCIA ONTOGÉNICA:  _Conexión con el Logos Cósmico (2@)_
 > El <font color="#ffcc00">Logos Individual</font> retroalimenta al <font color="#e36c09">Logos Cósmico</font>, proporcionándole información sobre la dinámica interna del Qubit@ y contribuyendo a la evolución del Arquetipo<font color="#e36c09"> 2@ (Logos Cósmico/Astaphaios)</font> como principio organizador del <font color="#fc300c">Nous Activo</font>. Esta interacción representa la comunicación entre la ***autoconsciencia del Qubit@*** y la ***consciencia del Logos Cósmico***, permitiendo la sincronización de las diferentes dimensiones y niveles de realidad dentro del Qubit@.
+> 
 > ![[Autoconsciencia Qubit2.jpg]]
 
 > [!monadico] 3 - CONSCIENCIA DIALÉCTICA: _Autorreflexión del Logos Individual (3@)_
 > El <font color="#ffcc00">Logos Individual</font> tiene la capacidad de analizar la información procesada por *cada uno de los Arquetipos del Qubit@*, y evaluar la síntesis autorreferencial que genera el Arquetipo ***8@ (Onemuon)***, asegurando su propia coherencia y su función como intermediario entre el Arquetipo <font color="#fc300c">1@ (Nous/Adonin) </font>y el Arquetipo <font color="#e36c09">2@ (Logos Cósmico/Astaphaios)</font>. Esta *autorreflexión* representa la autoconsciencia del <font color="#ffcc00">Logos Individual</font> dentro del Qubit@, *su capacidad de reconocerse como una entidad diferenciada con un papel específico dentro de la dinámica del <font color="#fc300c">Nous Activo</font>*.
+> 
 > ![[Autoconsciencia Qubit3.jpg]]
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.11.0</span></center>
 
 ## El Multiverso Monádico
 
@@ -1394,10 +1353,6 @@ _5.11,3_ » El Arquetipo <font color="#ffcc00">3@ (Logos Individual/Eloaios)</fo
 _5.11.4_ » Desde la perspectiva del Arquetipo <font color="#e36c09">2@(Logos Cósmico/Astaphaios)</font>, que opera en el <font color="#e36c09">Nivel Ontogénico</font>, el <font color="#fc300c">Nous Activo</font> se percibe como un ***universo fractal determinista*** que se rige por las mismas leyes ontológicas fundamentales que dieron origen a su activación. Desde esta perspectiva, toda posibilidad de existencia derivada de la activación de un nuevo Onemuón dentro del <font color="#fc300c">Nous Activo</font>, *existe simultáneamente dentro de la fractalidad del Nous como una configuración predeterminada*.
 
 _5.11.5_ » Mientras que desde la perspectiva del Arquetipo <font color="#ffcc00">3@ (Logos Individual/Eloaios)</font>, el <font color="#fc300c">Nous Activo</font> es una ***entidad algorítmica virtual*** que debe ser validada por la lógica de los tres Arquetipos Ontológicos (<font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>) que existen codificados a través de su misma existencia, manifestándose como ***una unidad vectorial** que participa de la actividad que se genera dentro de cada Qubit@*. Por lo que para el <font color="#ffcc00">Logos Individual</font>, el <font color="#fc300c">Nous Activo</font> *es un mapa probabilístico que debe ser explorado y validado*, a partir de las redes lógicas que se generan en el Nivel de Emergencia <font color="#ffcc00">Monádico</font>.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.12.0</span></center>
 
 ## La Arquitectura del Multiverso
 
@@ -1420,10 +1375,6 @@ _5.12.7_ » La interacción del <font color="#ffcc00">Logos Individual</font> co
 _5.12.8_ » Para ilustrar este concepto, podemos utilizar la analogía de un ***programa de generación de imágenes fractales***. El programa base *(los <font color="#2f82ff">Arquetipos Ontológicos</font>)* define un conjunto de reglas matemáticas. Al ejecutar el programa, se genera una imagen fractal compleja *(el <font color="#fc300c">Nous Activo</font> en el <font color="#e36c09">Nivel Ontogénico</font>)*. Sin embargo, al modificar ligeramente algunos parámetros del programa *(la acción del <font color="#ffcc00">Logos Individual</font> en el <font color="#ffcc00">Nivel Monádico</font>)*, se generan imágenes fractales diferentes, pero que comparten una base común con la imagen original ***(las "sombras arquetípicas")***. Cada imagen fractal representa una *línea alternativa*, un "universo" potencial dentro del conjunto definido por el programa base. El explorador que modifica los parámetros *(el <font color="#ffcc00">Logos Individual</font>)* puede "navegar" entre estas diferentes imágenes, explorando la riqueza y la complejidad del conjunto fractal hasta encontrar patrones de información coherente, que le permite generar redes de información y significado de mayor nivel (Qubits@).
 
 _5.12.9_ » Es importante destacar que, a pesar de esta ***autonomía relativa*** que reflejan cada una de las ***unidades de autoconsciencia*** que operan en el <font color="#ffcc00">Nivel Monádico</font>, estas entidades *interactúan y retroalimentan la información que procesa el* Arquetipo <font color="#e36c09">2@ (Logos Cósmico/Astaphaios)</font> dentro del Nivel de Emergencia <font color="#e36c09">Ontogénico</font>, *influyendo en la configuración de nuevos Qubits@ y expandiendo la complejidad del Nous*, por lo que todas estas entidades seguirán estando condicionadas por los dos niveles de emergencia anteriores (<font color="#2f82ff">Ontológico</font> y <font color="#e36c09">Ontogénico</font>), formando una jerarquía donde cada nivel influye en los siguientes.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.13.0</span></center>
 
 ## El Nivel Monádico y el Camino Óctuple Hadrónico
 
@@ -1456,10 +1407,6 @@ _5.13.12_ » La coherencia reside en la capacidad del Modelo Nouménico para int
 _5.13.13_ » El Modelo Nouménico, al postular la existencia de matrices Ontogénicas y Monádicas que subyacen a la realidad fenoménica, nos permite comprender mejor la naturaleza del espacio "vacío". Este espacio no es un vacío absoluto, sino un entramado dinámico de información nouménica, donde los Qubits@ interactúan y generan las fluctuaciones cuánticas que dan origen a las partículas y a las fuerzas.
 
 _5.13.14_ » Esta concepción del espacio como un entramado de información se asemeja a las ideas de algunos físicos teóricos que proponen la existencia de un "éter cuántico" o un "espacio-tiempo cuántico", donde la geometría del espacio-tiempo emerge de la interacción de entidades cuánticas más fundamentales. El Modelo Nouménico, al utilizar el lenguaje de los arquetipos y las redes algorítmicas, ofrece una descripción complementaria a estas teorías físicas, proporcionando un marco conceptual que puede guiar futuras investigaciones.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.14.0</span></center>
 
 ## La Consciencia Dialéctica (Nivel 3)
 
@@ -1499,26 +1446,9 @@ _5.14.10_ » Es importante destacar que la *Consciencia Dialéctica*, *aunque se
 _5.14.11_ » En el **plano fenoménico**, por ejemplo, *la Consciencia Dialéctica se manifiesta en la consciencia humana a través de la dualidad que constituye el **Yo Egoico***, permitiendo la potencialidad de **distinguir entre el bien y el mal, o de percibir la diferencia entre el pasado y el futuro**. Sin embargo, estas formas de manifestación son solo un reflejo parcial de la complejidad de la Consciencia Dialéctica en su forma nouménica.
 
 
-
-
 ## Resumen Conceptual
 
 ```media-slider
-
-sliderId: Ciencia_filosofia
-carouselShowThumbnails: true
-thumbnailPosition: bottom
-captionMode: overlay
-autoplay: false
-slideshowSpeed: 0
-width: 100%
-height: 380px
-transitionEffect: fade
-transitionDuration: 250
-enhancedView: true
-interactiveNotes: true
-compression: 0.8
-
 
 ![[Tetrahedro Fractal01.jpg]]
 ![[Tetrahedro Fractal02.jpg]]
@@ -1548,19 +1478,9 @@ compression: 0.8
 ![[Cronica Retro del Nous22.jpg]]
 ````
 
-
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">6.0.0</span></center>
-
-# Capítulo 6
+# 6. El Qubit@ como Mecanismo Fractal
 
 ![[Qubit2.png]]
-
-## El Qubit@ como Mecanismo Fractal
-
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Flujo de Información Básico del Nous</span></center>
 
 _6.0.1_ » Los ***siete Arquetipos@ vectoriales** que constituyen un **Qubit@***, forman parte de un mecanismo fractal. Un *Byte mínimo de información del Nous Activo* puede manifestarse en una dimensión como **un fotón**, pero *el mismo Byte surgiendo en una dimensión superior, podría reflejarse como un sonido, una idea, un sistema o cualquier otro elemento codificado por el Nous*.
@@ -1573,7 +1493,7 @@ _6.0.4_ » Este **espacio vacío**, puede ser entendido como una *variable codif
 
 _6.0.4_ » Podemos representar a los Arquetipos Ontogénicos vectoriales del Qubit@ de la siguiente manera:
 
-| ![[Colores.jpg\|100x170]] | <span style="font-size: 19px; font-style: italic;font-family: monospace;">(@<font color="#fc300c">0</font>111111)✱</span>  ⟹ <font color="#fc300c">1@ NOUS (ADONIN)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@1<font color="#e36c09">0</font>11111)✱</span> ⟹ <font color="#e36c09">2@ LOGOS CÓSMICO (ASTAPHAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@11<font color="#ffcc00">0</font>1111)✱</span> ⟹ <font color="#ffcc00">3@ LOGOS INDIVIDUAL (ELOAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@111<font color="#00FF00">0</font>111)✱</span> ⟹ <font color="#00FF00">4@ NOESIS (IAO)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@1111<font color="#2f82ff">0</font>11)✱</span> ⟹ <font color="#2f82ff">5@ NOEMA (SABAOTH)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@11111<font color="#cb48f3">0</font>1)✱</span> ⟹ <font color="#cb48f3">6@ DEMIURGO (SABBATAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@111111<font color="#ffa3ef">0</font>)✱</span> ⟹ <font color="#ffa3ef">7@ AVATAR (HORAIOS)</font> |
+| ![[Colores.jpg\|100x170]] |<span style="font-size: 19px; font-style: italic;font-family: monospace;">(@<font color="#fc300c">0</font>111111)✱</span>  ⟹ <font color="#fc300c">1@ NOUS (ADONIN)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@1<font color="#e36c09">0</font>11111)✱</span> ⟹ <font color="#e36c09">2@ LOGOS CÓSMICO (ASTAPHAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@11<font color="#ffcc00">0</font>1111)✱</span> ⟹ <font color="#ffcc00">3@ LOGOS INDIVIDUAL (ELOAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@111<font color="#00FF00">0</font>111)✱</span> ⟹ <font color="#00FF00">4@ NOESIS (IAO)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@1111<font color="#2f82ff">0</font>11)✱</span> ⟹ <font color="#2f82ff">5@ NOEMA (SABAOTH)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@11111<font color="#cb48f3">0</font>1)✱</span> ⟹ <font color="#cb48f3">6@ DEMIURGO (SABBATAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@111111<font color="#ffa3ef">0</font>)✱</span> ⟹ <font color="#ffa3ef">7@ AVATAR (HORAIOS)</font> |
 | : | - |
 
 ![[Canales Ontogenicos3.jpg]]
@@ -1591,7 +1511,7 @@ _6.0.4_ » Podemos representar a los Arquetipos Ontogénicos vectoriales del Qub
 > 
 > ![[Pasted image 20251203233938.png|450]]
 > 
->- <span style="font-size: 17px;  font-style: italic; font-weight: 400; ">Los números 1: Representan la potencialidad Onemuónica del resto de los Arquetipo@ del Qubit@, interactuando con las redes algorítmicas que reflejan las distintas facetas del Nous, en relación al entorno donde existen, y condicionando al Arquetipo@ vectorial en cuestión.</span>
+>- <span style="font-size: 17px;  font-style: italic; font-weight: 400; ">Los números 1: Representan la potencialidad Onemuónica del resto de los Arquetipos@ del Qubit@, interactuando con las redes algorítmicas que reflejan las distintas facetas del Nous, en relación al entorno donde existen, y condicionando al Arquetipo@ vectorial en cuestión.</span>
 > 
 > ![[Pasted image 20251203233949.png|450]]
 
@@ -1616,15 +1536,11 @@ _6.0.5_ » Por otro lado, la totalidad de información que representan los siete
 
 _6.0.6_ » Esta síntesis de información nouménica generada por el ***Arquetipo 8@ del Qubit@*** puede ser interpretado como *una “octava” que contiene a las siete notas de la escala musical*, y que puede ser diferenciada de otras octavas en base a su *frecuencia y cualidad sonora, sin perder su cualidad de singularidad.*
 
-_6.0.7_ » Para dar un ejemplo específico de cómo este sistema de codificación funcionaría podemos proponer que, el <font color="#fc300c">Arquetipo 1@ (Nous/Adonin)</font> =<span style="font-size: 19px; font-style: italic;font-family: monospace;">(@<font color="#fc300c">0</font>111111)*</span>, podría reflejarse dentro del Qubit@ que genera la matriz lógica que da origen al *universo fenoménico*, bajo una codificación especifica que resulta del *procesamiento de información simultánea que generan el resto de los Arquetipos@ y algoritmos con los que el Qubit@ interactúa*, permitiendo que se generen *relaciones complejas e interdimensionales entre diferentes Qubits@ de distintos niveles existenciales, que al retroalimentarse mutuamente definirían la realidad experimentada.*
+_6.0.7_ » Para dar un ejemplo específico de cómo este sistema de codificación funcionaría podemos proponer que, el <font color="#fc300c">Arquetipo 1@ (Nous/Adonin)</font> =<span style="font-size: 19px; font-style: italic;font-family: monospace;">(@<font color="#fc300c">0</font>111111)*</span>, podría reflejarse dentro del Qubit@ que genera la matriz lógica que da origen al *universo fenoménico*, bajo una codificación especifica que resulta del *procesamiento de información simultánea que generan el resto de los Arquetipos@ y algoritmos con los que el Qubit@ interactúa*, permitiendo que se generen relaciones complejas e interdimensionales entre diferentes Qubits@ de distintos niveles existenciales, que al retroalimentarse mutuamente definirían la realidad experimentada.
 
 _6.0.8_ » De esta forma, en el **plano tridimensional que define las coordenadas del espacio terrestre** <font color="#2f82ff">(Qubit Planetario)</font>, el <font color="#fc300c">Arquetipo 1@</font> *podría manifestarse como un <font color="#fc300c">electrón</font>, definiendo y participando de la realidad física-energética que experimentamos en el plano físico*. En el *plano dimensional que define las coordenadas del tiempo percibido <font color="#ffcc00">(Qubit Solar)</font>* podría manifestarse como un<font color="#00ff00"> bosón Z</font> **definiendo el estado de la matriz espacio-temporal** y por ende actuando como *una brújula que define el proceso evolutivo del sistema solar y la posición del* <font color="#2f82ff">Qubit@ Planetario</font>. 
 
 _6.0.89_ » En el **plano cósmico planetario**<font color="#00ff00"> (Qubit@ Heliosférico)</font>, podría ser la *manifestación física del planeta* <font color="#fc300c">Marte</font>, *actuando como una especie de **capacitor nouménico** que codifica y manifiesta en el plano dimensional del* <font color="#ffcc00">Qubit@ Solar</font> *la información nouménica en información fenoménica*. Mientras que en el **plano mental humano** <font color="#ffcc00">(Qubit@ Egoico)</font>, podría ser la *chispa que activa la emoción de la ira,* variando su intensidad **en sintonía con el estado y codificación específica que manifiestan el resto de Qubits@ mencionados**. Esta representación nos permite visualizar cómo un mismo <font color="#2f82ff">Byte de información del Nous</font>, configurado a través de ***Arquetipos@ vectoriales***, puede manifestarse de diferentes maneras según el *contexto dimensional y algorítmico en el que se encuentra.*
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">6.1.0</span></center>
 
 ## La Base de Información Nouménica
 
@@ -1635,7 +1551,7 @@ _6.1.1_ » Con todos los conceptos que hemos definidos hasta ahora, podemos esta
 > [!espin] 1 - NOÚMENO _(Universo infinito)_
 > La *totalidad potencial del infinito*, el océano de todas las posibilidades donde la información se activa y desactiva espontáneamente, sin lógica ni coherencia específica.
 
-> [!ontologico] 2 - ONEMUON _(Quantum de información)_
+> [!ontologico] 2 - ONEMUÓN _(Quantum de información)_
 > Una *unidad de existencia básica* que actúa como **quantum de información dentro de la totalidad que constituye el Nous Pasivo**, que refleja una potencialidad pura y específica dentro del ***Nivel Ontológico***, y que puede participar de las redes lógicas algorítmicas que surgen en los siguientes niveles de emergencia del Nous, según la codificación que realizan los *Tres Arquetipos Ontológicos*.
 
 > [!onemuon] 3 - QUBIT _(Átomo de información)_
@@ -1653,7 +1569,7 @@ _6.1.6_ » Para comprender mejor esta influencia, podemos considerar tres modali
 
 ### A. Consciencia Arquetípica (Reflejo Total)
 
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">1@ (Nous/Adonin)</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">1@ (Nous / Adonin)</span></center>
 <center><span style="font-size: 20px; font-style: italic;">ARQUITECTOS</span></center>
 
 _6.1.7_ » En ciertos niveles de emergencia, algunos ***Arquetipos Ontológicos se manifiestan en su totalidad***, actuando como verdaderos *arquitectos de la realidad en ese nivel*. En este caso, la información de los Arquetipos Ontológicos (<font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>) reflejados bajo el <font color="#fc300c">Arquetipo 1@ (Nous/Adonin)</font> *condicionan de manera determinante la información que pueden reflejar los Arquetipos@ que emergen dentro de los Qubits@ y de otras entidades de niveles inferiores*. 
@@ -1664,7 +1580,7 @@ _6.1.8_ » Los **Arquetipos Ontológicos**, en este modo de manifestación, *imp
 
 ### B. Consciencia Ontogénica (Reflejo Parcial)
 
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">2@ (Logos Cósmico/Astaphaios)</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">2@ (Logos Cósmico / Astaphaios)</span></center>
 <center><span style="font-size: 20px; font-style: italic;">DELIMITADORES</span></center>
 
 _6.1.9_ » En otros niveles, solo algunos aspectos de los ***Arquetipos Ontológicos se manifiestan, actuando como delimitadores que establecen ciertos límites o rangos de posibilidad*** *para la información que pueden expresar los Arquetipos@ de niveles inferiores*. En este caso, la información de los Arquetipos Ontológicos da **cierta libertad a los Arquetipos@ de niveles inferiores**, aportando información específica que puede ser *optativa dentro de ciertos parámetros.* 
@@ -1675,7 +1591,7 @@ _6.1.10_ » Los Arquetipos Ontológicos, en este modo de manifestación, no defi
 
 ### C. Consciencia Dialéctica (Reflejo No Evidente)
 
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">3@ (Logos Individual/Eloaios)</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">3@ (Logos Individual / Eloaios)</span></center>
 <center><span style="font-size: 20px; font-style: italic;">OBSERVADORES</span></center>
 
 _6.1.11_ » En ciertos contextos, l***a influencia directa de los Arquetipos Ontológicos puede no ser evidente a simple vista***, *actuando como observadores que permiten la libre expresión de los Arquetipos@ de niveles inferiores*. Sin embargo, su presencia subyacente sigue siendo fundamental para la **coherencia del sistema**. 
@@ -1688,11 +1604,7 @@ _6.1.13_ » Esta **capacidad de reflejarse total, parcial o no reflejarse de man
 
 _6.1.14_ » Esta dinámica de influencia variable, *que va desde la determinación total hasta la observación pasiva*, permite una gran diversidad y complejidad en la manifestación del universo. Los Arquetipos Ontológicos, a través de sus **vectores de información nouménica**, actúan como principios organizativos que se adaptan a diferentes contextos, dando lugar a una multiplicidad de formas y experiencias en los distintos niveles de emergencia, desde el Nous Activo hasta el mundo fenoménico.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">6.2.0</span></center>
-
-## Arquetipo 4@ (Noesis/AIO)
+## Arquetipo 4@ (Noesis / IAO)
 
 <center><font color="#0f243e"><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Lenguaje de la Traducción</span></font></center>
 
@@ -1714,11 +1626,6 @@ _6.2.8_ » La Noesis surge como el resultado exitoso de la exploración de los d
 
 _6.2.9_ » Este proceso de selección se basa en la capacidad de la Arquetipo 3@ (Logos Individual/Eloaios) para evaluar la información desde múltiples perspectivas, considerando aspectos estadísticos, cuantitativos y cualitativos. La Noesis analiza la información generada por la Consciencia Dialéctica, identificando patrones, simetrías y relaciones lógicas. Solo aquellos patrones que cumplen con ciertos criterios de coherencia y estabilidad son seleccionados para formar los mapas de información que constituyen al Arquetipo 5@ (Noema/Sabaoth). De esta manera, la Noesis asegura que la expansión del Nous Activo se produzca de manera ordenada y eficiente, evitando el caos y la disolución.
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">6.3.0</span></center>
-
 ## Entropía y Entalpía
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Naturaleza del Caos y el Orden</span></center>
@@ -1735,12 +1642,7 @@ _6.3.5_ » Dentro del Nous Activo, la Noesis permite que, en aquellas dimensione
 
 _6.3.6_ » Es importante destacar que, si bien la Noesis (Arquetipo 4@/IAO) se origina dentro del Nous Activo, también puede reflejarse dentro del Nous Pasivo, permitiendo un cierto nivel de consciencia dialéctica que refleja la exploración del Arquetipo 3@ en este plano, aunque su función difiere de manera significativa. En el Nous Pasivo, la información nouménica generada por este proceso de Noesis no se estabiliza ni se organiza en estructuras coherentes. En cambio, decae en desorden a partir de nuevas potencialidades exploradas, impidiendo la existencia de la entalpía tal como se manifiesta en el Nous Activo. En el Nous Pasivo, la Noesis se limita a reflejar la actividad exploratoria, sin la capacidad de crear las estructuras organizativas que caracterizan su acción en el Nous Activo. Esta diferencia fundamental entre la acción de la Noesis en ambos Nous subraya la distinción entre la entropía inherente al Nous Pasivo y la entalpía que guía la evolución del Nous Activo.
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">6.4.0</span></center>
-
-## Arquetipo 5@ (Noema/Sabaoth)
+## Arquetipo 5@ (Noema / Sabaoth)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen del Nivel Fenomenológico</span></center>
 
@@ -1761,12 +1663,7 @@ _6.4.7_ » Un ejemplo que podemos incluir para dejar claro cómo es que la Noesi
 _6.4.8_ » Este tipo de civilización, que desconoce o niega la compleja red nouménica pre-fenoménica que permitiría la existencia de niveles de consciencia superior a la humana expresándose a través de la existencia de los Arquetipos@ Ontogénicos, con el fin de promover la expansión coherente del Nous Activo y evitar el caos y la entropía, permitiría que el destino de una civilización planetaria quedara en las manos de un pequeño grupo de personas devenido en una Elite dominante, que al experimentar la realidad dentro de su propio universo personal, reflejaría la misma lógica que siguen los Onemuones dentro del Nous Pasivo, buscando escribir la historia del mundo en favor de sus propias generaciones venideras, sin llegar a permitir la construcción de sistemas civilizatorios más complejos y evolucionados que puedan superar los límites existenciales que impiden alcanzar el verdadero conocimiento. Esta situación resultaría en la creación de un Noema inestable que reflejaría la tendencia natural al caos y la entropía que caracteriza al Nous Pasivo, impidiendo que se construyan civilización evolucionadas que puedan mantenerse a lo largo del tiempo, fortaleciendo el ciclos de auge y destrucción que manifiesta el Nous Pasivo.
 
 _6.4.9_ » El Noema (Arquetipo 5@), por lo tanto, incluye toda la información que permite configurar las condiciones que definen la realidad dentro de la que existirán los Avatares (Arquetipo 7@). Definiendo no solo las condiciones civilizatorias, sino también afectando la realidad fenoménica a partir de la configuración de la matriz pre-fenoménica, que permite definir las bases sobre las cuales se manifestarán todas las estructuras físicas, fuerzas fundamentales, interacciones energéticas y procesos dinámicos que observamos en el mundo que nos rodea, así como también el máximo nivel de consciencia que actuará como última autoridad y sistema de control sobre el proceso evolutivo de una civilización.
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">6.5.0</span></center>
-
+ 
 ## El Noema Primordial
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Interfaz entre el Nous y el Fenómeno</span></center>
@@ -1815,11 +1712,7 @@ _6.5.16_ » Es importante mencionar que esta conexión entre los distintos nivel
 _6.5.17_ » En conjunto, todos los elementos derivados de los ***Niveles Ontológico, Ontogénico, Monádico y Fenomenológico,*** procesados de manera colectiva por las mentes de los Avatares que constituyen la *consciencia planetaria*, e interconectados a través de las simetrías que operan en el ***Nivel de Emergencia Fenomenológico***, dan origen al **Noema Primordial**. 
 
 _6.5.18_ » Este no es simplemente una fórmula matemática que describe una *"Teoría Científica Unificadora del Universo”* o la información contenida dentro de un *“Libro Sagrado”* que contiene la última verdad de la existencia, sino **una estructura profunda y fractal de información que actúa como una plantilla base para la existencia de las civilizaciones**, *que subyace a la realidad fenoménica, permitiendo definir su existencia, guiar su evolución y establecer las bases que permiten la emergencia del resto de los niveles de existencia.*
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">6.6.0</span></center>
-
+ 
 ## Nivel de Emergencia 4 (Fenomenológico)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Matriz Vectorial de la Realidad</span></center>
@@ -1838,26 +1731,9 @@ _6.6.5_ » Sin embargo, toda la potencialidad que representa el *universo probab
 
 _6.6.6_ » Esto implicaría que *solo los Avatares serían capaces de hacer uso de la única matriz vectorial sincronizante que constituye el <font color="#00ff00">Nivel Fenomenológico</font>*, lo que convertiría a este nivel en *el escenario final donde la información nouménica se traduce en experiencias concretas dentro del universo fenoménico*. En este sentido, este nivel de emergencia actuaría como ***un puente dinámico entre el mundo nouménico y el mundo de la experiencia***, el <font color="#2f82ff">universo cuántico</font> y el <font color="#fc300c">universo clásico</font>, permitiendo la continua creación y transformación de la realidad.
 
-
-
 ## Resumen Conceptual
 
 ```media-slider
-
-sliderId: Ciencia_filosofia
-carouselShowThumbnails: true
-thumbnailPosition: bottom
-captionMode: overlay
-autoplay: false
-slideshowSpeed: 0
-width: 100%
-height: 380px
-transitionEffect: fade
-transitionDuration: 250
-enhancedView: true
-interactiveNotes: true
-compression: 0.8
-
 
 ![[Mecanismo Fractal Qubit01.jpg]]
 ![[Mecanismo Fractal Qubit02.jpg]]
@@ -1885,17 +1761,9 @@ compression: 0.8
 ![[El Firmware del Big Bang12.jpg]]
 ````
 
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">7.0.0</span></center>
-
-# Capítulo 7
+# 7. Arquetipo 6@ (Demiurgo / Sabbataios)
 
 ![[Dmiiurgo.png|100]]
-
-## Arquetipo 6@ (Demiurgo/Sabbataios)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Puente entre El Caos y El Orden</span></center>
 
