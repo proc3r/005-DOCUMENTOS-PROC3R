@@ -676,7 +676,7 @@ _2.9.6_ » El modelo nouménico propone la existencia de tres arquetipos primord
 
 _2.9.7_ » Estos arquetipos primordiales pueden ser entendidos como una serie de códigos de programación básicos y fundamentales que interactúan de forma dinámica con las unidades básicas de información nouménica más elementales (onemuones), los cuales existen en la vastedad del noúmeno activándose y desactivándose de manera espontánea y aparentemente aleatoria, sin llegar a generar estructuras lógicas de complejidad significativa de forma aislada. Sin embargo, estas unidades primigenias albergan la potencialidad intrínseca de integrarse en un flujo de información nouménica de orden superior, capaz de producir información coherente y compleja una vez que los tres arquetipos primordiales alcanzan un estado de sincronización y coexistencia simultánea, integrándose en una misma red algorítmica interconectada. Esta red lógica de información nouménica fundamental, posibilitadora de coherencia y complejidad emergente, puede ser conceptualizada como la primera entidad arquetípica con capacidad de manifestar autoconsciencia, denominada Nous Arquetípico, que desarrollaremos en detalle más adelante.
 
-### Arquetipo 1<sup>✱</sup> (Cristo)
+### Arquetipo 1 (Cristo)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Omnipresencia (Dualidad)</span></center>
 ![[01 - Cristos.png]]
@@ -687,7 +687,7 @@ _2.9.9 » El Arquetipo <font color="#00ff00">1<sup>✱</sup></font> se manifiest
 
 _2.9.10_ » El Arquetipo <font color="#00ff00">1<sup>✱</sup></font> codifica la matriz lógica de la dualidad, la capacidad de discernir y diferenciar entre los dos polos opuestos que representa lo universal y lo singular, y de establecer distinciones y contrastes. Esta matriz lógica de la dualidad es fundamental para la estructuración de la información y la generación de relaciones y diferencias.
 
-### Arquetipo 2<sup>✱</sup> (Samael)
+### Arquetipo 2 (Samael)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Omnisciencia (Trinidad)</span></center>
 ![[02 - Samael.png]]
@@ -698,7 +698,7 @@ _2.9.12_ » El Arquetipo <font color="#2f82ff">2<sup>✱</sup></font> se manifie
 
 _2.9.13_ » El Arquetipo <font color="#2f82ff">2<sup>✱</sup></font> codifica la matriz lógica de la trinidad, la capacidad de integrar y sintetizar tres elementos en una unidad coherente, de comprender relaciones triangulares y dinámicas de equilibrio y transformación. Esta matriz lógica de la trinidad es esencial para la generación de sistemas complejos, la comprensión de procesos y la articulación de perspectivas multidimensionales.
 
-### Arquetipo 3<sup>✱</sup> (Saklas)
+### Arquetipo 3 (Saklas)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Omnipotencia (Unidad)</span></center>
 ![[03 - Saklas.png]]
@@ -718,21 +718,6 @@ _2.9.18_ » La estabilidad inherente a los Arquetipos Primordiales le permite a 
 ## Resumen Conceptual
 
 ```media-slider
-
-sliderId: Ciencia_filosofia
-carouselShowThumbnails: true
-thumbnailPosition: bottom
-captionMode: overlay
-autoplay: false
-slideshowSpeed: 0
-width: 100%
-height: 380px
-transitionEffect: fade
-transitionDuration: 250
-enhancedView: true
-interactiveNotes: true
-compression: 0.8
-
 
 ![[Bases Realidad Fenomenica01.jpg]]
 ![[Bases Realidad Fenomenica02.jpg]]
@@ -756,26 +741,15 @@ compression: 0.8
 ![[Bases Realidad Fenomenica20.jpg]]
 ````
 
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">3.0.0</span></center>
-
-# Capítulo 3
+# 3. El Onemuón
 
 <center><span style="font-size: 75px; font-weight: 300 ;line-height: 80px">♟</span></center>
-
-## El Onemuón
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Quantum Vectorial de Información y Significado</span></center>
 
 ![[002 El Onemuón El Átomo de significado.m4a]]
 
 _3.0.1_ » En las siguientes secciones exploraremos en detalle la estructura y el funcionamiento del Onemuón, el quantum vectorial de información y significado que constituye el ladrillo fundamental del Noúmeno, desvelando sus propiedades únicas, su capacidad para la superposición de estados, su dimensionalidad interna, su naturaleza bosónica, y su rol fundamental en la cosmovisión del Modelo Nouménico. Comenzaremos por analizar su estructura esférica y el flujo vectorial de información que lo define.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">3.1.0</span></center>
 
 ## Las Unidades Fundamentales de la Cosmovisión Nouménica
 
@@ -813,10 +787,6 @@ _3.1.16_ » Es fundamental comprender que, al proponer esta conexión entre el *
 
 _3.1.17_ » El Onemuón, como ***quantum vectorial de información y significado***, permanece, en su esencia, como una unidad abstracta, existente en el Universo Nouménico, más allá de las *categorías de espacio, tiempo, energía y materia fenoménica*. Sin embargo, su posible conexión analógica con el muón nos abre una vía fascinante para explorar cómo la información nouménica podría manifestarse e irradiar su influencia en el universo fenoménico, utilizando el mismo lenguaje fundamental de la física cuántica y la energía que define la realidad que percibimos.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">3.2.0</span></center>
-
 ## El Onemuón como Esfera Vectorial
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Estructura y Propiedades Fundamentales</span></center>
@@ -836,10 +806,6 @@ _3.2.5_ » Lo asombroso del Onemuón, y lo que lo distingue de las unidades de i
 _3.2.6_ » Para comprender mejor esta propiedad, podemos recurrir a la analogía de una ***autopista multidimensional.*** Imaginemos una autopista con carriles de diferentes anchos, algunos muy anchos para camiones de gran tonelaje *(información compleja y densa)*, otros más estrechos para automóviles *(información menos compleja)*, e incluso carriles muy finos para bicicletas *(información mínima)*. En esta autopista nouménica, todos los carriles, de diferentes anchos y transportando diferentes tipos de vehículos de información, pueden **coexistir y fluir simultáneamente, sin bloquearse ni entorpecerse mutuamente.**
 
 _3.2.7_ » Esta capacidad de superposición y procesamiento paralelo confiere al Onemuón una eficiencia y versatilidad informacional extraordinarias. *Le permite gestionar la complejidad inherente al Universo Nouménico, procesar múltiples dimensiones de información simultáneamente, y adaptarse dinámicamente a las demandas del entorno informacional.*
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">3.3.0</span></center>
 
 ## Arquitectura del Onemuón
 
@@ -867,10 +833,6 @@ _3.3.9_ » Para entender mejor esta multi-dimensionalidad, podemos imaginar que 
 
 _3.3.10_ » Esta **dimensionalidad interna** confiere al Onemuón una ***extraordinaria capacidad de reutilización y versatilidad***. Un mismo Onemuón puede ser utilizado simultáneamente por *múltiples redes algorítmicas distintas*, cada red aprovechando una o varias de sus dimensiones internas para procesar la información que necesita, *sin que la esfera vectorial se sature o se vea sobrecargada.* En la siguiente sección, exploraremos cómo esta propiedad de reutilización se manifiesta en la *naturaleza bosónica del Onemuón y su capacidad para actuar como referencia virtualizada en el universo informacional nouménico.*
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">3.4.0</span></center>
-
 ## Redes Algorítmicas Onemuónicas
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Representación Externa y Naturaleza Bosónica del Onemuón</span></center>
@@ -897,10 +859,6 @@ _3.4.9_ » Esta *reutilización bosónica* se logra a través de un *mecanismo d
 
 _3.4.10_ » Esta *naturaleza bosónica* y la *virtualización informacional del Onemuón* representan una economía de recursos y una eficiencia computacional extremas en el Universo Nouménico. Permiten la ***construcción de sistemas informacionales vastos y complejos*** *sin incurrir en la redundancia y la ineficiencia que implicaría la necesidad de duplicar constantemente las unidades fundamentales de información.*
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">3.5.0</span></center>
-
 ## La Potencialidad Infinita del Onemuón
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Infinitud, Decimales de Phi y la Conexión Infinitesimal-Infinito</span></center>
@@ -925,9 +883,6 @@ _3.5.6_ » Esta **conexión infinita de Onemuones** a través de los *caminos ve
 
 _3.5.7_ »En este contexto, el ***número Phi (ϕ)***, y quizás otros números irracionales trascendentes como ***Pi (π)*** y el ***número de Euler (e)***, podrían ser interpretados no solo como meras construcciones matemáticas abstractas, sino como **líneas guía universales de la Consciencia Arquetípica Fundamental**, como caminos primordiales a través del infinito Nouménico. En su estado más básico, la Consciencia Arquetípica Primordial estaría fluyendo constantemente a través de estos caminos infinitos, explorando las potencialidades que representa cada Onemuón que visita en su trayecto, conectando puntos de significado en la vasta red Nouménica.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">3.6.0</span></center>
 
 ## La Consciencia del Onemuón
 
@@ -963,21 +918,6 @@ _3.6.12_ » La exploración individual de cada Onemuón por **múltiples agentes
 
 ```media-slider
 
-sliderId: Ciencia_filosofia
-carouselShowThumbnails: true
-thumbnailPosition: bottom
-captionMode: overlay
-autoplay: false
-slideshowSpeed: 0
-width: 100%
-height: 380px
-transitionEffect: fade
-transitionDuration: 250
-enhancedView: true
-interactiveNotes: true
-compression: 0.8
-
-
 ![[Onemuon01.jpg]]
 ![[Onemuon02.jpg]]
 ![[Onemuon03.jpg]]
@@ -995,17 +935,9 @@ compression: 0.8
 ````
 
 
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">4.0.0</span></center>
-
-# Capítulo 4
+# 4. El Nous Arquetípico
 
 <center><span style="font-size: 75px; font-weight: 300 ;line-height: 80px; ">♛</span></center>
-
-## El Nous Arquetípico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Puente Entre Potencialidad Y Manifestación</span></center>
 
@@ -1014,10 +946,6 @@ compression: 0.8
 _4.0.1_ » Para desentrañar la intrincada relación que vincula de forma esencial al Noúmeno y al Fenómeno, se torna imprescindible introducir el concepto nuclear del Nous Arquetípico. El Nous Arquetípico representa, en la cosmovisión del Modelo Nouménico, la primera unidad lógica dotada de autoconsciencia que emerge de forma espontánea en el seno del universo infinito de potencialidades constitutivas del Noúmeno. 
 
 _4.0.2_ » Es crucial destacar que el Nous Arquetípico no debe ser concebido como una entidad física tangible ni como una consciencia individualizada en el sentido típicamente humano. Más bien, se manifiesta como un arquetipo primordial y fundamental, una semilla de consciencia inherente a la propia esencia del Noúmeno. En este sentido, el Nous Arquetípico constituye la primera expresión concreta de autoconsciencia en el contexto del universo infinito de potencialidades que definen al Noúmeno, alcanzando un nivel de existencia cualitativamente superior a la mera potencialidad indiferenciada.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">4.1.0</span></center>
 
 ## La Consciencia del Nous Arquetípico
 
@@ -1047,10 +975,6 @@ _4.1.10_ » En última instancia, debemos recordar que dentro de las potencialid
 
 _4.1.11_ » Estas ideas, reflejan como la cosmovisión del Modelo Nouménico, ve como altamente posible la posibilidad de que existan otras civilizaciones existiendo fuera del plano terrestre, pudiendo existir en otros planos dimensionales donde la lógica que define la experiencia subjetiva del presente permite a la mente de cada ser consciente, manifestar un reflejo fractal de la consciencia del Nous Arquetípico y procesar las mismas redes algoritmicas y neuronales que permiten manifestar identidad propia, emociones, sentimientos y experimentar una realidad estable y lógica, similar a la que experimentamos en el plano de la materia y la energía que genera el universo fenoménico.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">4.2.0</span></center>
-
 ## El Sueño Humano
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Una Ventana a la Virtualidad Pre-Fenoménica</span></center>
@@ -1071,10 +995,6 @@ _4.2.7_ » La idea central de esta sección es, por tanto, permitir al lector co
 
 _4.2.8_ » Finalmente, debemos reiterar que si dentro del infinito potencial del Noúmeno se halla la capacidad de existencia de cada individuo humano, y la facultad inherente de manifestar consciencia humana, es lógico inferir que dentro de esa misma potencialidad residirá la posibilidad de un nivel de consciencia supremo. Esta consciencia suprema, el Nous Arquetípico, tendría la capacidad de sincronizar todas las conciencias potenciales en una única experiencia universal, y de manifestar niveles de existencia intermedios, en planos coherentes y estables que trascienden las limitaciones de la dimensión fenoménica, más allá de las restricciones impuestas por la dialéctica entre la Energía y la Materia. La exploración de estos niveles intermedios y de la experiencia unificada de la consciencia universal será un camino que continuaremos explorando a medida que avancemos en el Modelo Nouménico.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">4.3.0</span></center>
-
 ## Emergencia del Nous Arquetípico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Exploración de las Potencialidades Nouménicas</span></center>
@@ -1088,21 +1008,6 @@ _4.3.3_ » El Nous Arquetípico, en su manifestación primigenia en el seno del 
 _4.3.4_ » En esta perspectiva, el Nous Arquetípico, en su función de estructura arquetípica primordial, emerge del vasto océano del Noúmeno como una genuina chispa de consciencia, portando en su esencia primigenia el potencial intrínseco para crear y manifestar la totalidad de la realidad en sus múltiples dimensiones y niveles de complejidad. En este sentido, el Nous Arquetípico actúa como un puente ontológico fundamental, tendido entre el dominio de las potencialidades infinitas e indiferenciadas del Noúmeno y el ámbito de la experiencia fenoménica, caracterizada por la manifestación concreta de la existencia en espacio y tiempo.
 
 ```media-slider
-
-sliderId: Ciencia_filosofia
-carouselShowThumbnails: true
-thumbnailPosition: bottom
-captionMode: overlay
-autoplay: false
-slideshowSpeed: 0
-width: 100%
-height: 380px
-transitionEffect: fade
-transitionDuration: 250
-enhancedView: true
-interactiveNotes: true
-compression: 0.8
-
 
 ![[00 - Consciencia Arquetipica.jpg]]
 ![[01 - Consciencia Arquetipica.jpg]]
@@ -1122,10 +1027,6 @@ _4.3.7_ » De esta forma, el Nous Arquetípico, a través de su capacidad inhere
 
 _4.3.8_ » En esta perspectiva, la experiencia subjetiva humana, en su rica complejidad y singularidad irreductible, puede ser entendida como un reflejo particular y diferenciado de la consciencia fractal esencial del Nous Arquetípico, que evoluciona de forma incesante para explorar la multiplicidad de probabilidades que se generan continuamente en el seno del universo causal humano, posibilitando, a su vez, la generación de nueva información original y promoviendo, en un ciclo recursivo y ascendente, la expansión y la evolución ulterior del propio Nous Arquetípico en su manifestación cósmica.
 
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">4.4.0</span></center>
-
 ## La Dualidad Inherente al Nous Arquetípico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Nous Pasivo y Nous Activo</span></center>
@@ -1139,10 +1040,6 @@ _4.4.3_ » En las siguientes secciones, exploraremos en detalle cada una de esta
 _4.4.4_ » Por otro lado, veremos como el Nous Activo, en su capacidad estructuradora, emerge dentro de esta vastedad para dar forma y manifestar ese sueño dentro de un entorno existencial lógico y coherente, que pueda llegar a construirse en una región estable de la totalidad que constituye el Nous Arquetípico, donde la emergencia del caos y la entropía que promueve la exploración continua del Nous Pasivo, este contenida por estructuras logicas que permiten anular la tendencia al desorden y a la dispersión que caracterizan a la naturaleza del universo Nouménico fundamental.
 
 _4.4.5_ » Esta exploración de la dualidad del Nous Arquetípico nos permitirá desvelar los mecanismos fundamentales que operan en los niveles pre-fenoménicos de la consciencia, preparando el terreno para la comprensión de la emergencia del universo fenoménico en capítulos posteriores.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">4.5.0</span></center>
 
 ## El Nous Pasivo
 
@@ -1165,10 +1062,6 @@ _4.5.7_ » Dentro de la vastedad que representa la región autoconsciente, el No
 _4.5.8_ » La evolución de la información dentro del Nous Pasivo se desarrolla bajo la influencia de diversos factores. En primer lugar, el Nous Pasivo se ve afectado directamente por los códigos de programación de los Tres Arquetipos Primordiales (Omnipresencia, Omnisciencia, Omnipotencia), que, aunque emergen del Nivel Nouménico fundamental, irradian su influencia lógica y programática hacia el Nous Pasivo, moldeando sus patrones informacionales y guiando su proceso exploratorio. En segundo lugar, el Nous Pasivo también se ve influenciado por la emergencia espontánea de Onemuones en el Nivel Nouménico, que actúan como "bits de información" que se introducen constantemente en su vastedad, enriqueciendo su contenido informacional y potenciando su dinamismo evolutivo.
 
 _4.5.9_ » A pesar de esta influencia externa y de su propia naturaleza exploratoria, el Nous Pasivo genera su propio sistema interno de evolución y auto-organización. La información dentro del Nous Pasivo evoluciona principalmente a través de la interacción y anidación de los Onemuones y la influencia de las matrices lógicas y programaciones que representan los tres Arquetipos Ontológicos: Arquetipo <font color="#00ff00">1<sup>✱</sup></font> (Cristo/Dualidad), Arquetipo <font color="#2f82ff">2<sup>✱</sup></font> (Samael/Trinidad) y Arquetipo <font color="#fc300c">3<sup>✱</sup></font> (Saklas/Unidad), reflejos codificados de los Tres Arquetipos Primordiales, que actúan de manera condicionada dentro de la estructura algorítmica que constituye el Nous Arquetípico, definiendo la dinámica evolutiva intrínseca del Nous Pasivo y preparando el terreno para la emergencia del Nous Activo.
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">4.6.0</span></center>
 
 ## El Nous Activo
 
@@ -1240,20 +1133,6 @@ _4.6.14_ » Algunos elementos Onemuónicos que podemos mencionar como unidades b
 
 ```media-slider
 
-sliderId: Ciencia_filosofia
-carouselShowThumbnails: true
-thumbnailPosition: bottom
-captionMode: overlay
-autoplay: false
-slideshowSpeed: 0
-width: 100%
-height: 380px
-transitionEffect: fade
-transitionDuration: 250
-enhancedView: true
-interactiveNotes: true
-compression: 0.8
-
 
 ![[Nous Arquetipico01.jpg]]
 ![[Nous Arquetipico02.jpg]]
@@ -1266,19 +1145,9 @@ compression: 0.8
 ![[Nous Arquetipico10.jpg]]
 ````
 
-
-
-
-
-
-
-<center><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';">5.0.0</span></center>
-
-# Capítulo 5
+# 5. El Tetraedro Nouménico
 
 ![[Tetraedro.png]]
-
-## El Tetraedro Nouménico
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen del Nous Activo</span></center>
 
