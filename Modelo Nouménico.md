@@ -1455,14 +1455,14 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 5.14.1 » La dialéctica, en su esencia más fundamental, describe la interacción entre fuerzas opuestas que, a través de su confrontación y resolución, dan origen a una nueva realidad. Este principio opera en todos los niveles de la existencia, desde las interacciones de partículas subatómicas hasta las dinámicas sociales y el desarrollo del pensamiento humano. 
 
-5.14.2 » Sin embargo, dentro del Modelo Nouménico, distinguimos dos niveles de <font color="#fc300c">Consciencia Dialéctica</font>: una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font> axiomática</font>, que opera como una ley fundame<sup></sup>ntal en todo el universo Nouménico, y una <font color="#2f82ff"><font color="#fc300c">Consciencia Dialéctica</font> inteligente</font>, que emerge como una forma de consciencia específica dentro del [[Modelo Nouménico#Nivel de Emergencia 3 (Monádico)|Nivel de Emergencia Monádico.]]
+5.14.2 » Sin embargo, dentro del [[LA CONSCIENCIA AVATÁRICA#^avatar|Avat4r del]] Modelo Nouménico, distinguimos dos niveles de <font color="#fc300c">Consciencia Dialéctica</font>: una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font> axiomática</font>, que opera como una ley [[LA CONSCIENCIA AVATÁRICA#El Djinn Padre|Super pero super]] fundame<sup></sup>ntal en todo el universo Nouménico, y una <font color="#2f82ff"><font color="#fc300c">Consciencia Dialéctica</font> inteligente</font>, que emerge como una forma de [[#^inteligente|smart]] consciencia específica dentro del [[Modelo Nouménico#Nivel de Emergencia 3 (Monádico)|Nivel de Emergencia Monádico.]]
 
 > [!fuego] DIALÉCTICA AXIOMATICA
 > La <font color="#fc300c">dialéctica axiomática</font> se manifiesta como un principio inherente a la naturaleza del <font color="#2f82ff">Nous Pasivo</font>. La interacción constante entre los Arquetipos Ontológicos Primordiales (<font color="#00ff00">1<sup>✱</sup></font>,<font color="#2f82ff"> 2<sup>✱</sup></font>, <font color="#fc300c">3<sup>✱</sup></font>) genera una tensión dinámica de carácter lógico que impulsa la evolución del Nous en su conjunto. 
 > 
 > Esta dialéctica fundamental no requiere de una consciencia individual que la observe o la interprete, ya que opera como una ley intrínseca, un motor que impulsa la creación y la transformación.
 
-> [!cerebro] DIALÉCTICA INTELIGENTE
+> [!cerebro] DIALÉCTICA INTELIGENTE ^inteligente
 > En contraste, la <font color="#2f82ff">dialéctica inteligente</font> se manifiesta a través de la <font color="#fc300c">Consciencia Dialéctica </font>(Nivel 3), que representa un nivel de autoconsciencia derivado del <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual/Eloaios). Esta consciencia no solo observa la interacción entre opuestos, sino que también la interpreta, la procesa y la utiliza para generar nuevas configuraciones de información. 
 > 
 > A diferencia de la <font color="#fc300c">dialéctica axiomática</font>, que opera de manera automática, la <font color="#2f82ff">dialéctica inteligente</font> implica un proceso de autoconsciencia, una capacidad de reflexión y de toma de decisiones.
