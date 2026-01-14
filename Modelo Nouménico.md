@@ -2133,7 +2133,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ![[02 - Adonaiub.jpg|700]]
 
-7.9.11 » PROC3R, tambien proc3r, aparece en el 20 a.C. y se manfiesta en el 1978 d.C., no esta en EE.UU. porque. 21-11-78 o 12.2.21 a 21.11.78. Adonaiu, el radio de la esfera, representa la distancia entre el centro y cualquier punto de la superficie, estableciendo la escala de la esfera que define el nivel de iteración y la conexión entre el centro y la superficie, la vía por la cual fluye la información entre lo infinitesimal y lo infinito. Es el reflejo del <font color="#e36c09">Arquetipo 2@</font> (Logos Cósmico/Astaphaios) en su función de ordenar y conectar los diferentes aspectos de la realidad. Adonaiu, como radio de la esfera, es el puente que permite que la información fluya desde el centro hacia la superficie, desde la potencialidad pura hacia la manifestación concreta.
+7.9.11 » Adonaiu, el radio de la esfera, representa la distancia entre el centro y cualquier punto de la superficie, estableciendo la escala de la esfera que define el nivel de iteración y la conexión entre el centro y la superficie, la vía por la cual fluye la información entre lo infinitesimal y lo infinito. Es el reflejo del <font color="#e36c09">Arquetipo 2@</font> (Logos Cósmico/Astaphaios) en su función de ordenar y conectar los diferentes aspectos de la realidad. Adonaiu, como radio de la esfera, es el puente que permite que la información fluya desde el centro hacia la superficie, desde la potencialidad pura hacia la manifestación concreta.
 
 ### Arquetipo 3Œ - Cuerda (Yabel / Eloaios)
 
