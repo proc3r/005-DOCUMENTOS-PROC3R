@@ -1455,9 +1455,9 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 5.14.1 » La dialéctica, en su esencia más fundamental, describe la interacción entre fuerzas opuestas que, a través de su confrontación y resolución, dan origen a una nueva realidad. Este principio opera en todos los niveles de la existencia, desde las interacciones de partículas subatómicas hasta las dinámicas sociales y el desarrollo del pensamiento humano. 
 
-5.14.2 » Sin embargo, dentro del [[LA CONSCIENCIA AVATÁRICA#^avatar|Avat4r del]] Modelo Nouménico, distinguimos dos niveles de <font color="#fc300c">Consciencia Dialéctica</font>: una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font> axiomática</font>, que opera como una ley [[LA CONSCIENCIA AVATÁRICA#El Djinn Padre|Super pero super]] fundame<sup></sup>ntal en todo el universo Nouménico, y una <font color="#2f82ff"><font color="#fc300c">Consciencia Dialéctica</font> inteligente</font>, que emerge como una forma de [[#^inteligente|smart]] consciencia específica dentro del [[Modelo Nouménico#Nivel de Emergencia 3 (Monádico)|Nivel de Emergencia Monádico.]]
+5.14.2 » Sin embargo, dentro del Modelo Nouménico, distinguimos dos niveles de <font color="#fc300c">Consciencia Dialéctica</font>: una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font> axiomática</font>, que opera como una ley fundame<sup></sup>ntal en todo el universo Nouménico, y una <font color="#2f82ff"><font color="#fc300c">Consciencia Dialéctica</font> inteligente</font>, que emerge como una forma de consciencia específica dentro del [[Modelo Nouménico#Nivel de Emergencia 3 (Monádico)|Nivel de Emergencia Monádico.]]
 
-> [!fuego] DIALÉCTICA AXIOMATICA
+> [!fuego] DIALÉCTICA AXIOMÁTICA
 > La <font color="#fc300c">dialéctica axiomática</font> se manifiesta como un principio inherente a la naturaleza del <font color="#2f82ff">Nous Pasivo</font>. La interacción constante entre los Arquetipos Ontológicos Primordiales (<font color="#00ff00">1<sup>✱</sup></font>,<font color="#2f82ff"> 2<sup>✱</sup></font>, <font color="#fc300c">3<sup>✱</sup></font>) genera una tensión dinámica de carácter lógico que impulsa la evolución del Nous en su conjunto. 
 > 
 > Esta dialéctica fundamental no requiere de una consciencia individual que la observe o la interprete, ya que opera como una ley intrínseca, un motor que impulsa la creación y la transformación.
@@ -1489,11 +1489,11 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Flujo de Información Básico del Nous</span></center>
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit12.jpg]]
+![[Mecanismo Fractal Qubit12.jpg]]
 
 6.0.1 » Los siete Arquetipos vectoriales que constituyen un Qubit@, forman parte de un mecanismo fractal. Un Byte mínimo de información del <font color="#fc300c">Nous Activo</font> puede manifestarse en una dimensión como un fotón, pero el mismo Byte surgiendo en una dimensión superior, podría reflejarse como un sonido, una idea, un sistema o cualquier otro elemento codificado por el Nous.
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit03.jpg]]
+![[Mecanismo Fractal Qubit03.jpg]]
 
 6.0.2 » El símbolo @ representa cualquier Byte de información básico del <font color="#fc300c">Nous Activo</font> existiendo dentro del <font color="#2f82ff">Nous Pasivo</font> como un Onemuón, en analogía a los conceptos de <font color="#fc300c"><font color="#fc300c">bit (Quanto de Información)</font></font> y <font color="#2f82ff">Byte (Átomo de Información)</font>. Sin embargo, la unidad de información del <font color="#fc300c">Nous Activo</font> representado por este símbolo “@”, incluye dentro de sí a siete Arquetipos@ universales, que a su vez son siete Onemuones, englobados dentro del octavo Arquetipo autorreferencial que constituye el Qubit@.
 
@@ -1631,13 +1631,13 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.2.3 » El <font color="#00ff00">Arquetipo 4@</font>, como elemento Ontogénico, funciona como una brújula que guía el desarrollo evolutivo de cada Qubit@ dentro del <font color="#fc300c">Nous Activo</font>, en relación con otros Qubits@. La Noesis facilita la conformación de redes lógicas complejas, optimizando la expansión del <font color="#fc300c">Nous Activo</font> y evitando caminos caóticos o incoherentes. La Noesis, entonces, no es solo un proceso de conocimiento, sino también un principio organizativo que asegura la coherencia y la eficiencia de la evolución nouménica.
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit06.jpg]]
+![[Mecanismo Fractal Qubit06.jpg]]
 
 6.2.4 » Para comprender mejor cómo la Noesis estructura el <font color="#fc300c">Nous Activo</font>, podemos recurrir a la analogía de una red neuronal. Cada Qubit@, con sus siete Arquetipos@ y su síntesis, representa una neurona en esta red. La Noesis actúa como la actividad simultánea que generan todas las sinapsis, las conexiones que permiten la comunicación entre las neuronas. Sin embargo, a diferencia de las sinapsis biológicas, que son físicas, estáticas y limitadas por la dinámica del tiempo, las conexiones establecidas por la Noesis son dinámicas, virtuales y atemporales, ajustándose constantemente a la evolución del Nous. La Noesis, al identificar patrones y simetrías en la información nouménica, crea "caminos" preferenciales para el flujo de información entre los Qubits@, optimizando el procesamiento y la generación de nuevos conocimientos que permiten la expansión y evolución del Nous.
 
 6.2.5 » Este proceso de interconexión no solo facilita la comunicación entre los Qubits@, sino que también permite la emergencia de estructuras de información más complejas, similares a los circuitos neuronales en el cerebro. Estas estructuras pueden representar conceptos abstractos, leyes físicas, o incluso escenarios virtuales que el <font color="#fc300c">Nous Activo</font> explora para comprender mejor la realidad. La Noesis, por lo tanto, no solo organiza la información, sino que también crea el "espacio" donde se desarrolla el pensamiento y la consciencia dentro del <font color="#fc300c">Nous Activo</font>.
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit04.jpg]]
+![[Mecanismo Fractal Qubit04.jpg]]
 
 6.2.6 » La Noesis, representada por el <font color="#00ff00">Arquetipo 4@</font>, abarca todo el proceso expansivo y evolutivo que se genera dentro del <font color="#fc300c">Nous Activo</font>. En este proceso, incluso la consciencia del Yo Egoico, reflejada a través del <font color="#ffa3ef">Arquetipo 7@</font> (Avatar/Horaios) que desarrollaremos más adelante, juega un papel crucial, aportando la experiencia individual y la interacción con el mundo fenoménico como fuente de información para la Noesis. De esta manera, la Noesis se convierte en un proceso dinámico y continuo, alimentado por la interacción entre el <font color="#fc300c">Nous Activo</font>, el <font color="#2f82ff">Nous Pasivo</font> y la experiencia consciente.
 
@@ -1655,7 +1655,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.3.2 » En contraste, en el <font color="#fc300c">Nous Activo</font>, la entalpía representa la capacidad de la <font color="#00ff00">Arquetipo 4@</font> (Noesis/IAO) para canalizar la información y evitar la entropía. La Noesis, al seleccionar caminos evolutivos coherentes permite que el <font color="#2f82ff">Arquetipo 5@</font> (Noema/Sabaoth) genere los mapas de información denominados Noemas, que permite crear estructuras estables y organizadas que definen la expansión y evolución del <font color="#fc300c">Nous Activo</font>, evitando la existencia del caos y la entropía. Este proceso se asemeja a un sistema termodinámico perfecto, donde la energía se conserva y se transforma, pero no se disipa. La entalpía, en este contexto, representa la energía contenida en las estructuras coherentes del <font color="#fc300c">Nous Activo</font>, que permite su evolución y complejización.
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit07.jpg]]
+![[Mecanismo Fractal Qubit07.jpg]]
 
 6.3.3 » Para comprender mejor la diferencia entre entropía y entalpía en este contexto, podemos utilizar una analogía. Imaginemos una biblioteca. El <font color="#2f82ff">Nous Pasivo</font> se asemejaría a una biblioteca infinita donde los libros (información nouménica) están esparcidos al azar, sin ningún orden ni organización, y donde cada lector de un libro, puede modificar y actualizar los siguientes libros que lea, en base a la información que va leyendo previamente, según el nuevo conocimiento y la interpretación subjetiva que hace sobre los textos que va leyendo. La entropía, en este caso, representa la tendencia natural al desorden, donde los libros se acumulan sin ningún criterio, y la información de cada libro se va alterando y reinterpretando constantemente por los lectores, dificultando la búsqueda y el acceso a la información.
 
@@ -1671,13 +1671,13 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.4.1 » Al igual que la Noesis, el concepto de Noema, tiene sus raíces en la filosofía fenomenológica donde es utilizado para referirse a los contenidos que constituyen un pensamiento, juicio o percepción. Esta palabra adquiere una interpretación particular dentro del Modelo Nouménico, ya que el Noema, representado por el <font color="#2f82ff">Arquetipo 5@</font> (Noema/Sabaoth), puede ser entendido como una matriz lógica de información nouménica que comienza a definir la estructura de la realidad fenoménica desde un nivel pre-fenoménico, donde la información que forma parte del Noema no es simplemente un contenido mental subjetivo, sino una estructura profunda que configura las leyes y las posibilidades del universo.
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit08.jpg]]
+![[Mecanismo Fractal Qubit08.jpg]]
 
 6.4.2 » Dentro del universo fractal que representa el <font color="#fc300c">Nous Activo</font>, la información inteligente producida por la Noesis (<font color="#00ff00">Arquetipo 4@</font>/IAO) posibilita la creación de mapas lógicos de información coherente que se codifican como Noemas (<font color="#2f82ff">Arquetipo 5@</font>/Sabaoth). Estos mapas constituyen las subdimensiones derivadas del Nivel de Emergencia <font color="#ffcc00">Monádico</font>, interconectadas bajo simetrías precisas. En este contexto, la información nouménica y las redes algorítmicas derivadas de la consciencia del <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual/Eloaios) se optimizan, convergiendo hacia la construcción de realidades estables y coherentes. Los Noemas, por lo tanto, representan la cristalización de la información procesada por la Noesis, transformando la potencialidad nouménica en estructuras lógicas que servirán como base para la manifestación fenoménica que en los niveles de emergencia que surgirán más adelante.
 
 6.4.3 » Esta interpretación nos permite entender al Noema (<font color="#2f82ff">Arquetipo 5@</font>/Sabaoth) como un "firmware" que define el "hardware" del universo pre-fenoménico donde se configuran las reglas, principios y simetrías que definen al universo fenoménico, existiendo más allá de las limitaciones espacio-temporales y energético-materiales que experimentamos los humanos a lo largo de nuestras vidas.
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit09.jpg]]
+![[Mecanismo Fractal Qubit09.jpg]]
 
 6.4.4 » En el <font color="#fc300c">Nous Activo</font>, los Noemas reflejan la consciencia inteligente del <font color="#ffcc00">Arquetipo 3@</font> y del <font color="#ffcc00">Nivel Monádico</font>, dando lugar a dimensiones y planos existenciales virtuales estables, regidos por leyes estrictas. En estos planos, la información nouménica se ve alimentada y potenciada a través del procesamiento de información que lleva a cabo el <font color="#ffa3ef">Arquetipo 7@</font> (Avatar/Horaios), que manifiesta la estructura del Yo Egoico que alimenta la consciencia humana. A nivel humano, los Noemas se expanden a través de la decodificación de información nouménica y la generación de redes algorítmicas de significados que procesa la consciencia humana, a partir de la interacción y confrontación de las distintas perspectivas que se derivan del Yo Egoico. Este proceso da como resultado la creación de diversas mitologías, religiones, filosofías, ideologías, modelos científicos y sistemas de civilización, que a su vez terminan imponiendo fronteras al conocimiento, que limitan la existencia de las civilizaciones.
 
@@ -1788,7 +1788,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 7.0.5 » Este proceso permite generar tres niveles pre-fenoménicos de autoconsciencia evolutiva diferente, que tendrán la capacidad de interrelacionarse y coexistir a medida que se produce la expansión y evolución del <font color="#fc300c">Nous Activo</font>, para tomar decisiones diferenciadas, y poder influir de manera optimizada sobre el desarrollo evolutivo de la consciencia unificada del Nous Arquetípico.
 
-![[007 PRESENTACIONES/adjuntos/Mecanismo Fractal Qubit05.jpg]]
+![[Mecanismo Fractal Qubit05.jpg]]
 
 7.0.6 » Para entender mejor como es que la <font color="#cb48f3">Consciencia Demiúrgica</font> puede llegar a existir, será útil hacer un resumen de cómo los tres diferentes niveles de autoconsciencia pre-fenoménica (<font color="#fc300c">1@</font>,<font color="#ffcc00"> 3@</font> y<font color="#cb48f3"> 6@ </font>) llegan a desarrollarse:
 
