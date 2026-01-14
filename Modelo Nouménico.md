@@ -1505,8 +1505,6 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.0.4 » Podemos representar a los Arquetipos Ontogénicos vectoriales del Qubit@ de la siguiente manera:
 
-> <span style="font-size: 19px; font-style: italic;font-family: monospace;">(@<font color="#fc300c">0</font>111111)</span> ⟹ <font color="#fc300c">1@ NOUS (ADONIN)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@1<font color="#e36c09">0</font>11111)</span> ⟹ <font color="#e36c09">2@ LOGOS CÓSMICO (ASTAPHAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@11<font color="#ffcc00">0</font>1111)</span> ⟹ <font color="#ffcc00">3@ LOGOS INDIVIDUAL (ELOAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@111<font color="#00FF00">0</font>111)</span> ⟹ <font color="#00FF00">4@ NOESIS (IAO)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@1111<font color="#2f82ff">0</font>11)</span> ⟹ <font color="#2f82ff">5@ NOEMA (SABAOTH)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@11111<font color="#cb48f3">0</font>1)</span> ⟹ <font color="#cb48f3">6@ DEMIURGO (SABBATAIOS)</font><br><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@111111<font color="#ffa3ef">0</font>)</span> ⟹ <font color="#ffa3ef">7@ AVATAR (HORAIOS)</font>
-
 ![[Canales Ontogenicos.jpg]]
 
 > [!cite] DONDE:
@@ -1514,7 +1512,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 > 
 > ![[Pasted image 20251203233841.png|450]]
 > 
->- <span style="font-size: 17px;  font-style: italic; font-weight: 400;">El símbolo : Representa al Onemuón que refleja el Arquetipo Ontogénico especÍfico como bit de información Nouménica.</span>
+>- <span style="font-size: 17px;  font-style: italic; font-weight: 400;">El símbolo *: Representa al Onemuón que refleja el Arquetipo Ontogénico especÍfico como bit de información Nouménica.</span>
 > 
 > ![[Pasted image 20251203233919.png|450]]
 > 
@@ -1528,7 +1526,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.0.5 » Por otro lado, la totalidad de información que representan los siete Arquetipos@ vectoriales que hemos mencionado, se codifican bajo un octavo elemento denominado Arquetipo 8@ (Singularidad/Onemuón), que actúa como unidad autorreferencial que refleja los valores definitivos del Qubit@ como Átomo de Información, permitiéndole adquirir una identidad única dentro del <font color="#fc300c">Nous Activo</font>, que a su vez se reflejará como un Onemuón más dentro del <font color="#2f82ff">Nous Pasivo</font>, con un valor y significado único e irremplazable. Este elemento se representa codificado como:
 
-><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@<font color="#fc300c">1</font><font color="#e36c09">1</font><font color="#ffcc00">1</font><font color="#00FF00">1</font><font color="#2f82ff">1</font><font color="#cb48f3">1</font><font color="#ffa3ef">1</font>)</span>  ⟹ 8@ SINGULARIDAD (ONEMUÓN)
+><span style="font-size: 19px; font-style: italic;font-family: monospace;">(@<font color="#fc300c">1</font><font color="#e36c09">1</font><font color="#ffcc00">1</font><font color="#00FF00">1</font><font color="#2f82ff">1</font><font color="#cb48f3">1</font><font color="#ffa3ef">1</font>)*1</span>  ⟹ 8@ SINGULARIDAD (ONEMUÓN)
 
 ![[Pasted image 20251204001015.png|600]]
 
@@ -1537,11 +1535,11 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 > 
 > ![[Pasted image 20251204000329.png|500]]
 > 
->- <span style="font-size: 17px;  font-style: italic; font-weight: 400;">El símbolo 1: Representa la identidad del Qubit@ codificado como Onemuón activado, en su estado de quanto de información capaz de reflejarse dentro del <font color="#2f82ff">Nous Pasivo</font>, y reflejando la información definitiva que codifican los distintos Arquetipos@ del Qubit@ como Byte de información.</span>
+>- <span style="font-size: 17px;  font-style: italic; font-weight: 400;">El símbolo *1: Representa la identidad del Qubit@ codificado como Onemuón activado, en su estado de quanto de información capaz de reflejarse dentro del <font color="#2f82ff">Nous Pasivo</font>, y reflejando la información definitiva que codifican los distintos Arquetipos@ del Qubit@ como Byte de información.</span>
 > 
 > ![[Pasted image 20251204000413.png|500]]
 >  
->- <span style="font-size: 17px;  font-style: italic; font-weight: 400; ">Los números 1: Representan la información definitiva codificada vectorialmente por cada Arquetipo@, que define el estado del Qubit@, definiéndolo como átomo de Información especÍfico dentro del <font color="#fc300c">Nous Activo</font>..</span>
+>- <span style="font-size: 17px;  font-style: italic; font-weight: 400; ">Los números 1: Representan la información definitiva codificada vectorialmente por cada Arquetipo@, que define el estado del Qubit@, definiéndolo como átomo de Información especÍfico dentro del <font color="#fc300c">Nous Activo</font>.</span>
 > 
 > ![[Pasted image 20251204001225.png|500]]
 
