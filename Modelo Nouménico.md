@@ -1620,7 +1620,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.1.14 » Esta dinámica de influencia variable, que va desde la determinación total hasta la observación pasiva, permite una gran diversidad y complejidad en la manifestación del universo. Los Arquetipos Ontológicos, a través de sus vectores de información nouménica, actúan como principios organizativos que se adaptan a diferentes contextos, dando lugar a una multiplicidad de formas y experiencias en los distintos niveles de emergencia, desde el <font color="#fc300c">Nous Activo</font> hasta el mundo fenoménico.
 
-## Arquetipo 4@ (Noesis / IAO)
+## Noesis (Arquetipo 4@)
 
 <center><font color="#0f243e"><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Lenguaje de la Traducción</span></font></center>
 
@@ -1664,7 +1664,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.3.6 » Es importante destacar que, si bien la Noesis (<font color="#00ff00">Arquetipo 4@</font>/IAO) se origina dentro del <font color="#fc300c">Nous Activo</font>, también puede reflejarse dentro del <font color="#2f82ff">Nous Pasivo</font>, permitiendo un cierto nivel de <font color="#fc300c">Consciencia Dialéctica</font> que refleja la exploración del <font color="#ffcc00">Arquetipo 3@</font> en este plano, aunque su función difiere de manera significativa. En el <font color="#2f82ff">Nous Pasivo</font>, la información nouménica generada por este proceso de Noesis no se estabiliza ni se organiza en estructuras coherentes. En cambio, decae en desorden a partir de nuevas potencialidades exploradas, impidiendo la existencia de la entalpía tal como se manifiesta en el <font color="#fc300c">Nous Activo</font>. En el <font color="#2f82ff">Nous Pasivo</font>, la Noesis se limita a reflejar la actividad exploratoria, sin la capacidad de crear las estructuras organizativas que caracterizan su acción en el <font color="#fc300c">Nous Activo</font>. Esta diferencia fundamental entre la acción de la Noesis en ambos Nous subraya la distinción entre la entropía inherente al <font color="#2f82ff">Nous Pasivo</font> y la entalpía que guía la evolución del <font color="#fc300c">Nous Activo</font>.
 
-## Arquetipo 5@ (Noema/Sabaoth)
+## Noema (Arquetipo 5@)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen del Nivel Fenomenológico</span></center>
 
@@ -1771,7 +1771,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.6.6 » Esto implicaría que solo los Avatares serían capaces de hacer uso de la única matriz vectorial sincronizante que constituye el <font color="#00ff00">Nivel Fenomenológico</font>, lo que convertiría a este nivel en el escenario final donde la información nouménica se traduce en experiencias concretas dentro del universo fenoménico. En este sentido, este nivel de emergencia actuaría como un puente dinámico entre el mundo nouménico y el mundo de la experiencia, el <font color="#2f82ff">universo cuántico</font> y el <font color="#fc300c">universo clásico</font>, permitiendo la continua creación y transformación de la realidad.
 
-# 7. Arquetipo 6@ (Demiurgo / Sabbataios)
+# 7. Demiurgo (Arquetipo 6@)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Puente entre El Caos y El Orden</span></center>
 
@@ -2137,7 +2137,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.9 » A continuación, exploraremos cada ArquetipoŒ Egoico en detalle, relacionándolo con su Arquetipo Ontogénico correspondiente y su función dentro de la geometría esférica del <font color="#00ff00">Qubit Egoico</font>:
 
-### Arquetipo 1Œ - Centro (Kalilaumbri vs Adonin)
+### Arquetipo 1Œ - Centro (Kalilaumbri)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Punto de Singularidad</span></center>
 
@@ -2145,7 +2145,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.10 » Kalilaumbri, el centro de la esfera, representa el punto de convergencia de todas las líneas y la singularidad desde donde emana el <font color="#2f82ff">Flujo Alfa</font>. Es el reflejo del <font color="#fc300c">Arquetipo 1@</font> (Nous/Adonin) en su aspecto más fundamental, la fuente primordial de la consciencia y la potencialidad existencial. Kalilaumbri, como centro de la esfera, es el punto de conexión con la totalidad del Nous, el lugar donde la información nouménica se origina y se distribuye hacia la superficie.
 
-### Arquetipo 2Œ - Radio (Adonaiu vs Astaphaios)
+### Arquetipo 2Œ - Radio (Adonaiu)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Puente entre lo Infinito y lo Infinitesimal</span></center>
 
@@ -2153,7 +2153,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.11 » Adonaiu, el radio de la esfera, representa la distancia entre el centro y cualquier punto de la superficie, estableciendo la escala de la esfera que define el nivel de iteración y la conexión entre el centro y la superficie, la vía por la cual fluye la información entre lo infinitesimal y lo infinito. Es el reflejo del <font color="#e36c09">Arquetipo 2@</font> (Logos Cósmico/Astaphaios) en su función de ordenar y conectar los diferentes aspectos de la realidad. Adonaiu, como radio de la esfera, es el puente que permite que la información fluya desde el centro hacia la superficie, desde la potencialidad pura hacia la manifestación concreta.
 
-### Arquetipo 3Œ - Cuerda (Yabel vs Eloaios)
+### Arquetipo 3Œ - Cuerda (Yabel)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Conexión entre las Experiencias</span></center>
 
@@ -2161,7 +2161,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.12 » Yabel, la cuerda de la esfera, representa cualquier segmento que une dos puntos de la superficie, simbolizando la conexión entre diferentes aspectos de la experiencia y las relaciones entre las distintas manifestaciones del <font color="#fc300c">Flujo Omega</font>. Es el reflejo del <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual/Eloaios) en su búsqueda de comprensión y conexión entre todos los elementos del Nous. Yabel, como cuerda de la esfera, es el vínculo que une las diferentes experiencias y perspectivas, creando una red de significados y relaciones.
 
-### Arquetipo 4Œ - Diámetro (Cain vs IAO)
+### Arquetipo 4Œ - Diámetro (Cain)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Integración de la Polaridad</span></center>
 
@@ -2169,7 +2169,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.13 » Cain, el diámetro de la esfera, representa una cuerda que pasa por el centro, simbolizando la integración de la polaridad entre dos manifestaciones opuestas del <font color="#fc300c">Flujo Omega</font>, y la conexión entre los flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font> como reflejos de lo finito y lo infinito. Es el reflejo del <font color="#00ff00">Arquetipo 4@</font> (Noesis/IAO) en su función de pensar, comprender y conocer, integrando las diferentes perspectivas y polaridades, y conectando todas las iteraciones de manera secuencial en una única dimensión que refleja la totalidad. Cain, como diámetro de la esfera, es el eje que une los opuestos, permitiendo la integración de la dualidad en una totalidad coherente.
 
-### Arquetipo 5Œ - Eje (Harmas  vs Sabaoth)
+### Arquetipo 5Œ - Eje (Harmas)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Dinámica del Cambio y el Equilibrio</span></center>
 
@@ -2177,7 +2177,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.14 » Harmas, el eje de la esfera, representa la línea sobre la que gira el semicírculo que genera la esfera que constituye cada <font color="#00ff00">Qubit Egoico</font>, simbolizando el eje de rotación y la dinámica del cambio como punto de equilibrio entre las fuerzas centrípetas y centrífugas. Es el reflejo del <font color="#2f82ff">Arquetipo 5@</font> (Noema/Sabaoth) en su función de establecer las leyes y principios que rigen el universo fenoménico. Harmas, como eje de la esfera, es el punto de referencia para el movimiento y la transformación, el lugar donde las fuerzas opuestas se encuentran y se equilibran.
 
-### Arquetipo 6Œ - Polos (ABEL vs Sabbataios)
+### Arquetipo 6Œ - Polos (ABEL)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Dualidad en Tensión</span></center>
 
@@ -2185,7 +2185,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.15 » Cain, los polos de la esfera, representan los dos puntos opuestos de la esfera donde el eje cruza la superficie, simbolizando la dualidad del <font color="#cb48f3">Arquetipo 6@</font> que existe dentro de la esfera del <font color="#00ff00">Qubit Egoico</font>, manifestando la tensión entre el <font color="#2f82ff">Flujo Alfa</font> y el <font color="#fc300c">Flujo Omega</font>. Es el reflejo del <font color="#cb48f3">Arquetipo 6@</font> (Demiurgo/Sabbataios) en su función de conectar los dos estados del Nous, el Pasivo y el Activo. Cain, como polos de la esfera, es el punto de máxima tensión y polarización que se codifica bajo vectores sobre la superficie holográfica del <font color="#2f82ff">Qubit Ontogénico</font>, el lugar donde las fuerzas opuestas se encuentran en su máxima expresión bajo una matriz sincronizante que permite generar orden a partir del caos.
 
-### Arquetipo 7Œ - Esfera (Superficie) (Athot vs Horaios)
+### Arquetipo 7Œ - Esfera (Superficie) (Athot)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Síntesis de la Experiencia</span></center>
 
@@ -2211,7 +2211,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.21 » Cada ArquetipoŒ Egoico, por lo tanto, es un "canal" a través del cual la información nouménica fluye desde su origen hacia la consciencia del <font color="#ffa3ef">Yo Egoico</font>, influyendo activamente en el estado y la información que se procesa en cada iteración y nivel dimensional, así como en la personalidad e identidad de cada Avatar. La interacción entre estos tipos de ArquetiposŒ, a su vez, da origen a la complejidad de la experiencia humana, una experiencia que es a la vez individual y universal, única y compartida.
 
-# 8. Arquetipo 7@ (Avatar / Horaios)
+# 8. Avatar (Arquetipo 7@)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Traductor entre Lo Nouménico y Lo Fenoménico</span></center>
 
