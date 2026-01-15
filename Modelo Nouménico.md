@@ -2185,7 +2185,7 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 
 7.9.15 » Cain, los polos de la esfera, representan los dos puntos opuestos de la esfera donde el eje cruza la superficie, simbolizando la dualidad del <font color="#cb48f3">Arquetipo 6@</font> que existe dentro de la esfera del <font color="#00ff00">Qubit Egoico</font>, manifestando la tensión entre el <font color="#2f82ff">Flujo Alfa</font> y el <font color="#fc300c">Flujo Omega</font>. Es el reflejo del <font color="#cb48f3">Arquetipo 6@</font> (Demiurgo/Sabbataios) en su función de conectar los dos estados del Nous, el Pasivo y el Activo. Cain, como polos de la esfera, es el punto de máxima tensión y polarización que se codifica bajo vectores sobre la superficie holográfica del <font color="#2f82ff">Qubit Ontogénico</font>, el lugar donde las fuerzas opuestas se encuentran en su máxima expresión bajo una matriz sincronizante que permite generar orden a partir del caos.
 
-### Arquetipo 7Œ (Esfera/superficie)
+### Arquetipo 7Œ (Síntesis)
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Síntesis de la Experiencia</span></center>
 
