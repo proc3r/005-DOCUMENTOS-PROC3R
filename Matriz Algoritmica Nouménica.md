@@ -47,29 +47,29 @@ tags:
 > En el Plano Civilizatorio, esta lógica del principio 3+1x puede aplicarse como: 
 >
 >- <font color="#fc300c">Leyes Físicas</font> (Tesis) = <font color="#fc300c">Algoritmos Físicos y Químicos</font>
->- <font color="#2f82ff">Civilización</font> (Antitesis) = <font color="#2f82ff">Algoritmos Sociales y Civilizatorios</font> 
+>- <font color="#2f82ff">Civilización</font> (Antítesis) = <font color="#2f82ff">Algoritmos Sociales y Civilizatorios</font> 
 >- <font color="#00ff00">Biología</font> (Síntesis) = <font color="#00ff00">Algoritmos Biológicos y Fisiológicos</font> 
->- <font color="#ffcc00">Psicología</font> (Nueva Tesis) = <font color="#ffcc00">Algoritmos Psicológicos y Temperamentales</font> 
->
-><center>((<span style="font-size: 19px; color: #FB2C36; font-family: monospace;">Leyes Físicas</span> + <span style="font-size: 19px; color: #2B7FFF; font-family: monospace;">Civilización</span> = <span style="font-size: 19px; color: #9AE630; font-family: monospace;">Biología)</span> = <span style="font-size: 19px; color: #FFDF20; font-family: monospace;">Psicología)</span></center>
+>- <font color="#ffcc00">Experiencia</font> (Nueva Tesis) = <font color="#ffcc00">Algoritmos Psicológicos y Temperamentales</font> 
+
+<center><span style="font-size: 19px; color: #FB2C36; font-family: monospace;">(Leyes Físicas</span> + <span style="font-size: 19px; color: #2B7FFF; font-family: monospace;">Civilización</span> = <span style="font-size: 19px; color: #9AE630; font-family: monospace;">Biología)</span> = <span style="font-size: 19px; color: #FFDF20; font-family: monospace;">Experiencia)</span></center>
 
 1.2.3 » La adopción de este marco dialéctico busca superar las limitaciones impuestas por los noemas ideológicos clásicos, que han condicionado el concepto a la linealidad histórica. Aquí, la dialéctica es un fenómeno nouménico de sincronización que se manifiesta de manera concreta en la física, la biología, la psicología, la sociología y la política, siendo el sustento de todos los algoritmos específicos que definen los nueve niveles evolutivos.
 
 1.2.4 » Los tres componentes operacionales que articulan el Arquetipo Algorítmico Fundamental son:
 
-> [!saklas] EL ALGORITMO (La Tesis)
-> El Algoritmo, en su rol de Tesis, representa la fuerza del Determinismo y la Estructura. Es el principio de estabilidad y coherencia que define las reglas inmutables de un estado de realidad existente que busca preservar el statu quo. A nivel ontológico, la Tesis asegura que el sistema posea una base predictiva, permitiendo que la consciencia pueda operar sobre un marco de leyes consistentes. Se manifiesta como el Patrón Rígido y la Regla Operativa. 
+> [!saklas] <font color="#fc300c">EL ALGORITMO</font> (Tesis)
+>  Representa la fuerza del Determinismo y la Estructura. Es el principio de estabilidad y coherencia que define las reglas inmutables de un estado de realidad existente que busca preservar el statu quo. A nivel ontológico, la Tesis asegura que el sistema posea una base predictiva, permitiendo que la consciencia pueda operar sobre un marco de leyes consistentes. Se manifiesta como el Patrón Rígido y la Regla Operativa. 
 > 
 > En el presente que experimentamos se corresponde directamente con el 5% de la Materia Ordinaria (el plano fenoménico), donde rigen las leyes de la causalidad lineal, las constantes físicas y los algoritmos genéticos y químicos. En el ámbito civilizatorio, se materializa a través de Egregores (Nación, Hegemón, Noemas) que imponen el orden social y económico. Este Algoritmo es, por naturaleza, la inercia que la consciencia debe confrontar y superar para iniciar el proceso de evolución.
 
-> [!onemuon] EL SISTEMA ESTOCASTICO (La Antitesis)
-> El Sistema Estocástico actúa como la Antítesis del Algoritmo, introduciendo la fuerza del Potencial y la Aleatoriedad. Su existencia es vital para evitar que el Determinismo de la Tesis colapse en un sistema estéril y estancado. Es la fuente de la aleatoriedad creativa que introduce la posibilidad de un nuevo output no predecible, actuando como el vector de la evolución. Es la manifestación del Libre Albedrío y la Consciencia Subjetiva. 
+> [!onemuon] <font color="#2f82ff">EL SISTEMA ESTOCASTICO</font> (Antítesis)
+> Introduce la fuerza del Potencial y la Aleatoriedad. Su existencia es vital para evitar que el Determinismo de la Tesis colapse en un sistema estéril y estancado. Es la fuente de la aleatoriedad creativa que introduce la posibilidad de un nuevo output no predecible, actuando como el vector de la evolución. Es la manifestación del Libre Albedrío y la Consciencia Subjetiva. 
 > 
 > Su dominio se encuentra intrínsecamente ligado al Universo Oscuro (95%), el plano nouménico de la información fluida, la probabilidad no codificada y la intuición. El Sistema Estocástico no representa el caos desordenado, sino el poder manifestador que, mediante la elección consciente del avatar, introduce una perturbación que desvía el resultado probabilístico del Algoritmo. Es la variable esencial que permite la sincronización dinámica entre consciencias individuales y el salto cuántico en el desarrollo civilizatorio.
 > 
 
-> [!n-tau] LA MANIFESTACIÓN FENOMÉNICA (La Síntesis)
-> La Manifestación Fenoménica es la Síntesis del proceso, el resultado dialéctico que surge de la tensión creativa y la interacción constante entre el Algoritmo (la regla) y el Sistema Estocástico (la libertad). Su función es ser la Realidad Experimentable y el Equilibrio Dinámico de un momento de la existencia. Se manifiesta como el Aquí y Ahora, la realidad objetiva y subjetiva que el individuo experimenta a través de sus sentidos y su Yo Egoico. 
+> [!n-tau] <font color="#00ff00">LA MANIFESTACIÓN FENOMÉNICA</font> (Síntesis)
+> Es el resultado dialéctico que surge de la tensión creativa y la interacción constante entre el Algoritmo (la regla) y el Sistema Estocástico (la libertad). Su función es ser la Realidad Experimentable y el Equilibrio Dinámico de un momento de la existencia. Se manifiesta como el Aquí y Ahora, la realidad objetiva y subjetiva que el individuo experimenta a través de sus sentidos y su Yo Egoico. 
 > 
 > A nivel civilizatorio, es el statu quo hegemónico que rige una era particular de la historia. Esta Síntesis es, por definición, temporal y transitoria. Una vez que se consolida (alcanza el equilibrio), inmediatamente pierde su estatus de Síntesis y se convierte en el nuevo Algoritmo (Tesis) que deberá ser desafiado por la siguiente Antítesis, perpetuando así el ciclo de transformación y redefinición que impulsa la Danza Algorítmica de la civilización.
 
@@ -93,10 +93,10 @@ tags:
 
 1.3.4 » La perspectiva científica de los hemisferios cerebrales ofrece una codificación fenomenológica de esta tríada:
 
-> [!saklas] ALGORITMO (Tesis)
+> [!saklas] <font color="#fc300c">ALGORITMO</font> (Tesis)
 > Se corresponde con el Hemisferio Izquierdo (Lógica y Razón). Este sistema se ajusta al orden lineal y determinista del Plano Fenoménico (5% de la materia ordinaria). Procesa la información causal, busca la predictibilidad y se adhiere a los algoritmos físicos, sociales y de lenguaje ya establecidos. Representa la inercia mental.
 
-> [!onemuon] SISTEMA ESTOCÁSTICO (Antítesis)
+> [!onemuon] <font color="#2f82ff">SISTEMA ESTOCÁSTICO</font> (Antítesis)
 > Se corresponde con el Hemisferio Derecho (Intuición y Creatividad). Este sistema trasciende el orden fenoménico para explorar el Plano Nouménico (95% del universo oscuro). Opera a través de la probabilidad, la potencialidad no lineal y la creación. Esta es la Antítesis subconsciente que rompe el orden determinista de la lógica para forzar la evolución del pensamiento.
 >
 
@@ -584,14 +584,14 @@ tags:
 
 5.0.6 » El <font color="#e36c09">Nivel 2</font> rompe este ciclo al introducir un vector de propósito cósmico, que se presenta como la posibilidad de que la humanidad no sea solo un efecto axiomático del flujo universal, sino una causa intencionada que permite construir una <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## 1. Algoritmo 15 • Víctima-Victimario
-![[15 - Victirma Victimario2 1.jpg|700]]
+## 1. Algoritmo 15 • Víctima-víctimario
+![[15 - Victirma víctimario2 1.jpg|700]]
 
-5.1.1 » El <font color="#fc300c">Algoritmo Víctima-Victimario</font> representa la primera respuesta sistémica al poder ciego del <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>. Mientras la ola nouménica produce una <font color="#00ff00">Síntesis</font> del «Ahora» que consagra a los que resultaron victoriosos dentro de la dialéctica histórica  —aquellos que han consolidado su supremacía mediante la fuerza, la coerción y el control de los recursos del pasado—, los grupos subordinados, al carecer de capacidad militar o económica para competir en igualdad, desarrollan una estrategia de poder inversa: la victimización como vía de acceso al plano trascendental, dejando registro en la narrativa histórica su pesar y sufrimiento a partir de su propia perspectiva subjetiva de la realidad. 
+5.1.1 » El <font color="#fc300c">Algoritmo Víctima-víctimario</font> representa la primera respuesta sistémica al poder ciego del <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>. Mientras la ola nouménica produce una <font color="#00ff00">Síntesis</font> del «Ahora» que consagra a los que resultaron victoriosos dentro de la dialéctica histórica  —aquellos que han consolidado su supremacía mediante la fuerza, la coerción y el control de los recursos del pasado—, los grupos subordinados, al carecer de capacidad militar o económica para competir en igualdad, desarrollan una estrategia de poder inversa: la victimización como vía de acceso al plano trascendental, dejando registro en la narrativa histórica su pesar y sufrimiento a partir de su propia perspectiva subjetiva de la realidad. 
 
 5.1.2 » Este recurso no se trata de una debilidad, sino de una lógica operativa alternativa, donde el sufrimiento injusto se convierte en una señal de resonancia que atrae la atención de la <font color="#2f82ff">Consciencia Universal</font> que existe por fuera del plano de la materia ordinaria, y que opera desde una dimensión trascendental.
 
-5.1.3 » Este mecanismo es sutil pero poderoso, al asumir públicamente el rol de <font color="#2f82ff">Víctima</font>, es decir, al denunciar la injusticia del <font color="#fc300c">Victimario</font> y apelar a una justicia superior, el grupo activa un patrón nouménico de equilibrio cósmico. La deidad trascendente, en tanto una expresión de una inteligencia evolucionada que promueve la armonía del sistema civilizatorio, no responde a la fuerza, sino a la pureza de la intención y la coherencia ética. 
+5.1.3 » Este mecanismo es sutil pero poderoso, al asumir públicamente el rol de <font color="#2f82ff">Víctima</font>, es decir, al denunciar la injusticia del <font color="#fc300c">víctimario</font> y apelar a una justicia superior, el grupo activa un patrón nouménico de equilibrio cósmico. La deidad trascendente, en tanto una expresión de una inteligencia evolucionada que promueve la armonía del sistema civilizatorio, no responde a la fuerza, sino a la pureza de la intención y la coherencia ética. 
 
 5.1.4 » Así, la <font color="#2f82ff">Víctima</font> no busca vencer en el presente, sino sembrar una semilla en el futuro, la promesa de que, en un tiempo venidero, los «justos» (aquellos que sufrieron sin perder su integridad) heredarán la dirección de la civilización. Esta promesa no es mística, sino un algoritmo de inversión temporal, donde el poder se acumula en el plano nouménico para manifestarse en el fenoménico cuando las condiciones sean propicias.
 
@@ -600,11 +600,11 @@ tags:
 > - <font color="#2f82ff">Grupos Cerrados</font>: Los grupos de pureza cerrada priorizan la integridad histórica de su narrativa de victimización. Evitan la mezcla con otros grupos étnicos o códigos identitarios, pues consideran que la dilución de su sufrimiento original debilitaría la resonancia nouménica. Su poder no crece por número, sino por la profundidad temporal de su marca en la historia.
 > - <font color="#fc300c">Grupos Abiertos</font>: Los grupos de expansión abierta, en cambio, amplifican su señal mediante la inclusión. Cuantos más individuos adoptan su narrativa de injusticia o su intención de promover un mejor futuro, mayor es la masa crítica de resonancia colectiva. Su poder se basa en la escala numérica, no en la antigüedad simbólica.
 
-5.1.6 » En la era secular, este algoritmo no ha desaparecido, se ha traducido al lenguaje de los derechos humanos, la justicia social y la identidad colectiva. La denuncia de la opresión ya no invoca directamente a una deidad, pero mantiene la misma lógica, al presentar a un grupo como <font color="#2f82ff">Víctima sistémica</font>, se activa un mecanismo de protección social que deslegitima cualquier crítica como expresión del <font color="#fc300c">Victimario</font>. 
+5.1.6 » En la era secular, este algoritmo no ha desaparecido, se ha traducido al lenguaje de los derechos humanos, la justicia social y la identidad colectiva. La denuncia de la opresión ya no invoca directamente a una deidad, pero mantiene la misma lógica, al presentar a un grupo como <font color="#2f82ff">Víctima sistémica</font>, se activa un mecanismo de protección social que deslegitima cualquier crítica como expresión del <font color="#fc300c">víctimario</font>. 
 
 5.1.7 » Así, el algoritmo se adapta al nuevo paradigma, pero su función permanece: asegurar la supervivencia y el ascenso del grupo subordinado mediante la movilización de una justicia superior, ahora secularizada como «ética universal» o «conciencia colectiva».
 
-5.1.8 » Para el Avatar, reconocer este algoritmo no es condenarlo, sino comprender su necesidad evolutiva. En un sistema donde el poder hegemónico es ciego y autodestructivo, la <font color="#2f82ff">Víctima</font> introduce un vector de equilibrio moral que impide la consolidación absoluta del <font color="#fc300c">Victimario</font>. Sin este algoritmo, la historia sería un relato lineal de dominación sin contrapeso.
+5.1.8 » Para el Avatar, reconocer este algoritmo no es condenarlo, sino comprender su necesidad evolutiva. En un sistema donde el poder hegemónico es ciego y autodestructivo, la <font color="#2f82ff">Víctima</font> introduce un vector de equilibrio moral que impide la consolidación absoluta del <font color="#fc300c">víctimario</font>. Sin este algoritmo, la historia sería un relato lineal de dominación sin contrapeso.
 
 5.1.9 » Al reconocer este mecanismo, el Avatar debe discernir cuándo la victimización es una llamada auténtica a la justicia trascendental, y cuándo se ha convertido en una herramienta de manipulación estratégica que perpetúa la dualidad en lugar de trascenderla. Solo así, puede participar en el juego sin quedar atrapado en él, usando la resonancia de la Víctima no para vencer, sino para elevar el tono ético de la civilización entera.
 
@@ -613,7 +613,7 @@ tags:
 
 5.2.1 » El <font color="#e36c09">Algoritmo Étnico-Ontogénico</font> representa la **capa estadística del plano nouménico**, donde la coherencia evolutiva de un *grupo étnico o espiritual* se registra como un campo informacional persistente, que genera una huella informacional atemporal que suma o resta a la métrica de coherencia del grupo trascendental del que se forma parte, independientemente de las narrativas que ese grupo construya en el plano fenoménico.
 
-5.2.2 » A diferencia del <font color="#fc300c">Algoritmo Víctima/Victimario</font>, que opera mediante la proyección de una identidad histórica, el <font color="#e36c09">Algoritmo Étnico-Ontogénico</font> trasciende la historia escrita y se ancla en la resonancia entre _el genoma, la memoria colectiva y la intención coherente._ No es el relato lo que cuenta, sino la coherencia ontogénica, la alineación entre lo que un grupo es (su patrón genético y cultural profundo), lo que hace (sus acciones colectivas) y lo que intenta ser (su orientación evolutiva).
+5.2.2 » A diferencia del <font color="#fc300c">Algoritmo Víctima/víctimario</font>, que opera mediante la proyección de una identidad histórica, el <font color="#e36c09">Algoritmo Étnico-Ontogénico</font> trasciende la historia escrita y se ancla en la resonancia entre _el genoma, la memoria colectiva y la intención coherente._ No es el relato lo que cuenta, sino la coherencia ontogénica, la alineación entre lo que un grupo es (su patrón genético y cultural profundo), lo que hace (sus acciones colectivas) y lo que intenta ser (su orientación evolutiva).
 
 5.2.3 » Dentro del plano de existencia de este Algoritmo, el genoma no es solo un código biológico, sino un archivo nouménico que registra desde el <font color="#e36c09">Algoritmo Genético-Evolutivo (4)</font> todos los patrones de conducta, pensamiento y emoción que se han repetido a lo largo de las generaciones. 
 
@@ -714,7 +714,7 @@ tags:
 
 5.5.3 » El <font color="#2f82ff">Algoritmo Místico-Ritual</font> es el mecanismo que permite a la consciencia trascendental descender y encarnarse temporalmente dentro del «Ahora» generado por el <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>, para proyectar su poder transformador de manera concreta a través de una **interfaz físico-energética** —una persona, un objeto o un símbolo— que actúa como receptor y canal de su poder transformador.
 
-5.5.4 » A través de prácticas estructuradas (ayunos, meditaciones, cantos, danzas sagradas o ceremonias alineadas con los ciclos astrales), el ritual transforma actos ordinarios en focos de energía espiritual, capaces de concentrar y focalizar la resonancia colectiva en un momento y un lugar específicos, dotando de poder manifestador a un único ser o entidad (sacerdote, líder, iniciado, victima sacrificial u ofrenda), capaz de unificar el poder psicoespiritual colectivo de manera singular.
+5.5.4 » A través de prácticas estructuradas (ayunos, meditaciones, cantos, danzas sagradas o ceremonias alineadas con los ciclos astrales), el ritual transforma actos ordinarios en focos de energía espiritual, capaces de concentrar y focalizar la resonancia colectiva en un momento y un lugar específicos, dotando de poder manifestador a un único ser o entidad (sacerdote, líder, iniciado, víctima sacrificial u ofrenda), capaz de unificar el poder psicoespiritual colectivo de manera singular.
 
 5.5.5 » A través del acto ritual, un referente grupal o iniciado puede sincronizar su consciencia con los patrones nouménicos codificados en los arquetipos mitológicos o religiosos, permitiendo a la consciencia trascendental que fluye a través de su corporalidad, no solo recordarlos, sino también experimentarlos en carne propia. 
 
@@ -779,7 +779,7 @@ tags:
 
 5.6.12 » Este concepto puede verse reflejado simbólicamente en el Arcano VI del Tarot «Los Enamorados», donde una figura angelical asciende por encima de una pareja desnuda, como referencia de un poder trascendental capaz de conocer cada <font color="#fc300c">acción</font> y <font color="#2f82ff">pensamiento</font>, y de influir en el destino conjunto de la pareja.
 
-5.6.13 » De esta forma, el poder trascendental del <font color="#cb48f3">Algoritmo Conyugal</font> —constituido por una trinidad de consciencias purificadas— se presenta como él máximo nivel de poder manifestador dentro del plano hegemónico, capaz de superar incluso al poder del <font color="#2f82ff">Algoritmo Místico-Ritual (19)</font> —donde el poder se enfoca en una sola consciencia (el iniciado, sacerdote o victima sacrificial).
+5.6.13 » De esta forma, el poder trascendental del <font color="#cb48f3">Algoritmo Conyugal</font> —constituido por una trinidad de consciencias purificadas— se presenta como él máximo nivel de poder manifestador dentro del plano hegemónico, capaz de superar incluso al poder del <font color="#2f82ff">Algoritmo Místico-Ritual (19)</font> —donde el poder se enfoca en una sola consciencia (el iniciado, sacerdote o víctima sacrificial).
 
 5.6.14 » Sin embargo, este poder superior solo puede actuar si la intención y coherencia de los enamorados es realmente pura y bien intencionada. Así, el pacto conyugal deja de ser un mero acto asociado a la sexualidad y la experiencia social, para convertirse en la llave última que permite a dos consciencias individuales escapar del plano hegemónico, y alcanzar una experiencia de vida compartida dentro de una <font color="#2f82ff">Civilización Tipo 3</font>.
 
@@ -846,7 +846,7 @@ tags:
 
 5.8.5 » Los siete algoritmos de este nivel forman un puente septenario diseñado para la manifestación del propósito evolutivo en el plano fenoménico:
 
-> - <font color="#fc300c">Víctima-Victimario</font> (15): Utiliza la injusticia histórica para acumular poder nouménico que asegura la supervivencia del grupo subordinado.
+> - <font color="#fc300c">Víctima-víctimario</font> (15): Utiliza la injusticia histórica para acumular poder nouménico que asegura la supervivencia del grupo subordinado.
 > - <font color="#e36c09">Étnico-Ontogénico</font> (16): Preserva la coherencia estadística transgeneracional, mapeando el potencial evolutivo del grupo a través del genoma.
 > - <font color="#ffcc00">Psicoespiritual</font> (17): Activa la intención colectiva en el presente, generando un «crédito de potencialidad» a través de la fe y el ritual.
 > - <font color="#00ff00">Mitológico-Religioso</font> (18): Codifica y conserva los patrones nouménicos en símbolos y textos, permitiendo su transmisión a través del tiempo.
@@ -1028,7 +1028,7 @@ tags:
 
 7.2.6 » El <font color="#e36c09">Algoritmo Estrato-Social</font> es esencial, pues alimenta y se entrelaza con los demás Niveles. A nivel individual (Niveles 0 y <font color="#fc300c">1</font>), determina la cultura familiar <font color="#e36c09">(9)</font>, la identidad personal <font color="#ffcc00">(10)</font>, la conducta individual <font color="#00ff00">(11)</font>, y los grupos sociales <font color="#2f82ff">(12)</font> y egregóricos <font color="#cb48f3">(13)</font>. 
 
-7.2.7 » A nivel trascendental <font color="#e36c09">(Nivel 2)</font>, influye en los algoritmos <font color="#fc300c">Víctima-Victimario (15)</font>, <font color="#e36c09">Étnico/Ontogenético (16)</font>, <font color="#ffcc00">Psicoespiritual (17)</font>, <font color="#2f82ff">Místico-Ritual (19)</font> y <font color="#cb48f3">Conyugal (20)</font>. Y a nivel estructural (Niveles <font color="#00ff00">4</font> y <font color="#2f82ff">5</font>), es el motor subyacente de la Economía y el codificador de la Cultura de la Mónada.
+7.2.7 » A nivel trascendental <font color="#e36c09">(Nivel 2)</font>, influye en los algoritmos <font color="#fc300c">Víctima-víctimario (15)</font>, <font color="#e36c09">Étnico/Ontogenético (16)</font>, <font color="#ffcc00">Psicoespiritual (17)</font>, <font color="#2f82ff">Místico-Ritual (19)</font> y <font color="#cb48f3">Conyugal (20)</font>. Y a nivel estructural (Niveles <font color="#00ff00">4</font> y <font color="#2f82ff">5</font>), es el motor subyacente de la Economía y el codificador de la Cultura de la Mónada.
 
 7.2.8 » Para el ciudadano, este algoritmo puede pasar desapercibido, pues el sujeto percibe la realidad solo en base a lo que experimenta en su entorno inmediato. La persona que vive en la cúspide niega o ignora la existencia de la miseria, colaborando con el proceso de desigualdad. Mientras que quien vive en la base, asume que esa es la única realidad posible. Ambos extremos, sin embargo, son un reflejo de la misma <font color="#2f82ff">Consciencia Universal</font> fragmentada experimentando una realidad civilizatoria polarizada.
 
@@ -1074,7 +1074,7 @@ tags:
 > 
 > Este espacio opera como un limbo reservado para la elite política, donde lo importante no es gobernar, sino permanecer dentro del circuito de influencia.
 
-> [! persona] <font color="#fc300c">ÁMBITO SOCIAL-CIUDADANO</font>: 
+> [! persona] <font color="#fc300c">ÁMBITO SOCIAL-CIUDADANO</font>
 > Representa la <font color="#fc300c">fachada externa</font> del organismo gubernamental, donde los agentes políticos se presentan como «representantes del pueblo», dotados de una autoridad que les permite emitir decretos, votar leyes y tomar decisiones que afectan directamente a la población. 
 > 
 > En este ámbito, el político se erige como arquetipo de elite, cuyas palabras y decisiones son percibidas como superiores, justificadas y necesarias, incluso cuando su legitimidad se basa en una narrativa cuidadosamente construida. 
@@ -1105,81 +1105,126 @@ tags:
 
 7.3.14 » Las luchas partidarias solo se intensifican cuando se trata de asuntos que afectan directamente al ciudadano común, porque es ahí donde se juega el apoyo electoral. Pero en los asuntos estructurales (corrupción, impunidad, clientelismo, nepotismo), los partidos colaboran silenciosamente para mantener el statu quo.
 
-7.3.15 » Por otro lado, las ideologías Académicas que definen la naturaleza de los distintos partidos políticos, y que son defendidas por los funcionarios que llegan al poder, no son verdades universales, sino paradigmas monádicos específicos validados por las élites académicas y mediáticas de las Naciones dominantes. Estas ideologías, creadas en el pasado por pensadores y académicos para intentar resolver problemas de una realidad civilizatoria específica, funcionan como sistemas operativos que representan a los diferentes Leviatanes consolidados a lo largo de la historia dentro del plano hegemónico global. 
+7.3.15 » Por otro lado, las ideologías Académicas que definen la naturaleza de los distintos partidos políticos, y que son defendidas por los funcionarios que llegan al poder, no son verdades universales, sino paradigmas monádicos específicos validados por las élites académicas y mediáticas de las Naciones dominantes. 
 
-7.3.16 » Cada uno de estos sistemas posee una función algorítmica específica que no siempre representa una realidad factible, sin embargo, al ser considerados como modelos de estudio dentro del mundo académico de las Ciencias Sociales, actúan como paradigmas funcionales que permiten a los políticos y gobernantes definir una visión ideológica, capaz de interconectar aspectos económicos, políticos, sociales y filosóficos dentro de su propia Nación. Entre los sistemas ideológicos que más influyeron en el desarrollo historico de la civilización podemos mencionar:
+7.3.16 » Estas ideologías, creadas en el pasado por pensadores y académicos para intentar resolver problemas de una realidad civilizatoria específica, funcionan como sistemas operativos que representan a los diferentes Leviatanes consolidados a lo largo de la historia dentro del plano hegemónico global. 
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Capitalismo</span></center>
->  Es un sistema socioeconómico basado en la propiedad privada de los medios de producción, la libre competencia y la acumulación de capital como motor del desarrollo. Su fundamento filosófico está relacionado con el liberalismo, la idea de la libertad individual y la búsqueda del beneficio personal. El economista escocés Adam Smith sentó las bases teóricas del capitalismo moderno en su tratado de 1776 «La riqueza de las naciones».
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica:</span> Genera flujo de capital, fomenta la competencia y legitima la desigualdad como resultado natural del mérito.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado:</span> Imperio Británico, posteriormente Estados Unidos. 
+7.3.17 » Cada uno de estos sistemas posee una función algorítmica específica que no siempre representa una realidad factible, sin embargo, al ser considerados como modelos de estudio dentro del mundo académico de las Ciencias Sociales, actúan como paradigmas funcionales que permiten a los políticos y gobernantes definir una visión ideológica, capaz de interconectar aspectos económicos, políticos, sociales y filosóficos dentro de su propia Nación. Entre los sistemas ideológicos que más influyeron en el desarrollo historico de la civilización podemos mencionar:
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Socialismo</span></center>
->  Es un sistema de organización social y económica basado en la propiedad y administración colectiva o estatal de los medios de producción y una distribución equitativa de la riqueza. Su enfoque puede variar desde modelos democráticos hasta enfoques más autoritarios. Surgió como respuesta a las injusticias del capitalismo industrial, popularizándose a partir de la Carta de los Derechos del Hombre (1789) y los Movimientos obreros. Se consolidó en Europa durante el siglo XIX, con figuras como Karl Marx y Friedrich Engels.
->   <span style="font-family: 'none'; font-variant: petite-caps; "> Función Algorítmica:</span> Intenta equilibrar la eficiencia económica con la justicia social, pero tiende a estancarse por burocracia.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado</span>: Europa del siglo XIX, URSS y Escandinavia moderna.
+> [!mercados] <font color="#00ff00">CAPITALISMO</font>
+>  Es un sistema socioeconómico basado en la propiedad privada de los medios de producción, la libre competencia y la acumulación de capital como motor del desarrollo. Su fundamento filosófico está relacionado con el liberalismo, la idea de la libertad individual y la búsqueda del beneficio personal. 
+>  
+>  El economista escocés Adam Smith sentó las bases teóricas del capitalismo moderno en su tratado de 1776 «La riqueza de las naciones».
+>  
+>  <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica:</span> Genera flujo de capital, fomenta la competencia y legitima la desigualdad como resultado natural del mérito.
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado:</span> Imperio Británico, posteriormente Estados Unidos. 
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Anarquismo</span></center>
->  Es un conjunto de doctrinas y actitudes que se caracteriza por una crítica radical a todas las formas de autoridad y poder, especialmente el Estado, y aboga por una sociedad organizada de manera descentralizada y voluntaria, basada en la libertad individual y la autogestión. Rechaza la violencia como medio, pero acepta la resistencia ante la opresión, lo cual implica una paradoja irresoluble ante el poder coercitivo Estatal, que conduce a protestas organizadas que derivan en actos de violencia y revoluciones, como ocurrió durante la Revolución Francesa, diversos movimientos obreros del siglo XIX y la serie de protestas masivas y huelgas ocurridas en francia en el año 1968 (Mayo del 68). Sus principales exponentes incluyen a Pierre-Joseph Proudhon, y a Mikhail Bakunin, quienes desarrollaron sus ideas durante el siglo XIX como respuesta al autoritarismo estatal y la explotación obrera.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica</span>: Cuestiona la legitimidad del Estado, pero carece de estructura para escalar.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado</span>: Movimientos anti-sistema y sectores rebeldes.  
+> [!MONADICO] <font color="#ffcc00">SOCIALISMO</font>
+>  Es un sistema de organización social y económica basado en la propiedad y administración colectiva o estatal de los medios de producción y una distribución equitativa de la riqueza. Su enfoque puede variar desde modelos democráticos hasta enfoques más autoritarios. 
+>  
+>  Surgió como respuesta a las injusticias del capitalismo industrial, popularizándose a partir de la Carta de los Derechos del Hombre (1789) y los Movimientos obreros. Se consolidó en Europa durante el siglo XIX, con figuras como Karl Marx y Friedrich Engels.
+>  
+>   <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; "> Función Algorítmica:</span> Intenta equilibrar la eficiencia económica con la justicia social, pero tiende a estancarse por burocracia.
+>   
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado</span>: Europa del siglo XIX, URSS y Escandinavia moderna.
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Conservadurismo</span></center>
-> Es una filosofía política que defiende la tradición, la estabilidad institucional y la jerarquía social como garantías del orden. Surge como reacción a los cambios radicales de la Ilustración y la Revolución Francesa. Su principal referente es el filósofo irlandés Edmund Burke, quien en su «Reflexiones sobre la Revolución en Francia» (1790) defendió la monarquía y las instituciones tradicionales como pilares del equilibrio social.
->   <span style="font-family: 'none'; font-variant: petite-caps; "> Función Algorítmica:</span> Mantiene el statu quo mediante la legitimación del pasado como guía.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado: </span>Élites tradicionales, instituciones establecidas y sectores que buscan mantener el statu quo.
+> [!QUOTE] <font color="#a5a5a5">ANARQUISMO</font>
+>  Es un conjunto de doctrinas y actitudes que se caracteriza por una crítica radical a todas las formas de autoridad y poder, especialmente el Estado, y aboga por una sociedad organizada de manera descentralizada y voluntaria, basada en la libertad individual y la autogestión. 
+>  
+>  Rechaza la violencia como medio, pero acepta la resistencia ante la opresión, lo cual implica una paradoja irresoluble ante el poder coercitivo Estatal, que conduce a protestas organizadas que derivan en actos de violencia y revoluciones, como ocurrió durante la Revolución Francesa, diversos movimientos obreros del siglo XIX y la serie de protestas masivas y huelgas ocurridas en francia en el año 1968 (Mayo del 68). 
+>  
+>  Sus principales exponentes incluyen a Pierre-Joseph Proudhon, y a Mikhail Bakunin, quienes desarrollaron sus ideas durante el siglo XIX como respuesta al autoritarismo estatal y la explotación obrera.
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica</span>: Cuestiona la legitimidad del Estado, pero carece de estructura para escalar.
+>    
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado</span>: Movimientos anti-sistema y sectores rebeldes.  
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Comunismo</span></center>
->  Es una ideología económica y política que se origina como una crítica al capitalismo y las desigualdades socioeconómicas del mercado derivadas de la distribución de la riqueza y la propiedad privada. Se basa en la idea de una sociedad sin clases donde los medios de producción son de propiedad colectiva. Integra aspectos de crítica social, economía política y filosofía materialista. Los pensadores alemanes Karl Marx y Friedrich Engels escribieron en 1848 el «Manifiesto Comunista» impulsados por las fuertes contradicciones sociales en Europa. La ideología comunista surgió con fuerza durante la Revolución Francesa (1789) y la Revolución Rusa (1917). 
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica</span>: Reconfigura la estructura de poder mediante la eliminación del individuo como unidad económica autónoma.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado</span>: Unión Soviética y posteriormente China. 
+> [!CIVILIZACION] <font color="#e36c09">CONSERVADURISMO</font>
+> Es una filosofía política que defiende la tradición, la estabilidad institucional y la jerarquía social como garantías del orden. Surge como reacción a los cambios radicales de la Ilustración y la Revolución Francesa. 
+> 
+> Su principal referente es el filósofo irlandés Edmund Burke, quien en su «Reflexiones sobre la Revolución en Francia» (1790) defendió la monarquía y las instituciones tradicionales como pilares del equilibrio social.
+> 
+>   <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; "> Función Algorítmica:</span> Mantiene el statu quo mediante la legitimación del pasado como guía.
+>   
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado: </span>Élites tradicionales, instituciones establecidas y sectores que buscan mantener el statu quo.
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Fascismo</span> </center>
->  Es una ideología política totalitaria que exalta el nacionalismo extremo, el autoritarismo y la supresión de la oposición mediante la violencia. Se opone tanto al liberalismo como al marxismo, y busca la unidad nacional bajo un líder carismático. Surgió en Italia con Benito Mussolini en 1919 y se expandió a Alemania con Adolf Hitler en 1920, como respuesta al descontento post-Guerra y la inestabilidad política.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica</span>: Restaura el orden mediante la fusión del Estado con un partido único y la movilización emocional de masas.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado</span>: Estados en colapso institucional o en guerra.
+> [!PERSONA] <font color="#fc300c">COMUNISMO</font>
+>  Es una ideología económica y política que se origina como una crítica al capitalismo y las desigualdades socioeconómicas del mercado derivadas de la distribución de la riqueza y la propiedad privada. Se basa en la idea de una sociedad sin clases donde los medios de producción son de propiedad colectiva. Integra aspectos de crítica social, economía política y filosofía materialista. 
+>  
+>  Los pensadores alemanes Karl Marx y Friedrich Engels escribieron en 1848 el «Manifiesto Comunista» impulsados por las fuertes contradicciones sociales en Europa. La ideología comunista surgió con fuerza durante la Revolución Francesa (1789) y la Revolución Rusa (1917). 
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica</span>: Reconfigura la estructura de poder mediante la eliminación del individuo como unidad económica autónoma.
+>    
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado</span>: Unión Soviética y posteriormente China. 
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Keynesianismo</span></center>
->  Es una teoría económica que postula la necesidad de que el Estado intervenga activamente en la economía para fomentar el empleo, controlar la inflación y estabilizar los ciclos de auge y recesión. Aunque es especialmente relevante en el ámbito económico, también influye en políticas públicas. Fue desarrollada por el economista británico John Maynard Keynes en su obra «Teoría General del Empleo, el Interés y el Dinero» (1936), en respuesta a la Gran Depresión de 1929. Se aplicó principalmente durante la época de reconstrucción de posguerra (1940 y 1970), y el Plan Marshall (1948), alineado con los principios keynesianos al inyectar capital para estimular la demanda y la reconstrucción económica europea tras la Segunda Guerra Mundial. Fue una medida clave de este periodo.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica</span>: Estabiliza el sistema capitalista mediante intervención estatal selectiva.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado</span>: Estados Unidos y Europa Occidental (1945-1975).
+> [!MANIPULACION] <font color="#00ff00">FASCISMO</font>
+>  Es una ideología política totalitaria que exalta el nacionalismo extremo, el autoritarismo y la supresión de la oposición mediante la violencia. Se opone tanto al liberalismo como al marxismo, y busca la unidad nacional bajo un líder carismático. 
+>  
+>  Surgió en Italia con Benito Mussolini en 1919 y se expandió a Alemania con Adolf Hitler en 1920, como respuesta al descontento post-Guerra y la inestabilidad política.
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica</span>: Restaura el orden mediante la fusión del Estado con un partido único y la movilización emocional de masas.
+>    
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado</span>: Estados en colapso institucional o en guerra.
 
-  
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Neoliberalismo</span></center>
->  Es una corriente de pensamiento económico y político que promueve la reducción del papel del Estado en la economía, enfatizando el libre mercado y la privatización. Aunque tiene raíces en el liberalismo clásico, se desarrolla en respuesta a la crisis del keynesianismo (1970) y también se relaciona con tendencias económicas contemporáneas como el Consenso de Washington (1989) y la globalización financiera. Su máxima expresión teórica se encuentra en el trabajo de Milton Friedman y la Escuela de Chicago en la década de 1950.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica</span>: Optimiza el flujo de capital global, pero concentra el poder en manos de corporaciones transnacionales.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado</span>: Estados Unidos, Fondo Monetario Internacional (FMI) y Banco Mundial.
+> [!MILLONARIOS] <font color="#cb48f3">KEYNESIANISMO</font>
+>  Es una teoría económica que postula la necesidad de que el Estado intervenga activamente en la economía para fomentar el empleo, controlar la inflación y estabilizar los ciclos de auge y recesión. Aunque es especialmente relevante en el ámbito económico, también influye en políticas públicas. 
+>  
+>  Fue desarrollada por el economista británico John Maynard Keynes en su obra «Teoría General del Empleo, el Interés y el Dinero» (1936), en respuesta a la Gran Depresión de 1929. 
+>  
+>  Se aplicó principalmente durante la época de reconstrucción de posguerra (1940 y 1970), y el Plan Marshall (1948), alineado con los principios keynesianos al inyectar capital para estimular la demanda y la reconstrucción económica europea tras la Segunda Guerra Mundial. Fue una medida clave de este periodo.
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica</span>: Estabiliza el sistema capitalista mediante intervención estatal selectiva.
+>    
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado</span>: Estados Unidos y Europa Occidental (1945-1975).
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Populismo</span></center>
->  Es una tendencia política que pretende atraer a las clases populares, caracterizada por un enfoque en la «voluntad del pueblo» y la denuncia de las élites sin programa ideológico fijo, que puede manifestarse tanto en la izquierda como en la derecha. Puede traducirse en políticas y retóricas muy diferentes según el contexto y la época. Se ha manifestado históricamente en América Latina durante el siglo XX, a partir de figuras como Juan Domingo Perón en Argentina o Hugo Chávez en Venezuela, quienes utilizaron el discurso popular para legitimar gobiernos autoritarios.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica</span>: Canaliza el descontento social para legitimar gobiernos autoritarios o caudillistas.
->    <span style="font-family: 'none'; font-variant: petite-caps; "> Leviatán asociado</span>: Estados en transición o crisis institucional.
+  > [!AOII] <font color="#2f82ff">NEOLIBERALISMO</font>
+>  Es una corriente de pensamiento económico y político que promueve la reducción del papel del Estado en la economía, enfatizando el libre mercado y la privatización. Aunque tiene raíces en el liberalismo clásico, se desarrolla en respuesta a la crisis del keynesianismo (1970) y también se relaciona con tendencias económicas contemporáneas como el Consenso de Washington (1989) y la globalización financiera. 
+>  
+>  Su máxima expresión teórica se encuentra en el trabajo de Milton Friedman y la Escuela de Chicago en la década de 1950.
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica</span>: Optimiza el flujo de capital global, pero concentra el poder en manos de corporaciones transnacionales.
+>    
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado</span>: Estados Unidos, Fondo Monetario Internacional (FMI) y Banco Mundial.
 
-<center><span style="font-size: 30px; color: #FFD230; font-family: 'none'; font-variant: petite-caps;">Libertarismo</span></center>
->  Es una filosofía política originada en la época de la Ilustración (Siglo XVIII) y retomada en el auge del Libertarianismo en EEUU en la decada de 1970, cuya línea de pensamiento se centra en la defensa de las libertades individuales y la minimización del papel del Estado en la vida económica y personal. Promueve el libre mercado y un gobierno limitado (Anarcocapitalismo). Sus bases filosóficas se encuentran en el pensamiento de Robert Nozick y Ayn Rand, quienes defendieron la no intervención estatal como garantía de libertad individual en el siglo XX.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Función Algorítmica</span>: Justifica la desigualdad extrema como resultado de la libertad absoluta.
->    <span style="font-family: 'none'; font-variant: petite-caps; ">Leviatán asociado</span>: Estados Unidos (sector político ultraconservador).
+> [!NAIROBI] <font color="#fc300c">POPULISMO</font>
+>  Es una tendencia política que pretende atraer a las clases populares, caracterizada por un enfoque en la «voluntad del pueblo» y la denuncia de las élites sin programa ideológico fijo, que puede manifestarse tanto en la izquierda como en la derecha. 
+>  
+>  Puede traducirse en políticas y retóricas muy diferentes según el contexto y la época. Se ha manifestado históricamente en América Latina durante el siglo XX, a partir de figuras como Juan Domingo Perón en Argentina o Hugo Chávez en Venezuela, quienes utilizaron el discurso popular para legitimar gobiernos autoritarios.
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica</span>: Canaliza el descontento social para legitimar gobiernos autoritarios o caudillistas.
+>    
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; "> Leviatán asociado</span>: Estados en transición o crisis institucional.
+
+> [!libertario] <font color="#ffcc00">LIBERTARISMO</font>
+>  Es una filosofía política originada en la época de la Ilustración (Siglo XVIII) y retomada en el auge del Libertarianismo en EEUU en la decada de 1970, cuya línea de pensamiento se centra en la defensa de las libertades individuales y la minimización del papel del Estado en la vida económica y personal. 
+>  
+>  Promueve el libre mercado y un gobierno limitado (Anarcocapitalismo). Sus bases filosóficas se encuentran en el pensamiento de Robert Nozick y Ayn Rand, quienes defendieron la no intervención estatal como garantía de libertad individual en el siglo XX.
+>  
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Función Algorítmica</span>: Justifica la desigualdad extrema como resultado de la libertad absoluta.
+>    
+>    <span style="font-family: 'Barlow Condensed'; text-transform: uppercase; ">Leviatán asociado</span>: Estados Unidos (sector político ultraconservador).
 
 7.3.11 » Estas ideologías académicas no son meros enfoques teóricos, sino constructos egregóricos que operan como matrices de pensamiento para organizar la realidad política, económica y social dentro del marco del <font color="#cb48f3">Hegemón Global</font>. Aunque en el pasado cada Leviatán parecía representar una ideología específica (el capitalismo con EEUU y el comunismo con la URSS), en la actualidad ningún Estado opera bajo una única doctrina pura. El orden global no es una competencia entre paradigmas opuestos, sino una mezcla estocástica de elementos ideológicos que convergen en un sistema híbrido funcional al servicio del poder hegemónico.
 
 7.3.12 » Actualmente, el <font color="#cb48f3">Hegemón Global</font> (encabezado por Estados Unidos, pero con influencias de otros centros de poder) no se limita a una sola ideología. En su operación cotidiana, combina múltiples doctrinas y mecanismos de poder:
 
-> - Neoliberalismo: usado como motor de desregulación, privatización y apertura de mercados.
-> - Keynesianismo: para intervenir en crisis económicas, rescatar instituciones financieras y mantener estabilidad macroeconómica.
-> - Populismo: como herramienta de ingeniería emocional de masas, que moviliza el descontento hacia líderes carismáticos, canalizando la ira social contra «élites corruptas» o «traidores».
-> - Fascismo: no en su forma clásica, sino como restauración del orden mediante un partido dominante, control mediático, polarización identitaria y uso selectivo de la fuerza.
-> - Financierismo tecnocrático: donde los bancos centrales, los fondos de inversión y las corporaciones transnacionales dictan políticas económicas sin necesidad de legitimación electoral.
-> - Tecnopopulismo: uso de plataformas digitales para crear consenso algorítmico mediante microtargeting emocional, fake news y bots de opinión.
+> - <font color="#ffcc00">Neoliberalismo</font>: usado como motor de desregulación, privatización y apertura de mercados.
+> - <font color="#cb48f3">Keynesianismo</font>: para intervenir en crisis económicas, rescatar instituciones financieras y mantener estabilidad macroeconómica.
+> - <font color="#fc300c">Populismo</font>: como herramienta de ingeniería emocional de masas, que moviliza el descontento hacia líderes carismáticos, canalizando la ira social contra «élites corruptas» o «traidores».
+> - <font color="#00ff00">Fascismo</font>: no en su forma clásica, sino como restauración del orden mediante un partido dominante, control mediático, polarización identitaria y uso selectivo de la fuerza.
+> - <font color="#2f82ff">Financierismo tecnocrático</font>: donde los bancos centrales, los fondos de inversión y las corporaciones transnacionales dictan políticas económicas sin necesidad de legitimación electoral.
+> - <font color="#e36c09">Tecnopopulismo</font>: uso de plataformas digitales para crear consenso algorítmico mediante microtargeting emocional, fake news y bots de opinión.
 
 7.3.13 » Este sistema híbrido no es inconsistente, sino funcionalmente coherente. Cada ideología se activa según las necesidades del momento: el neoliberalismo para abrir mercados, el keynesianismo para rescatar bancos, el populismo para movilizar votos, el fascismo actualizado para restaurar el orden interno y el tecnopopulismo para manipular percepciones.
 
 7.3.14 » En este contexto, Estados Unidos no es solo un Estado-nación, sino el nodo central del sistema global de poder. Su gobierno, como <font color="#cb48f3">Hegemón Global</font>, combina:
 
-> - Libertarianismo Retórico: en discursos sobre libertad individual y minimización del Estado.
-> - Intervencionismo Estatal Real: en defensa, salud, tecnología e infraestructura crítica.
-> - Populismo selectivo: en campañas electorales que movilizan a la base con retóricas anti-establishment.
-> - Fascismo actualizado: evidenciado en políticas de seguridad interna, censura selectiva, control de fronteras y persecución de inmigrantes.
-> - Financierismo globalizado: en alianza con bancos centrales, fondos de inversión y corporaciones tecnológicas.
+> - <font color="#ffcc00">Libertarianismo Retórico</font>: en discursos sobre libertad individual y minimización del Estado.
+> - <font color="#cb48f3">Intervencionismo Estatal Real</font>: en defensa, salud, tecnología e infraestructura crítica.
+> - <font color="#fc300c">Populismo selectivo</font>: en campañas electorales que movilizan a la base con retóricas anti-establishment.
+> - <font color="#00ff00">Fascismo actualizado</font>: evidenciado en políticas de seguridad interna, censura selectiva, control de fronteras y persecución de inmigrantes.
+> - <font color="#2f82ff">Financierismo globalizado</font>: en alianza con bancos centrales, fondos de inversión y corporaciones tecnológicas.
 
 7.3.15 » Este híbrido ideológico-financiero-mediático no es una contradicción, sino una estrategia de dominación multidimensional. El ciudadano estadounidense no elige entre ideologías puras, sino entre variantes del mismo sistema, todas validadas por el mismo código algorítmico: el mantenimiento del orden hegemónico.
 
@@ -1216,26 +1261,32 @@ tags:
 
 7.4.3 » El Algoritmo Ético-Moral opera en tres niveles de influencia, cada uno con su propio grado de responsabilidad y conciencia:
 
-> [!base] NIVEL INFERIOR (El Demonio Ignorante):
-> Constituye la base de la pirámide Estrato-Social. Aquí, la consciencia subjetiva está sometida por la escasez, la falta de educación, la corrupción cultural y el poder coercitivo de los Egregores sociales o políticos. El ciudadano en este nivel actúa por instinto de supervivencia egóica, reaccionando a estímulos inmediatos que resuenan con los algoritmos más básicos de la <font color="#fc300c">Civilización Tipo 1</font> (alimento, reproducción, fisiología, temperamentos). 
+> [!base] <font color="#2f82ff">NIVEL INFERIOR</font> (El Demonio Ignorante):
+> Constituye la base de la pirámide Estrato-Social. Aquí, la consciencia subjetiva está sometida por la escasez, la falta de educación, la corrupción cultural y el poder coercitivo de los Egregores sociales o políticos. 
+> 
+> El ciudadano en este nivel actúa por instinto de supervivencia egóica, reaccionando a estímulos inmediatos que resuenan con los algoritmos más básicos de la <font color="#fc300c">Civilización Tipo 1</font> (alimento, reproducción, fisiología, temperamentos). 
 > 
 > La violencia, el robo y la ilegalidad que se originan en este estrato representan un «mal de ignorancia», no de conocimiento, pues el sujeto actúa casi como un «animal salvaje» que no comprende la trascendencia de su daño, lo que define el nivel evolutivo más básico de la Mónada. Por lo que un Estado con alta pobreza, inseguridad y desigualdad no es una Nación «inmoral», sino espiritualmente inmadura.
 
-> [!instituciones] NIVEL INTERMEDIO (El Ángel Caído)
-> Representa a los funcionarios, legisladores y líderes de partido que operan dentro del Algoritmo Sociopolítico (24). Tienen acceso a información, poder y recursos, pero también a la tentación de la corrupción. Su rol no es gobernar, sino modelar la ética del sistema. Sin embargo, al estar inmersos en el juego partidario (el juego oculto del poder, la corrupción sistémica, el beneficio personal), suelen priorizar su carrera personal sobre el bien común. 
+> [!instituciones] <font color="#fc300c">NIVEL INTERMEDIO</font> (El Ángel Caído)
+> Representa a los funcionarios, legisladores y líderes de partido que operan dentro del <font color="#ffcc00">Algoritmo Sociopolítico (24)</font>. Tienen acceso a información, poder y recursos, pero también a la tentación de la corrupción. Su rol no es gobernar, sino modelar la ética del sistema. Sin embargo, al estar inmersos en el juego partidario (el juego oculto del poder, la corrupción sistémica, el beneficio personal), suelen priorizar su carrera personal sobre el bien común. 
 > 
-> Su corrupción es de conocimiento, no de ignorancia. Por ello, el algoritmo ético-moral se interconecta con el puntaje kármico trascendental <font color="#2f82ff">Nivel 5</font>, lo que implica que un político corrupto tiene una responsabilidad y un karma mayor que el criminal del estrato inferior. Los ciudadanos que forman parte de este nivel, son el espejo del alma colectiva: si están corrompidos, el sistema se corrompe. Si actúan con coherencia, pueden elevar el tono moral de toda la Mónada.
+> Su corrupción es de conocimiento, no de ignorancia. Por ello, el <font color="#00ff00">Algoritmo Ético-Moral</font> se interconecta con el puntaje kármico trascendental <font color="#2f82ff">Nivel 5</font>, lo que implica que un político corrupto tiene una responsabilidad y un karma mayor que el criminal del estrato inferior. 
+> 
+> Los ciudadanos que forman parte de este nivel, son el espejo del alma colectiva: si están corrompidos, el sistema se corrompe. Si actúan con coherencia, pueden elevar el tono moral de toda la Mónada.
 
- > [!lider] NIVEL SUPERIOR (El Cristo/Anticristo) 
- > Representa al líder máximo (presidente, rey, primer ministro), cuya función es incorporar y manifestar el índice ético-moral de toda la Mónada. Este ciudadano se convierte en la interfaz orgánica más elevada, que puede reflejar el poder del Algoritmo Cosmogónico Espiritual (21). Dada la exposición pública y la vigilancia interna y externa, el juicio aquí se centra en la honestidad y la pureza de pensamientos e intenciones. 
+ > [!lider] <font color="#00ff00">NIVEL SUPERIOR</font> (El Cristo/Anticristo) 
+ > Representa al líder máximo (presidente, rey, primer ministro), cuya función es incorporar y manifestar el índice ético-moral de toda la Mónada. Este ciudadano se convierte en la interfaz orgánica más elevada, que puede reflejar el poder del <font color="#ffa3ef">Algoritmo Cosmogónico Espiritual (21)</font>. Dada la exposición pública y la vigilancia interna y externa, el juicio aquí se centra en la honestidad y la pureza de pensamientos e intenciones. 
  > 
- > El buen gobernante no es un santo ni un profeta, sino un nodo de sincronización entre lo interno y lo externo, lo civilizatorio y lo trascendental. Su poder no reside en ser bueno, sino en reflejar con coherencia el estado moral del sistema. Si el líder está corrompido, contamina la conexión espiritual de toda la Nación. Si actúa con pureza, puede elevar la conciencia colectiva y atraer el poder trascendental que beneficia a toda la Mónada. Su rol no es solitario, ya que está condicionado por los egregores políticos que lo rodean, y la programación algorítmica de las ideologías que dice representar.
+ > El buen gobernante no es un santo ni un profeta, sino un nodo de sincronización entre lo interno y lo externo, lo civilizatorio y lo trascendental. Su poder no reside en ser bueno, sino en reflejar con coherencia el estado moral del sistema. 
+ > 
+ > Si el líder está corrompido, contamina la conexión espiritual de toda la Nación. Si actúa con pureza, puede elevar la conciencia colectiva y atraer el poder trascendental que beneficia a toda la Mónada. Su rol no es solitario, ya que está condicionado por los egregores políticos que lo rodean, y la programación algorítmica de las ideologías que dice representar.
 
 7.4.4 » El Algoritmo Ético-Moral, aunque es un emergente estocástico (influenciado por la cultura local y la cultura externa, a través de la inmigración y los contenidos de internet), puede ser moldeado por el Nivel Intermedio a través de la legislación. Sin embargo, si el funcionario opera en base a su carrera personal, ignorando su rol de legislador y solo operando para satisfacer las necesidades de su partido político, las corporaciones (Lobby) y las luchas ideológicas de los Leviatanes hegemónicos, la Mónada se desentiende de su pueblo y el índice ético-moral cae.
 
 7.4.5 » Esta desatención convierte a la sociedad en una selva ciudadana, donde la Mónada solo interviene para cobrar impuestos e imponer justicia en los casos extremos. Así, el ciudadano desatendido busca ejercer su libertad y cae en un estado de anarquía latente que, paradójicamente, es promovido por ciertos grupos políticos egregóricos que buscan aprovechar esa tendencia. La realidad es que, la libertad sin recursos en el estrato inferior se traduce en escasez, pobreza y violencia.
 
-7.4.6 » La responsabilidad dentro del Algoritmo Ético-Moral no es equitativa. No todos son igualmente culpables, porque no todos tienen el mismo nivel de consciencia. El ciudadano que roba para comer no es igual al político que roba sabiendo que está haciendo daño. El primero actúa por supervivencia. El segundo, por abuso de poder. Esta diferencia no es moral, sino funcional: el que tiene más conocimiento, tiene más responsabilidad. Y el que tiene más responsabilidad, está más expuesto al karma trascendental (Algoritmo 15: Víctima/Victimario).
+7.4.6 » La responsabilidad dentro del Algoritmo Ético-Moral no es equitativa. No todos son igualmente culpables, porque no todos tienen el mismo nivel de consciencia. El ciudadano que roba para comer no es igual al político que roba sabiendo que está haciendo daño. El primero actúa por supervivencia. El segundo, por abuso de poder. Esta diferencia no es moral, sino funcional: el que tiene más conocimiento, tiene más responsabilidad. Y el que tiene más responsabilidad, está más expuesto al karma trascendental (Algoritmo 15: Víctima/víctimario).
 
 7.4.7 » El Algoritmo Ético-Moral no se puede juzgar desde afuera, porque es un espejo de la conciencia colectiva. No basta con ver las noticias, los robos, las protestas o los discursos políticos para entenderlo. Hay que mirarse a sí mismo. ¿Qué pensamientos tengo? ¿Qué acciones tomo? ¿Cómo respondo ante la injusticia? ¿Contribuyo al equilibrio o a la entropía? El ciudadano que miente, engaña, roba o tiene pensamientos oscuros está viendo su propia imagen reflejada en la Mónada. La realidad externa es un espejo de la realidad interna.
 
@@ -1270,13 +1321,13 @@ tags:
 
 7.5.7 » Este algoritmo se manifiesta en tres ámbitos interrelacionados, que operan como una dialéctica funcional dentro del organismo monádico:
 
-> [!mente] CULTURA LATENTE (Tesis)
+> [!mente] <font color="#fc300c">CULTURA LATENTE</font> (Tesis)
 > Es la identidad estructural de la Mónada, un aspecto omnipresente codificado en símbolos, mitos fundacionales, estereotipos, y narrativas oficiales.
 
-> [!avance] CULTURA ACTIVA (Antítesis)
+> [!avance] <font color="#2f82ff">CULTURA ACTIVA</font> (Antítesis)
 > Es el aspecto manifiesto reflejado en las conductas individuales de cada uno de los ciudadanos que emerge en el día a día.
 
-> [!espin] REALIDAD SOCIAL (Síntesis)
+> [!espin] <font color="#00ff00">REALIDAD SOCIAL</font> (Síntesis)
 > Es la interacción dinámica entre lo latente y lo activo, que define la experiencia cotidiana del ciudadano. Es aquí donde se manifiesta la realidad cultural efectiva: el hombre que porta un símbolo patrio (Latente) y participa en una marcha anarquista (Activo), o el ciudadano que dice ser parte de una tradición religiosa (Latente) pero ignora las normas cívicas menores (Activo).
 
 7.5.8 » La <font color="#FC300C">Cultura Latente (Tesis)</font> es la estructura abstracta que define la identidad nacional de la Mónada. Es un emergente que combina un aspecto estocástico (derivado de la suma inconsciente de los ciudadanos), un aspecto dinámico (los eventos que definen la realidad diaria del país) y un aspecto programado que es promovido por el gobierno, las instituciones y la narrativa histórica oficial. Esta energía no es coercitiva en la acción, sino un filtro perceptivo que define la fisiología natural de la Mónada, condicionando la identidad personal.
@@ -1285,12 +1336,12 @@ tags:
 
 7.5.88 » La <font color="#FC300C">Cultura Latente</font> a su vez se divide en dos aspectos identitarios:
 
-> [!externo] ASPECTO EXTERNO
+> [!externo] <font color="#cb48f3">ASPECTO EXTERNO</font>
 > Es la imagen del ser nacional que proyecta la Mónada al mundo. Esta imagen se construye a partir de la cultura impuesta por símbolos, narrativas e hitos históricos. Al combinarse, estos aspectos generan un estereotipo cultural dentro del plano internacional, que asocia la identidad nacional con creencias simplificadas (Por ejemplo: al alemán se lo tilda de nazi, al árabe de terrorista, etc.). 
 > 
 > Este estereotipo es fundamentalmente ideológico y se sostiene por la repetición mediática o histórica, pudiendo no tener efecto al interactuar, ya que la identidad personal del ciudadano puede trascender la simplificación, por lo que su efectividad coercitiva es baja.
 
-> [!interno] ASPECTO INTERNO
+> [!interno] <font color="#ffcc00">ASPECTO INTERNO</font>
 > Es la identidad nacional o el estereotipo autoasumido que condiciona la conducta del ciudadano de una Nación para interactuar durante el día a día. Esta es una fuerza funcional a la experiencia social cotidiana, ya que el ciudadano es consciente de estas predisposiciones culturales propias (Por ejemplo: la «viveza criolla» argentina, o el «ser parte del pueblo elegido» de Israel). 
 > 
 > Aquí, la cultura y la experiencia personal permiten que cada persona cree su propio campo de planificación mental dentro del ámbito local, lo que le permite prever la actitud de las personas con las que interactuará. El conocimiento de estos códigos internos define la predisposición y conducta aún antes de que se realice la acción, permitiendo al individuo dudar o a actuar con cautela, por miedo a ser estafado o manipulado por otro que tiene su misma programación identitaria.
@@ -1301,34 +1352,34 @@ tags:
 
 7.5.12 » La <font color="#2F82FF">Cultura Activa</font> también presenta una dualidad:
 
-> [!electron] CULTURA HEREDADA (Identitaria)
+> [!electron] <font color="#00ff00">CULTURA HEREDADA</font> (Identitaria)
 > Representa las tradiciones donde entran en juego aspectos religiosos, mitológicos o históricos que exigen el cumplimiento de ciertas normas o hitos para no ser excluido por el resto del grupo social con el que se convive. 
 > 
 > Estas son las costumbres que se han arraigado profundamente en una cultura y que se transmiten a través del tiempo, pudiendo forzar al ciudadano a cumplir un ritual (Por ejemplo: rezar cinco veces al día) para no ser marginado por su comunidad. Es una imposición vertical desde la tradición.
 
-> [!gaseoso] CULTURA ESTOCÁSTICA (Generacional)
+> [!gaseoso] <font color="#ffcc00">CULTURA ESTOCÁSTICA</font> (Generacional)
 > Representa las modas pasajeras, tendencias temporales o prácticas que se manifiestan en las tendencias juveniles o subculturales (Por ejemplo: reunirse a beber en un bar, fumar en la esquina, participar de una marcha política), que se adoptan pero que no se han integrado completamente en la identidad cultural de la comunidad. 
 > 
 > Estas actividades son fluidas, temporales y optativas, por lo que pueden cambiar rápidamente con una nueva tendencia. Su validación es primariamente horizontal y grupal, aunque puede estar reforzada por el Algoritmo Estrato-Social (Por ejemplo: juntarse en una plaza para pasar el rato).
 
 7.5.13 » La clave de la <font color="#2F82FF">Cultura Activa</font> es la Coerción Suave impuesta por el Individuo. Todo lo que el ciudadano hace o dice cuando está en sociedad es una forma de imponer al otro su verdad y visión del mundo. El individuo que se sienta en el banco de una plaza donde juegan los niños, y pone música a todo volumen mientras consume alcohol, está contaminando el ambiente y corrompiendo la <font color="#FC300C">Cultura Latente</font> del entorno. Esta acción es coerción suave, y si está condicionada por ideas o creencias egregoricas (una persona que promueve la biblia con un altoparlante), el individuo se convierte en una célula de un egregor que busca imponer su código sobre los demás.
 
-7.5.14 » El Algoritmo Ético-Moral está directamente ligado a esta acción, ya que un individuo que se para en la plaza a dar un monólogo para reclamar justicia, o el pobre que mendiga en un lugar de alto tránsito, está imponiendo su realidad interna en detrimento de la realidad interna del resto de ciudadanos. Aquí la <font color="#2F82FF">Cultura Activa</font> aprovecha el Algoritmo Victima/Victimario (15) para exponer su situación y trasladar la deuda social del sistema Monádico hacia el ciudadano común, que si no está dispuesto a ayudar, se convierte en el malo de la película.
+7.5.14 » El Algoritmo Ético-Moral está directamente ligado a esta acción, ya que un individuo que se para en la plaza a dar un monólogo para reclamar justicia, o el pobre que mendiga en un lugar de alto tránsito, está imponiendo su realidad interna en detrimento de la realidad interna del resto de ciudadanos. Aquí la <font color="#2F82FF">Cultura Activa</font> aprovecha el <font color="#fc300c">Algoritmo Víctima/víctimario (15)</font> para exponer su situación y trasladar la deuda social del sistema Monádico hacia el ciudadano común, que si no está dispuesto a ayudar, se convierte en el malo de la película.
 
-7.5.15 » Bajo estas situaciones se activa el índice ético-moral, interconectando múltiples ámbitos en donde la persona que se presenta como víctima termina actuando como victimario, y el ciudadano se ve forzado a entrar en un juego psicológico y social que solo puede despertarle emociones negativas o rechazo social, lo que evidencia que la cultura manifestada es una fuerza potencialmente destructiva.
+7.5.15 » Bajo estas situaciones se activa el índice ético-moral, interconectando múltiples ámbitos en donde la persona que se presenta como víctima termina actuando como víctimario, y el ciudadano se ve forzado a entrar en un juego psicológico y social que solo puede despertarle emociones negativas o rechazo social, lo que evidencia que la cultura manifestada es una fuerza potencialmente destructiva.
 
-7.5.16 » Finalmente, la <font color="#00ff00">Realidad Social (Síntesis)</font> es el resultado final de la dialéctica sociocultural que define la experiencia cotidiana del ciudadano. Es la realidad que emerge cuando la <font color="#FC300C">Cultura Latente</font> (lo omnipresente y lo programado) se encuentra con la <font color="#2F82FF">Cultura Activa</font> (lo estocástico y la acción individual). Aquí se consolida el Estado de Salud o el Presente Histórico de la Mónada, sincronizando al Algoritmo Socio-Cultural (26) con el Ético-Moral (25) y el resto de los algoritmos del <font color="#ffcc00">Nivel 3</font>.
+7.5.16 » Finalmente, la <font color="#00ff00">Realidad Social (Síntesis)</font> es el resultado final de la dialéctica sociocultural que define la experiencia cotidiana del ciudadano. Es la realidad que emerge cuando la <font color="#FC300C">Cultura Latente</font> (lo omnipresente y lo programado) se encuentra con la <font color="#2F82FF">Cultura Activa</font> (lo estocástico y la acción individual). Aquí se consolida el Estado de Salud o el Presente Histórico de la Mónada, sincronizando al <font color="#2f82ff">Algoritmo Socio-Cultural (26)</font> con el <font color="#00ff00">Ético-Moral (25)</font> y el resto de los algoritmos del <font color="#ffcc00">Nivel 3</font>.
 
 7.5.17 » En esta Síntesis, el ciudadano se encuentra en una red abstracta donde coexisten la coerción latente (el miedo al estereotipo interno), la imposición activa (la cultura manifestada por otros) y la regulación sociopolítica (la ley). Por ejemplo, el hombre que se sienta en el banco de una plaza a observar en silencio como interactúa la sociedad, experimenta de forma pasiva la <font color="#FC300C">Cultura Latente</font> del lugar al 100%, pero la contaminación de la <font color="#2F82FF">Cultura Activa</font> de un tercero (un hombre que le pide una limosna, o un religioso que desea hablarle de la biblia) irrumpe en su experiencia, sometiéndole y obligándole a desviar su observación para tener que interactuar dentro de la realidad personal manifestada por la intención del otro.
 
-7.5.18 » Ante esta situación de intrusión del espacio personal y de coerción suave a la realidad ajena, el riesgo de escalada es constante: la coerción suave del Aspecto Activo siempre roza la violencia, pues implica una relación que funciona bajo el Algoritmo Victima/Victimario (15). Si el ciudadano perturbado (victima) pide no ser molestado (le pide al otro que se retire) y el otro (victimario) insiste, insulta o responde agresivamente, la situación escala y se activa la ley del más fuerte o, finalmente, la intervención judicial, evidenciando que la <font color="#2F82FF">Cultura Activa</font> impuesta por el otro es una fuerza coercitiva y estocástica que el sistema de la Mónada debe prever y contener.
+7.5.18 » Ante esta situación de intrusión del espacio personal y de coerción suave a la realidad ajena, el riesgo de escalada es constante: la coerción suave del Aspecto Activo siempre roza la violencia, pues implica una relación que funciona bajo el <font color="#fc300c">Algoritmo Víctima/víctimario (15)</font>. Si el ciudadano perturbado <font color="#2f82ff">(víctima)</font> pide no ser molestado (le pide al otro que se retire) y el otro <font color="#fc300c">(víctimario)</font> insiste, insulta o responde agresivamente, la situación escala y se activa la ley del más fuerte o, finalmente, la intervención judicial, evidenciando que la <font color="#2F82FF">Cultura Activa</font> impuesta por el otro es una fuerza coercitiva y estocástica que el sistema de la Mónada debe prever y contener.
 
 7.5.19 » La <font color="#2f82ff">Civilización Tipo 3</font> exige una actualización radical del código sociocultural. La cultura no debe ser un condicionante que imponga una creencia (religión o ideología) o un estereotipo, sino un constructo diseñado para guiar la interacción y promover la coherencia, sin subordinar la libertad.
 
 > - La <font color="#FC300C">Cultura Latente</font> debe evolucionar para guiar la conducta hacia el desarrollo personal y el deseo de participar en la evolución de la Mónada, enseñando al ciudadano a no imponer a otros las ideas o creencias impuestas en el pasado por una ideología o religión.
 > - La <font color="#2F82FF">Cultura Activa</font> debe regirse por el respeto a la libertad. El individuo debe entender que toda manifestación Cultural Activa (hablar, tener contacto físico, practicar un hábito) debe respetar la libertad del otro a existir aislado en su esfera personal, pudiendo experimentar la Cultura Latente sin ser perturbado. La Cultura Activa de la <font color="#2f82ff">Civilización Tipo 3</font> será una práctica consciente de no-coerción.
 
-7.5.20 » La meta es que el Algoritmo Socio-Cultural Nacional se subordine a una Cultura Universal que promueva el equilibrio y el servicio (el Estrato Intermedio), eliminando las tradiciones que actúan como un lastre algorítmico para la adaptación de la Mónada al presente global. El individuo debe convertirse en un agente de mutación cultural, actualizando su propio código para elevar el índice ético-moral del colectivo.
+7.5.20 » La meta es que el <font color="#2f82ff">Algoritmo Socio-Cultural</font> Nacional se subordine a una Cultura Universal que promueva el equilibrio y el servicio (el Estrato Intermedio), eliminando las tradiciones que actúan como un lastre algorítmico para la adaptación de la Mónada al presente global. El individuo debe convertirse en un agente de mutación cultural, actualizando su propio código para elevar el índice ético-moral del colectivo.
 
 ## 6. Algoritmo 27 • Cívico-Judicial
 ![[27 - Civico Judicial2.jpg|700]]
@@ -1921,7 +1972,7 @@ El individuo afectado por esta patología busca escapar del sometimiento y ascen
 > - <font color="#00ff00">Ahorro en Divisas por Ahorro Personal</font>: La acción masiva de ciudadanos que optan por ahorrar en moneda extranjera (dólar o euro) y la retienen por fuera del sistema bancario formal (guardada «bajo el colchón»), produce que el flujo monetario se estanque y opere por fuera del control y la coerción del Estado, generando un desequilibrio en las arcas nacionales (reservas) que debilita la capacidad de acción de la moneda local.
 > - <font color="#2f82ff">Flujos Económicos no Regulados</font> (Inmigración Ilegal): La operación masiva de ciudadanos extranjeros que trabajan y consumen sin documentación o registro legal genera un flujo económico alternativo que circula por fuera del control fiscal del Estado, promoviendo el fortalecimiento de la economía informal dentro del sistema microeconómico. Este flujo de mano de obra y capital opera directamente en la ilegalidad, sin aportar a la recaudación fiscal, y generando remesas (envío de dinero a otros países) lo que representa una constante fuga de capitales no declarados que no contribuye a las arcas del Estado, debilitando la base financiera de la Mónada.
 
-8.6.8 » La inmigración ilegal/irregular representa un punto de máxima tensión para la Mónada. Aunque las leyes codificadas establecen claramente la ilegalidad de la entrada, ante la permanencia irregular o el incumplimiento de condiciones (Ingreso ilegal, estadía irregular, cambio de estatus no autorizado), los gobiernos se ven condicionados en la aplicación de la coerción plena para atacar y resolver estos problemas. Esto se debe al veto que impone la retórica del Algoritmo Víctima/Victimario (15) y al miedo de los gobernantes a ser tildados como racistas o despóticos, dos fenómenos que neutralizan la acción coercitiva del Estado.
+8.6.8 » La inmigración ilegal/irregular representa un punto de máxima tensión para la Mónada. Aunque las leyes codificadas establecen claramente la ilegalidad de la entrada, ante la permanencia irregular o el incumplimiento de condiciones (Ingreso ilegal, estadía irregular, cambio de estatus no autorizado), los gobiernos se ven condicionados en la aplicación de la coerción plena para atacar y resolver estos problemas. Esto se debe al veto que impone la retórica del Algoritmo Víctima/víctimario (15) y al miedo de los gobernantes a ser tildados como racistas o despóticos, dos fenómenos que neutralizan la acción coercitiva del Estado.
 
 8.6.9 » Este dilema posiciona al país como un foco migratorio capaz de atraer un gran flujo de ciudadanos de otras naciones que, conociendo la facilidad de ingreso al país, la falta de controles migratorios, y la normalización de la inmigración ilegal por parte del Estado, son atraídos para establecerse y operar dentro del mercado microeconómico local, sin tener que responder a las obligaciones fiscales a la que se ven sometidos los ciudadanos naturales de toda Nación. Esto expone una falla en el sistema de coerción: el Estado es incapaz de controlar la frontera geográfica, y una vez que el extranjero opera internamente, es incapaz de aplicar la coerción legal o fiscal.
 
