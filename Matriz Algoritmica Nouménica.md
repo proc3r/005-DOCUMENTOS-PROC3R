@@ -1993,11 +1993,11 @@ tags:
 
 8.2.1 » El <font color="#e36c09">Algoritmo Ecónomo-Familiar</font> focaliza la lógica del <font color="#00ff00">Nivel 4</font> a la esfera de la convivencia primaria, estableciendo el hogar como la Micro-Mónada Doméstica. 
 
-8.2.2 » La familia, más allá de ser una unidad afectiva, opera como una entidad administrativa local y que conjuga múltiples agentes (padres, hijos y abuelos) que consumen, generan ingresos y administran recursos escasos. El hogar es el punto nodal donde el poder coercitivo de la Mónada Estatal se materializa en la exigencia de cubrir los gastos fijos: servicios, alquiler o hipoteca, salud, y educación.
+8.2.2 » La familia, más allá de ser una unidad afectiva, opera como una entidad administrativa local que conjuga múltiples agentes (padres, hijos y abuelos) que consumen, generan ingresos y administran recursos escasos. El hogar es el punto nodal donde el poder coercitivo de la Mónada Estatal se materializa en la exigencia de cubrir los gastos fijos: servicios, alquiler o hipoteca, salud, educación.
 
 8.2.3 » El ciudadano no vive en un limbo, sino bajo la programación de un paradigma sociocultural autoimpuesto, donde formar una familia, tener hijos y trabajar hasta la jubilación es la norma. 
 
-8.2.4 » En la <font color="#00ff00">Civilización Tipo 2</font>, cuando el joven alcanza el umbral de la adultez (sexualidad, noviazgo, trabajo), dificilmente llega a comprender que al dejar atrás el rol de hijo está poniendo fin a su estado de libertad juvenil para cruzar la frontera hacia la dimensión del sometimiento coercitivo Estatal. 
+8.2.4 » En la <font color="#00ff00">Civilización Tipo 2</font>, cuando el joven alcanza el umbral de la adultez —marcado por la madurez sexual, el vínculo contractual del noviazgo y la inserción laboral—, no llega a comprender que esta superando un punto de inflexión invisible. Al dejar atrás el rol de hijo está poniendo fin a su estado de libertad juvenil para cruzar la frontera hacia la dimensión del sometimiento coercitivo Estatal. 
 
 8.2.5 » Esta tendencia, alimentada por la cultura y el instinto, incluye la idea de tener hijos antes de tener una profesión o de haber creado una estructura económica estable. Este acto instintivo de replicación, aunque biológicamente natural, es microeconómicamente destructivo si no está mediado por la consciencia.
 
