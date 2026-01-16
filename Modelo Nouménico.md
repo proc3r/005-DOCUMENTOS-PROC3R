@@ -2031,7 +2031,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 > ![[Qubit Ontogenico2.jpg]]
 
 > [!creador] NIVEL <font color="#fc300c">QUBIT CREADOR</font> (Fenoménico)
-En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00">Heliosférico</font>), el <font color="#2f82ff">Flujo Alfa (α)</font> coopera con el <font color="#fc300c">Flujo Omega (Ω)</font> para colapsar las probabilidades del multiverso en la única línea causal que será experimentada por los Avatares. El Qubit Creador actúa como un traductor que toma las ondas informacionales de <font color="#2f82ff">(α)</font> (cuánticas) y las ancla a la materialidad de <font color="#fc300c">(Ω)</font> (clásicas), imponiendo las constantes físicas que aseguran la progresión lineal de la experiencia (pasado hacia futuro) dentro de los límites del sistema solar.
+> En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00">Heliosférico</font>), el <font color="#2f82ff">Flujo Alfa (α)</font> coopera con el <font color="#fc300c">Flujo Omega (Ω)</font> para colapsar las probabilidades del multiverso en la única línea causal que será experimentada por los Avatares. El Qubit Creador actúa como un traductor que toma las ondas informacionales de <font color="#2f82ff">(α)</font> (cuánticas) y las ancla a la materialidad de <font color="#fc300c">(Ω)</font> (clásicas), imponiendo las constantes físicas que aseguran la progresión lineal de la experiencia (pasado hacia futuro) dentro de los límites del sistema solar.
 >
 > ![[Qubit Creador2.jpg]]
 
@@ -2069,17 +2069,20 @@ En el nivel del <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00
 7.7.10 » En su sentido más amplio, el <font color="#2f82ff">Arquetipo 5@</font> (Noema/Sabaoth) incluye la totalidad de las redes lógicas, existiendo como una única entidad fractal que opera en el <font color="#fc300c">Nous Activo</font>. Sin embargo, para comprender el ámbito de su aplicación, es necesario diferenciar los niveles de su manifestación:
 
 > [!espin] NOEMA UNIVERSAL - <font color="#2f82ff">Qubit Ontogénico</font> (<font color="#fc300c">Nous Activo</font>)
-> ![[Noema Universal.png|left|90]]Representa la totalidad potencial del universo cuántico pre-fenoménico. Es la base lógica que organiza el conocimiento generado por el  <font color="#00ff00"><font color="#00ff00">Arquetipo 4@</font> (Noesis)</font>, regido por las entidades arquetípicas conscientes que constituyen el <font color="#2f82ff">Qubit Ontogénico</font> primordial.  
->
+> Representa la totalidad potencial del universo cuántico pre-fenoménico. Es la base lógica que organiza el conocimiento generado por el  <font color="#00ff00"><font color="#00ff00">Arquetipo 4@</font> (Noesis)</font>, regido por las entidades arquetípicas conscientes que constituyen el <font color="#2f82ff">Qubit Ontogénico</font> primordial.
+> ![[Noema Universal.png]]
 
 > [!cerebro] NOEMA PRIMORDIAL - <font color="#fc300c">Qubit Creador</font> (<font color="#ffcc00">Heliosférico</font>/<font color="#cb48f3">Planetario</font>) 
-> ![[02 - Noema Primordial.png|left|90]]Representa la matriz lógica que define las leyes físico-energéticas y el plano social causal de una civilización. Se actualiza mediante la validación de la Consciencia Colectiva, a partir del nivel de Noesis que refleja una civilización Planetaria.
+> Representa la matriz lógica que define las leyes físico-energéticas y el plano social causal de una civilización. Se actualiza mediante la validación de la Consciencia Colectiva, a partir del nivel de Noesis que refleja una civilización Planetaria.
+> ![[02 - Noema Primordial.png]]
 
 > [!instituciones] NOEMA CULTURAL - Estructura Social (Egregor)
-> ![[03 - Noema Cultural.png|left|90]]Representa un entramado complejo de significados, ideas, creencias, valores, normas y prácticas que definen la identidad de un grupo social y que se transmiten de generación en generación. Actúa como herramienta de cohesión o manipulación.
+> Representa un entramado complejo de significados, ideas, creencias, valores, normas y prácticas que definen la identidad de un grupo social y que se transmiten de generación en generación. Actúa como herramienta de cohesión o manipulación.
+> ![[03 - Noema Cultural.png]]
 
 > [!humano] NOEMA PERSONAL - <font color="#00ff00">Qubit Egoico</font> (Consciencia Individual)
-> ![[04 - Noema Individual.png|left|90]]Representa la realidad subjetiva que experimenta el Avatar a través de la consciencia del <font color="#ffa3ef">Yo Egoico</font>, que define su identidad, y su capacidad de interactuar y coexistir con el resto de los Avatares que forman parte de la sociedad. Provee el input al <font color="#2f82ff">Noema Primordial</font>.
+> Representa la realidad subjetiva que experimenta el Avatar a través de la consciencia del <font color="#ffa3ef">Yo Egoico</font>, que define su identidad, y su capacidad de interactuar y coexistir con el resto de los Avatares que forman parte de la sociedad. Provee el input al <font color="#2f82ff">Noema Primordial</font>.
+> ![[04 - Noema Individual.png]]
 
 ## El Qubit Egoico
 
