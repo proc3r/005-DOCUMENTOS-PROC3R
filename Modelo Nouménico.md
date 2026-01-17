@@ -1,6 +1,16 @@
 ---
+color:
+  - rojo
+tags:
+  - documento
+  - ontología
+fecha: 2025-11-20
+aliases:
+  - 3+1x
+tipo: cosmovision
 indexar: true
 ---
+
 ![[Tetrahedro Fractal06.JPG]]
 
 
