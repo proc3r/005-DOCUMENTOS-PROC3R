@@ -3558,7 +3558,7 @@ Esta limitación también impide crear un último <font color="#cb48f3">Noema Fi
 
 9.6.13 » En cambio, el <font color="#cb48f3">Egregor Ejecutivo</font> del Gobierno es el <font color="#ffa3ef">Yo Egoico</font> egregórico de la administración actual (la personalidad del gobierno de turno), que es un reflejo directo del Noema Personal del Líder de la <font color="#ffcc00">Mónada Nacional</font> (Presidente, Rey, Primer Ministro), aunque condicionado por las perspectivas que ofrecen sus ministros y colaboradores.
 
-9.6.14 » El <font color="#cb48f3">Egregor Ejecutivo</font> dota al gobierno de una visión y una misión particular, limitando la consciencia de la <font color="#ffcc00">Mónada Nacional</font> para que opere bajo ciertos parametros específicos, que le permitan ejecutar los **Noemas Tácticos** que favorezcan sus intereses y se ajusten a la misión del plan de gobierno. 
+9.6.14 » El <font color="#cb48f3">Egregor Ejecutivo</font> dota al gobierno de una visión y una misión particular, lo que incluye limitar y condicionar los mecanismos de la <font color="#ffcc00">Mónada Nacional</font> para que el gobierno pueda operar bajo ciertos parametros específicos. Este condicionamiento permitirá ejecutar los **Noemas Tácticos** que favorezcan sus intereses y se ajusten a la misión del plan de gobierno. 
 
 9.6.14 » A través del poder de coerción inherente que ejerce el Estado, los ciudadanos que no apoyan el plan de gobierno son rápidamente clasificados y considerados «enemigos internos», alimentando la polarización necesaria para la supervivencia del <font color="#cb48f3">Egregor Ejecutivo</font>. 
 
