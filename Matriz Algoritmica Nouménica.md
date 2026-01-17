@@ -3207,7 +3207,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 > [!samael] <font color="#2f82ff">CULTURA GLOBALIZADA</font> (Sincronización Funcional)
 > En las Mónadas globales, el sistema promueve una lucha noemática y política constante (<font color="#00ff00">Tesis</font> vs <font color="#2f82ff">Antítesis</font>), pero esta fricción es tolerada y redireccionada hacia el entretenimiento y para promover el consumo <font color="#00ff00">(Nivel 4)</font>. 
 > 
-> La Sincronización aquí es funcional, permitiendo la coexistencia pacífica entre axiologías opuestas, siempre que el output de las acciones no perturbe el ciclo económico y mantenga la fe en la igualdad fenoménica impuesta por la<font color="#ffcc00">Monada Nacional (Nivel 3)</font>.
+> La Sincronización aquí es funcional, permitiendo la coexistencia pacífica entre axiologías opuestas, siempre que el output de las acciones no perturbe el ciclo económico y mantenga la fe en la igualdad fenoménica impuesta por la<font color="#ffcc00">Mónada Nacional (Nivel 3)</font>.
 
 9.4.19 » El <font color="#00ff00">Algoritmo Socio-Dialéctico</font>, al ser el código de la interacción manifiesta, es el lugar donde el ciudadano puede comenzar a decodificar los límites del <font color="#00ff00">presente</font>. 
 
@@ -3398,7 +3398,7 @@ Esta limitación también impide crear un último <font color="#cb48f3">Noema Fi
 
 9.5.29 » Sin embargo, en el núcleo de esta táctica reside una perspectiva acotada, ya que se ignoran deliberadamente las complejidades subjetivas y las necesidades particulares del contexto local. 
 
-9.5.30 » La retórica se enfoca en la adopción de un sistema optimizado que promete desarrollo, cuando su verdadera misión no es el bienestar autónomo de la <font color="#ffcc00">Monada Nacional</font>, sino su integración dependiente en un sistema global preexistente que garantiza la perpetuación del poder de las élites promotoras. 
+9.5.30 » La retórica se enfoca en la adopción de un sistema optimizado que promete desarrollo, cuando su verdadera misión no es el bienestar autónomo de la <font color="#ffcc00">Mónada Nacional</font>, sino su integración dependiente en un sistema global preexistente que garantiza la perpetuación del poder de las élites promotoras. 
 
 9.5.31 » Así, la nación cooptada asume, bajo la ilusión de progreso, un rol funcional dentro de una estructura de beneficios ajena.
 
@@ -3556,9 +3556,9 @@ Esta limitación también impide crear un último <font color="#cb48f3">Noema Fi
 
 9.6.12 » El <font color="#2f82ff">Noema Cultural </font>es la matriz lógica y abstracta amplia que contempla a toda la nación: es la biblioteca completa de lo pensable, que es actualizada en tiempo real por todos los ciudadanos que residen dentro de las fronteras de una Nación. 
 
-9.6.13 » En cambio, el <font color="#cb48f3">Egregor Ejecutivo</font> del Gobierno es el <font color="#ffa3ef">Yo Egoico</font> egregórico de la administración actual (la personalidad del gobierno de turno), que es un reflejo directo del Noema Personal del Líder de la <font color="#ffcc00">Monada Nacional</font> (Presidente, Rey, Primer Ministro), aunque condicionado por las perspectivas que ofrecen sus ministros y colaboradores.
+9.6.13 » En cambio, el <font color="#cb48f3">Egregor Ejecutivo</font> del Gobierno es el <font color="#ffa3ef">Yo Egoico</font> egregórico de la administración actual (la personalidad del gobierno de turno), que es un reflejo directo del Noema Personal del Líder de la <font color="#ffcc00">Mónada Nacional</font> (Presidente, Rey, Primer Ministro), aunque condicionado por las perspectivas que ofrecen sus ministros y colaboradores.
 
-9.6.14 » El <font color="#cb48f3">Egregor Ejecutivo</font> dota al gobierno de una visión y una misión específicas, limitando la consciencia de la <font color="#ffcc00">Mónada Nacional</font> para actuar de ciertas formas y permitiendo la ejecución de **Noemas Tácticos** que favorezcan sus intereses y se ajusten a la misión del plan de gobierno. 
+9.6.14 » El <font color="#cb48f3">Egregor Ejecutivo</font> dota al gobierno de una visión y una misión particular, limitando la consciencia de la <font color="#ffcc00">Mónada Nacional</font> para que opere bajo ciertos parametros específicos, que le permitan ejecutar los **Noemas Tácticos** que favorezcan sus intereses y se ajusten a la misión del plan de gobierno. 
 
 9.6.14 » A través del poder de coerción inherente que ejerce el Estado, los ciudadanos que no apoyan el plan de gobierno son rápidamente clasificados y considerados «enemigos internos», alimentando la polarización necesaria para la supervivencia del <font color="#cb48f3">Egregor Ejecutivo</font>. 
 
