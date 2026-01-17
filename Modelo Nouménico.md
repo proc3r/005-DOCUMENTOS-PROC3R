@@ -1,3 +1,6 @@
+---
+indexar: true
+---
 ![[Tetrahedro Fractal06.JPG]]
 
 

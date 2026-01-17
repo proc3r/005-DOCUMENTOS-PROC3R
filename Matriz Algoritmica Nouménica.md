@@ -1,6 +1,5 @@
 ---
-tags:
- - ModeloNoumenico
+indexar: true
 ---
 # 1. La Matriz Algorítmica De La Existencia
 
