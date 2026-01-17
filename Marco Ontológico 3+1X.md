@@ -1,15 +1,8 @@
-
-color:
-  - rojo
-tags:
-  - documento
-  - ontología
-fecha: 2025-11-20
-aliases:
-  - 3+1x
-tipo: cosmovision
+---
 indexar: true
+---
 
+![[004 - Evolucion Noumenica2.jpg]]
 
 ![[Principio 3+1x Gramática Oculta del Universo.m4a]]
 # EL PRINCIPIO 3+1×
