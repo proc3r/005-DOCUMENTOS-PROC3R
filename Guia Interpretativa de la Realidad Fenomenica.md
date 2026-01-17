@@ -775,74 +775,39 @@ El corazón de la reinterpretación de nuestra teoría radica en el valor de la 
 
 Para entender esto, recordamos las ecuaciones fundamentales que unen la masa, la energía, la frecuencia y la longitud de onda:
 
-1. La Equivalencia Masa-Energía (Plano Fenoménico):
-    
-    <center><span style="color: ffcc00; font-family: monospace;">E = mc2</span></center>
-    
-    Esta relación describe cómo la masa y la energía se interconvierten, con $c^2$ actuando como un factor de conversión que establece la equivalencia en el ámbito de nuestra percepción causal.
-    
-2. La Equivalencia Cuántica (Plano Vibratorio):
-    
-    $E = hf$
-    
-    Aquí, la energía se entiende como una manifestación de la frecuencia 'f', cuantificada por la constante de Planck 'h'. Es la expresión de la energía en su estado vibratorio más fundamental.
-    
-3. La Relación Ondulatoria (Flujo de Información):
-    <sup></sup>
-    $f = c/\lambda$
-    
-    Esta ecuación nos dice que la frecuencia de una onda está directamente ligada a la velocidad de la luz 'c' y a su longitud de onda 'λ'. En el Modelo Nouménico, 'c' actúa aquí como el flujo lineal de información, dictando cómo las vibraciones se propagan a través del espacio-tiempo.    
+La Equivalencia Masa-Energía (Plano Fenoménico):
+
+<center>E = mc<sup>2</sup></center>
+
+Esta relación describe cómo la masa y la energía se interconvierten, con $c^2$ actuando como un factor de conversión que establece la equivalencia en el ámbito de nuestra percepción causal.
+
+La Equivalencia Cuántica (Plano Vibratorio):
+
+<center>E = hf</center>
+
+Aquí, la energía se entiende como una manifestación de la frecuencia 'f', cuantificada por la constante de Planck 'h'. Es la expresión de la energía en su estado vibratorio más fundamental.
+
+La Relación Ondulatoria (Flujo de Información):    <sup></sup>
+<center>f = c/λ</center>
+
+Esta ecuación nos dice que la frecuencia de una onda está directamente ligada a la velocidad de la luz 'c' y a su longitud de onda 'λ'. En el Modelo Nouménico, 'c' actúa aquí como el flujo lineal de información, dictando cómo las vibraciones se propagan a través del espacio-tiempo.    
 
 Al unir estas relaciones, establecemos la equivalencia fundamental desde la perspectiva de nuestro modelo:
 
-$hf = mc^2$
+<center>hf=mc<sup>2</sup></center>
 
-Ahora, si queremos ver cómo la velocidad de la luz 'c' emerge como un operador fundamental en este "píxel", podemos manipular esta igualdad. Reemplazando $f$ por $c/\lambda$:
-
-$h(c/\lambda) = mc^2$
-
-$hc/\lambda = mc^2$
+Ahora, si queremos ver cómo la velocidad de la luz 'c' emerge como un operador fundamental en este "píxel", podemos manipular esta igualdad. Reemplazando $f$ por c/λ:
+<center>h(c/λ) = mc<sup>2</sup></center>
+<center>hc/λ = mc2</center>
 
 Podemos observar que 'c' aparece en ambos lados. Si dividimos ambos lados por $c$, obtenemos la relación de De Broglie:
 
-$h/\lambda = mc$
+<center>h/λ = mc</center>
 
 Esta ecuación, $h/\lambda = mc$, es profundamente reveladora. Nos muestra a la velocidad de la luz <span style="font-size: 19px; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> no solo como un límite, sino como un operador vectorial que conecta directamente el cuanto de acción 'h' y la estructura vibratoria 'λ' con la manifestación de la masa 'm'. Dentro del píxel fundamental, <span style="font-size: 19px; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> actúa como el filtro lineal de frecuencias que transcodifica el plano cuántico al relativista.
 
 Desde la perspectiva del Modelo Nouménico, este "filtro" de <span style="font-size: 19px; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> puede interpretarse como un flujo de frecuencia lineal que, aunque en el plano fenomenológico percibimos avanzando unidireccionalmente (la flecha del tiempo y la causalidad), en el plano cuántico-nouménico, un observador podría leer esta frecuencia en sentido inverso (levógira o dextrógira). Esto implica que la información subyacente no está ligada a la direccionalidad causal, sino que es un patrón vibratorio que el operador <span style="font-size: 19px; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> proyecta en nuestro tiempo lineal. La constante de Planck 'h' define el tamaño del píxel donde esta transcodificación ocurre, y <span style="font-size: 19px; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> es el vector que define cómo esa información fluye y se "lee" para generar nuestra realidad percibida.
 
-
-> [!warning]- REVISAR INFO
-> 
-> #### El Valor de 'c' como Operador Vectorial
-> DESDOBLANDO LA CONSTANTE EN EL PÍXEL
-> 
-> El corazón de la reinterpretación de nuestra teoría radica en el valor de la "constante" <span style="color: ffcc00; font-family: monospace;">'c'</span>. En el paradigma científico,<span style="color: ffcc00; font-family: monospace;">'c'</span> es un valor inmutable. Para nosotros, el valor de <span style="color: ffcc00; font-family: monospace;">'c'</span> que medimos es la manifestación fenomenológica de una serie de operadores vectoriales de ajuste que sincronizan las diferentes dimensiones de codificación dentro del píxel fundamental.
-> 
-> Para entender esto, necesitamos expandir la ecuación de Einstein a una forma que incluya la frecuencia <span style="color: ffcc00; font-family: monospace;">'f'</span> y la longitud de onda <span style="font-size: 19px; color: 00ff00; font-family: monospace;">'λ'</span>, donde por un lado tenemos la energía como una <font color="#2f82ff">Equivalencia Cuántica</font> (*Nivel Base - Vibración*):
-> 
-> <center><span style="font-size: 20px; font-family: 'none'; font-variant: petite-caps;"> Traspaso de energia cuántica a formato de frecuencia </span></center>
-> <center><span style="font-size: 19px; color: #2f82ff; font-family: monospace;">E=hc/λ</span> ⟹ <span style="color: ffcc00; font-family: monospace;">E=hf</span></center>
-> 
-> Y por el otro lado tenemos a la masa como una <font color="#fc300c">Equivalencia Relativista</font> (*Nivel Fenoménico - Masa-Energía*):
-> 
-> <center><span style="font-size: 20px; font-family: 'none'; font-variant: petite-caps;"> Traspaso de masa relativista a formato de frecuencia </span></center>
-> <center><span style="font-size: 19px; color: 00ff00; font-family: monospace;">m=E/c²</span> ⟹ <span style="font-size: 19px; color: fc300c; font-family: monospace;">m=hf/c²</span></center>
-> 
-> El Modelo Nouménico propone que la <font color="#2f82ff">E<sub>vibración</sub></font> y <font color="#fc300c">E<sub>relatividad</sub></font> son la mísma energía fundamental, vista desde perspectivas diferentes. Por lo tanto, podemos igualar:
-> 
-> <center><span style="font-size: 19px; color: #2f82ff ; font-family: monospace;">hf</span>​ = <span style="font-size: 19px; color: fc300c; font-family: monospace;">hf/c²​</span> ⟹ <span style="font-size: 19px; color: #2f82ff ; font-family: monospace;">hfc</span>​ = <span style="font-size: 19px; color: fc300c; font-family: monospace;">hf/c​</span></center>
-> 
-> La revelación surge al notar que con esta igualación entre dos dimensiones energéticas diferentes, obtenemos a una frecuencia operando a través de constante de planck (el cuanto mínimo de acción) interactuando de maneras inversas con la velocidad de la luz <span style="font-size: 19px; color: ffcc00; font-family: 'Avenir Next';">'c'</span>, e incluso pudiendo ser la misma frecuencia operando en una única dimensión, pudiendo avanzar o retroceder en un solo sentido.
-> 
-> 
-> Esta expresión, que en un sentido matemático se simplifica a la original, cobra un significado profundo y multidimensional en el Modelo N<span style="font-size: 19px; color: 00ff00; font-family: 'Avenir Next';"></span><span style="font-size: 19px; color: 00ff00; font-family: 'Avenir Next';"></span><span style="font-size: 19px; color: 00ff00; font-family: 'Avenir Next';"></span><span style="font-size: 28px;color: #d5cf16;font-family: 'Avenir Next';"></span>ouménico. Los cuatro términos <span style="font-size: 19px; color: ffcc00; font-family: 'Avenir Next';">'c'</span> representan operadores vectoriales de ajuste que sirven como el "idioma" de cada una de las dimensiones que coexisten en el píxel (<font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font>, <font color="#2f82ff">SU(3)</font>):
-> 
-> - El primer 'c' (en el término hf/c): Este operador vectorial codifica el flujo de retroceso de la dimensión más densa del píxel, la de Samael (SU(3)). Es el valor de ajuste que permite a la información nouménica de quarks y gluones manifestarse en el plano fenomenológico como energía.
-> - El segundo y tercer 'c' (en el término hf/c²): Estos dos operadores representan los flujos duales (eléctrico y magnético) de la dimensión de Saklas (U(1)). Cada uno se corresponde con las dos ondas sinusoidales transversales del electromagnetismo, una procesando la información del eje X (flujo eléctrico) y la otra la información del eje Y (flujo magnético). El producto de estos dos flujos vectoriales es lo que la ciencia interpreta como c².
-> - El cuarto 'c' (multiplicando): Este operador representa el vector de ajuste direccional de la dimensión de Cristos (SU(2)). Codifica la información del eje Z y se encarga de dirigir el fenómeno emergente en el espacio-tiempo. Este operador es el que se ajusta continuamente para mantener la coherencia con los otros dos flujos, y su valor final es el que se percibe como la velocidad de la luz.
-> 
-> De esta manera, la "velocidad de la luz" no es una constante absoluta, sino el valor final y sincronizado de estos cuatro operadores vectoriales. Es la velocidad máxima a la que la realidad se puede manifestar de forma coherente en el plano fenomenológico, un límite impuesto por el equilibrio entre las dimensiones de Samael, Saklas y Cristos.
 
 
 ## La Relatividad y la Danza de los Píxeles en el Micromundo
