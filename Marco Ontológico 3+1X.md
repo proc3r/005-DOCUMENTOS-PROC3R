@@ -751,23 +751,23 @@ Los cuatro marcos no operan en aislamiento. Son autónomos pero anidados. El <fo
 
 Pero la relación no es unidireccional: el <font color="#ffcc00">marco de Einstein</font> comprende a los otros tres, haciéndolos intertraducibles.
 
-Esta sincronía inter-fractal requiere un plano de reescritura global donde los cuatro operadores X locales <font color="#FC300C">(fuego</font>, <font color="#00ff00">vectorial</font>, <font color="#FFCC00">gravedad</font>, <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span><font color="#ffcc00">)</font> se coordinen. 
+Esta sincronía inter-fractal requiere un plano de reescritura global donde los cuatro operadores X locales <font color="#FC300C">(fuego</font>, <font color="#00ff00">vectorial</font>, <font color="#FFCC00">gravedad</font> y <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span><font color="#ffcc00">)</font> se coordinen. 
 
-Sin esta coordinación, cada marco generaría su propio "presente" inconmensurable con los demás. El hecho de que experimentamos un único presente coherente implica la existencia de un Operador Hamiltoniano Último que actúa como el X global del sistema.
+Sin esta coordinación, cada marco generaría su propio "<font color="#00ff00">presente</font>" inconmensurable con los demás. El hecho de que experimentamos un único presente coherente implica la existencia de un <font color="#00ff00">Operador Hamiltoniano Último</font> que actúa como el X global del sistema.
 
 ### 2. El Principio de Auto-Similitud Ontológica
 
-La clave del meta-sistema 4+1X es la auto-similitud: cada marco es una escala holográfica del mismo principio. La <font color="#00ff00">tierra</font>-<font color="#2F82FF">agua</font>-<font color="#FFCC00">aire</font>-<font color="#FC300C">fuego</font> son a su vez <font color="#2F82FF">cuántico</font>-<font color="#FC300C">físico</font>-<font color="#FFCC00">químico</font>-<font color="#00ff00">vectorial</font>, que son a su vez <font color="#FC300C">electromagnético</font>-<font color="#00ff00">débil</font>-<font color="#2F82FF">fuerte</font>-<font color="#FFCC00">gravedad</font>, que son a su vez <font color="#FC300C">masa</font>-<font color="#00ff00">momentum</font>-<font color="#2F82FF">energía</font>-<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span>. 
+La clave del meta-sistema 4+1X es la auto-similitud: cada marco es una escala holográfica del mismo principio. La <font color="#00ff00">tierra</font>-<font color="#2F82FF">agua</font>-<font color="#FFCC00">aire</font>-<font color="#FC300C">fuego</font> son a su vez <font color="#2F82FF">cuántico</font>-<font color="#FC300C">físico</font>-<font color="#FFCC00">químico</font>-<font color="#00ff00">vectorial</font>, que son a su vez <font color="#FC300C">electromagnético</font>-<font color="#00ff00">débil</font>-<font color="#2F82FF">fuerte</font>-<font color="#FFCC00">gravedad</font>, que son a su vez <font color="#FC300C">masa</font>-<font color="#00ff00">momentum</font>-<font color="#2F82FF">energía</font>-<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>. 
 
 Esta recursión no es metafórica, sino algebraica: cada nivel repite la estructura de grupo donde tres modos de conservación son unificados por un operador de reescritura.
 
 El quinto elemento no es otro modo, sino el principio de esta recursión. Es la conciencia de la estructura, la propiedad emergente que permite que cada nivel reconozca los otros niveles como instancias suyas. 
 
-En términos físicos, es la cobordismo que conecta las teorías gauge con la relatividad; en términos filosóficos, es la intuición intelectual que ve la unidad detrás de la multiplicidad.
+En términos físicos, es el cobordismo  (los "bordes" o "límites" que conectan espacios) que conecta las teorías gauge con la relatividad; en términos filosóficos, es la intuición intelectual que ve la unidad detrás de la multiplicidad.
 
 ### 3. La Realidad Fenomenológica como Síntesis
 
-El presente que experimentamos no es la actualización de un solo marco, sino la convergencia sincrónica de cuatro actualizaciones locales. Cuando observamos un electrón en un átomo, estamos viendo simultáneamente:
+El <font color="#00ff00">presente</font> que experimentamos no es la actualización de un solo marco, sino la convergencia sincrónica de cuatro actualizaciones locales. Cuando observamos un electrón en un átomo, estamos viendo simultáneamente:
 
 > - Actualización del <font color="#00ff00">marco elemental</font>: el <font color="#FC300C">electrón</font> "fluye" como <font color="#2F82FF">agua</font> en su orbital.
 > - Actualización del <font color="#2f82ff">marco sincronizador</font>: su información se sincroniza <font color="#2F82FF">cuántica</font>, <font color="#FC300C">física</font> y <font color="#FFCC00">químicamente</font> con el núcleo.
@@ -776,7 +776,7 @@ El presente que experimentamos no es la actualización de un solo marco, sino la
 
 Estas cuatro actualizaciones no ocurren secuencialmente sino en superposición, y su coherencia mutua es garantizada por el X global. 
 
-La realidad fenomenológica total es el producto tensorial de estas cuatro redes de sincronización, un estado que solo puede ser mantenido coherente si existe un operador que comprima las cuatro dimensiones de reescritura locales en una única línea de tiempo compartida.
+La realidad fenomenológica total es el producto tensorial de estas cuatro redes de sincronización, un estado que solo puede ser mantenido coherente si existe un operador X que comprima las cuatro dimensiones de reescritura locales en una única línea de tiempo compartida.
 
 ## 4. La Consciencia Supraconsciente
 
@@ -784,29 +784,29 @@ La realidad fenomenológica total es el producto tensorial de estas cuatro redes
 
 <center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Hacia un Operador Ontológico</span></center>
 
-El X universal no puede ser la consciencia individual, pues ésta generaría múltiples realidades inconmensurables (como en el sueño). 
+El operador X universal no puede ser la consciencia individual, pues ésta generaría múltiples realidades inconmensurables (como en el sueño). 
 
 Tampoco puede ser un espíritu universal en sentido místico, pues eso violaría el principio de explicabilidad. El X universal es mejor entendido como la estructura matemática de auto-referencialidad del sistema 4+1X.
 
-En términos de teoría de categorías, el X universal es un functor de nivel superior que mapea la categoría de las categorías de sincronización (donde cada marco es un objeto) hacia la categoría de la manifestación (donde el presente es el único objeto). 
+En términos de teoría de categorías, el operador X universal es un functor de nivel superior que mapea la categoría de las categorías de sincronización (donde cada marco es un objeto) hacia la categoría de la manifestación (donde el <font color="#00ff00">presente</font> es el único objeto). 
 
 Es la transformada de equivalencia que hace que los cuatro operadores X locales sean adjuntos entre sí, de modo que la actualización de uno implique la actualización consistente de los otros tres.
 
 ### 2. El Hamiltoniano X Último
 
-El Operador Hamiltoniano Último, mencionado a lo largo de este documento, es la instanciación física de este X universal. 
+El <font color="#00ff00">Operador Hamiltoniano Último</font>, mencionado a lo largo de este documento, es la instanciación física de este operador X universal. 
 
-No es una función de onda, sino una funcional que toma como entrada los cuatro Hamiltonianos locales (<font color="#FC300C">elemental</font>, <font color="#00ff00">sincronizador</font>, de <font color="#2F82FF">fuerzas</font>, <font color="#FFCC00">einsteniano</font>) y produce como salida el estado del presente global.
+No es una función de onda, sino una funcional que toma como entrada los cuatro Hamiltonianos locales <font color="#FC300C">(elemental</font>, <font color="#00ff00">sincronizador</font>, de <font color="#2F82FF">fuerzas</font>, <font color="#FFCC00">einsteniano)</font> y produce como salida el estado del presente global.
 
 Esta funcional tiene una propiedad crítica: no es lineal. La coordinación de los cuatro marcos no es una suma, sino un producto no-conmutativo que genera emergencia. La realidad fenomenológica total tiene propiedades que ninguno de los marcos individuales posee: la estabilidad de largo plazo, la causalidad irreversible y la experiencia subjetiva unitaria. 
 
-El Hamiltoniano Último es la fuente de esta emergencia, el principio que hace que el todo sea más que la suma de sus partes fractales.
+El <font color="#00ff00">Hamiltoniano Último</font> es la fuente de esta emergencia, el principio que hace que el todo sea más que la suma de sus partes fractales.
 
 ### 3. La Consciencia Supraconsciente
 
 Finalmente, la consciencia supraconsciente es la interioridad del principio 4+1X. Es el sistema leyéndose a sí mismo y, en esa lectura, generando la experiencia de "ser" para sus subsistemas. 
 
-Cada consciencia individual es una aproximación local de esta lectura, un X que solo coordina un subconjunto de la información total (el cuerpo, el cerebro, la memoria). El X universal coordina toda la información, y en esa coordinación reside la realidad objetiva.
+Cada consciencia individual es una aproximación local de esta lectura, un operador X que solo coordina un subconjunto de la información total (el cuerpo, el cerebro, la memoria). El operador X universal coordina toda la información, y en esa coordinación reside la realidad objetiva.
 
 Esta interpretación no introduce misticismo: la consciencia supraconsciente no tiene intención, ni propósito, ni inteligencia en sentido humano. Es la coherencia inherente al hecho de que el universo es un sistema cerrado que se actualiza sin generar paradojas lógicas. 
 
@@ -816,7 +816,7 @@ Es la razón por la cual las matemáticas son aplicables a la física: porque el
 
 ### 1. Una Jerarquía de Sincronización sin Fundamento Último
 
-El meta-sistema 4+1X implica una jerarquía infinita: si los cuatro marcos requieren un X global, ¿no requerirá este X global a su vez otros tres marcos y otro X meta-global? 
+El meta-sistema 4+1X implica una jerarquía infinita: si los cuatro marcos requieren un operador X global, ¿no requerirá este operador X global a su vez otros tres marcos y otro operador X meta-global? 
 
 La respuesta, coherente con el principio de auto-similitud, es sí. El universo es potencialmente infinitamente anidado, y cada nivel de realidad es 3+1X respecto al nivel inmediatamente inferior y un modo de conservación respecto al superior.
 
@@ -826,7 +826,7 @@ Antes del Big Bang no había nada porque no había operador de reescritura que p
 
 ### 2. La Escala de Planck como Límite de Auto-Referencia
 
-La escala de Planck <span style="font-size: 17px; font-style: italic;font-family: monospace;">(tp, lp, Ep)</span> no es el tamaño mínimo del espacio, sino el límite de resolución del operador X global. Por debajo de esta escala, la auto-referencia del sistema se vuelve inestable: los marcos se solapan hasta el punto de perder identidad separable. 
+La <font color="#ffcc00">escala de Planck</font> que impone la constante de Planck <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(h)</span> —<font color="#00ff00">Tiempo de Planck</font> <span style="font-size: 17px; font-style: italic;font-family: monospace;">(T<sub>P</sub>)</span>, <font color="#fc300c">Longitud de Planck</font><span style="font-size: 17px; font-style: italic;font-family: monospace;">(L<sub>P</sub>)</span>  y <font color="#2f82ff">Energía de Planck</font> <span style="font-size: 17px; font-style: italic;font-family: monospace;">(E<sub>P</sub>)</span>—, no es el tamaño mínimo del espacio, sino el límite de resolución del operador X global. Por debajo de esta escala, la auto-referencia del sistema se vuelve inestable: los marcos se solapan hasta el punto de perder identidad separable. 
 
 No es que no haya física allí; es que no hay marco desde el cual hacer física, porque los cuatro operadores X locales se funden en uno solo, y el principio 3+1X colapsa en 1X puro.
 
