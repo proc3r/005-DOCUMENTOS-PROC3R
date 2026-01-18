@@ -176,7 +176,7 @@ El error conceptual radica en aplicar el mismo modelo de cuantización que funci
 
 Desde el principio 3+1X, las tres fuerzas gauge son protocolos de corrección de error que operan dentro de un espacio de Hilbert predefinido. 
 
-Sus bosónes mediadores —el fotón, los bosónes <font color="#fc300c">W+</font>, <font color="#2f82ff">W-</font> y <font color="#00ff00">Z</font>, los gluones— son bits de información que transmiten instrucciones locales para mantener las simetrías respectivas. 
+Sus bosónes mediadores —el <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span>, los bosónes <font color="#fc300c">W+</font>, <font color="#2f82ff">W-</font> y <font color="#00ff00">Z</font>, los gluones— son bits de información que transmiten instrucciones locales para mantener las simetrías respectivas. 
 
 Son mensajeros dentro del sistema. La <font color="#ffcc00">gravedad</font>, en contraste, no tiene mensajeros porque no hay sistema preestablecido sobre el cual mensajear. 
 
@@ -303,21 +303,21 @@ Es el "algoritmo central" de su ser, derivado de la sincronía y codificación d
 
 Así, las cualidades intrínsecas de las partículas son emanaciones directas de estos Hamiltonianos locales y sus generadores asociados:
 
-> [!masa] MASA
-> La <font color="#fc300c">masa</font> no es simplemente una medida de inercia; es una consecuencia directa del generador del <font color="#FC300C">electromagnetismo</font>. Es la manifestación de cómo este algoritmo procesa información lineal a través del fotón. 
+> [!masa] <font color="#fc300c">MASA</font>
+> La <font color="#fc300c">masa</font> no es simplemente una medida de inercia; es una consecuencia directa del generador del <font color="#FC300C">electromagnetismo</font>. Es la manifestación de cómo este algoritmo procesa información lineal a través del <font color="#00ff00">fotón</font>. 
 > 
-> La masa es, en esencia, la solidez y la presencia que emerge cuando la unidad de información de<font color="#FC300C"> U(1) </font>define y da identidad a la matriz fenomenológica local de la partícula. 
+> La masa es, en esencia, la solidez y la presencia que emerge cuando la unidad de información de <font color="#FC300C">U(1) </font>define y da identidad a la matriz fenomenológica local de la partícula. 
 > 
 > Su Hamiltoniano intrínseco está ligado a la resistencia inherente que esa unidad de información ofrece a la aceleración.
 
-> [!espin] ESPÍN
+> [!espin] <font color="#00ff00">ESPÍN</font>
 > El espín emerge como una consecuencia de los tres generadores de la <font color="#00ff00">fuerza débil</font>. Representa cómo este algoritmo procesa información estadística a través del sistema de bosónes débiles <font color="#00ff00">(Z</font>, <font color="#FC300C">W+</font> y <font color="#2F82FF">W-)</font>. 
 > 
 > El espín, con su naturaleza cuántica de "rotación interna" sin movimiento real y sus valores discretos, refleja las propiedades probabilísticas y direccionales de <font color="#00ff00">SU(2)</font>, el arquetipo de síntesis y elección. 
 > 
 > Su Hamiltoniano intrínseco define las posibles orientaciones y estados de este flujo de información.
 
-> [!carga] CARGA
+> [!carga] <font color="#2f82ff">CARGA</font>
 > La <font color="#2F82FF">carga</font> es el producto de los ocho generadores de la <font color="#2F82FF">fuerza fuerte</font>, procesando información estadística a través del sistema de gluones. 
 > 
 > Ya sea la carga eléctrica o la carga de color, es la manifestación de la poderosa cohesión y organización inherente a <font color="#2F82FF">SU(3)</font>, el arquetipo de las reglas que definen la matriz. 
@@ -372,22 +372,23 @@ El Modelo Nouménico, en su empeño por trascender los "noemas culturales y cien
 
 Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no como sustancias discretas, sino como expresiones de ondas y frecuencias dentro de un universo informacional:
 
-> [!energia] ENERGÍA
+> [!energia] <font color="#2f82ff">ENERGÍA</font>
 > La <font color="#2F82FF">Energía (E)</font>, desde una perspectiva ondulatoria y cuántica, se describe por la relación de Planck-Einstein como: 
 > <center><span style=" font-style: italic;color: #FFCC00; font-family: monospace;">E=hf</span></center>
 > O en términos de longitud de onda:
-> <center><span style=" font-style: italic;color: #2F82FF; font-family: monospace;">E=hc/λ</span>. </center>
+> <center><span style=" font-style: italic;color: #2F82FF; font-family: monospace;">E=hc/λ</span> </center>
 > 
 > Aquí, <span style=" font-style: italic; font-family: monospace;">(h)</span> es la constante de Planck —el <font color="#FFCC00">cuanto de acción</font> que establece la unidad mínima de <font color="#2F82FF">energía</font> que puede ser intercambiada—, <span style=" font-style: italic;font-family: monospace;">(f)</span> es la frecuencia de la onda, y <span style=" font-style: italic;ont-family: monospace;">(λ)</span> es su longitud de onda. 
 > 
 > Esta fórmula nos indica que la energía de una onda es directamente proporcional a su frecuencia, lo que implica que las vibraciones más rápidas transportan más energía.
 
-> [!masa] MASA
+> [!masa] <font color="#fc300c">MASA</font>
 > La <font color="#FC300C">Masa (m)</font>, por su parte, también puede conceptualizarse como una forma de energía altamente confinada, intrínsecamente ligada a una frecuencia específica. 
 > 
 > Si reordenamos la ecuación <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span> para despejar la masa:
-> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span> </center>y luego sustituimos la expresión de energía de Planck <span style="font-style: italic; color: #FFCC00; font-family: monospace;">E=hf</span> obtenemos: 
-> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=hf/c²</span>. </center>
+> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span> </center>
+> Y luego sustituimos la expresión de energía de Planck <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(E=hf)</span> obtenemos: 
+> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span> ⟹  <span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=<font color="#ffcc00">hf</font>/c²</span>. </center>
 > 
 > Esta expresión es reveladora: la <font color="#FC300C">masa</font> ya no se presenta como una cualidad intrínseca de una "cosa" estática, sino como una frecuencia cuantificada, encapsulada y "frenada" por el cuadrado de la velocidad de la luz. 
 > 
@@ -421,7 +422,7 @@ Es en la escala definida por <span style="font-style: italic; font-family: monos
 
 La ecuación <span style=" font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span>=<span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span> revela una conexión intrínseca entre la información del <font color="#FC300C">Algoritmo U(1)</font> y el <font color="#00ff00">Algoritmo SU(2)</font>:
 
-> - La presencia de una única <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">(c)</span> en la expresión de la <font color="#2F82FF">energía</font> <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hc/λ</span> resuena con la unidad y la linealidad del <font color="#FC300C">Algoritmo U(1)</font>, asociado al <font color="#FC300C">electromagnetismo</font> y el fotón. Aquí <font color="#fc300c">U(1)</font> es la base de la coherencia unitaria que permite que la energía se propague como una onda singular.
+> - La presencia de una única <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">(c)</span> en la expresión de la <font color="#2F82FF">energía</font> <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hc/λ</span> resuena con la unidad y la linealidad del <font color="#FC300C">Algoritmo U(1)</font>, asociado al <font color="#FC300C">electromagnetismo</font> y el <font color="#00ff00">fotón</font>. Aquí <font color="#fc300c">U(1)</font> es la base de la coherencia unitaria que permite que la energía se propague como una onda singular.
 > - La aparición de <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en la expresión de la <font color="#FC300C">masa</font> <span style="font-style: italic; color: #FC300C; font-family: monospace;">(hf/c²)</span> y en la ecuación de Einstein <span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">E=mc²</span> simboliza la dualidad y la síntesis inherente al <font color="#00ff00">Algoritmo SU(2)</font>. 
 
  En la Ecuación clásica de Einstein <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> puede interpretarse como la auto-interacción de la unidad de velocidad de la luz, creando la "tensión" o la "interacción" necesaria para que la <font color="#2F82FF">energía</font> se condense y adquiera <font color="#FC300C">masa</font>. Es el punto donde la unidad se desdobla, donde las frecuencias se entrelazan para formar una manifestación más compleja y densa.
@@ -447,7 +448,7 @@ En una matriz fenomenológica más compleja, los generadores no son solo conecto
 Así, la naturaleza misma de las partículas se desvela como una manifestación algorítmica:
 
 > [!masa] MASA
-> La <font color="#FC300C">masa</font> es una consecuencia directa del generador del <font color="#FC300C">electromagnetismo U(1)</font>. Representa el proceso por el cual el <font color="#FC300C">Algoritmo U(1)</font> procesa información lineal a través del fotón, estableciendo la unidad fundamental de presencia. 
+> La <font color="#FC300C">masa</font> es una consecuencia directa del generador del <font color="#FC300C">electromagnetismo U(1)</font>. Representa el proceso por el cual el <font color="#FC300C">Algoritmo U(1)</font> procesa información lineal a través del <font color="#00ff00">fotón</font>, estableciendo la unidad fundamental de presencia. 
 > 
 > La masa es la cualidad de "ser" que emerge de la capacidad de<font color="#FC300C"> U(1)</font> para definir y dar identidad a la matriz fenomenológica local de una partícula, confiriéndole una forma de resistencia inherente.
 
@@ -511,7 +512,7 @@ El Hamiltoniano intrínseco de una partícula no es una función de energía con
 
 En este esquema, la <font color="#FC300C">masa</font> no es una propiedad preexistente sino la manifestación de la unidad de información lineal procesada por el generador de <font color="#FC300C">U(1)</font>, responsable del <font color="#FC300C">electromagnetismo</font>. 
 
-La masa es la cohesión que emerge cuando el fotón, como base de simetría unitaria, "imprime" identidad a la matriz local de la partícula, conferiéndole resistencia a la aceleración y, por tanto, a la existencia como entidad separable.
+La masa es la cohesión que emerge cuando el <font color="#00ff00">fotón</font>, como base de simetría unitaria, "imprime" identidad a la matriz local de la partícula, conferiéndole resistencia a la aceleración y, por tanto, a la existencia como entidad separable.
 
 El <font color="#00ff00">espín</font>, por su parte, surge de los tres generadores de <font color="#00ff00">SU(2)</font>, la simetría de la <font color="#00ff00">interacción débil</font>. Esta cualidad cuántica, con sus valores discretos de ±1/2 y su extraña propiedad de "rotación sin movimiento", refleja la naturaleza probabilística y direccional del <font color="#00ff00">algoritmo SU(2)</font>, que procesa información estadística a través de los bosónes <font color="#FC300C">W+</font>, <font color="#2F82FF">W-</font> y <font color="#00ff00">Z</font>. 
 
@@ -590,7 +591,7 @@ Para comprender el proceso de transducción, debemos leer la ecuación no de izq
 La ecuación de Einstein, bajo esta luz, no es independiente del Modelo Estándar, sino que es su comprensor sincrético. Cada término de la expresión expandida corresponde a un sector del lagrangiano gauge:
 
 > [!energia] ALGORITMO <font color="#FC300C">U(1)</font> y el término <span style=" font-style: italic;font-family: monospace;">(hf)</span>
-> La energía pura es la manifestación del sector <font color="#FC300C">electromagnético</font>. El fotón, como bosón gauge de <font color="#FC300C">U(1)</font>, es el portador de frecuencia antes de la cuantización. <span style=" font-style: italic;font-family: monospace;">hf</span> es la energía del fotón "puro", no interactuante.
+> La energía pura es la manifestación del sector <font color="#FC300C">electromagnético</font>. El <font color="#00ff00">fotón</font>, como bosón gauge de <font color="#FC300C">U(1)</font>, es el portador de frecuencia antes de la cuantización. <span style=" font-style: italic;font-family: monospace;">hf</span> es la energía del <font color="#00ff00">fotón</font> "puro", no interactuante.
 
 > [!n-tau] ALGORITMO <font color="#00ff00">SU(2)</font> y el término <span style=" font-style:  italic; color: #FFCC00; font-family: monospace;">/(c²)</span>
 > La <font color="#00ff00">fuerza débil</font>, con sus tres bosónes, introduce asimetría y rotación en el espacio de sabor. Dividir por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> es aplicar la transformación de <font color="#00ff00">SU(2)</font> a la frecuencia, quebrando su simetría unitaria y permitiendo que la información adquiera "orientación temporal" . 
@@ -1079,7 +1080,7 @@ En la siguiente sección se profundizará en la ontología onírica:
 Allí formalizaremos la noción de sincronización de presentes y la resonancia ontológica que permite que múltiples X locales experimenten un universo compartido sin necesidad de un substrato material único, resolviendo finalmente la paradoja del observador y abriendo la puerta a una epistemología de la intersubjetividad cuántica.
 
 > [!cite] NOTA METODOLÓGICA
-> Este anexo ha mantenido deliberadamente la distinción entre isomorfismo y identidad. El león no es el fotón; pero ambos obedecen la misma ecuación de sincronización. 
+> Este anexo ha mantenido deliberadamente la distinción entre isomorfismo y identidad. El león no es el <font color="#00ff00">fotón</font>; pero ambos obedecen la misma ecuación de sincronización. 
 > 
 > Esta separación preserva la autonomía epistemológica de la física mientras revela su unidad ontológica con la cultura, evitando el reduccionismo que ha limitado tanto a la ciencia como a la humanidades.
 
