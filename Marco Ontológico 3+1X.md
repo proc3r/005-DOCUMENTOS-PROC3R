@@ -388,7 +388,7 @@ Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no 
 > Si reordenamos la ecuación <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span> para despejar la masa:
 > <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span> </center>
 > Y luego sustituimos la expresión de energía de Planck <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(E=hf)</span> obtenemos: 
-> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span> ⟹  <span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=<font color="#ffcc00">hf</font>/c²</span>. </center>
+> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span>  ⟹   <span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=<font color="#ffcc00">hf</font>/c²</span>. </center>
 > 
 > Esta expresión es reveladora: la <font color="#FC300C">masa</font> ya no se presenta como una cualidad intrínseca de una "cosa" estática, sino como una frecuencia cuantificada, encapsulada y "frenada" por el cuadrado de la velocidad de la luz. 
 > 
