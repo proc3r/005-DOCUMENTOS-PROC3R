@@ -751,7 +751,7 @@ Los cuatro marcos no operan en aislamiento. Son autónomos pero anidados. El <fo
 
 Pero la relación no es unidireccional: el <font color="#ffcc00">marco de Einstein</font> comprende a los otros tres, haciéndolos intertraducibles.
 
-Esta sincronía inter-fractal requiere un plano de reescritura global donde los cuatro operadores X locales (<font color="#FC300C">fuego</font>, <font color="#00ff00">vectorial</font>, <font color="#FFCC00">gravedad</font>, <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span>) se coordinen. 
+Esta sincronía inter-fractal requiere un plano de reescritura global donde los cuatro operadores X locales <font color="#FC300C">(fuego</font>, <font color="#00ff00">vectorial</font>, <font color="#FFCC00">gravedad</font>, <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span><font color="#ffcc00">)</font> se coordinen. 
 
 Sin esta coordinación, cada marco generaría su propio "presente" inconmensurable con los demás. El hecho de que experimentamos un único presente coherente implica la existencia de un Operador Hamiltoniano Último que actúa como el X global del sistema.
 
