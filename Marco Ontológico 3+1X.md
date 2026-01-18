@@ -571,16 +571,19 @@ Para comprender el proceso de transducción, debemos leer la ecuación no de izq
 
 > [!energia] <font color="#2f82ff">PASO 1</font> - Cuantización de la Frecuencia <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">(hf)</font></span>
 > La frecuencia nouménica <span style=" color: #ffcc00;font-style: italic;font-family: monospace;">(f)</span> es "muestreada" por la constante de Planck <span style=" font-style: italic;color: #ffcc00; font-family: monospace;">(h)</span>. Esto genera un <font color="#FFCC00">cuanto de acción</font>, un paquete de información que ya no es potencial sino capacitado para la manifestación.
+> ![[01 - Energia.jpg]]
 
 > [!n-tau] <font color="#00ff00">PASO 2</font> - División por <span style="color: #FFCC00; font-style: italic; font-family: monospace;">(c²)</span> ⟹ <span style="color: #FFCC00; font-style: italic;font-family: monospace;">(hf/c²)</span></span>
 > Aquí, la información cuantizada se descompone en sus componentes estructurales. Los dos <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> en el denominador representan los dos grados de libertad fundamentales del espacio-tiempo: los tres ejes espaciales (comprimidos en un operador <span style="font-size: 21px;">c<sub><font color="#fc300c">x</font></sub>, c<sub><font color="#2f82ff">y</font></sub>, c<sub><font color="#00ff00">z</font></sub></span>) y el eje temporal <span style="font-size: 21px;">(c<sub><font color="#ffcc00">t</font></sub>)</span>. 
+> ![[02 - Energia.jpg]] 
 > 
 > Dividir por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> es distribuir la información entre la extensión espacial y la duración temporal. Esto no reduce la información, sino que la codifica en forma matricial.
 
 > [!masa] PASO 3: Multiplicación por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> ⟹ <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">((hf/c²)</font><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c)</span></span>
-> Este último <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>  es el operador de actualización, el operador X de nuestro principio. Toma la información estructurada y la actualiza en el presente. 
+> Este último <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>  es el operador de actualización, el operador X de nuestro principio. Toma la información estructurada y la actualiza en el <font color="#00ff00">presente</font>. 
 > 
 > Es el momento de la sincronización: cuando la información estructurada en la matriz se actualiza, emerge la <font color="#FC300C">masa</font> como propiedad de la extensión. 
+> ![[03 - EnergiaB.jpg]]
 > 
 > La <font color="#FC300C">masa</font> no está "en" la partícula; es la densidad de sincronización, la cantidad de actualizaciones por unidad de presente.
 
