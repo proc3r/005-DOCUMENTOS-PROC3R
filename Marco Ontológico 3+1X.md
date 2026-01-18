@@ -374,9 +374,9 @@ Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no 
 
 > [!energia] <font color="#2f82ff">ENERGÍA</font>
 > La <font color="#2F82FF">Energía (E)</font>, desde una perspectiva ondulatoria y cuántica, se describe por la relación de Planck-Einstein como: 
-> <center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font> = <font color="#ffcc00">hf</font></span></center>
+> <center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#ffcc00">hf</font></span></center>
 > O en términos de longitud de onda:
-> <center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font> = <font color="#ffcc00">hc</font><font color="#00ff00">/λ</font></span> </center>
+> <center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#ffcc00">hc</font><font color="#00ff00">/λ</font></span> </center>
 > 
 > Aquí, <span style=" font-style: italic; font-family: monospace;"><font color="#ffcc00">(h)</font></span> es la constante de Planck —el <font color="#FFCC00">cuanto de acción</font> que establece la unidad mínima de <font color="#2F82FF">energía</font> que puede ser intercambiada—, <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">(f)</font></span> es la frecuencia de la onda, y <span style=" font-style: italic;ont-family: monospace;"><font color="#00ff00">(λ)</font></span> es su longitud de onda. 
 > 
@@ -394,7 +394,7 @@ Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no 
 > 
 > Es decir, la <font color="#fc300c">masa</font> es una manifestación de la <font color="#2f82ff">energía</font> vibratoria cuando esta se ralentiza y se condensa en una forma perceptible.
 
-La verdadera revelación surge cuando sustituimos estas expresiones de energía y masa, basadas en frecuencias y la constante de Planck, de nuevo en la ecuación de Einstein <span style=" font-style: italic; font-family: monospace;">E=mc²</span>:
+La verdadera revelación surge cuando sustituimos estas expresiones de <font color="#2f82ff">energía</font> y <font color="#fc300c">masa</font>, basadas en frecuencias y la constante de Planck, de nuevo en la ecuación de Einstein <span style=" font-style: italic; font-family: monospace;">E=mc²</span>:
 
 <center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#fc300c">m</font><font color="#ffcc00">c²</font></span>   ⟹ deriva en ⟹  <span style="font-style: italic; color: #2F82FF; font-family: monospace;">hc<font color="#00ff00">/λ</font></span>=<font color="#FC300C"><span style=" font-style: italic;color: #FC300C; font-family: monospace;">(hf<font color="#ffcc00">/c²</font>)</span></font><span style=" font-style: italic;color: #FFCC00; font-family: monospace;">c²</span></center>
 
@@ -404,7 +404,7 @@ Al simplificar la ecuación, el valor <span style="font-style: italic; color: #F
 
 Esta aparente tautología es, de hecho, profundamente significativa para el Modelo Nouménico. Nos transporta más allá de las nociones de <font color="#FC300C">"masa"</font> y <font color="#2F82FF">"energía"</font> como entidades finales, hacia un plano donde la realidad fundamental se compone de ondas probabilísticas y flujos de información. 
 
-Esta relación subyacente nos dice que todo lo que percibimos como <font color="#FC300C">masa</font> o <font color="#2F82FF">energía</font> es, en su raíz, una expresión vibratoria, un patrón de frecuencia limitado por la velocidad de la luz <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> —el umbral de causalidad en nuestro universo fenomenológico— y el <font color="#FFCC00">cuanto mínimo de acción</font> impuesto por la constante de Planck <span style="font-style: italic; font-family: monospace;">(h)</span>. 
+Esta relación subyacente nos dice que todo lo que percibimos como <font color="#FC300C">masa</font> o <font color="#2F82FF">energía</font> es, en su raíz, una expresión vibratoria, un patrón de frecuencia limitado por la velocidad de la luz <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> —el umbral de causalidad en nuestro universo fenomenológico— y el <font color="#FFCC00">cuanto mínimo de acción</font> impuesto por la constante de Planck <span style="font-style: italic; font-family: monospace;"><font color="#ffcc00">(h)</font></span>. 
 
 Es una danza intrínseca de frecuencias que se traduce en la "sustancia" de la realidad.
 
@@ -412,18 +412,18 @@ Es una danza intrínseca de frecuencias que se traduce en la "sustancia" de la r
 
 <center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Píxel Cuántico y el Traductor Universal</span></center>
 
-Dentro del Modelo Nouménico, la constante de Planck <span style=" font-style: italic;font-family: monospace;">(h)</span> emerge no solo como un número físico, sino como un operador trascendente, el "píxel" o la unidad fundamental de resolución dentro de la vasta matriz fenomenológica del espacio-tiempo. 
+Dentro del Modelo Nouménico, la constante de Planck <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">(h)</font></span> emerge no solo como un número físico, sino como un operador trascendente, el "píxel" o la unidad fundamental de resolución dentro de la vasta matriz fenomenológica del espacio-tiempo. 
 
-Es el umbral, la "puerta de enlace" donde la información del plano nouménico se cuantifica y se proyecta en la realidad observable. Si el espacio-tiempo fuera una pantalla digital, <span style=" font-style: italic;font-family: monospace;">(h)</span> sería el tamaño de cada píxel elemental, la granularidad mínima a la que la realidad se construye.
+Es el umbral, la "puerta de enlace" donde la información del plano nouménico se cuantifica y se proyecta en la realidad observable. Si el espacio-tiempo fuera una pantalla digital, <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">(h)</font></span> sería el tamaño de cada píxel elemental, la granularidad mínima a la que la realidad se construye.
 
 Su función principal es la transducción: procesar las frecuencias y las ondas emergentes del plano cuántico —el dominio gobernado por el Algoritmo del sistema <font color="#2F82FF">SU(3)</font>, con sus 8 generadores y la compleja codificación de los gluones. 
 
 Es en la escala definida por <span style="font-style: italic; font-family: monospace;">(h)</span> donde la vibración abstracta y altamente organizada del universo de <font color="#2F82FF">SU(3)</font> se condensa y se materializa en los cimientos de la realidad que experimentamos, como <font color="#FC300C">protones</font> y <font color="#2F82FF">neutrones</font>.
 
-La ecuación <span style=" font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span>=<span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span> revela una conexión intrínseca entre la información del <font color="#FC300C">Algoritmo U(1)</font> y el <font color="#00ff00">Algoritmo SU(2)</font>:
+La ecuación <font color="#2F82FF">(<span style=" font-style: italic;  font-family: monospace;"><font color="#ffcc00">hc</font><font color="#00ff00">/λ</font></span>)</font>=<font color="#FC300C">(<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf</span>)</font> revela una conexión intrínseca entre la información del <font color="#FC300C">Algoritmo U(1)</font> y el <font color="#00ff00">Algoritmo SU(2)</font>:
 
-> - La presencia de una única <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">(c)</span> en la expresión de la <font color="#2F82FF">energía</font> <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hc/λ</span> resuena con la unidad y la linealidad del <font color="#FC300C">Algoritmo U(1)</font>, asociado al <font color="#FC300C">electromagnetismo</font> y el <font color="#00ff00">fotón</font>. Aquí <font color="#fc300c">U(1)</font> es la base de la coherencia unitaria que permite que la energía se propague como una onda singular.
-> - La aparición de <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en la expresión de la <font color="#FC300C">masa</font> <span style="font-style: italic; color: #FC300C; font-family: monospace;">(hf/c²)</span> y en la ecuación de Einstein <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span> simboliza la dualidad y la síntesis inherente al <font color="#00ff00">Algoritmo SU(2)</font>. 
+> - La presencia de una única <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">(c)</span> en la expresión de la <font color="#2F82FF">energía</font><font color="#2F82FF"> (<span style=" font-style: italic;  font-family: monospace;"><font color="#ffcc00">hc</font><font color="#00ff00">/λ</font></span>)</font> resuena con la unidad y la linealidad del <font color="#FC300C">Algoritmo U(1)</font>, asociado al <font color="#FC300C">electromagnetismo</font> y el <font color="#00ff00">fotón</font>. Aquí <font color="#fc300c">U(1)</font> es la base de la coherencia unitaria que permite que la energía se propague como una onda singular.
+> - La aparición de <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en la expresión de la <font color="#FC300C">masa</font> <font color="#FC300C">(<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf<font color="#ffcc00">/c²</font></span>)</font> y en la ecuación de Einstein <span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#fc300c">m</font><font color="#ffcc00">c²</font></span> simboliza la dualidad y la síntesis inherente al <font color="#00ff00">Algoritmo SU(2)</font>. 
 
  En la Ecuación clásica de Einstein <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> puede interpretarse como la auto-interacción de la unidad de velocidad de la luz, creando la "tensión" o la "interacción" necesaria para que la <font color="#2F82FF">energía</font> se condense y adquiera <font color="#FC300C">masa</font>. Es el punto donde la unidad se desdobla, donde las frecuencias se entrelazan para formar una manifestación más compleja y densa.
 
@@ -538,11 +538,11 @@ Estos presentes, sin embargo, no existen en aislamiento; se sincronizan constant
 
 ### 3. El Operador de Transducción
 
-En este esquema, la constante de Planck <span style=" font-style: italic; font-family: monospace;">(h)</span> no es simplemente un número físico, sino el umbral de granularidad del universo informacional: el "píxel" mínimo de acción que puede ser proyectado del plano nouménico al fenomenológico. 
+En este esquema, la constante de Planck <span style=" font-style: italic;font-family: monospace;">(h)</span> no es simplemente un número físico, sino el umbral de granularidad del universo informacional: el "píxel" mínimo de acción que puede ser proyectado del plano nouménico al fenomenológico. 
 
 Es la resolución de la realidad, la puerta de enlace donde la información deja de ser continua y se vuelve discreta, cuantificable y, por tanto, manifestable.
 
-La ecuación <span style="font-style: italic; color: #FFCC00; font-family: monospace;">E=hf</span> no es una relación causal sino una definición de transducción: la frecuencia f es el modo de ser de la información en el plano nouménico, y <span style=" font-style: italic;font-family: monospace;">h</span> es el operador que filtra esa frecuencia para que adquiera la dimensionalidad de la energía observable. 
+La ecuación <span style="font-style: italic; color: #FFCC00; font-family: monospace;"><font color="#2f82ff">E</font>=hf</span> no es una relación causal sino una definición de transducción: la frecuencia f es el modo de ser de la información en el plano nouménico, y <span style=" font-style: italic;font-family: monospace;">h</span> es el operador que filtra esa frecuencia para que adquiera la dimensionalidad de la energía observable. 
 
 Sin <span style=" font-style: italic;font-family: monospace;">(h)</span>, la frecuencia sería pura potencia sin forma; sin <span style=" font-style: italic;font-family: monospace;">(f)</span>, <span style=" font-style: italic;font-family: monospace;">(h)</span> sería un límite sin contenido.
 
