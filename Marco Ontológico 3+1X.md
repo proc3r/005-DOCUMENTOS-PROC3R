@@ -515,11 +515,11 @@ El Hamiltoniano intrínseco de una partícula no es una función de energía con
 
 En este esquema, la <font color="#FC300C">masa</font> no es una propiedad preexistente sino la manifestación de la unidad de información lineal procesada por el generador de <font color="#FC300C">U(1)</font>, responsable del <font color="#FC300C">electromagnetismo</font>. 
 
-La masa es la cohesión que emerge cuando el <font color="#00ff00">fotón</font>, como base de simetría unitaria, "imprime" identidad a la matriz local de la partícula, conferiéndole resistencia a la aceleración y, por tanto, a la existencia como entidad separable.
+La <font color="#fc300c">masa</font> es la cohesión que emerge cuando el <font color="#00ff00">fotón</font>, como base de simetría unitaria, "imprime" identidad a la matriz local de la partícula, conferiéndole resistencia a la aceleración y, por tanto, a la existencia como entidad separable.
 
 El <font color="#00ff00">espín</font>, por su parte, surge de los tres generadores de <font color="#00ff00">SU(2)</font>, la simetría de la <font color="#00ff00">interacción débil</font>. Esta cualidad cuántica, con sus valores discretos de ±1/2 y su extraña propiedad de "rotación sin movimiento", refleja la naturaleza probabilística y direccional del <font color="#00ff00">algoritmo SU(2)</font>, que procesa información estadística a través de los bosónes <font color="#FC300C">W+</font>, <font color="#2F82FF">W-</font> y <font color="#00ff00">Z</font>. 
 
-El espín es la "orientación interna" del flujo de información, la huella de un espacio de fase que existe por debajo de la manifestación espacial.
+El <font color="#00ff00">espín</font> es la "orientación interna" del flujo de información, la huella de un espacio de fase que existe por debajo de la manifestación espacial.
 
 Finalmente, la <font color="#2F82FF">carga</font> —eléctrica o de color— es el producto de los ocho generadores de <font color="#2F82FF">SU(3)</font>, la fuerza fuerte. Esta cualidad no es un número arbitrario sino la manifestación de las reglas de interacción que el <font color="#2F82FF">algoritmo SU(3)</font> imprime en la información. 
 
@@ -541,13 +541,13 @@ Estos presentes, sin embargo, no existen en aislamiento; se sincronizan constant
 
 ### 3. El Operador de Transducción
 
-En este esquema, la constante de Planck <span style=" font-style: italic;font-family: monospace;">(h)</span> no es simplemente un número físico, sino el umbral de granularidad del universo informacional: el "píxel" mínimo de acción que puede ser proyectado del plano nouménico al fenomenológico. 
+En este esquema, la constante de Planck <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(h)</span> no es simplemente un número físico, sino el umbral de granularidad del universo informacional: el "píxel" mínimo de acción que puede ser proyectado del plano nouménico al fenomenológico. 
 
 Es la resolución de la realidad, la puerta de enlace donde la información deja de ser continua y se vuelve discreta, cuantificable y, por tanto, manifestable.
 
-La ecuación <span style="font-style: italic; color: #FFCC00; font-family: monospace;"><font color="#2f82ff">E</font>=hf</span> no es una relación causal sino una definición de transducción: la frecuencia f es el modo de ser de la información en el plano nouménico, y <span style=" font-style: italic;font-family: monospace;">h</span> es el operador que filtra esa frecuencia para que adquiera la dimensionalidad de la energía observable. 
+La ecuación <span style=" font-style: italic; font-family: monospace;">(<font color="#2f82ff">E</font>=<font color="#ffcc00">hf</font>)</span> no es una relación causal sino una definición de transducción: la frecuencia f es el modo de ser de la información en el plano nouménico, y <span style=" font-style: italic;font-family: monospace;">h</span> es el operador que filtra esa frecuencia para que adquiera la dimensionalidad de la energía observable. 
 
-Sin <span style=" font-style: italic;font-family: monospace;">(h)</span>, la frecuencia sería pura potencia sin forma; sin <span style=" font-style: italic;font-family: monospace;">(f)</span>, <span style=" font-style: italic;font-family: monospace;">(h)</span> sería un límite sin contenido.
+Sin <span style="  color: #FFCC00; font-style: italic;font-family: monospace;">(h)</span>, la frecuencia sería pura potencia sin forma; sin <span style="  color: #FFCC00;font-style: italic;font-family: monospace;">(f)</span>, <span style="  color: #FFCC00;font-style: italic;font-family: monospace;">(h)</span> sería un límite sin contenido.
 
 ## 2. Reinterpretando E=mc²
 
@@ -561,23 +561,23 @@ Desde la perspectiva 3+1X, esto es equivalente a tener un sistema con tres compo
 
 La relatividad especial asegura que la transformación es compatible con las simetrías de Lorentz, pero no por qué la información puede cambiar de modalidad.
 
-Aquí es donde <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> deja de ser una constante para convertirse en el operador dialéctico, el fuego de este sistema tetradimensional. No es un número medido, sino el punto de síntesis donde la <font color="#FC300C">tesis</font> (frecuencia pura <span style=" font-style: italic;font-family: monospace;">f</span>) y la <font color="#2F82FF">antítesis</font> (cuantización <span style=" font-style: italic;font-family: monospace;">h</span>) generan una <font color="#00ff00">síntesis</font> que puede manifestarse ya sea como energía radiante <span style=" color:#00ff00;font-style: italic; font-family: monospace;">(E=hf)</span> o como masa inerte <span style=" color:#FC300C ;font-style: italic; font-family: monospace;">(m=hf/c²)</span>. 
+Aquí es donde <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> deja de ser una constante para convertirse en el operador dialéctico, el fuego de este sistema tetradimensional. No es un número medido, sino el punto de síntesis donde la <font color="#FC300C">tesis</font> —frecuencia pura <span style="  color: #FFCC00;font-style: italic;font-family: monospace;">(f)</span>— y la <font color="#2F82FF">antítesis</font> —cuantización <span style="  color: #FFCC00;font-style: italic;font-family: monospace;">(h)</span>— generan una <font color="#00ff00">síntesis</font> que puede manifestarse ya sea como energía radiante <span style=" color: #2f82ff; font-style: italic; font-family: monospace;">(<font color="#2f82ff">E</font>=<font color="#ffcc00">hf</font>)</span> o como masa inerte <span style="color: #FC300C; font-style: italic;; font-family: monospace;">(<font color="#FC300C">m</font>=<font color="#ffcc00">hf/c²</font>)</span>. 
 
-La triple aparición de <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> en la expresión expandida:<span style=" font-style: italic; color: #FC300C; font-family: monospace;">(hf/c²)</span><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span> no es redundancia algebraica, sino revelación de la estructura vectorial subyacente.
+La triple aparición de <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> en la expresión expandida:<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(hf/c²)</span><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span> no es redundancia algebraica, sino revelación de la estructura vectorial subyacente.
 
 ### 2. La Ecuación como Proceso de Reescritura
 
 Para comprender el proceso de transducción, debemos leer la ecuación no de izquierda a derecha, sino como una secuencia de operaciones:
 
-> [!energia] PASO 1: Cuantización de la Frecuencia <span style=" font-style: italic;font-family: monospace;">(hf)</span>
-> La frecuencia nouménica <span style=" font-style: italic;font-family: monospace;">(f)</span> es "muestreada" por la constante de Planck <span style=" font-style: italic;font-family: monospace;">(h)</span>. Esto genera un <font color="#FFCC00">cuanto de acción</font>, un paquete de información que ya no es potencial sino capacitado para la manifestación.
+> [!energia] <font color="#2f82ff">PASO 1</font> - Cuantización de la Frecuencia <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">(hf)</font></span>
+> La frecuencia nouménica <span style=" color: #ffcc00;font-style: italic;font-family: monospace;">(f)</span> es "muestreada" por la constante de Planck <span style=" font-style: italic;color: #ffcc00; font-family: monospace;">(h)</span>. Esto genera un <font color="#FFCC00">cuanto de acción</font>, un paquete de información que ya no es potencial sino capacitado para la manifestación.
 
-> [!n-tau] PASO 2: División por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> ⟹ <span style=" font-style: italic;font-family: monospace;">(hf/</span><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c²</span>)</span>
-> Aquí, la información cuantizada se descompone en sus componentes estructurales. Los dos <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>  en el denominador representan los dos grados de libertad fundamentales del espacio-tiempo: los tres ejes espaciales (comprimidos en un operador <span style="font-size: 21px;">c<sub><font color="#fc300c">x</font></sub>, c<sub><font color="#2f82ff">y</font></sub>, c<sub><font color="#00ff00">z</font></sub></span>) y el eje temporal <span style="font-size: 21px;">(c<sub><font color="#ffcc00">t</font></sub>)</span>. 
+> [!n-tau] <font color="#00ff00">PASO 2</font> - División por <span style="color: #FFCC00; font-style: italic; font-family: monospace;">(c²)</span> ⟹ <span style="color: #FFCC00; font-style: italic;font-family: monospace;">(hf/c²)</span></span>
+> Aquí, la información cuantizada se descompone en sus componentes estructurales. Los dos <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> en el denominador representan los dos grados de libertad fundamentales del espacio-tiempo: los tres ejes espaciales (comprimidos en un operador <span style="font-size: 21px;">c<sub><font color="#fc300c">x</font></sub>, c<sub><font color="#2f82ff">y</font></sub>, c<sub><font color="#00ff00">z</font></sub></span>) y el eje temporal <span style="font-size: 21px;">(c<sub><font color="#ffcc00">t</font></sub>)</span>. 
 > 
 > Dividir por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> es distribuir la información entre la extensión espacial y la duración temporal. Esto no reduce la información, sino que la codifica en forma matricial.
 
-> [!masa] PASO 3: Multiplicación por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> <span style=" font-style: italic;font-family: monospace;">((hf/c²)<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span>)</span>
+> [!masa] PASO 3: Multiplicación por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> ⟹ <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">((hf/c²)</font><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c)</span></span>
 > Este último <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>  es el operador de actualización, el operador X de nuestro principio. Toma la información estructurada y la actualiza en el presente. 
 > 
 > Es el momento de la sincronización: cuando la información estructurada en la matriz se actualiza, emerge la <font color="#FC300C">masa</font> como propiedad de la extensión. 
@@ -587,26 +587,29 @@ Para comprender el proceso de transducción, debemos leer la ecuación no de izq
 > [!procer] PASO 4: Igualdad como Reconocimiento <span style=" font-style: italic;font-family: monospace;">(=)</span>
 > El signo de igualdad no indica identidad numérica, sino reconocimiento consciente de equivalencia. Es el momento en que el observador <font color="#00ff00">(el Operador Hamiltoniano Último)</font> lee la transducción y la experiencia como fenómeno estable. 
 > 
-> El signo = es la frontera del <font color="#00ff00">presente</font>, el límite donde la transducción se vuelve disponible para la experiencia.
+> El signo <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(=)</span> es la frontera del <font color="#00ff00">presente</font>, el límite donde la transducción se vuelve disponible para la experiencia.
 
 ### 3. El Álgebra de la Transducción
 
 La ecuación de Einstein, bajo esta luz, no es independiente del Modelo Estándar, sino que es su comprensor sincrético. Cada término de la expresión expandida corresponde a un sector del lagrangiano gauge:
 
-> [!energia] ALGORITMO <font color="#FC300C">U(1)</font> y el término <span style=" font-style: italic;font-family: monospace;">(hf)</span>
-> La energía pura es la manifestación del sector <font color="#FC300C">electromagnético</font>. El <font color="#00ff00">fotón</font>, como bosón gauge de <font color="#FC300C">U(1)</font>, es el portador de frecuencia antes de la cuantización. <span style=" font-style: italic;font-family: monospace;">hf</span> es la energía del <font color="#00ff00">fotón</font> "puro", no interactuante.
+> [!energia] <font color="#FC300C">ALGORITMO U(1)</font> y el término <span style=" font-style: italic; color:#FFCC00; font-family: monospace;">(hf)</span>
+> La energía pura es la manifestación del sector <font color="#FC300C">electromagnético</font>. El <font color="#00ff00">fotón</font>, como bosón gauge de <font color="#FC300C">U(1)</font>, es el portador de frecuencia antes de la cuantización. El valor de  <span style=" font-style: italic;color:#FFCC00;font-family: monospace;">(hf)</span> representa la energía del <font color="#00ff00">fotón</font> "puro", no interactuante.
+> ![[Foton Gluonico1.jpg]]
 
-> [!n-tau] ALGORITMO <font color="#00ff00">SU(2)</font> y el término <span style=" font-style:  italic; color: #FFCC00; font-family: monospace;">/(c²)</span>
+> [!n-tau] <font color="#00ff00">ALGORITMO SU(2)</font> y el término <span style=" font-style:  italic; color: #FFCC00; font-family: monospace;">/(c²)</span>
 > La <font color="#00ff00">fuerza débil</font>, con sus tres bosónes, introduce asimetría y rotación en el espacio de sabor. Dividir por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> es aplicar la transformación de <font color="#00ff00">SU(2)</font> a la frecuencia, quebrando su simetría unitaria y permitiendo que la información adquiera "orientación temporal" . 
 > 
 > Los tres generadores de<font color="#00ff00"> SU(2)</font> se mapean a los tres ejes del espacio interno donde la frecuencia se "enrarece" para convertirse en estructura.
+> ![[EspinSU2.jpg]]
 
-> [!masa] ALGORITMO <font color="#2F82FF">SU(3)</font> y el término <span style=" font-style: italic; color: #FC300C; font-family: monospace;">(m=hf/c²)</span>
-> La <font color="#2F82FF">fuerza fuerte</font>, con sus ocho gluones, confinan la información en estructuras estables. La <font color="#FC300C">masa</font> que emerge de <span style=" font-style: italic; color: #FC300C; font-family: monospace;">(hf/c²)</span> es la manifestación del confinamiento: es la <font color="#2F82FF">energía</font> que no puede escapar porque está codificada en la redundancia de la matriz de color. 
+> [!masa] <font color="#2F82FF">ALGORITMO SU(3)</font> y el término <span style=" font-style: italic; font-family: monospace;">(m=<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf<font color="#ffcc00">/c²</font></span>)</span> 
+> La <font color="#2F82FF">fuerza fuerte</font>, con sus ocho gluones, confinan la información en estructuras estables. La <font color="#FC300C">masa</font> que emerge de <font color="#FC300C">(<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf<font color="#ffcc00">/c²</font></span>)</font></span> es la manifestación del confinamiento: es la <font color="#2F82FF">energía</font> que no puede escapar porque está codificada en la redundancia de la matriz de color. 
 > 
 > La <font color="#FC300C">masa</font> es <font color="#2F82FF">energía</font> que ha sido "guardada" por <font color="#2F82FF">SU(3)</font> en una configuración que repite su identidad en cada actualización.
+> ![[EnergiaSU3.jpg]]
 
-> [!procer] SINTESIS: <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> como operador de reescritura
+> [!procer] <font color="#ffcc00">SINTESIS:</font> <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> como operador de reescritura
 > La <font color="#FFCC00">gravedad</font>, en este esquema, no es una interacción más, sino el campo de consistencia que asegura que las transducciones entre<font color="#FC300C"> U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2F82FF">SU(3)</font> sean coherentes. 
 > 
 > Por lo tanto <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> es la velocidad de síntesis gravitacional: el ritmo al que el espacio-tiempo puede actualizar sus propias reglas sin romper la coherencia causal. 
