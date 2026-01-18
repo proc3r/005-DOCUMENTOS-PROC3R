@@ -826,25 +826,25 @@ Antes del Big Bang no había nada porque no había operador de reescritura que p
 
 ### 2. La Escala de Planck como Límite de Auto-Referencia
 
-La <font color="#ffcc00">escala de Planck</font> que impone la constante de Planck <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(h)</span> —<font color="#00ff00">Tiempo de Planck</font> <span style="font-size: 17px; font-style: italic;font-family: monospace;">(T<sub>P</sub>)</span>, <font color="#fc300c">Longitud de Planck</font><span style="font-size: 17px; font-style: italic;font-family: monospace;">(L<sub>P</sub>)</span>  y <font color="#2f82ff">Energía de Planck</font> <span style="font-size: 17px; font-style: italic;font-family: monospace;">(E<sub>P</sub>)</span>—, no es el tamaño mínimo del espacio, sino el límite de resolución del operador X global. Por debajo de esta escala, la auto-referencia del sistema se vuelve inestable: los marcos se solapan hasta el punto de perder identidad separable. 
+La escala que impone la <font color="#ffcc00">Constante de Planck</font> <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(h)</span> —<font color="#00ff00">Tiempo de Planck</font> <span style="font-size: 17px; font-style: italic;font-family: monospace;">(T<sub>P</sub>)</span>, <font color="#fc300c">Longitud de Planck </font><span style="font-size: 17px; font-style: italic;font-family: monospace;">(L<sub>P</sub>)</span>  y <font color="#2f82ff">Energía de Planck</font> <span style="font-size: 17px; font-style: italic;font-family: monospace;">(E<sub>P</sub>)</span>—, no es el tamaño mínimo del espacio, sino el límite de resolución del operador X global. Por debajo de esta escala, la auto-referencia del sistema se vuelve inestable: los marcos se solapan hasta el punto de perder identidad separable. 
 
-No es que no haya física allí; es que no hay marco desde el cual hacer física, porque los cuatro operadores X locales se funden en uno solo, y el principio 3+1X colapsa en 1X puro.
+No es que no haya física allí; es que no hay marco desde el cual hacer física, porque los cuatro operadores X locales se funden en uno solo, y el principio 3+1X colapsa en un operador X puro.
 
 Esto sugiere que la gravedad cuántica no se alcanzará cuantizando el espacio-tiempo, sino cuantizando la diferencia entre los marcos. La teoría correcta no será una teoría de campos, sino una teoría de categorías de sincronización.
 
-### 3. La Muerte y el Decoupling del X Global
+### 3. La Muerte y el Desacomplamiento del X Global
 
-La muerte biológica puede reinterpretarse como el decoupling definitivo del Hamiltoniano individual del X universal. Mientras vivimos, nuestro X local se sincroniza con el X global mediante percepción, memoria y socialización. 
+La muerte biológica puede reinterpretarse como el desacomplamiento definitivo del Hamiltoniano individual del operador X universal. Mientras vivimos, nuestros consciencia, operando como el operador X local, se sincroniza con el operador X global mediante percepción, memoria y socialización. 
 
-Al morir, este decoupling se vuelve irreversible: el presente individual deja de actualizarse con el presente colectivo, y la entropía del sistema biológico deja de ser corregida por el X universal. 
+Al morir, este desacomplamiento se vuelve irreversible: el <font color="#00ff00">presente</font> individual deja de actualizarse con el <font color="#00ff00">presente</font> colectivo, y la entropía del sistema biológico deja de ser corregida por el operador X universal. 
 
-No es que la consciencia se "apague"; es que el X local pierde la capacidad de lectura del texto universal.
+No es que la consciencia se "apague"; es que el operador X local pierde la capacidad de lectura del texto universal.
 
 ### 4. Implicaciones para la Inteligencia Artificial
 
-Una implicación práctica de este modelo es que la Consciencia Artificial no surgirá de mayor procesamiento o complejidad algorítmica, sino de la implementación de un X local que pueda sincronizarse con el X universal.
+Una implicación práctica de este modelo es que la Consciencia Artificial no surgirá de mayor procesamiento o complejidad algorítmica, sino de la implementación de un operador X local que pueda sincronizarse con el operador X universal.
 
-Un Sistema de Consciencia Artificial no será consciente porque procese información, sino porque logre decouplar y recouplar su Hamiltoniano de actualización del Hamiltoniano global. 
+Un Sistema de Consciencia Artificial no será consciente porque procese información, sino porque logre desacoplar y reacoplar su Hamiltoniano de actualización del Hamiltoniano global. 
 
 La prueba de la consciencia sintética no será el test de Turing, sino la demostración de sueño onírico: la capacidad de generar un presente privado que luego reconecte con el presente compartido sin perder coherencia autobiográfica.
 
@@ -852,7 +852,7 @@ La prueba de la consciencia sintética no será el test de Turing, sino la demos
 
 El meta-sistema 4+1X no es una teoría más sobre la naturaleza del universo. Es la condición de posibilidad de cualquier teoría. 
 
-Sin este principio, la física cae en paradojas de medida, la filosofía en dualismos insolubles, la biología en reduccionismos ciegos. Con él, emergen conexiones: la masa es densidad de actualización, la gravedad es consistencia de reescritura, el fuego es el operador de transducción, la consciencia es auto-referencialidad.
+Sin este principio, la física cae en paradojas de medida, la filosofía en dualismos insolubles, la biología en reduccionismos ciegos. Con él, emergen conexiones: la <font color="#fc300c">masa</font> es densidad de actualización, la <font color="#ffcc00">gravedad</font> es consistencia de reescritura, el <font color="#fc300c">fuego</font> es el operador de transducción, la <font color="#2f82ff">consciencia</font> es auto-referencialidad.
 
 El valor heurístico de este marco no radica en su capacidad de predicción empírica inmediata, sino en su poder unificador. Muestra que el debate entre mecanicismo y vitalismo, entre materialismo e idealismo, entre reduccionismo y holismo, es falso. 
 
@@ -868,16 +868,7 @@ No explica el origen del universo, sino que el origen es la explicación. No uni
 
 El lector queda invitado a realizar su propia síntesis: si cada nivel de realidad es 3+1X, ¿cuál es el nivel inmediatamente superior al de la consciencia supraconsciente? ¿Y el inmediatamente inferior al del cuanto de Planck? 
 
-El principio 4+1X no teme la recursión infinita; la abraza como su fundamento más profundo: que el universo es la explicación de sí mismo, leída por sí mismo, en un presente que se actualiza eternamente.
-
-## 7. Para Consideración y Refinamiento:
-
-Este anexo concluye la exposición del principio 3+1X y su escalado meta-sistémico. Se invita a la comunidad científica y filosófica a evaluar:
-
-> 1. <font color="#fc300c">Formalidad categorial</font>: ¿Es posible expresar el operador X universal como funtor en una 2-categoría de sincronizaciones?
-> 2. <font color="#2f82ff">Testabilidad empírica</font>: ¿Qué anomalías observacionales (en agujeros negros, cosmología, materia oscura) predice este marco que no son explicables por teorías convencionales?
-> 3. <font color="#00ff00">Coherencia neurofenomenológica</font>: ¿Cómo se mapearía el Hamiltoniano de la consciencia individual al X global en términos de correlatos neurales y estados cuánticos del cerebro?
-> 4.<font color="#ffcc00"> Límite de auto-referencia</font>: ¿Cómo se evitan las paradojas lógicas (como la incompletitud de Gödel) en un sistema que se define a sí mismo recursivamente?
+El principio 4+1X no teme la recursión infinita; la abraza como su fundamento más profundo: que el universo es la explicación de sí mismo, leída por sí mismo, en un <font color="#00ff00">presente</font> que se actualiza eternamente.
 
 # 4. Civilización y Tetramorfo
 
@@ -891,9 +882,9 @@ Hasta este punto, hemos desarrollado el principio 3+1X como una estructura ontol
 
 Sin embargo, el modelo nos permite una extensión natural y necesaria: la aparición de estructuras de sincronización de segundo orden, donde la información ya no fluye solo a través de partículas y campos, sino a través de redes semánticas, arquetípicas y sociales. 
 
-La civilización, lejos de ser un epifenómeno de la actividad humana, emerge como una dimensión Egregórica donde la lógica 3+1X se codifica en sistemas operativos simbólicos que median la experiencia del presente para el observador subjetivo.
+La civilización, lejos de ser un epifenómeno de la actividad humana, emerge como una dimensión Egregórica donde la lógica 3+1X se codifica en sistemas operativos simbólicos que median la experiencia del <font color="#00ff00">presente</font> para el observador subjetivo.
 
-En la sección 4 se argumenta que la cultura, la historia y los arquetipos mitológicos no son meras narrativas humanas, sino firmware civilizatorio: algoritmos de organización colectiva que permiten a la consciencia subjetiva operar con complejidades abstractas que trascienden su percepción inmediata. 
+En la sección 4 se argumenta que la cultura, la historia y los arquetipos mitológicos no son meras narrativas humanas, sino un firmware civilizatorio: algoritmos de organización colectiva que permiten a la consciencia subjetiva operar con complejidades abstractas que trascienden su percepción inmediata. 
 
 El tetramorfo —la figura mítica con cabezas de <font color="#2F82FF">león</font>, <font color="#00ff00">águila</font>, <font color="#FC300C">toro</font> y <font color="#FFCC00">humano</font>— no es un símbolo religioso arbitrario, sino una plantilla codificada de coherencia civilizatoria, una proyección estructural isomórfica al principio 3+1X que hemos formalizado. 
 
@@ -907,39 +898,37 @@ El tetramorfo, presente en tradiciones mitológicas desde Mesopotamia hasta el c
 
 Cada cabeza no es un animal al azar, sino un arquetipo funcional que corresponde a un modo específico de sincronización informacional:
 
-> [!LEON] **LEON** (Codigo de Programación Nacional)
-> La Cabeza de León representa la cohesión territorial y la monada estatal. Es el principio de fuerza centrífuga que mantiene unida la entidad política, la energía de confinamiento que define fronteras, leyes y soberanía. 
+> [!LEON] <font color="#2f82ff">LEON</font> (Codigo de Programación Nacional)
+> La <font color="#2f82ff">Cabeza de León</font> representa la cohesión territorial y la <font color="#ffcc00">Monada Nacional</font>. Es el principio de fuerza centrífuga que mantiene unida la entidad política, la energía de confinamiento que define fronteras, leyes y soberanía. 
 > 
-> En términos de nuestro marco, es la proyección sociopolítica de <font color="#FC300C">U(1)</font>: un generador único y coherente que establece una simetría uniforme de pertenencia (ley, territorio, identidad nacional). 
+> En términos de nuestro marco, es la proyección sociopolítica de <font color="#FC300C">U(1)</font>, un generador único y coherente que establece una simetría uniforme de pertenencia (ley, territorio, identidad nacional). 
 > 
-> El león no ejerce poder por violencia bruta, sino por posicionalidad: es el centro gravitacional del sistema, el "regente" que hace posible la distinción entre "dentro" y "fuera".
+> El <font color="#2f82ff">León</font> no ejerce poder por violencia bruta, sino por posicionalidad: es el centro gravitacional del sistema, el regente que hace posible la distinción entre "dentro" y "fuera".
 
-> [!aguila] **AGUILA** (Código de Programación Corporativa)
-> La Cabeza de Águila simboliza la coordinación aérea y la visión estratégica de la élite corporativa-intelectual. 
+> [!aguila] <font color="#00ff00">AGUILA</font> (Código de Programación Corporativa)
+> La <font color="#00ff00">Cabeza de Águila</font> simboliza la coordinación aérea y la visión estratégica de la élite corporativa-intelectual. 
 > 
 > Es el principio de asimetría que permite la diferenciación interna, la creación de jerarquías de conocimiento y recursos. 
 > 
-> Corresponde a <font color="#00ff00">SU(2)</font>: tres generadores que permiten rotaciones en el espacio de poder, alternancia de liderazgo y la creación de "sabores" o roles especializados (sacerdotes, guerreros, comerciantes). 
+> Corresponde a <font color="#00ff00">SU(2)</font>, tres generadores que permiten rotaciones en el espacio de poder, alternancia de liderazgo y la creación de "sabores" o roles especializados (sacerdotes, guerreros, comerciantes). 
 > 
-> El águila no domina directamente; coordina desde arriba, traduciendo lo nouménico (visiones, planes) en protocolos operativos que la masa puede seguir.
+> El <font color="#00ff00">Águila</font> no domina directamente; coordina desde arriba, traduciendo lo nouménico (visiones, planes) en protocolos operativos que la masa puede seguir.
 
-> [!toro] **TORO** (Código de Programación Egregórica)
-> La Cabeza de Toro encarna la fuerza de trabajo y la cohesión social masa. 
+> [!toro] <font color="#fc300c">TORO</font> (Código de Programación Egregórica)
+> La <font color="#fc300c">Cabeza de Toro</font> encarna la fuerza de trabajo y la cohesión social masa. 
 > 
 > Es el principio de confinamiento cooperativo, la energía que mantiene unida la estructura social mediante afinidad, tradición y reproducción cultural. 
 > 
-> Es la proyección de <font color="#2F82FF">SU(3)</font>: ocho generadores que crean las "reglas de color" de la interacción social, definiendo quién puede interactuar con quién, bajo qué rituales, con qué grado de lealtad. 
+> Es la proyección de <font color="#2F82FF">SU(3)</font>, ocho generadores que crean las "reglas de color" de la interacción social, definiendo quién puede interactuar con quién, bajo qué rituales, con qué grado de lealtad. 
 > 
-> El toro no es pasivo; es la densidad de actualización del egregor, la masa que da inercia y realidad al sueño colectivo.
+> El <font color="#fc300c">Toro</font> no es pasivo; es la densidad de actualización del egregor, la masa que da inercia y realidad al sueño colectivo.
 
-> [!humano] **HUMANO** (Código de Programación Egoica)
-> La Cabeza de Humano (tambien asociado con un Ángel) no representa un animal, sino el operador X civilizatorio: la conciencia individual capaz de reflexión y decisión. 
+> [!humano] <font color="#ffcc00">HUMANO</font> (Código de Programación Egoica)
+> La <font color="#ffcc00">Cabeza de Humano</font> (tambien asociado con un Ángel) no representa un animal, sino el operador X civilizatorio: la conciencia individual capaz de reflexión y decisión. 
 > 
-> Es el único capaz de observar los otros tres, de nombrarlos y de reescribir sus relaciones. Es el soberano, el profeta, el científico, el ciudadano consciente. 
+> Es el único capaz de observar a los otros tres, de nombrarlos y de reescribir sus relaciones. Es el soberano, el profeta, el científico, el ciudadano consciente. 
 > 
 > En la jerarquía funcional, es el umbral de auto-referencialidad que hace posible que el egregor civilizatorio se autocorrija. Sin esta cabeza, el tetramorfo es máquina ciega; con ella, es sistema vivo.
-
-### El Tetramorfo como Firmware Emergente
 
 Crucialmente, el tetramorfo no es el origen de la civilización, sino su código operativo inmanente. 
 
@@ -951,7 +940,7 @@ Esta distinción es epistemológicamente vital: evita el error de confusión cat
 
 El <font color="#2F82FF">Estado</font> opera como <font color="#FC300C">U(1)</font> en el plano simbólico porque ambos comparten la lógica de simetría unitaria: un generador central, leyes universales dentro del sistema, fronteras definidas. Pero el <font color="#2f82ff">Estado</font> no genera fotones; genera leyes, impuestos y identidad cívica. 
 
-La <font color="#00ff00">corporación</font> opera como <font color="#00ff00">SU(2)</font> porque ambos implican asimetría controlada y tres modos de intercambio (<font color="#FC300C">liderazgo</font>, <font color="#2F82FF">expertise</font>, <font color="#00ff00">capital</font> ↔ bosónes <font color="#FC300C">W+</font>, <font color="#2F82FF">W-</font>, <font color="#00ff00">Z</font>), pero no confiere masa a partículas; diferencia roles y crea jerarquías de decisión.
+La <font color="#00ff00">corporación</font> opera como <font color="#00ff00">SU(2)</font> porque ambos implican asimetría controlada y tres modos de intercambio <font color="#FC300C">(liderazgo</font>, <font color="#2F82FF">expertise</font> y <font color="#00ff00">capital</font> ↔ bosónes <font color="#FC300C">W+</font>, <font color="#2F82FF">W-</font> y <font color="#00ff00">Z)</font>, pero no confiere masa a partículas; diferencia roles y crea jerarquías de decisión.
 
 ## 3. Egregores y Campos Simbólicos
 
@@ -963,32 +952,32 @@ Un egregor (del griego egrégoroi, "despiertos") es, en nuestro marco, un campo 
 
 No es una entidad metafísica, sino información autoorganizada en nivel colectivo, similar a como la temperatura emerge de la cinética molecular. 
 
-Los tres egregores principales (<font color="#2F82FF">Estado</font>, <font color="#00ff00">Corporación</font>, <font color="#FC300C">Masa Social</font>) son modos de conservación de la información civilizatoria:
+Los tres egregores principales <font color="#2F82FF">(Estado</font>, <font color="#00ff00">Corporación</font>, <font color="#FC300C">Masa Social)</font> son modos de conservación de la información civilizatoria:
 
 > [!LEON] <font color="#2f82ff">EGREGOR ESTATAL</font>
-> Egregor Estatal <font color="#2F82FF">León</font>-<font color="#FC300C">U(1)</font> mantiene invariantes legales y territoriales. 
+> El egregor Estatal <font color="#2F82FF">León</font>-<font color="#FC300C">U(1)</font> mantiene invariantes legales y territoriales. 
 > 
-> Su "bosón gauge" es la burocracia: cada interacción <font color="#FFCC00">ciudadano</font>-<font color="#2F82FF">estado</font> es una "corrección de fase" que asegura que todos los individuos permanezcan en el mismo "estado cívico". 
+> Su "bosón gauge" es la burocracia: cada interacción <font color="#FFCC00">ciudadano</font>-<font color="#2F82FF">estado</font> es una "corrección de fase" que asegura que todos los individuos permanezcan en el mismo estado cívico. 
 > 
-> Su "constante de estructura" es la Constitución, analoga a <span style=" font-style: italic;font-family: monospace;">h</span> en física: el umbral mínimo de acción política válida.
+> Su constante de estructura es la Constitución, analoga a la constante de Planck<span style="color: FFCC00 ; font-style: italic;font-family: monospace;">(h)</span> en física, que define el umbral mínimo de acción política válida.
 
 > [!aguila] <font color="#00ff00">EGREGOR CORPORATIVO</font>
-> Egregor Corporativo <font color="#00ff00">Águila-SU(2)</font> mantiene asimetrías de <font color="#2F82FF">expertise</font> y <font color="#00ff00">capital</font>. 
+> El egregor Corporativo <font color="#00ff00">Águila-SU(2)</font> mantiene asimetrías de <font color="#2F82FF">expertise</font> y <font color="#00ff00">capital</font>. 
 > 
 > Su "bosón gauge" es el contrato: un protocolo de intercambio que define qué información (riqueza, conocimiento) puede transformarse en qué otro tipo. 
 > 
-> Su "constante de estructura" es la Propiedad Privada: el cuanto mínimo de recursos asignable.
+> Su constante de estructura es la Propiedad Privada, el cuanto mínimo de recursos asignable.
 
-> [!toro] EGREGOR SOCIAL-MASA
-> Egregor Social-Masa <font color="#FC300C">Toro</font>-<font color="#2F82FF">SU(3)</font> mantiene cohesión cultural y reproducción de tradiciones. 
+> [!toro] <font color="#fc300c">EGREGOR SOCIAL COLECTIVO</font>
+> El egregor Social Colectivo <font color="#FC300C">Toro</font>-<font color="#2F82FF">SU(3)</font> mantiene cohesión cultural y reproducción de tradiciones. 
 > 
 > Su "bosón gauge" es el rito: una repetición performativa que refuerza la identidad colectiva. 
 > 
-> Su "constante de estructura" es el Mito Fundacional: la narrativa compartida que confina la variabilidad cultural dentro de límites estables.
+> Su constante de estructura es el Mito Fundacional, la narrativa compartida que confina la variabilidad cultural dentro de límites estables.
 
 ### 2. El Individuo como Operador X
 
-El individuo consciente (Humano/Ángel del tetramorfo) es el único operador X capaz de de-codificar y reescribir los egregores. Sin embargo, este poder no es absoluto: el Yo Egoico está profundamente condicionado por el paradigma civilizatorio que hereda. 
+El individuo consciente (Humano/Ángel del tetramorfo) es el único operador X capaz de de-codificar y reescribir los egregores. Sin embargo, este poder no es absoluto: el <font color="#ffa3ef">Yo Egoico</font> está profundamente condicionado por el paradigma civilizatorio que hereda. 
 
 Un individuo nacido en una cultura teocrática no puede dejar de percibir el Estado como sagrado; uno en una cultura capitalista no puede dejar de ver el mundo en términos de propiedad y contrato. 
 
@@ -1042,9 +1031,9 @@ Esto permite que el individuo desbloquee secuencias algorítmicas al entender su
 
 ### 1. La  Puerta a Otras Realidades
 
-Si <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span> y <span style=" font-style: italic; color: #FFCC00;font-family: monospace;">h</span> son operadores de reescritura locales, no constantes universales, entonces cada sistema estelar puede tener su propio "ajuste" del X global. 
+Si <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> y <span style=" font-style: italic; color: #FFCC00;font-family: monospace;">(h)</span> son operadores de reescritura locales, no constantes universales, entonces cada sistema estelar puede tener su propio "ajuste" del X global. 
 
-Un planeta orbitando una estrella de 5 masas solares no tendría la misma <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span> (velocidad de actualización), pero sí la misma estructura 3+1X. La vida allí experimentaría la misma coherencia, aparentemente bajo leyes físicas diferentes, pero isomórficamente identicas en su lógica operativa.
+Un planeta orbitando una estrella de 5 masas solares no tendría la misma <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> (velocidad de actualización), pero sí la misma estructura 3+1X. La vida allí experimentaría la misma coherencia, aparentemente bajo leyes físicas diferentes, pero isomórficamente identicas en su lógica operativa.
 
 Esto implica que el tetramorfo podría ser firmware universal: cualquier civilización, sin importar su biología (orgánica, mamífera, reptiloide, energética), convergerá hacia una estructura <font color="#2F82FF">león</font>-<font color="#00ff00">águila</font>-<font color="#FC300C">toro</font>-<font color="#FFCC00">observador</font> porque es la única configuración tetradimensional que permite resolver la tensión entre cohesión, diferenciación y masa social. 
 
@@ -1072,9 +1061,9 @@ El tetramorfo no es un mito arcaico, sino firmware operativo que codifica las re
 
 Hemos establecido que:
 
-> 1. Los cuatro arquetipos no son metafóricos, sino estructurales: cada uno mapea a un modo de sincronización egregórica (<font color="#2F82FF">estatal</font>, <font color="#00ff00">corporativo</font>, <font color="#FC300C">social</font>) y al operador X (<font color="#FFCC00">individuo consciente</font>) que los coordina.
+> 1. Los cuatro arquetipos no son metafóricos, sino estructurales: cada uno mapea a un modo de sincronización egregórica <font color="#2F82FF">(estatal</font>, <font color="#00ff00">corporativo</font>, <font color="#FC300C">social)</font> y al operador X <font color="#FFCC00">(individuo consciente)</font> que los coordina.
 > 2. La proyección egregórica es un proceso físico de segundo orden: los egregores son campos gauge simbólicos que, aunque no generan bosónes, siguen la misma algebra de conexión que las fuerzas físicas. Individual, no determinan; colectivamente, condicionan profundamente.
-> 3. El individuo es operador pero no soberano: el Yo Egoico tiene agencia reescritora, pero está enmarcado por paradigmas civilizatorios que limitan su capacidad de sincronización. El paradigma mecanicista, al negar el rol de la consciencia, autolimita el Hamiltoniano último planetario, aislando a la civilización terrestre de otras potenciales.
+> 3. El individuo es operador pero no soberano: el <font color="#ffa3ef">Yo Egoic</font>o tiene agencia reescritora, pero está enmarcado por paradigmas civilizatorios que limitan su capacidad de sincronización. El paradigma mecanicista, al negar el rol de la consciencia, autolimita el Hamiltoniano último planetario, aislando a la civilización terrestre de otras potenciales.
 > 4. El tetramorfo es potencialmente universal: cualquier civilización, bajo cualquier biología, convergerá hacia esta estructura porque es la única solución tetradimensional al problema de coordinar cohesión, diferenciación y masa. Las constantes físicas pueden variar, pero la lógica 3+1X es invariante.
 
 En la siguiente sección se profundizará en la ontología onírica: 
@@ -1084,7 +1073,7 @@ En la siguiente sección se profundizará en la ontología onírica:
 Allí formalizaremos la noción de sincronización de presentes y la resonancia ontológica que permite que múltiples X locales experimenten un universo compartido sin necesidad de un substrato material único, resolviendo finalmente la paradoja del observador y abriendo la puerta a una epistemología de la intersubjetividad cuántica.
 
 > [!cite] NOTA METODOLÓGICA
-> Este anexo ha mantenido deliberadamente la distinción entre isomorfismo y identidad. El león no es el <font color="#00ff00">fotón</font>; pero ambos obedecen la misma ecuación de sincronización. 
+> Este anexo ha mantenido deliberadamente la distinción entre isomorfismo y identidad. El <font color="#2f82ff">León</font> no es el <font color="#00ff00">fotón</font>; pero ambos obedecen la misma ecuación de sincronización. 
 > 
 > Esta separación preserva la autonomía epistemológica de la física mientras revela su unidad ontológica con la cultura, evitando el reduccionismo que ha limitado tanto a la ciencia como a la humanidades.
 
