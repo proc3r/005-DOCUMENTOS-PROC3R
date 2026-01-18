@@ -388,7 +388,7 @@ Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no 
 > Si reordenamos la ecuación <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span> para despejar la masa:
 > <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span> </center>
 > Y luego sustituimos la expresión de energía de Planck <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(E=hf)</span> obtenemos: 
-> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span>  ⟹  <span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=<font color="#ffcc00">hf</font>/c²</span>. </center>
+> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span>   ⟹ deriva en ⟹  <span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=<font color="#ffcc00">hf</font>/c²</span>. </center>
 > 
 > Esta expresión es reveladora: la <font color="#FC300C">masa</font> ya no se presenta como una cualidad intrínseca de una "cosa" estática, sino como una frecuencia cuantificada, encapsulada y "frenada" por el cuadrado de la velocidad de la luz. 
 > 
@@ -396,11 +396,11 @@ Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no 
 
 La verdadera revelación surge cuando sustituimos estas expresiones de energía y masa, basadas en frecuencias y la constante de Planck, de nuevo en la ecuación de Einstein <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span>:
 
-<center><span style=" font-style: italic;color: #FFCC00green; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#fc300c">m</font><font color="#ffcc00">c²</font></span>  ⟹  <span style="font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span>=<font color="#FC300C"><span style=" font-style: italic;color: #FC300C; font-family: monospace;">(hf/c²)</span></font><span style=" font-style: italic;color: #FFCC00; font-family: monospace;">c²</span></center>
+<center><span style=" font-style: italic;color: #FFCC00green; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#fc300c">m</font><font color="#ffcc00">c²</font></span>   ⟹ deriva en ⟹  <span style="font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span>=<font color="#FC300C"><span style=" font-style: italic;color: #FC300C; font-family: monospace;">(hf/c²)</span></font><span style=" font-style: italic;color: #FFCC00; font-family: monospace;">c²</span></center>
 
 Al simplificar la ecuación, el valor <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en el numerador y el denominador se cancelan, y como <span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">(f=c/λ)</span> —la relación entre frecuencia, velocidad de la luz y longitud de onda—, nos queda una identidad:
 
-<center><span style=" font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span> = <span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span> ⟹ <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hf</span> = <span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span></center>
+<center><span style=" font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span>=<span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span>   ⟹ deriva en ⟹  <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hf</span> = <span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span></center>
 
 Esta aparente tautología es, de hecho, profundamente significativa para el Modelo Nouménico. Nos transporta más allá de las nociones de <font color="#FC300C">"masa"</font> y <font color="#2F82FF">"energía"</font> como entidades finales, hacia un plano donde la realidad fundamental se compone de ondas probabilísticas y flujos de información. 
 
