@@ -28,7 +28,7 @@ Lo que presentamos aquí, bajo el nombre de metafórmula 3+1X, no es una nueva t
 
 No describe el mundo; describe la condición para que el mundo sea describible sin caer en paradojas insolubles. Es la llave maestra que no abre una puerta específica, sino que enseña a ver que todas las puertas ya están abiertas, y que la cerradura era siempre una ilusión generada por el lenguaje fragmentado de los paradigmas condicionados.
 
-En este sentido, la metafórmula es más fundamental que <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span>, porque mientras la ecuación de Einstein describe cómo la energía y la masa son dos caras de una misma moneda, el 3+1X explica por qué existe la moneda en primer lugar, por qué hay dos caras, y por qué hay un observador que puede voltearla y ver ambos lados. 
+En este sentido, la metafórmula es más fundamental que <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">E=mc²</span>, porque mientras la ecuación de Einstein describe cómo la energía y la masa son dos caras de una misma moneda, el 3+1X explica por qué existe la moneda en primer lugar, por qué hay dos caras, y por qué hay un observador que puede voltearla y ver ambos lados. 
 
 La relatividad es un caso particular del principio de sincronización; el 3+1X es el principio que engendra casos.
 
@@ -362,7 +362,7 @@ Así, la realidad se revela como una intrincada sinfonía de Hamiltonianos entre
 
 ## Transducción: Masa y Energía
 
-La ecuación de Einstein <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span>, es quizás la fórmula más reconocida de la física moderna. Su elegancia reside en la profunda equivalencia que establece entre la <font color="#FC300C">masa (m)</font> (cualidad intrínseca) y la <font color="#2F82FF">energía (E)</font> (cualidad extrínseca), revelando que una puede convertirse en la otra, mediada por la velocidad de la luz al cuadrado <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span>. 
+La ecuación de Einstein <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">E=mc²</span>, es quizás la fórmula más reconocida de la física moderna. Su elegancia reside en la profunda equivalencia que establece entre la <font color="#FC300C">masa (m)</font> (cualidad intrínseca) y la <font color="#2F82FF">energía (E)</font> (cualidad extrínseca), revelando que una puede convertirse en la otra, mediada por la velocidad de la luz al cuadrado <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span>. 
 
 Esta poderosa relación ha sido fundamental para nuestra comprensión de fenómenos desde las reacciones nucleares hasta la propia evolución estelar.
 
@@ -374,33 +374,33 @@ Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no 
 
 > [!energia] <font color="#2f82ff">ENERGÍA</font>
 > La <font color="#2F82FF">Energía (E)</font>, desde una perspectiva ondulatoria y cuántica, se describe por la relación de Planck-Einstein como: 
-> <center><span style=" font-style: italic;color: #FFCC00; font-family: monospace;">E=hf</span></center>
+> <center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font> = <font color="#ffcc00">hf</font></span></center>
 > O en términos de longitud de onda:
-> <center><span style=" font-style: italic;color: #2F82FF; font-family: monospace;">E=hc/λ</span> </center>
+> <center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font> = <font color="#ffcc00">hc</font><font color="#00ff00">/λ</font></span> </center>
 > 
-> Aquí, <span style=" font-style: italic; font-family: monospace;">(h)</span> es la constante de Planck —el <font color="#FFCC00">cuanto de acción</font> que establece la unidad mínima de <font color="#2F82FF">energía</font> que puede ser intercambiada—, <span style=" font-style: italic;font-family: monospace;">(f)</span> es la frecuencia de la onda, y <span style=" font-style: italic;ont-family: monospace;">(λ)</span> es su longitud de onda. 
+> Aquí, <span style=" font-style: italic; font-family: monospace;"><font color="#ffcc00">(h)</font></span> es la constante de Planck —el <font color="#FFCC00">cuanto de acción</font> que establece la unidad mínima de <font color="#2F82FF">energía</font> que puede ser intercambiada—, <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">(f)</font></span> es la frecuencia de la onda, y <span style=" font-style: italic;ont-family: monospace;"><font color="#00ff00">(λ)</font></span> es su longitud de onda. 
 > 
 > Esta fórmula nos indica que la energía de una onda es directamente proporcional a su frecuencia, lo que implica que las vibraciones más rápidas transportan más energía.
 
 > [!masa] <font color="#fc300c">MASA</font>
 > La <font color="#FC300C">Masa (m)</font>, por su parte, también puede conceptualizarse como una forma de energía altamente confinada, intrínsecamente ligada a una frecuencia específica. 
 > 
-> Si reordenamos la ecuación <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span> para despejar la masa:
-> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m=E/c²</span> </center>
-> Y luego sustituimos la expresión de energía de Planck <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(E=hf)</span> obtenemos: 
-> <center><span style=" font-style: italic;color: #FC300C; font-family: monospace;">m = E/c²</span>   ⟹ deriva en ⟹  <span style=" font-style: italic;color: #FC300C; font-family: monospace;"><font color="#FC300C">m</font> = <font color="#ffcc00">hf</font>/c²</span>. </center>
+> Si reordenamos la ecuación <span style=" font-style: italic; font-family: monospace;">E=mc²</span> para despejar la masa:
+> <center><span style=" font-style: italic; font-family: monospace;">E=mc²</span>    ⟹ deriva en ⟹ <span style=" font-style: italic; font-family: monospace;"><font color="#fc300c">m</font>=<font color="#2f82ff">E</font><font color="#ffcc00">/c²</font></span> </center>
+> Y luego sustituimos la expresión de energía de Planck <span style="font-style: italic; ; font-family: monospace;">(<span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#ffcc00">hf</font></span>)</span> obtenemos: 
+> <center><span style=" font-style: italic; font-family: monospace;"><font color="#fc300c">m</font>=<font color="#2f82ff">E</font><font color="#ffcc00">/c²</font></span>   ⟹ deriva en ⟹  <span style=" font-style: italic;; font-family: monospace;"><font color="#FC300C">m</font>=<font color="#ffcc00">hf/c²</font></span></center>
 > 
-> Esta expresión es reveladora: la <font color="#FC300C">masa</font> ya no se presenta como una cualidad intrínseca de una "cosa" estática, sino como una frecuencia cuantificada, encapsulada y "frenada" por el cuadrado de la velocidad de la luz. 
+> Esta expresión es reveladora: la <font color="#FC300C">masa</font> ya no se presenta como una cualidad <font color="#2f82ff">intrínseca</font> de una "cosa" estática, sino como una frecuencia cuantificada, encapsulada y "frenada" por el cuadrado de la velocidad de la luz. 
 > 
-> Es decir, la masa es una manifestación de la energía vibratoria cuando esta se ralentiza y se condensa en una forma perceptible.
+> Es decir, la <font color="#fc300c">masa</font> es una manifestación de la <font color="#2f82ff">energía</font> vibratoria cuando esta se ralentiza y se condensa en una forma perceptible.
 
-La verdadera revelación surge cuando sustituimos estas expresiones de energía y masa, basadas en frecuencias y la constante de Planck, de nuevo en la ecuación de Einstein <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span>:
+La verdadera revelación surge cuando sustituimos estas expresiones de energía y masa, basadas en frecuencias y la constante de Planck, de nuevo en la ecuación de Einstein <span style=" font-style: italic; font-family: monospace;">E=mc²</span>:
 
-<center><span style=" font-style: italic;color: #FFCC00green; font-family: monospace;"><font color="#2f82ff">E</font> = <font color="#fc300c">m</font><font color="#ffcc00">c²</font></span>   ⟹ deriva en ⟹  <span style="font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span> = <font color="#FC300C"><span style=" font-style: italic;color: #FC300C; font-family: monospace;">(hf/c²)</span></font><span style=" font-style: italic;color: #FFCC00; font-family: monospace;">c²</span></center>
+<center><span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#fc300c">m</font><font color="#ffcc00">c²</font></span>   ⟹ deriva en ⟹  <span style="font-style: italic; color: #2F82FF; font-family: monospace;">hc<font color="#00ff00">/λ</font></span>=<font color="#FC300C"><span style=" font-style: italic;color: #FC300C; font-family: monospace;">(hf<font color="#ffcc00">/c²</font>)</span></font><span style=" font-style: italic;color: #FFCC00; font-family: monospace;">c²</span></center>
 
-Al simplificar la ecuación, el valor <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en el numerador y el denominador se cancelan, y como <span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">(f=c/λ)</span> —la relación entre frecuencia, velocidad de la luz y longitud de onda—, nos queda una identidad:
+Al simplificar la ecuación, el valor <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en el numerador y el denominador se cancelan, y como <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(f=c<font color="#00ff00">/λ</font>)</span> —la relación entre frecuencia, velocidad de la luz y longitud de onda—, nos queda una identidad:
 
-<center><span style=" font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span> = <span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span>   ⟹ deriva en ⟹  <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hf</span> = <span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span></center>
+<center><span style=" font-style: italic; color: #2F82FF; font-family: monospace;">hc<font color="#00ff00">/λ</font></span>=<span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span>   ⟹ deriva en ⟹  <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hf</span>=<span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span></center>
 
 Esta aparente tautología es, de hecho, profundamente significativa para el Modelo Nouménico. Nos transporta más allá de las nociones de <font color="#FC300C">"masa"</font> y <font color="#2F82FF">"energía"</font> como entidades finales, hacia un plano donde la realidad fundamental se compone de ondas probabilísticas y flujos de información. 
 
@@ -423,7 +423,7 @@ Es en la escala definida por <span style="font-style: italic; font-family: monos
 La ecuación <span style=" font-style: italic; color: #2F82FF; font-family: monospace;">hc/λ</span>=<span style=" font-style: italic;color: #FC300C; font-family: monospace;">hf</span> revela una conexión intrínseca entre la información del <font color="#FC300C">Algoritmo U(1)</font> y el <font color="#00ff00">Algoritmo SU(2)</font>:
 
 > - La presencia de una única <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">(c)</span> en la expresión de la <font color="#2F82FF">energía</font> <span style=" font-style: italic;color: #2F82FF; font-family: monospace;">hc/λ</span> resuena con la unidad y la linealidad del <font color="#FC300C">Algoritmo U(1)</font>, asociado al <font color="#FC300C">electromagnetismo</font> y el <font color="#00ff00">fotón</font>. Aquí <font color="#fc300c">U(1)</font> es la base de la coherencia unitaria que permite que la energía se propague como una onda singular.
-> - La aparición de <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en la expresión de la <font color="#FC300C">masa</font> <span style="font-style: italic; color: #FC300C; font-family: monospace;">(hf/c²)</span> y en la ecuación de Einstein <span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">E=mc²</span> simboliza la dualidad y la síntesis inherente al <font color="#00ff00">Algoritmo SU(2)</font>. 
+> - La aparición de <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> en la expresión de la <font color="#FC300C">masa</font> <span style="font-style: italic; color: #FC300C; font-family: monospace;">(hf/c²)</span> y en la ecuación de Einstein <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span> simboliza la dualidad y la síntesis inherente al <font color="#00ff00">Algoritmo SU(2)</font>. 
 
  En la Ecuación clásica de Einstein <span style="font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> puede interpretarse como la auto-interacción de la unidad de velocidad de la luz, creando la "tensión" o la "interacción" necesaria para que la <font color="#2F82FF">energía</font> se condense y adquiera <font color="#FC300C">masa</font>. Es el punto donde la unidad se desdobla, donde las frecuencias se entrelazan para formar una manifestación más compleja y densa.
 
@@ -477,9 +477,9 @@ El Modelo Nouménico invita a la ciencia a trascender sus fronteras actuales y a
 
 <center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Ecuación de Einstein como Operador de Transducción Nouménica</span></center>
 
-_Resumen: Esta sección analiza la ecuación <span style=" font-style: italic;color: #FFCC00green; font-family: monospace;">E=mc²</span> y la Constante de Planck como un proceso dinámico de actualización de información._
+_Resumen: Esta sección analiza la ecuación <span style=" font-style: italic;color: #FFCC00; font-family: monospace;">E=mc²</span> y la Constante de Planck como un proceso dinámico de actualización de información._
 
-La ecuación <span style="font-style: italic; color: #FFCC00green; font-family: monospace;">E=mc²</span>, posiblemente la más reconocida de la física moderna, ha operado durante más de un siglo como el emblema de una visión mecanicista del universo: la equivalencia entre <font color="#fc300c">masa</font> y <font color="#2f82ff">energía</font> se presenta como una relación de identidad entre dos estados de una misma substancia, mediada por una constante universal invariante. 
+La ecuación <span style="font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span>, posiblemente la más reconocida de la física moderna, ha operado durante más de un siglo como el emblema de una visión mecanicista del universo: la equivalencia entre <font color="#fc300c">masa</font> y <font color="#2f82ff">energía</font> se presenta como una relación de identidad entre dos estados de una misma substancia, mediada por una constante universal invariante. 
 
 Sin embargo, desde la ontología nouménica que hemos desarrollado, esta interpretación convencional sufre de una paradoja categorial profunda: 
 
@@ -491,7 +491,7 @@ El modelo nouménico propone, en cambio, que la realidad fenomenológica es el p
 
 La ecuación de Einstein, leída desde esta perspectiva, no describe una equivalencia estática, sino la síntesis dialéctica entre frecuencia nouménica, granularidad cuántica y velocidad de actualización del presente.
 
-En la Parte 2 de este documento, se argumentará que <span style="font-style: italic; color: #FFCC00green; font-family: monospace;">E=mc²</span> es el cuarto elemento de nuestro sistema tetradimensional: aquel que, a diferencia de los tres marcos previos <font color="#00ff00">(elementos clásicos</font>, <font color="#2f82ff">sincronizadores energéticos</font>, <font color="#fc300c">fuerzas fundamentales)</font>, no organiza realidades separables sino que comprende a los otros tres en una singularidad operatoria. 
+En la Parte 2 de este documento, se argumentará que <span style="font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span> es el cuarto elemento de nuestro sistema tetradimensional: aquel que, a diferencia de los tres marcos previos <font color="#00ff00">(elementos clásicos</font>, <font color="#2f82ff">sincronizadores energéticos</font>, <font color="#fc300c">fuerzas fundamentales)</font>, no organiza realidades separables sino que comprende a los otros tres en una singularidad operatoria. 
 
 Es la caja negra donde la información cuántica se vuelve clásica, el potencial se vuelve actual, y la consciencia —como operador de actualización— "lee" la transducción.
 
@@ -542,7 +542,7 @@ En este esquema, la constante de Planck <span style=" font-style: italic; font-f
 
 Es la resolución de la realidad, la puerta de enlace donde la información deja de ser continua y se vuelve discreta, cuantificable y, por tanto, manifestable.
 
-La ecuación <span style="font-style: italic; color: #FFCC00green; font-family: monospace;">E=hf</span> no es una relación causal sino una definición de transducción: la frecuencia f es el modo de ser de la información en el plano nouménico, y <span style=" font-style: italic;font-family: monospace;">h</span> es el operador que filtra esa frecuencia para que adquiera la dimensionalidad de la energía observable. 
+La ecuación <span style="font-style: italic; color: #FFCC00; font-family: monospace;">E=hf</span> no es una relación causal sino una definición de transducción: la frecuencia f es el modo de ser de la información en el plano nouménico, y <span style=" font-style: italic;font-family: monospace;">h</span> es el operador que filtra esa frecuencia para que adquiera la dimensionalidad de la energía observable. 
 
 Sin <span style=" font-style: italic;font-family: monospace;">(h)</span>, la frecuencia sería pura potencia sin forma; sin <span style=" font-style: italic;font-family: monospace;">(f)</span>, <span style=" font-style: italic;font-family: monospace;">(h)</span> sería un límite sin contenido.
 
@@ -641,7 +641,7 @@ La constante cosmológica Λ no es un término en las ecuaciones de Einstein; es
 
 ## 4. Hacia una Física de la Reescritura
 
-La sección 2 de este documento ha argumentado que la ecuación<span style=" font-style: italic; color: #FFCC00green; font-family: monospace;"> E=mc²</span>, leída bajo el principio 3+1X y la ontología nouménica, deja de ser una mera equivalencia para convertirse en el comprensor operacional de la realidad física. 
+La sección 2 de este documento ha argumentado que la ecuación<span style=" font-style: italic; color: #FFCC00; font-family: monospace;"> E=mc²</span>, leída bajo el principio 3+1X y la ontología nouménica, deja de ser una mera equivalencia para convertirse en el comprensor operacional de la realidad física. 
 
 Los tres términos <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(hf)</span>, <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">/(c²)</span> y la multiplicación final por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> no son factores algebraicos, sino etapas de transducción donde la información pasa del plano cuántico (frecuencia), al plano de reescritura (descomposición en estructura), al plano fenomenológico <font color="#00ff00">(síntesis</font> como <font color="#FC300C">masa</font>/<font color="#2F82FF">energía)</font>.
 
@@ -653,7 +653,7 @@ Este marco resuelve la paradoja del gravitón al mostrar que la gravedad no es u
 
 La <font color="#FC300C">masa</font>, lejos de ser inerte, es densidad de actualización. La energía oscura es residuo de reescritura. Y la consciencia es el X que lee el texto del universo.
 
-En la seccion 3 de este documento se desarrollará cómo este sistema de comprensión (<span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">E=mc²</span> como cuarto elemento) se anida dentro de una tetrarquía superior, donde los cuatro marcos (<font color="#FC300C">elementos</font>, <font color="#00ff00">sincronizadores</font>, <font color="#2F82FF">fuerzas</font> y <font color="#FFCC00">equivalencia einsteniana</font>) operan como cuatro instancias de 3+1X que, a su vez, requieren un operador X global para sincronizarse.
+En la seccion 3 de este documento se desarrollará cómo este sistema de comprensión (<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span> como cuarto elemento) se anida dentro de una tetrarquía superior, donde los cuatro marcos (<font color="#FC300C">elementos</font>, <font color="#00ff00">sincronizadores</font>, <font color="#2F82FF">fuerzas</font> y <font color="#FFCC00">equivalencia einsteniana</font>) operan como cuatro instancias de 3+1X que, a su vez, requieren un operador X global para sincronizarse.
 
 Allí formalizaremos la realidad fenomenológica total como el producto de un 4+1X hiper-recursivo, abriendo la puerta a una ontología de auto-similitud fractal donde cada nivel de realidad repite la misma estructura lógica, y el "quinto elemento" es el principio mismo de esta recursión.
 
@@ -666,7 +666,7 @@ _Resumen: Esta sección escala el modelo hacia la realidad total, una visión ho
 
 ## 1. Planos de Comprensión Superior
 
-En la sección 2 se estableció que la ecuación <span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">E=mc²</span> funciona no como equivalencia estática sino como operador de transducción, el cuarto elemento de un sistema tetradimensional donde la información se reescribe entre planos <font color="#2F82FF">cuántico</font>, <font color="#FC300C">físico</font> y <font color="#00ff00">fenomenológico</font>. 
+En la sección 2 se estableció que la ecuación <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span> funciona no como equivalencia estática sino como operador de transducción, el cuarto elemento de un sistema tetradimensional donde la información se reescribe entre planos <font color="#2F82FF">cuántico</font>, <font color="#FC300C">físico</font> y <font color="#00ff00">fenomenológico</font>. 
 
 Sin embargo, esta reinterpretación, aunque resuelve paradojas locales, genera una pregunta más profunda: 
 
@@ -727,11 +727,11 @@ Es el fuego físico, la transmutación que permite que la <font color="#2F82FF">
 
 <center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Comprensión Sincrética de la Transducción</span></center>
 
-El [[Marco Ontológico 3+1X#2. Reinterpretando E=mc²|cuarto marco]] —expresado en la ecuación <span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">E = mc²</span>— es la comprensión de los tres anteriores. No añade nueva física, sino que traduce los tres modos de sincronización <font color="#2F82FF">(energía</font>, <font color="#FC300C">masa</font>, <font color="#00ff00">momentum)</font> a través del operador de reescritura <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span>. 
+El [[Marco Ontológico 3+1X#2. Reinterpretando E=mc²|cuarto marco]] —expresado en la ecuación <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E = mc²</span>— es la comprensión de los tres anteriores. No añade nueva física, sino que traduce los tres modos de sincronización <font color="#2F82FF">(energía</font>, <font color="#FC300C">masa</font>, <font color="#00ff00">momentum)</font> a través del operador de reescritura <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span>. 
 
 Es el meta-operador que permite que la información pase del Plano Nouménico <font color="#00ff00">(frecuencia)</font> al Plano Fenomenológico <font color="#FC300C">(masa</font>-<font color="#2F82FF">energía)</font> y viceversa. Es el fuego de fuegos, el X que comprende a los otros X locales.
 
-En este nivel, la <font color="#2F82FF">energía <span style=" font-style: italic; color: #2F82FF; font-family: monospace;">E</span></font> es la manifestación pura del modo unitario, la <font color="#FC300C">masa <span style=" font-style: italic; color: #FC300C; font-family: monospace;">m</span></font> es la manifestación estructurada del modo confinante, y el <font color="#00ff00">momentum </font><span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">p=E/c</span> es la manifestación dinámica del modo direccional. 
+En este nivel, la <font color="#2F82FF">energía <span style=" font-style: italic; color: #2F82FF; font-family: monospace;">E</span></font> es la manifestación pura del modo unitario, la <font color="#FC300C">masa <span style=" font-style: italic; color: #FC300C; font-family: monospace;">m</span></font> es la manifestación estructurada del modo confinante, y el <font color="#00ff00">momentum </font><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">p=E/c</span> es la manifestación dinámica del modo direccional. 
 
 El operador <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span> no es constante sino velocidad de actualización del presente, el ritmo al que el universo reescribe su propia estructura sin generar paradojas causales.
 
@@ -768,7 +768,7 @@ El presente que experimentamos no es la actualización de un solo marco, sino la
 > - Actualización del <font color="#00ff00">marco elemental</font>: el <font color="#FC300C">electrón</font> "fluye" como <font color="#2F82FF">agua</font> en su orbital.
 > - Actualización del <font color="#2f82ff">marco sincronizador</font>: su información se sincroniza <font color="#2F82FF">cuántica</font>, <font color="#FC300C">física</font> y <font color="#FFCC00">químicamente</font> con el núcleo.
 > - Actualización del <font color="#fc300c">marco de fuerzas</font>: los <font color="#00ff00">fotones</font> intercambiados son correcciones <font color="#FC300C">U(1)</font> instantáneas.
-> - Actualización del <font color="#ffcc00">marco einsteniano</font>: su <font color="#FC300C">masa</font>-<font color="#2F82FF">energía</font> se actualiza constantemente según <span style=" font-style: italic; color: #FFCC00green; font-family: monospace;">E=mc²</span>.
+> - Actualización del <font color="#ffcc00">marco einsteniano</font>: su <font color="#FC300C">masa</font>-<font color="#2F82FF">energía</font> se actualiza constantemente según <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span>.
 
 Estas cuatro actualizaciones no ocurren secuencialmente sino en superposición, y su coherencia mutua es garantizada por el X global. 
 
