@@ -563,7 +563,7 @@ La relatividad especial asegura que la transformación es compatible con las sim
 
 Aquí es donde <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> deja de ser una constante para convertirse en el operador dialéctico, el fuego de este sistema tetradimensional. No es un número medido, sino el punto de síntesis donde la <font color="#FC300C">tesis</font> —frecuencia pura <span style="  color: #FFCC00;font-style: italic;font-family: monospace;">(f)</span>— y la <font color="#2F82FF">antítesis</font> —cuantización <span style="  color: #FFCC00;font-style: italic;font-family: monospace;">(h)</span>— generan una <font color="#00ff00">síntesis</font> que puede manifestarse ya sea como energía radiante <span style=" color: #2f82ff; font-style: italic; font-family: monospace;">(<font color="#2f82ff">E</font>=<font color="#ffcc00">hf</font>)</span> o como masa inerte <span style="color: #FC300C; font-style: italic;; font-family: monospace;">(<font color="#FC300C">m</font>=<font color="#ffcc00">hf/c²</font>)</span>. 
 
-La triple aparición de <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> en la expresión expandida:<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(hf/c²)</span><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span> no es redundancia algebraica, sino revelación de la estructura vectorial subyacente.
+La triple aparición de <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> en la expresión expandida: <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(hf/c²)</span><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c</span> no es redundancia algebraica, sino revelación de la estructura vectorial subyacente.
 
 ### 2. La Ecuación como Proceso de Reescritura
 
@@ -579,18 +579,18 @@ Para comprender el proceso de transducción, debemos leer la ecuación no de izq
 > 
 > Dividir por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c²)</span> es distribuir la información entre la extensión espacial y la duración temporal. Esto no reduce la información, sino que la codifica en forma matricial.
 
-> [!masa] PASO 3: Multiplicación por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> ⟹ <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">((hf/c²)</font><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c)</span></span>
+> [!masa] <font color="#fc300c">PASO 3</font> - Multiplicación por <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> ⟹ <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">((hf/c²)</font><span style=" font-style: italic; color: #FFCC00; font-family: monospace;">c)</span></span>
 > Este último <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>  es el operador de actualización, el operador X de nuestro principio. Toma la información estructurada y la actualiza en el <font color="#00ff00">presente</font>. 
 > 
 > Es el momento de la sincronización: cuando la información estructurada en la matriz se actualiza, emerge la <font color="#FC300C">masa</font> como propiedad de la extensión. 
 > ![[03 - EnergiaB.jpg]]
 > 
-> La <font color="#FC300C">masa</font> no está "en" la partícula; es la densidad de sincronización, la cantidad de actualizaciones por unidad de presente.
+> La <font color="#FC300C">masa</font> no está "en" la partícula; es la densidad de sincronización, la cantidad de actualizaciones por unidad de <font color="#00ff00">presente</font>.
 
-> [!procer] PASO 4: Igualdad como Reconocimiento <span style=" font-style: italic;font-family: monospace;">(=)</span>
+> [!procer] <font color="#ffcc00">PASO 4</font> - Igualdad como Reconocimiento
 > El signo de igualdad no indica identidad numérica, sino reconocimiento consciente de equivalencia. Es el momento en que el observador <font color="#00ff00">(el Operador Hamiltoniano Último)</font> lee la transducción y la experiencia como fenómeno estable. 
 > 
-> El signo <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(=)</span> es la frontera del <font color="#00ff00">presente</font>, el límite donde la transducción se vuelve disponible para la experiencia.
+> El signo <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">=</span> es la frontera del <font color="#00ff00">presente</font>, el límite donde la transducción se vuelve disponible para la experiencia.
 
 ### 3. El Álgebra de la Transducción
 
@@ -606,13 +606,13 @@ La ecuación de Einstein, bajo esta luz, no es independiente del Modelo Estánda
 > Los tres generadores de<font color="#00ff00"> SU(2)</font> se mapean a los tres ejes del espacio interno donde la frecuencia se "enrarece" para convertirse en estructura.
 > ![[EspinSU2.jpg]]
 
-> [!masa] <font color="#2F82FF">ALGORITMO SU(3)</font> y el término <span style=" font-style: italic; font-family: monospace;">(m=<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf<font color="#ffcc00">/c²</font></span>)</span> 
+> [!masa] <font color="#2F82FF">ALGORITMO SU(3)</font> y el término <span style=" color: #FC300C; font-style: italic; font-family: monospace;">(m=<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf<font color="#ffcc00">/c²</font></span>)</span> 
 > La <font color="#2F82FF">fuerza fuerte</font>, con sus ocho gluones, confinan la información en estructuras estables. La <font color="#FC300C">masa</font> que emerge de <font color="#FC300C">(<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf<font color="#ffcc00">/c²</font></span>)</font></span> es la manifestación del confinamiento: es la <font color="#2F82FF">energía</font> que no puede escapar porque está codificada en la redundancia de la matriz de color. 
 > 
 > La <font color="#FC300C">masa</font> es <font color="#2F82FF">energía</font> que ha sido "guardada" por <font color="#2F82FF">SU(3)</font> en una configuración que repite su identidad en cada actualización.
 > ![[EnergiaSU3.jpg]]
 
-> [!procer] <font color="#ffcc00">SINTESIS:</font> <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> como operador de reescritura
+> [!procer] <font color="#ffcc00">SÍNTESIS:</font> <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> como operador de reescritura
 > La <font color="#FFCC00">gravedad</font>, en este esquema, no es una interacción más, sino el campo de consistencia que asegura que las transducciones entre<font color="#FC300C"> U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2F82FF">SU(3)</font> sean coherentes. 
 > 
 > Por lo tanto <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span> es la velocidad de síntesis gravitacional: el ritmo al que el espacio-tiempo puede actualizar sus propias reglas sin romper la coherencia causal. 
@@ -621,24 +621,22 @@ La ecuación de Einstein, bajo esta luz, no es independiente del Modelo Estánda
 
 ## 3. Implicaciones y Puertas Abiertas
 
-> [!masa] 1 - LA MASA COMO DENSIDAD DE ACTUALIZACIÓN
-Si la <font color="#FC300C">masa</font> emerge de <span style=" font-style: italic; color: #FC300C; font-family: monospace;">(hf/c²)</span>, entonces no es una propiedad <font color="#2f82ff">intrínseca</font> sino una medida de resistencia a la actualización. Una partícula más masiva requiere más iteraciones del operador X para sincronizar su estado interno con el espacio-tiempo externo. 
->
-Esto explica por qué los fermiones masivos interactúan con el bosón de Higgs: el campo de Higgs no "da" masa, sino que modula la frecuencia de actualización del operador X para ciertas configuraciones de información. El Higgs es el ajuste fino del reloj de reescritura.
+> [!masa] <font color="#fc300c">1 - LA MASA COMO DENSIDAD DE ACTUALIZACIÓN</font>
+> Si la <font color="#FC300C">masa</font> emerge de <font color="#FC300C">(<span style=" font-style: italic;color: #ffcc00; font-family: monospace;">hf<font color="#ffcc00">/c²</font></span>)</font></span>, entonces no es una propiedad <font color="#2f82ff">intrínseca</font> sino una medida de resistencia a la actualización. Una partícula más masiva requiere más iteraciones del operador X para sincronizar su estado interno con el espacio-tiempo externo. 
+> 
+> Esto explica por qué los fermiones masivos interactúan con el bosón de Higgs: el campo de Higgs no "da" masa, sino que modula la frecuencia de actualización del operador X para ciertas configuraciones de información. El Higgs es el ajuste fino del reloj de reescritura.
 
-> [!onemuon] 2 - EL PROBLEMA DE LA CONSTANTE COSMOLÓGICA Y LA ENERGÍA OSCURA
->
-La energía oscura, en este modelo, no es un fluido misterioso que empuja el universo, sino el residuo de la transducción. Cada actualización del operador X en el vacío cuántico genera una expansión mínima del espacio-tiempo (un "bit de espacio"). 
->
-La suma de estas expansiones, a lo largo de milenios de iteraciones, produce el efecto acelerado de la expansión cósmica. 
->
-La constante cosmológica Λ no es un término en las ecuaciones de Einstein; es la tasa de actualización del operador X en el vacío, la frecuencia de reescritura del espacio mismo.
+> [!onemuon] <font color="#2f82ff">2 - EL PROBLEMA DE LA CONSTANTE COSMOLÓGICA Y LA ENERGÍA OSCURA</font>
+> La energía oscura, en este modelo, no es un fluido misterioso que empuja el universo, sino el residuo de la transducción. Cada actualización del operador X en el vacío cuántico genera una expansión mínima del espacio-tiempo (un "bit de espacio"). 
+> 
+> La suma de estas expansiones, a lo largo de milenios de iteraciones, produce el efecto acelerado de la expansión cósmica. 
+> 
+> La constante cosmológica Λ no es un término en las ecuaciones de Einstein; es la tasa de actualización del operador X en el vacío, la frecuencia de reescritura del espacio mismo.
 
-> [!manipulacion] 3 - EL OBSERVADOR COMO X LOCAL
+> [!manipulacion] <font color="#00ff00">3 - EL OBSERVADOR COMO X LOCAL</font>
 > El problema de la medida cuántica se resuelve cuando reconocemos que cada observador es una instancia local del operador X. 
 > 
 > La función de onda no colapsa porque un ser consciente "mira" el sistema; colapsa porque el Hamiltoniano de la consciencia de ese observador sincroniza su presente local con la información del sistema, y en esa sincronización, la superposición se actualiza en un estado definido. 
-> 
 > El gato de Schrödinger está vivo y muerto hasta que el X del observador actualiza la realidad del laboratorio. El "multicuerpo" no es una ramificación ontológica, sino una multiplicidad de presentes que no se han sincronizado aún.
 
 > [!avatarico] 4 - PREDICCIONES HEURÍSTICAS Y DIFERENCIACIÓN EMPÍRICA
