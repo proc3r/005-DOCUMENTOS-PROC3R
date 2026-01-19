@@ -1,6 +1,7 @@
 ---
 indexar: true
 ---
+
 ![[Niveles Civilizacion.jpg]]
 
 ![[Los nueve niveles de la Consciencia Cósmica.m4a]]
