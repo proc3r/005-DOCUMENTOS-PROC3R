@@ -46,13 +46,13 @@ height: 360
 
 1.0.12 » La escala se estructura en tres ejes principales que representan distintas etapas de la evolución de la consciencia colectiva:
 
-> [!cterrestre] CONSCIENCIA TERRESTRE (Tipo 1)
+> [!cterrestre] <font color="#fc300c">CONSCIENCIA TERRESTRE</font> (Civilización Tipo 1)
 El nivel más básico de experiencia, limitado a lo fisiológico y a la supervivencia planetaria. Aquí, la consciencia se fragmenta y se manifiesta en sistemas sociales primarios.
 
-> [!clunar] CONSCIENCIA LUNAR (Tipo 2)
+> [!clunar] <font color="#00ff00">CONSCIENCIA LUNAR</font> (Civilización Tipo 2)
 Un nivel más avanzado, donde la civilización comienza a interactuar con flujos de información nouménicos de otros nodos estelares. Aquí, se desarrollan los sistemas de control y la supremacía.
 
-> [!csolar] CONSCIENCIA SOLAR (Tipo 3)
+> [!csolar] <font color="#2f82ff">CONSCIENCIA SOLAR</font> (Civilización Tipo 3)
 El nivel más alto de evolución, donde la civilización se convierte en una entidad que puede trascender lo fenomenológico para comenzar a interactuar dentro de la realidad de la materia y la energía oscura.
 
 1.0.13 » Dentro de estos tres tipos de consciencia, la Escala de Civilizaciones Nouménicas identifica nueve niveles evolutivos, que actúan como estadios de la experiencia. Cada nivel tiene un objetivo, un tipo de sistema que desarrolla, y un paradigma que lo define.
