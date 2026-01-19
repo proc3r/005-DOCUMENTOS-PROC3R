@@ -1,5 +1,5 @@
 ---
-indexar: true
+indexar: false
 ---
 ![[Niveles Civilizacion.jpg]]
 
