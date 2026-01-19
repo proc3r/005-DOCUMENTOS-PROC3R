@@ -586,7 +586,7 @@ indexar: true
 5.0.6 » El <font color="#e36c09">Nivel 2</font> rompe este ciclo al introducir un vector de propósito cósmico, que se presenta como la posibilidad de que la humanidad no sea solo un efecto axiomático del flujo universal, sino una causa intencionada que permite construir una <font color="#2f82ff">Civilización Tipo 3</font>.
 
 ## 1. <font color="#fc300c">Algoritmo 15 • Víctima-Victimario</font>
-![[15 - Victirma victimario2 1.jpg|700]]
+![[15 - Victirma Victimario2.jpg|700]]
 
 5.1.1 » El <font color="#fc300c">Algoritmo Víctima-Victimario</font> representa la primera respuesta sistémica al poder ciego del <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>. Mientras la ola nouménica produce una <font color="#00ff00">Síntesis</font> del «Ahora» que consagra a los que resultaron victoriosos dentro de la dialéctica histórica—aquellos que han consolidado su supremacía mediante la fuerza, la coerción y el control de los recursos del pasado—, los grupos subordinados, al carecer de capacidad militar o económica para competir en igualdad, desarrollan una estrategia de poder inversa: la victimización como vía de acceso al plano trascendental, dejando registro en la narrativa histórica su pesar y sufrimiento a partir de su propia perspectiva subjetiva de la realidad. 
 
@@ -2002,7 +2002,7 @@ indexar: true
 8.1.33 » Esta comprensión Algoritmica de la realidad permite al Avatar entender que su objetivo dentro del <font color="#00ff00">ámbito económico</font> no debe ser consumir o acumular: sino optimizar su flujo energético dentro del sistema, manteniendo la coherencia con su misión evolutiva.
 
 ## 2. <font color="#e36c09">Algoritmo 30 • Ecónomo-Familiar</font>
-![[30 - Ecónomo Familiar3b.jpg|700]]
+![[30 - Economo Familiar3b.jpg|700]]
 
 8.2.1 » El <font color="#e36c09">Algoritmo Ecónomo-Familiar</font> focaliza la lógica del <font color="#00ff00">Nivel 4</font> a la esfera de la convivencia primaria, estableciendo el hogar como la Micro-Mónada Doméstica. 
 
@@ -2277,7 +2277,7 @@ indexar: true
 
 8.6.6 » Esta negación es vital para que las élites políticas puedan beneficiarse de la narrativa de un Estado que opera aislado del fenómeno, mientras que, internamente, dependen de los flujos y las alianzas que esta economía oculta ofrece para su propio mantenimiento y enriquecimiento.
 
-### El Ámbito Estocástico
+### <font color="#2f82ff">El Ámbito Estocástico</font>
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Informalidad Microeconómica</span></center>
 
@@ -2315,7 +2315,7 @@ indexar: true
 
 8.6.20 » Así, el caos estocástico de la microeconomía es activado por la desconfianza individual, impactando la capacidad soberana del Estado para administrar sus reservas y la política monetaria.
 
-### El Ámbito Organizado
+### <font color="#fc300c">El Ámbito Organizado</font>
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #fc300c; font-family: 'none'; font-variant: petite-caps; ">Estructuras de Coerción Criminal</span></center>
 
@@ -2387,7 +2387,7 @@ indexar: true
 
 8.6.39 » Esto crea una relación de interdependencia geopolítica global, por lo que aunque los líderes de las <font color="#ffa3ef">naciones hegemónicas</font> puedan promover un discurso de lucha contra el narcotráfico para el público, el sistema es altamente funcional y necesario dentro de la lógica oculta del organismo monádico, ya que el flujo de capitales ilegales es una herramienta crítica para la financiación de la geopolítica y los arreglos económicos globales.
 
-### El Ámbito Especulativo
+### <font color="#ffcc00">El Ámbito Especulativo</font>
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #ffcc00; font-family: 'none'; font-variant: petite-caps; ">La Monetización del Flujo Macroeconómico</span></center>
 
@@ -2457,7 +2457,7 @@ indexar: true
 
 8.6.55 » Este modo operativo permite aplicar a nivel global las mismas tácticas ocultas que utilizan los Organismos Criminales del <font color="#fc300c">Ámbito Organizado</font> que existen dentro de una nación, donde la regla que rige el orden es la «Ley del más fuerte»: se capturan y capitalizan recursos económicos de dudosa legalidad, se utiliza la amenaza y la intimidación para condicionar al oponente, y se hace uso del poder coercitivo militar para someter al resto de las naciones.
 
-### El Ámbito de Manipulación Masiva
+### <font color="#00ff00">El Ámbito de Manipulación Masiva</font>
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #00ff00; font-family: 'none'; font-variant: petite-caps; ">La explotación psicognocitiva</span></center>
 
@@ -3289,6 +3289,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 ### <font color="#fc300c">Civilización Tipo 1 (Terrestre)</font>
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #fc300c; font-family: 'none'; font-variant: petite-caps; ">Los Noemas Primarios</span></center>
+![[Civilizacion Tipo 1x.jpg]]
 
 9.5.14 » Los primeros tres niveles definen la <font color="#fc300c">Consciencia Terrestre</font>, caracterizada por una existencia dominada por la supervivencia biológica, la emoción directa y la autoridad concreta. 
 
@@ -3320,7 +3321,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 ### <font color="#00ff00">Civilización Tipo 2 (Lunar)</font>
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #00ff00; font-family: 'none'; font-variant: petite-caps; ">Los Noemas Secundarios y la Fragmentación</span></center>
-
+![[Civilizacion Tipo 2x.jpg]]
 9.5.16 » Los niveles <font color="#ffcc00">3</font>, <font color="#00ff00">4</font> y <font color="#2f82ff">5</font> representan la lógica de la <font color="#00ff00">Consciencia Lunar</font> y la <font color="#00ff00">Civilización Tipo 2</font>, definida por la organización en Estados-Nación, el proceso de globalización planetaria y la secularización progresiva de la máxima autoridad. 
 
 9.5.17 » Llegada esta etapa pueden detectarse una serie de cambios concretos en tres ámbitos especificos:
@@ -3456,6 +3457,7 @@ Esta limitación también impide crear un último <font color="#cb48f3">Noema Fi
 ### <font color="#2f82ff">Civilización Tipo 3 (Solar)</font>
 
 <center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2f82ff; font-family: 'none'; font-variant: petite-caps; ">El Salto Evolutivo</span></center>
+![[Civilizacion Tipo 3x.jpg]]
 
 9.5.43 » El tránsito a la <font color="#2f82ff">Civilización Tipo 3</font> <font color="#cb48f3">(Niveles 6</font>, <font color="#ffa3ef">7</font> y <font color="#a5a5a5">8</font>) implica la superación de los límites presentados previamente. Comienza con el surgimiento de un <font color="#cb48f3">Noema Filosófico</font> holístico que busca resolver los dilemas y paradojas no resueltos por los Noemas <font color="#2f82ff">Científicos</font> e <font color="#ffa3ef">Ideológicos</font>. 
 
@@ -3516,7 +3518,7 @@ Esta limitación también impide crear un último <font color="#cb48f3">Noema Fi
 
 9.5.62 » La verdadera libertad solo se alcanza cuando el individuo deja de enfocarse en las programaciones negativas externas y comprende que, al trascender los Noemas inferiores e implementar conscientemente su Noema Personal (trascendido), ya está operando como un Avatar dentro de un sistema que, aunque se sienta igual que la <font color="#00ff00">Civilización Tipo 2</font>, ahora responde a la lógica de liberación nouménica de la <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## 6. <font color="#2f82ff">Algoritmo 41 • Paradigmático-Egregórico</font>
+## 6. <font color="#cb48f3">Algoritmo 41 • Paradigmático-Egregórico</font>
 ![[41 - Paradigmatico Egregorico3.jpg|700]]
 
 9.6.1 » El <font color="#cb48f3">Algoritmo Paradigmático Egregórico</font> constituye el sexto componente fundamental del <font color="#2f82ff">Ámbito Cultural</font> <font color="#2f82ff">(Nivel 5)</font>, operando como la dimensión activa y energética que da vida a la matriz conceptual del <font color="#2f82ff">Algoritmo Noemático Cultural</font>.
