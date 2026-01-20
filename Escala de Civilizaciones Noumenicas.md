@@ -1476,7 +1476,7 @@ Desde una perspectiva algorítmica estos instrumentos no solo transfieren valor,
 
 2.3.40 » La transición del <font color="#00ff00">Nivel 4</font> al <font color="#2f82ff">Nivel 5</font> se manifiesta como un proceso evolutivo en la <font color="#ffcc00">Consciencia Subjetiva</font> de individuos pioneros (Avatares en potencia), cuyas etapas evolutivas generan ondas de cambio en el plano fenoménico a través de fenómenos y movimientos específicos, que se despliega en etapas interconectadas. Estas cinco etapas no son cronológicas, sino estados de ser que pueden coexistir y solaparse a nivel global:
 
-> [!bug] ETAPA POSTCIVILIZATORIA (Alienación Individual)
+> [!bug] <font color="#fc300c">ETAPA POSTCIVILIZATORIA</font> (Alienación Individual)
 > En esta fase los ciudadanos pioneros (futuros avatares), al percibir que las estructuras de poder del <font color="#ffcc00">Estado</font> y del <font color="#ffa3ef">Hegemón Global</font> son incapaces de ofrecer soluciones, son impulsados a experimentar un proceso involutivo que los posiciona en un estado de supervivencia similar al de los Niveles 0 y <font color="#fc300c">1</font>, donde dominan los aspectos fisiológicos (hambre, sed, placer, reproducción, seguridad) y la búsqueda de validación social y la lucha por el estatus. 
 > 
 > Este regreso no es una involución, sino el catalizador que sirve para activar la naturaleza avatárica latente en cada individuo. En los <font color="#2f82ff">estratos más bajos</font> esta actitud se pervierte en supervivencia extrema, ilegalidad y delincuencia. 
@@ -1489,7 +1489,7 @@ Desde una perspectiva algorítmica estos instrumentos no solo transfieren valor,
 > 
 Esta promoción de agendas polarizantes desvía la atención hacia conflictos sociales para evitar el foco en los dilemas políticos y económicos que rigen sus sistemas de poder. Todos estos fenómenos sociales son espejos del mismo algoritmo: la fragmentación del propósito colectivo. 
 
-> [!gemini] ETAPA UTÓPICA (Nuevos Paradigmas)
+> [!gemini] <font color="#cb48f3">ETAPA UTÓPICA</font> (Nuevos Paradigmas)
 > Una vez que los sueños de superación personal se ven limitados por la rigidez del <font color="#ffa3ef">sistema hegemónico</font>, o se desmoronan porque el sistema no permite que todos triunfen, surge una etapa de crisis existencial colectiva. La <font color="#ffcc00">Consciencia Subjetiva</font> comienza a explorar nuevas narrativas que trascienden la realidad percibida.
 > 
 > El ciudadano vuelve a buscar apoyo en los egregores <font color="#e36c09">religiosos</font>, <font color="#fc300c">tribales</font> y <font color="#cb48f3">filosóficos</font> para escapar a los dilemas sociales. La <font color="#e36c09">religión</font> retoma su poder ante la posibilidad de un escenario apocalíptico, mientras que surgen movimientos de ciencia ficción, promesas de salvación extraterrestre y la noción de un futuro virtual (metaverso), que preparan un paradigma de ensueño donde la realidad rompe con el modelo civilizatorio regente.
@@ -1498,7 +1498,7 @@ Esta promoción de agendas polarizantes desvía la atención hacia conflictos so
 > 
 > Esta es una etapa de caos creativo y la consciencia explora todos los caminos posibles, incluso los más absurdos, porque intuye que la realidad oficial es una cárcel para las ilusiones del viejo paradigma.
 
-> [!procer] ETAPA DE RENOVACIÓN (Nueva Política): 
+> [!procer] <font color="#ffcc00">ETAPA DE RENOVACIÓN</font> (Nueva Política): 
 > En esta fase, las nuevas generaciones que no creen en los partidos políticos, en las ideologías y en las instituciones tradicionales comienzan a tomar el control desde las redes sociales, trabajando para reemplazar los sistemas de poder antiguos.
 > 
 > Las élites intenta cooptar este nuevo poder emergente financiando campañas de nuevos referentes políticos que prometen cambios, ofreciendo puestos a las figuras más populares, y convirtiendo a los jóvenes en nuevas celebridades. 
@@ -1513,7 +1513,7 @@ Esta promoción de agendas polarizantes desvía la atención hacia conflictos so
 > 
 Esta nueva tendencia permite a los gobiernos dejar de operar en base a promesas de campaña, para comenzar a construir un nuevo tipo de política que trabaja en base a la optimización y prevención de los posibles efectos negativos de cada sistema.
 
-> [!moon] ETAPA DE SINCRONIZACIÓN (Nodos Funcionales)
+> [!moon] <font color="#2f82ff">ETAPA DE SINCRONIZACIÓN</font> (Nodos Funcionales)
 >  Las naciones que adoptan este nuevo modelo comienzan a funcionar de manera más eficiente que aquellas bajo el <font color="#ffa3ef">sistema hegemónico</font>. Los gobiernos se dividen en dos planos: 
 > 
 >  - Uno <font color="#2f82ff">interno</font> que asegura el bienestar social y la microeconomía.
@@ -1525,7 +1525,7 @@ Esta nueva tendencia permite a los gobiernos dejar de operar en base a promesas 
 >  
 >  El ciudadano ya no trabaja para sobrevivir, al tener sus necesidades básicas cubiertas, se dedica al desarrollo personal y la colaboración, actuando como validador y auditor del sistema. La cultura ya no es propiedad, sino un bien común que se modifica y retroalimenta colectivamente.
 
-> [!universo] ETAPA GLOBALIZADA (Integración Ontológica)
+> [!universo] <font color="#ffa3ef">ETAPA GLOBALIZADA</font> (Integración Ontológica)
 >  Las naciones ahora operan como nodos interconectados de un único sistema civilizatorio global. Las fronteras nacionales se disuelven, por lo que no hay extranjeros, inmigrantes, ni naciones, solo ciudadanos del mundo libres de moverse, vivir y trabajar donde deseen.
 > 
 >  El gobierno mundial no es una entidad centralizada, sino un sistema operativo global accesible desde cualquier parte del mundo y formado por elites de <font color="#ffa3ef">Avatares</font> que administran el<font color="#ffa3ef"> plano supranaciona</font>l y <font color="#ffa3ef">macroeconómico</font> asegurando el bien común, mientras que los gobiernos locales se enfocan en promover el orden interno.
