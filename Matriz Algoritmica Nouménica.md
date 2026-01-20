@@ -3879,8 +3879,6 @@ En contraste, en una civilización contemporánea, con una alta densidad de cono
 
 # Sinopsis
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Decodificando el Sistema Operativo de la Realidad y la Civilización</span></center>
-
 ## ¿De qué trata este libro?
 
 Este documento es la guía técnica y evolutiva fundamental del Modelo Nouménico para entender como funciona la Realidad Humana. Desde la formación y funcionamiento del cuerpo orgánico, la programación mental que define la identidad y la personalidad, hasta la estructura que define la experiencia del ciudadano como ser social y como célula del Estado Nacional.
