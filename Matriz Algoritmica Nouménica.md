@@ -343,7 +343,7 @@ indexar: true
 
 # 4. <font color="#fc300c">Algoritmos Nivel 1 (Mente)</font>
 
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Arquitectura del Software Psico-Social</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Arquitectura del Software Psicosocial</span></center>
 
 4.0.1 » La evolución de los algoritmos del Nivel 0, la abstracción máxima del determinismo biológico, impulsa a la consciencia subjetiva a desarrollar los algoritmos del <font color="#fc300c">Nivel 1</font> (Organización Social Primaria). 
 
@@ -380,20 +380,20 @@ indexar: true
 
 4.1.8 » La trascendencia exige reconocer que, mientras la adaptación al rol familiar es vital durante la niñez, la ejecución de la programación primaria durante la adultez debe ser una elección libre, recuperando así el potencial estocástico latente de la consciencia para definir su propio destino.
 
-## 2. <font color="#e36c09">Algoritmo 9 • Psico-Familiar</font>
+## 2. <font color="#e36c09">Algoritmo 9 • Psicofamiliar</font>
 ![[09 - Psicofamiliad.jpg|700]]
 
-4.2.1 » El <font color="#e36c09">Algoritmo Psico-Familiar</font> representa la <font color="#2f82ff">Antítesis</font> dialéctica indispensable al orden simple y la estructura idealizada impuesta por el <font color="#fc300c">Algoritmo Arquetipo-Familiar</font>. Mientras que en el nivel anterior la familia se establece como el primer egregor de amor y roles primarios para la supervivencia del linaje, en este nivel se revela la complejidad operativa real, donde la familia funciona como un sistema dinámico, estocástico y a menudo contradictorio, y donde convergen múltiples temperamentos dispares, las presiones culturales externas, las herencias generacionales y los traumas no resueltos.
+4.2.1 » El <font color="#e36c09">Algoritmo Psicofamiliar</font> representa la <font color="#2f82ff">Antítesis</font> dialéctica indispensable al orden simple y la estructura idealizada impuesta por el <font color="#fc300c">Algoritmo Arquetipo-Familiar</font>. Mientras que en el nivel anterior la familia se establece como el primer egregor de amor y roles primarios para la supervivencia del linaje, en este nivel se revela la complejidad operativa real, donde la familia funciona como un sistema dinámico, estocástico y a menudo contradictorio, y donde convergen múltiples temperamentos dispares, las presiones culturales externas, las herencias generacionales y los traumas no resueltos.
 
 4.2.2 » En este nivel, la familia trasciende la mera institución biológica para convertirse en un campo de tensión psíquica, donde el «espíritu familiar» se consolida como un software psicológico colectivo. Este software (encarnado en el apellido, las historias repetidas y las expectativas inconscientes) predispone la identidad, las relaciones futuras y las reacciones emocionales del individuo, actuando como un poderoso condicionante incluso fuera del hogar.
 
-4.2.3 » El <font color="#e36c09">Algoritmo Psico-Familiar</font> es la matriz primera de la psique social del individuo, y el laboratorio de prueba de la <font color="#fc300c">Civilización Tipo 1</font>. Bajo este sistema, el liderazgo familiar ya no es monolítico, sino que se fragmenta en funciones: un progenitor puede tomar el rol del guardián del orden interno (regulación emocional y disciplina), mientras que el otro actúa como embajador ante el mundo externo (negociación social, estatus familiar). 
+4.2.3 » El <font color="#e36c09">Algoritmo Psicofamiliar</font> es la matriz primera de la psique social del individuo, y el laboratorio de prueba de la <font color="#fc300c">Civilización Tipo 1</font>. Bajo este sistema, el liderazgo familiar ya no es monolítico, sino que se fragmenta en funciones: un progenitor puede tomar el rol del guardián del orden interno (regulación emocional y disciplina), mientras que el otro actúa como embajador ante el mundo externo (negociación social, estatus familiar). 
 
 4.2.4 » De esta compleja red de influencias emerge la enseñanza fundamental sobre cómo sentir y cómo resolver conflictos: se aprende qué emociones deben ocultarse, qué lugar ocupa uno en la jerarquía afectiva y qué deudas emocionales se heredan (Por ejemplo: debes triunfar donde yo fracasé). 
 
 4.2.5 » Estas lecciones no son impartidas explícitamente, sino que se absorben por resonancia, y se convierten en el lente interpretativo a través del cual el individuo configurará su <font color="#ffcc00">Algoritmo 10 (Psicológico-Individual)</font>, marcando el paso de la identidad condicionada por el rol, a la identidad forjada por la psique.
 
-4.2.6 » Para el proceso Avatárico, el <font color="#e36c09">Algoritmo Psico-Familiar</font> es la principal barrera hacia la autenticidad. La optimización de este código no reside en rechazar el vínculo, sino en descodificar conscientemente su software psíquico. 
+4.2.6 » Para el proceso Avatárico, el <font color="#e36c09">Algoritmo Psicofamiliar</font> es la principal barrera hacia la autenticidad. La optimización de este código no reside en rechazar el vínculo, sino en descodificar conscientemente su software psíquico. 
 
 4.2.7 » El Avatar debe identificar los patrones repetidos (la herencia psicológica), las lealtades invisibles que lo atan al pasado, y los roles que asumió de forma inconsciente para mantener el equilibrio del egregor familiar a costa de su propia madurez. 
 
@@ -402,7 +402,7 @@ indexar: true
 ## 3. <font color="#ffcc00">Algoritmo 10 • Psicológico-Individual</font>
 ![[10 - Psicologico2.jpg|700]]
 
-4.3.1 » El <font color="#ffcc00">Algoritmo Psicológico-Individual</font> emerge como la <font color="#00ff00">síntesis dialéctica</font> del árbol familiar construido por los Algoritmos <font color="#fc300c">Arquetipo-Familiar (8)</font> y <font color="#e36c09">Psico-Familiar (9)</font>, en interacción con las bases fisiológicas y temperamentales del Nivel 0. 
+4.3.1 » El <font color="#ffcc00">Algoritmo Psicológico-Individual</font> emerge como la <font color="#00ff00">síntesis dialéctica</font> del árbol familiar construido por los Algoritmos <font color="#fc300c">Arquetipo-Familiar (8)</font> y <font color="#e36c09">Psicofamiliar (9)</font>, en interacción con las bases fisiológicas y temperamentales del Nivel 0. 
 
 4.3.2 »En este nivel, la consciencia subjetiva, tras internalizar y procesar los patrones heredados del egregor familiar, comienza a operar como una <font color="#fc300c">Tesis autónoma</font> en el plano individual. El individuo deja de ser un simple nodo dentro de la red familiar para convertirse en un centro de procesamiento psíquico capaz de aplicar la autorreflexión.
 
@@ -529,7 +529,7 @@ indexar: true
 
 4.7.3 » En sociedades no globalizadas, esta síntesis se manifiesta como múltiples hegemonías regionales que pueden coexistir en un mismo periodo histórico (el Imperio Romano, la Dinastía Han, Imperio Parto, Pueblos Germánicos), cada una operando como un universo cerrado con sus propias reglas. En la era globalizada, emerge una hegemonía planetaria fragmentada, donde un núcleo de poder define las normas que los demás deben seguir, aunque conserven apariencias de autonomía.
 
-4.7.4 » A nivel neuronal, esta síntesis se codifica como una red algorítmica subconsciente que integra todos los estratos previos: _programaciones arquetipos familiares <font color="#fc300c">(8)</font>, resonancias psico-familiares <font color="#e36c09">(9)</font>, identidad psicológica <font color="#ffcc00">(10)</font>, patrones conductuales <font color="#00ff00">(11)</font>, dinámicas psicosociales <font color="#2f82ff">(12)</font> y lealtades egregóricas <font color="#cb48f3">(13</font>)_. todos ellos anclados en las bases fisiológicas del Nivel 0 _(temperamento, química, biología)_.
+4.7.4 » A nivel neuronal, esta síntesis se codifica como una red algorítmica subconsciente que integra todos los estratos previos: _programaciones arquetipos familiares <font color="#fc300c">(8)</font>, resonancias Psicofamiliares <font color="#e36c09">(9)</font>, identidad psicológica <font color="#ffcc00">(10)</font>, patrones conductuales <font color="#00ff00">(11)</font>, dinámicas psicosociales <font color="#2f82ff">(12)</font> y lealtades egregóricas <font color="#cb48f3">(13</font>)_. todos ellos anclados en las bases fisiológicas del Nivel 0 _(temperamento, química, biología)_.
 
 4.7.5 » En condiciones de estabilidad, esta red opera en segundo plano, permitiendo que la consciencia subjetiva fluya con aparente libertad. Pero cuando el entorno se altera (por crisis, conflicto o cambio acelerado), el sistema orgánico se activa, y los estratos más profundos (Nivel 0) emergen para reconfigurar la respuesta. Es en este momento crítico donde el <font color="#ffa3ef">Algoritmo Hegemónico</font> se manifiesta, no como una imposición externa, sino como la presión del presente cósmico que exige una nueva síntesis. 
 
@@ -800,7 +800,7 @@ indexar: true
 
 5.6.22 » Una vez Juntos, la misión ya no es construir un legado en el mundo fenoménico, sino acceder a una nueva etapa de la existencia, donde la experiencia compartida no está mediada por el miedo, la posesión o la competencia, sino por la armonía de dos seres que han superado la ilusión y eligen caminar juntos hacia la <font color="#2f82ff">Civilización Tipo 3</font>, donde el único desafío será la perfección continua de sus aspectos psicológicos y la profundización de su unión trascendental.
 
-## 7. <font color="#ffa3ef">Algoritmo 21 • Cosmogónico-Espirit</font>ual
+## 7. <font color="#ffa3ef">Algoritmo 21 • Cosmogónico-Espiritual</font>
 ![[21 - Cosmogonico Espiritual3.jpg|700]]
 
 5.7.1 » El <font color="#ffa3ef">Algoritmo Cosmogónico-Espiritual</font> representa la singularidad evolutiva trascendental que emerge dentro del flujo del <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>, funcionando como el nodo privilegiado a través del cual la <font color="#2f82ff">Consciencia Universal</font> experimenta, interpreta y proyecta la realidad civilizatoria en un momento específico del «Ahora».
@@ -3881,11 +3881,13 @@ En contraste, en una civilización contemporánea, con una alta densidad de cono
 
 ## ¿De qué trata este libro?
 
-Este documento es la guía técnica y evolutiva fundamental del Modelo Nouménico para entender como funciona la Realidad Humana. Desde la formación y funcionamiento del cuerpo orgánico, la programación mental que define la identidad y la personalidad, hasta la estructura que define la experiencia del ciudadano como ser social y como célula del Estado Nacional.
+Este documento es la guía técnica y evolutiva fundamental del Modelo Nouménico para entender como funciona la Realidad Humana. 
 
-La Matriz Algoritmica Nouménica explica la lógica que subyace a la experiencia del <font color="#00ff00">Presente</font> que experimentamos como Realidad. Define al Algoritmo como el lenguaje operacional de la Consciencia Universal. Explica cómo el dominio nouménico (el 95% de la Materia y Energía Oscura) afecta la realidad, manifestando la realidad del dominio fenoménico (el 5% que percibimos).
+La Matriz Algoritmica Nouménica explica la lógica que subyace a la experiencia del <font color="#00ff00">Presente</font>. Define al Algoritmo como el lenguaje operacional de la Consciencia Universal. 
 
-En sus páginas, la realidad deja de ser vista como un conjunto de eventos azarosos para revelarse como una vasta red de algoritmos interconectados que rigen desde la vibración de un átomo hasta el comportamiento de los mercados globales y las creencias religiosas.
+Explica cómo el dominio nouménico (el 95% de la Materia y Energía Oscura) afecta la experiencia, manifestando la realidad del dominio fenoménico (el 5% que percibimos).
+
+En este documento, la realidad deja de ser vista desde su aspecto fenoménico para revelarse como una vasta red de algoritmos nouménicos interconectados que rigen desde la vibración de un átomo hasta el comportamiento de los mercados globales y las creencias religiosas.
 
 ### ¿Cómo ayuda este libro al lector?
 
@@ -3893,9 +3895,9 @@ La Matriz Algorítmica Nouménica es una herramienta de desprogramación menta
 
 Al entender estos algoritmos, la persona deja de ser un "usuario pasivo" del sistema Civilizatorio para convertirse en un programador de su propia realidad.
 
-Este documento busca ayudar al lector en la misión de alcanzar el estado de <font color="#ffa3ef">Avatar</font>, enfocándose en el Análisis Civilizatorio y la Estructura de la Consciencia, para permitirle afrontar un eventual evento de trascendencia que podría llevar a la humanidad hacia una nueva realidad civilizatoria, dentro del plano Galáctico.
+Este documento busca ayudar al lector en la misión de alcanzar el estado de <font color="#ffa3ef">Avatar</font>, enfocándose en el Análisis Civilizatorio y la Estructura de la Consciencia, para permitirle afrontar un eventual evento de trascendencia que podría llevar a la humanidad hacia una nueva realidad civilizatoria.
 
-Este documento provee el mapa necesario para navegar la <font color="#00ff00">"Globalización Fragmentada"</font> actual y prepara el terreno para el salto hacia la <font color="#2f82ff">Civilización Tipo 3 (Consciencia Solar)</font>, donde la consciencia ya no está limitada por la materia, sino que opera desde la coherencia lógica y el propósito evolutivo universal.
+Este documento provee el mapa necesario para sobrevivir a la etapa humana de <font color="#00ff00">Globalización Fragmentada</font>, preparando el terreno para el salto civilizatorio hacia la <font color="#2f82ff">Civilización Tipo 3 (Consciencia Solar)</font>, donde la consciencia ya no está limitada por la materia, sino que opera desde la coherencia lógica y el propósito evolutivo universal.
 
 ## Estructura y Secciones Principales
 
