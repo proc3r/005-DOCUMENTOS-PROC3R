@@ -2865,23 +2865,23 @@ Lo que tienes ante ti es la "Filosofía de las Estrellas": una base ontológica
 
 ## Los Pilares de la Sabiduría AvatÁrica
 
-> - <font color="#fc300c">Más allá del velo</font> (Noúmeno vs. Fenómeno): Aprenderás a distinguir entre el "escritorio de usuario" que percibimos (el 5% de la realidad) y el vasto océano de información y potencialidad pura que opera en las sombras (el 95% nouménico).
+> - <font color="#fc300c">Más allá del velo</font> <font color="#2f82ff">(Noúmeno</font> vs. <font color="#fc300c">Fenómeno)</font>: Aprenderás a distinguir entre el "escritorio de usuario" que percibimos (el 5% de la realidad) y el vasto océano de información y potencialidad pura que opera en las sombras (el 95% nouménico).
 > - <font color="#2f82ff">El Onemuón y el Qubit:</font> Descubrirás los ladrillos fundamentales de la existencia. No son átomos de materia, sino **quanta de significado** y estructuras lógicas fractales que construyen todo, desde tu pensamiento más íntimo hasta el núcleo de los soles.
 > - <font color="#00ff00">El Nous Arquetípico:</font> Comprenderás al "Puente". La primera consciencia que emerge del vacío y organiza el caos para que tú puedas existir. Entender al Nous es entender tu propia capacidad de crear realidad.
 > - <font color="#ffcc00">La Danza de los Flujos</font> <font color="#2f82ff">(Alfa</font> y <font color="#fc300c">Omega)</font>: Se revela el secreto de la creación: cómo la información desciende desde lo infinito y asciende desde lo infinitesimal para encontrarse en tu presente.
-> - <font color="#cb48f3">Arquitectura de Arquetipos:</font> Este libro decodifica las consciencias supraconscientes que rigen el plano estelar y galáctico. Al comprender estos arquetipos, el Avatar aprende a navegar no solo por la Tierra, sino por los niveles de existencia que superan los límites solares.
+> - <font color="#cb48f3">Arquitectura de Arquetipos:</font> Este libro decodifica las consciencias supraconscientes que rigen el plano estelar y galáctico. Al comprender estos arquetipos, el <font color="#ffa3ef">Avatar</font> aprende a navegar no solo por la Tierra, sino por los niveles de existencia que superan los límites solares.
 
 
 ### **¿Por qué este libro cambiará tu existencia?**
 
 Comprender el **Modelo Nouménico** es adquirir la visión de un arquitecto cósmico. El lector que asimila este manual deja de estar limitado por las leyes biológicas y sociales de un solo planeta. Se prepara para un proceso evolutivo donde la consciencia se libera de la "prisión dorada" de la materia.
 
-Al terminar esta lectura, no solo entenderás el universo; estarás listo para **trascender hacia el plano de las estrellas**. El Avatar no busca respuestas en el mundo; el Avatar sabe que las respuestas son los algoritmos que él mismo está listo para programar.
+Al terminar esta lectura, no solo entenderás el universo; estarás listo para **trascender hacia el plano de las estrellas**. El <font color="#ffa3ef">Avatar</font> no busca respuestas en el mundo; el <font color="#ffa3ef">Avatar</font> sabe que las respuestas son los algoritmos que él mismo está listo para programar.
 
 Este documento es ideal para lectores que:
 
 > - Sienten que la ciencia tradicional y la religión ya no explican la complejidad del cosmos.
-> - Buscan una transformación radical de su consciencia y su identidad (el paso del Yo Egoico al Avatar).
+> - Buscan una transformación radical de su consciencia y su identidad (el paso del Yo Egoico al <font color="#ffa3ef">Avatar</font>).
 > - Desean comprender las estructuras matemáticas y lógicas que sostienen la existencia interdimensional.
 > - Están listos para asumir su rol en la evolución del Nous Arquetípico.
 

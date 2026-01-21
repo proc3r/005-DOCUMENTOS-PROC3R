@@ -895,10 +895,10 @@ Puede degenerar en <font color="#00ff00">Oligarquía</font> cuando las élites c
 
 2.2.5 » En este nivel, la economía deja de ser un fenómeno local para bifurcarse en dos planos interconectados pero lógicamente distintos:
 
-> [!PERSONA] MICROECONOMIA
+> [!PERSONA] <font color="#fc300c">MICROECONOMIA</font>
 > Opera en el ámbito de los agentes individuales <font color="#fc300c">(personas</font>, <font color="#e36c09">familias</font>, <font color="#ffcc00">empresas)</font>, y estudia cómo estos toman decisiones bajo condiciones de escasez, competencia y preferencia. Este es el plano del ajuste, la adaptación y la supervivencia cotidiana.
 
-> [!UNIVERSO] MACROECONOMIA
+> [!UNIVERSO] <font color="#ffa3ef">MACROECONOMIA</font>
 > Emerge como una dimensión supranacional de la actividad económica, y estudia agregados globales: producción total, inflación, empleo, balanza comercial, deuda externa, flujos de capital. Aquí, los gobiernos ya no administran solo recursos, sino indicadores. 
 > 
 > La política económica nacional se convierte en un proceso de sincronización forzada con estándares globales, presiones de mercados financieros y acuerdos internacionales. 
