@@ -2328,8 +2328,6 @@ Esta nueva tendencia permite a los gobiernos dejar de operar en base a promesas 
 
 # Sinopsis
 
-## ¿Alguna vez te has preguntado en qué lugar del mapa del universo estamos realmente?
-
 La Escala de Civilizaciones Nouménicas es una propuesta revolucionaria que busca superar las viejas ideas científicas. Aquí no medimos vatios, medimos la capacidad de una sociedad para despertar. 
 
 Es, literalmente, el manual que una civilización avanzada de otra galaxia usaría para decidir si la Tierra es un "bosque silvestre" primitivo o una sociedad lista para integrarse a la red del cosmos.
