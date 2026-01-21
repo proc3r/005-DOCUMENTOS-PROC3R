@@ -101,10 +101,10 @@ indexar: true
 > Se corresponde con el Hemisferio Derecho (Intuición y Creatividad). Este sistema trasciende el orden fenoménico para explorar el Plano Nouménico (95% del universo oscuro). Opera a través de la probabilidad, la potencialidad no lineal y la creación. Esta es la Antítesis subconsciente que rompe el orden determinista de la lógica para forzar la evolución del pensamiento.
 >
 
- > [!n-tau] MANIFESTACIÓN (Síntesis)
+ > [!n-tau] <font color="#00ff00">MANIFESTACIÓN</font> (Síntesis)
  > Es el <font color="#ffa3ef">Yo Egoico</font> o la Consciencia que se manifiesta en el «Ahora». Es la experiencia subjetiva que integra la lógica del Algoritmo con la potencialidad del Sistema Estocástico, manifestando la realidad personal.
 
-> [!procer] PERSONA (Avatar)
+> [!procer] <font color="#ffcc00">PERSONA</font> (Avatar)
 > El Cuarto Elemento Emergente en este ámbito es el Individuo como Persona/Avatar. Este no es solo el <font color="#ffa3ef">Yo Egoico</font> instantáneo, sino la entidad psicológica y social con una identidad, historia y personalidad única que integra y trasciende la dialéctica cerebral. Es el centro que convierte la Síntesis en una Nueva Tesis y la proyecta en el entorno planetario a través de la conducta y la interacción social.
 
 1.3.5 » Es crucial entender la plasticidad del modelo, desde una perspectiva de temporalidad existencial, el cuerpo mismo puede ser la Tesis. Los Algoritmos Fenoménicos que definen la corporalidad (atómico, químico, fisiológico) son la Tesis, un proceso dinámico pero finito. El Sistema Estocástico (Antítesis) sería el aspecto nouménico que permite el pensamiento, la interacción y la consciencia, influyendo activamente en el plano civilizatorio.
@@ -121,13 +121,13 @@ indexar: true
 
 1.3.9 » El <font color="#cb48f3">Hegemón Global</font> se manifiesta como una <font color="#cb48f3">Consciencia Egregórica</font> Abstracta de nivel planetario, un orden civilizatorio de último nivel que se articula en la tríada:
 
-> [!bug] ALGORITMO (Tesis)
+> [!bug] <font color="#fc300c">ALGORITMO</font> (Tesis)
 > Es representado por el Orden Financiero y Epistemológico Dominante. Su estructura global lo constituyen los noemas, los dogmas científicos y las estructuras económicas que imponen el orden lineal, la causalidad y el determinismo civilizatorio. Es la narrativa de la realidad que somete a la consciencia a la materia, el tiempo y la lucha entre egregores, y que define los límites del conocimiento aceptable.
 
-> [!samael] SISTEMA ESTOCÁSTICO (Antítesis)
+> [!samael] <font color="#2f82ff">SISTEMA ESTOCÁSTICO</font> (Antítesis)
 > Es representado por la Geopolítica y el Caos de la Historia. Su dinámica se construye a partir de las guerras, las relaciones entre los Estados, las revoluciones, la creación de ideologías contrapuestas y los intereses colectivos y personales que rompen el statu quo. Es la entidad caótica que carece de consciencia propia y es puramente retroactiva, reaccionando a la energía psíquica del colectivo. Este es el motor que fuerza el «reseteo» del sistema.
 
-> [!tierra] MANIFESTACIÓN (Síntesis)
+> [!tierra] <font color="#00ff00">MANIFESTACIÓN</font> (Síntesis)
 > Es representado por el Constructo Civilizatorio o la Era Civilizatoria vigente. Es la etapa abstracta y atemporal que conecta pasado, presente y futuro en una lógica fractal. Esta Síntesis se manifiesta a través de los sistemas culturales, las normas sociales y las leyes que definen la realidad de una era.
 
 1.3.10 » La clave de este ámbito reside en la dinámica de poder: el Hegemón se comporta como una Mente Abstracta que utiliza la realidad fenomenológica (el planeta, la tecnología, los ecosistemas, los organismos vivos) como hardware para moldear el software del presente civilizatorio. El Hegemón es una entidad trascendental que condiciona e influye en la vida personal (de arriba hacia abajo).
@@ -3878,21 +3878,6 @@ En contraste, en una civilización contemporánea, con una alta densidad de cono
 
 
 # Sinopsis
-
-
-> - <font color="#bfbfbf">Nivel 0 - El Cuerpo</font> (Algoritmos Biológicos): 
-
-- Lista 1
-- Lista 2
-
-Valore - Segundo elemento: Lectura
-
-3 - 5
-
-
-
-> - 
-> - Analiza el hardware orgánico. Desde la rigidez atómica hasta el temperamento, este bloque enseña cómo la biología impone una inercia que el futuro Avatar debe aprender a optimizar para no ser esclavo de sus instintos.
 
 ## ¿De qué trata este libro?
 

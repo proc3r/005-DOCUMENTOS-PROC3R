@@ -1177,21 +1177,21 @@ indexar: true
 
 ![[Tetraedro OntologicoX.jpg]]
 
-> [!cristos] CARA A DEL TETRAEDRO (Arquetipo <font color="#00ff00">1<sup>✱</sup></font> - Cristos) 
+> [!cristos]<font color="#00ff00"> CARA A DEL TETRAEDRO</font> (Arquetipo <font color="#00ff00">1<sup>✱</sup></font> - Cristos) 
 > Representa la omnipresencia y el principio de Dualidad, la fuerza que establece la distinción entre opuestos, la polaridad fundamental que impulsa la manifestación. Es la base de la información, el "bit" Onemuónico que oscila entre dos estados. 
 > 
 > ![[Tetrahedro Fractal02.jpg]]
 > 
 > En el contexto ontológico, este arquetipo representa la tensión inherente entre el Ser y el No-Ser, la potencialidad y la actualización que manifiestan los Onemuones que existen dentro del <font color="#2f82ff">Nous Pasivo</font>.
 
-> [!samael] CARA B DEL TETRAEDRO (Arquetipo <font color="#2f82ff">2<sup>✱</sup></font> - Samael)
+> [!samael] <font color="#2f82ff">CARA B DEL TETRAEDRO</font> (Arquetipo <font color="#2f82ff">2<sup>✱</sup></font> - Samael)
 > Representa la omnisciencia y el principio de Trinidad, la fuerza que dinamiza la interacción entre los opuestos, generando complejidad y estructura. Es el proceso, el "software" nouménico que procesa la información. 
 > 
 > ![[Tetrahedro Fractal03.jpg]]
 > 
 > En el contexto ontológico, este arquetipo representa la <font color="#2f82ff">Consciencia Arquetípica</font> Fundamental del Nous, la capacidad de diferenciarse y generar nuevas formas a partir de la interacción de la Dualidad.
 
-> [!saklas] CARA C DEL TETRAEDRO (Arquetipo <font color="#fc300c">3<sup>✱</sup></font> - Saklas):
+> [!saklas] <font color="#fc300c">CARA C DEL TETRAEDRO</font> (Arquetipo <font color="#fc300c">3<sup>✱</sup></font> - Saklas):
 > 
 > Representa la omnipotencia y el principio de Unidad, la fuerza que integra y unifica la dualidad y la trinidad en una totalidad coherente. En el modelo tetraédrico, esta tercera cara es el escenario, el "hardware" nouménico que sustenta la información y los procesos. 
 >
