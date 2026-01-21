@@ -2855,15 +2855,15 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Manual Maestro de la Realidad
 
-Si los otros libros te enseñaron cómo funciona la sociedad y en qué nivel estamos, este libro te abre la puerta a lo que existe antes de que el mundo aparezca ante tus ojos. **
+Si los otros libros te enseñaron cómo funciona la sociedad y en qué nivel estamos, este libro te abre la puerta a lo que existe antes de que el mundo aparezca ante tus ojos.
 
-El Modelo Nouménico no es solo un tratado filosófico; es la guía definitiva para aquel que ha decidido dejar de ser un simple espectador de la vida para convertirse en un **Avatar**.
+El Modelo Nouménico no es solo un tratado filosófico, es la guía definitiva para aquel que ha decidido dejar de ser un simple espectador de la vida para convertirse en un <font color="#ffa3ef">Avatar</font>.
 
 Este es el manual técnico y espiritual que te prepara para una misión que desafía todo lo que creías saber. Aquí, la ciencia y la religión quedan atrás como mapas incompletos. 
 
 Lo que tienes ante ti es la "Filosofía de las Estrellas": una base ontológica que te otorga los conocimientos de un ser interdimensional, permitiéndote comprender el universo desde su código fuente.
 
-## Los Pilares de la Sabiduría Avatarica
+## Los Pilares de la Sabiduría AvatÁrica
 
 > - <font color="#fc300c">Más allá del velo</font> (Noúmeno vs. Fenómeno): Aprenderás a distinguir entre el "escritorio de usuario" que percibimos (el 5% de la realidad) y el vasto océano de información y potencialidad pura que opera en las sombras (el 95% nouménico).
 > - <font color="#2f82ff">El Onemuón y el Qubit</font>: Descubrirás los ladrillos fundamentales de la existencia. No son átomos de materia, sino **quanta de significado** y estructuras lógicas fractales que construyen todo, desde tu pensamiento más íntimo hasta el núcleo de los soles.
