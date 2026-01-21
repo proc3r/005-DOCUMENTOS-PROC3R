@@ -2330,8 +2330,9 @@ Esta nueva tendencia permite a los gobiernos dejar de operar en base a promesas 
 
 ## ¿Alguna vez te has preguntado en qué lugar del mapa del universo estamos realmente?
 
-La Escala de Civilizaciones Nouménicas es una propuesta revolucionaria que busca superar las viejas ideas científicas. Aquí no medimos vatios, medimos la capacidad de una sociedad para despertar. 
+La **Escala de Civilizaciones** Nouménicas es una **propuesta revolucionaria** que busca superar las _viejas ideas científicas_. Aquí no medimos <font color="#fc300c">vatios</font>, medimos la capacidad de una sociedad para despertar. Es, literalmente, el manual que una civilización avanzada de otra galaxia usaría para decidir si la Tierra es un "bosque silvestre" primitivo o una sociedad lista para integrarse a la red del cosmos.
 
+Es, literalmente, el manual que una civilización avanzada de otra galaxia usaría para decidir si la Tierra es un "bosque silvestre" primitivo o una sociedad lista para integrarse a la red del cosmos.
 Es, literalmente, el manual que una civilización avanzada de otra galaxia usaría para decidir si la Tierra es un "bosque silvestre" primitivo o una sociedad lista para integrarse a la red del cosmos.
 
 ## ¿Qué vas a descubrir en este viaje?
@@ -2340,7 +2341,7 @@ Este libro te invita a ver la historia humana desde una "vista de pájaro" cósm
 
 A través de sus páginas, verás cómo la sociedad ha ido construyendo "redes invisibles" (algoritmos) que hoy nos mantienen atrapados en el consumo y la lucha política. Pero lo más fascinante es que el libro nos revela que estamos en un punto de quiebre. La humanidad ha llegado a su "examen final":
 
-> 1. O seguimos repitiendo los mismos errores hasta nuestra autodestrucción.
+> 1. O seguimos **repitiendo los mismos errores hasta nuestra autodestrucción**.
 > 2. O damos el salto a la <font color="#2f82ff">Civilización Tipo 3</font>, un estado donde cada uno de nosotros puede convertirse en un **Avatar**, un ser que entiende que la realidad es mucho más que lo que vemos y que la verdadera evolución empieza en nuestra propia mente.
 
 ## ¿Por qué deberías leerlo?
