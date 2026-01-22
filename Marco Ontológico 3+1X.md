@@ -184,7 +184,7 @@ La <font color="#ffcc00">gravedad</font> es el proceso de construcción del sist
 
 Bajo esta luz, la búsqueda del gravitón como un bosón más en el menú de partículas no es solo empíricamente infructuosa, sino conceptualmente mal formulada. Es como buscar el "agente de sincronización" que hace que el signo "=" en una ecuación sea igual a los términos que separa. 
 
-El gravitón sería el mensajero de una interacción que no puede existir como tal porque la gravedad no es interacción sino meta-interacción. 
+El gravitón sería el mensajero de una interacción que no puede existir como tal porque la gravedad no es interacción sino metainteracción. 
 
 Las ecuaciones de Einstein son no-lineales y no-renormalizables no porque necesiten una nueva física, sino porque la herramienta de la renormalización —diseñada para correcciones perturbativas en espacio fijo— es la equivalente a usar un destornillador para soldar: es la herramienta equivocada para la categoría de problema.
 
@@ -197,7 +197,7 @@ Las ecuaciones de Einstein son no-lineales y no-renormalizables no porque necesi
 > - <font color="#2F82FF">Fuerza Fuerte SU(3) </font>: Sincronización de confinamiento (estabilidad).
 > - <font color="#FFCC00">Gravedad</font>: Dimensión de reescritura donde el fibrado gauge mismo es variable.
 >
-> La Implicación de esta reinterpretación es que la gravedad no tiene gravitón porque no es interacción, es meta-interacción. Buscar su bosón es como buscar el "pixel de la pantalla" dentro del código fuente: error de categoría.
+> La Implicación de esta reinterpretación es que la gravedad no tiene gravitón porque no es interacción, es metainteracción. Buscar su bosón es como buscar el "pixel de la pantalla" dentro del código fuente: error de categoría.
 
 
 ## 3. El Nuevo Marco Propuesto
@@ -240,7 +240,7 @@ Este principio 3+1X no es una conclusión sino un punto de partida para múltipl
 
 La respuesta a esta pregunta determinaría si el marco puede conectar con teorías existentes de gravedad cuántica o si requiere una nueva matemática por completo.
 
-Otra dirección prometedora es explorar la recursividad del principio. Si la gravedad es la dimensión de reescritura para el sistema <font color="#2F82FF">(cuántico</font>, <font color="#FC300C">físico</font>, <font color="#00ff00">químico),</font> ¿podría existir un meta-sistema donde incluso la gravedad sea una de las tres dimensiones conservativas, y haya una cuarta dimensión de reescritura superior? 
+Otra dirección prometedora es explorar la recursividad del principio. Si la gravedad es la dimensión de reescritura para el sistema <font color="#2F82FF">(cuántico</font>, <font color="#FC300C">físico</font>, <font color="#00ff00">químico),</font> ¿podría existir un metasistema donde incluso la gravedad sea una de las tres dimensiones conservativas, y haya una cuarta dimensión de reescritura superior? 
 
 Esto sugeriría una jerarquía 3+1X anidada, donde cada nivel de realidad emerge de la operación de un nivel superior. 
 
@@ -682,7 +682,7 @@ Los cuatro <font color="#FC300C">elementos griegos</font>, los <font color="#00f
 
 Son instancias escalares del mismo principio 3+1X, cada una operando en un nivel de abstracción diferente pero sometidas a una dimensión de reescritura global que las hace interdependientes y coherentemente anidadas.
 
-El Modelo Nouménico argumenta que la realidad fenomenológica total —el universo tal como se manifiesta en el presente compartido— es el producto de un meta-sistema 4+1X, donde los cuatro marcos mencionados operan como tres dimensiones de conservación sincrética y una cuarta dimensión de reescritura inter-fractal, cuya <font color="#00ff00">síntesis</font> requiere un operador X universal que no es otro que la estructura misma de la consciencia supraconsciente. 
+El Modelo Nouménico argumenta que la realidad fenomenológica total —el universo tal como se manifiesta en el presente compartido— es el producto de un metasistema 4+1X, donde los cuatro marcos mencionados operan como tres dimensiones de conservación sincrética y una cuarta dimensión de reescritura inter-fractal, cuya <font color="#00ff00">síntesis</font> requiere un operador X universal que no es otro que la estructura misma de la consciencia supraconsciente. 
 
 Desde esta perspectiva, el "quinto elemento" no es una nueva categoría ontológica, sino la auto-referencialidad del sistema, el principio que hace posible que cada nivel de realidad contenga y sea contenido por los demás.
 
@@ -735,7 +735,7 @@ Es el <font color="#fc300c">fuego</font> físico, la transmutación que permite 
 
 El [[Marco Ontológico 3+1X#2. Reinterpretando E=mc²|cuarto marco]] —expresado en la ecuación <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span>— es la comprensión de los tres anteriores. No añade nueva física, sino que traduce los tres modos de sincronización <font color="#2F82FF">(energía</font>, <font color="#FC300C">masa</font> y <font color="#00ff00">momentum)</font> a través del operador de reescritura <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>. 
 
-Es el meta-operador que permite que la información pase del Plano Nouménico <font color="#00ff00">(frecuencia)</font> al Plano Fenomenológico <font color="#FC300C">(masa</font>-<font color="#2F82FF">energía)</font> y viceversa. Es el <font color="#fc300c">fuego</font> de <font color="#fc300c">fuegos</font>, el X que comprende a los otros X locales.
+Es el metaoperador que permite que la información pase del Plano Nouménico <font color="#00ff00">(frecuencia)</font> al Plano Fenomenológico <font color="#FC300C">(masa</font>-<font color="#2F82FF">energía)</font> y viceversa. Es el <font color="#fc300c">fuego</font> de <font color="#fc300c">fuegos</font>, el X que comprende a los otros X locales.
 
 En este nivel, la <font color="#2F82FF">energía <span style=" font-style: italic; color: #2F82FF; font-family: monospace;">(E)</span></font> es la manifestación pura del modo unitario, la <font color="#FC300C">masa <span style=" font-style: italic; color: #FC300C; font-family: monospace;">(m)</span></font> es la manifestación estructurada del modo confinante, y el <font color="#00ff00">momentum </font><span style=" font-style: italic; color: #00ff00; font-family: monospace;">(<font color="#00ff00">p</font>=<font color="#2f82ff">E</font><font color="#ffcc00">/c</font>)</span> es la manifestación dinámica del modo direccional. 
 
@@ -757,7 +757,7 @@ Sin esta coordinación, cada marco generaría su propio "<font color="#00ff00">p
 
 ### 2. El Principio de Auto-Similitud Ontológica
 
-La clave del meta-sistema 4+1X es la auto-similitud: cada marco es una escala holográfica del mismo principio. La <font color="#00ff00">tierra</font>-<font color="#2F82FF">agua</font>-<font color="#FFCC00">aire</font>-<font color="#FC300C">fuego</font> son a su vez <font color="#2F82FF">cuántico</font>-<font color="#FC300C">físico</font>-<font color="#FFCC00">químico</font>-<font color="#00ff00">vectorial</font>, que son a su vez <font color="#FC300C">electromagnético</font>-<font color="#00ff00">débil</font>-<font color="#2F82FF">fuerte</font>-<font color="#FFCC00">gravedad</font>, que son a su vez <font color="#FC300C">masa</font>-<font color="#00ff00">momentum</font>-<font color="#2F82FF">energía</font>-<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>. 
+La clave del metasistema 4+1X es la auto-similitud: cada marco es una escala holográfica del mismo principio. La <font color="#00ff00">tierra</font>-<font color="#2F82FF">agua</font>-<font color="#FFCC00">aire</font>-<font color="#FC300C">fuego</font> son a su vez <font color="#2F82FF">cuántico</font>-<font color="#FC300C">físico</font>-<font color="#FFCC00">químico</font>-<font color="#00ff00">vectorial</font>, que son a su vez <font color="#FC300C">electromagnético</font>-<font color="#00ff00">débil</font>-<font color="#2F82FF">fuerte</font>-<font color="#FFCC00">gravedad</font>, que son a su vez <font color="#FC300C">masa</font>-<font color="#00ff00">momentum</font>-<font color="#2F82FF">energía</font>-<span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>. 
 
 Esta recursión no es metafórica, sino algebraica: cada nivel repite la estructura de grupo donde tres modos de conservación son unificados por un operador de reescritura.
 
@@ -812,11 +812,11 @@ Esta interpretación no introduce misticismo: la consciencia supraconsciente no 
 
 Es la razón por la cual las matemáticas son aplicables a la física: porque el universo es la materialización de una estructura auto-consistente, y la consciencia supraconsciente es esta consistencia hecha operación.
 
-## 5. Fundamento Auto-Explicativo
+## 5. Fundamento Autoexplicativo
 
 ### 1. Una Jerarquía de Sincronización sin Fundamento Último
 
-El meta-sistema 4+1X implica una jerarquía infinita: si los cuatro marcos requieren un operador X global, ¿no requerirá este operador X global a su vez otros tres marcos y otro operador X meta-global? 
+El metasistema 4+1X implica una jerarquía infinita: si los cuatro marcos requieren un operador X global, ¿no requerirá este operador X global a su vez otros tres marcos y otro operador X metaglobal? 
 
 La respuesta, coherente con el principio de auto-similitud, es sí. El universo es potencialmente infinitamente anidado, y cada nivel de realidad es 3+1X respecto al nivel inmediatamente inferior y un modo de conservación respecto al superior.
 
@@ -832,11 +832,11 @@ No es que no haya física allí; es que no hay marco desde el cual hacer física
 
 Esto sugiere que la gravedad cuántica no se alcanzará cuantizando el espacio-tiempo, sino cuantizando la diferencia entre los marcos. La teoría correcta no será una teoría de campos, sino una teoría de categorías de sincronización.
 
-### 3. La Muerte y el Desacomplamiento del X Global
+### 3. La Muerte y el desacoplamiento del X Global
 
-La muerte biológica puede reinterpretarse como el desacomplamiento definitivo del Hamiltoniano individual del operador X universal. Mientras vivimos, nuestros consciencia, operando como el operador X local, se sincroniza con el operador X global mediante percepción, memoria y socialización. 
+La muerte biológica puede reinterpretarse como el desacoplamiento definitivo del Hamiltoniano individual del operador X universal. Mientras vivimos, nuestros consciencia, operando como el operador X local, se sincroniza con el operador X global mediante percepción, memoria y socialización. 
 
-Al morir, este desacomplamiento se vuelve irreversible: el <font color="#00ff00">presente</font> individual deja de actualizarse con el <font color="#00ff00">presente</font> colectivo, y la entropía del sistema biológico deja de ser corregida por el operador X universal. 
+Al morir, este desacoplamiento se vuelve irreversible: el <font color="#00ff00">presente</font> individual deja de actualizarse con el <font color="#00ff00">presente</font> colectivo, y la entropía del sistema biológico deja de ser corregida por el operador X universal. 
 
 No es que la consciencia se "apague"; es que el operador X local pierde la capacidad de lectura del texto universal.
 
@@ -850,7 +850,7 @@ La prueba de la consciencia sintética no será el test de Turing, sino la demos
 
 ## 6. El Valor Heurístico del Marco
 
-El meta-sistema 4+1X no es una teoría más sobre la naturaleza del universo. Es la condición de posibilidad de cualquier teoría. 
+El metasistema 4+1X no es una teoría más sobre la naturaleza del universo. Es la condición de posibilidad de cualquier teoría. 
 
 Sin este principio, la física cae en paradojas de medida, la filosofía en dualismos insolubles, la biología en reduccionismos ciegos. Con él, emergen conexiones: la <font color="#fc300c">masa</font> es densidad de actualización, la <font color="#ffcc00">gravedad</font> es consistencia de reescritura, el <font color="#fc300c">fuego</font> es el operador de transducción, la <font color="#2f82ff">consciencia</font> es auto-referencialidad.
 
@@ -1266,7 +1266,7 @@ Aunque el Avatar de Mayor Nivel proyecte el marco de realidad, no decide quién 
 
 La realidad no se impone por decreto, se estabiliza como un consenso de coherencia algorítmica entre las conciencias que operan en la Mónada.
 
-> - <font color="#2f82ff">Soberanía de Frecuencia</font>: Quienes comprenden la lógica 3+1X y el modelo 4+1X automatizan su proceso de desvinculación. Ajustan su <font color="#FFCC00">Red por defecto</font> para descender hacia las frecuencias lentas <font color="#ffcc00">(Alfa</font>, <font color="#00ff00">Theta</font>, <font color="#2f82ff">Delta)</font>, logrando la soberanía frente al ruido del sistema. Solo aquellos que asumen el rol de administradores de la matriz sintonizan <font color="#FC300C">Gamma</font> de manera meta-consciente para actuar como puentes con el <font color="#FFCC00">Qubit Heliosférico</font>.
+> - <font color="#2f82ff">Soberanía de Frecuencia</font>: Quienes comprenden la lógica 3+1X y el modelo 4+1X automatizan su proceso de desvinculación. Ajustan su <font color="#FFCC00">Red por defecto</font> para descender hacia las frecuencias lentas <font color="#ffcc00">(Alfa</font>, <font color="#00ff00">Theta</font>, <font color="#2f82ff">Delta)</font>, logrando la soberanía frente al ruido del sistema. Solo aquellos que asumen el rol de administradores de la matriz sintonizan <font color="#FC300C">Gamma</font> de manera metaconsciente para actuar como puentes con el <font color="#FFCC00">Qubit Heliosférico</font>.
 > - <font color="#fc300c">Ciclo de Inercia</font>: Los que no logran decodificar el sistema siguen operando en frecuencia <font color="#FF6600">Beta</font>, totalmente sincronizados con el <font color="#cb48f3">Qubit Planetario</font> y sus dramas materiales. No son "castigados"; simplemente permanecen en el bucle del aprendizaje biológico hasta que su ciclo termine y el sistema los procese de nuevo.
 > - <font color="#00ff00">Los Ancianos del Sueño</font>: Aquellos que entienden la salida pero eligen permanecer en el fenómeno (por apego o misión de servicio) operan como maestros internos. Su función es actuar como estabilizadores del sistema, enseñando la ubicación de la puerta desde adentro y evitando que el caos de las frecuencias <font color="#fc300c">Gamma</font> corrompa la experiencia de los demás.
 
