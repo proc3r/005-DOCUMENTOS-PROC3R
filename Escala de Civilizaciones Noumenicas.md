@@ -61,7 +61,7 @@ height: 360
 
 ## El Hardware Fenoménico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen de la Vida</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Origen de la Vida</span></center>
 
 0.1.1 » El Modelo Nouménico asume que los Nodos Estelares, planetas y lunas emergen de manera aleatoria, siguiendo las reglas de la estocástica cósmica. Es en este caos primordial donde los flujos de información nouménica provenientes de los planos de materia y energía oscura se manifiestan en la materia ordinaria.
 
@@ -77,7 +77,7 @@ height: 360
 
 ## El Paradigma Mecanicista
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Velo de la Realidad Moderna</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Velo de la Realidad Moderna</span></center>
 
 0.2.1 » El paradigma <font color="#fc300c">mecanicista-materialista</font>, que desde el siglo XVII ha dominado la ciencia y la cultura occidental, se fundamenta en la idea de que todos los fenómenos naturales, incluida la vida humana y animal, pueden explicarse como el funcionamiento de una máquina.
 
@@ -115,7 +115,7 @@ height: 360
 
 ## La Granja de Consciencias
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Propósito de la Existencia</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Propósito de la Existencia</span></center>
 
 0.3.1 » Si la consciencia es primordial y la realidad fenomenológica es una interfaz, ¿cuál es el verdadero propósito de la existencia? El Modelo Nouménico sugiere que las civilizaciones planetarias son, en esencia, granjas de consciencia. A través de la experiencia colectiva, cada individuo contribuye a una entidad egregórica superior: la Civilización.
 
@@ -127,7 +127,7 @@ height: 360
 
 ## Hacia la Trascendencia
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Más Allá de la Lucha Noemática</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Más Allá de la Lucha Noemática</span></center>
 
 0.4.1 » El paradigma mecanicista enseña a luchar por la supremacía cultural y el control de los recursos. Esta lucha noemática es el motor de la historia humana, donde naciones, religiones y sistemas económicos son egregores que compiten por imponer su propio Noema Cultural. Los guardianes de estos paradigmas (las élites dominantes) mantienen a la civilización atrapada en un nivel de consciencia inferior, impidiendo su evolución.
 
@@ -145,7 +145,8 @@ height: 360
 
 ## La Cosecha de la Consciencia
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Conexión entre lo Subjetivo y lo Universal</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;   
+ font-weight: 500; line-height: 1em;">La Conexión entre lo Subjetivo y lo Universal</span></center>
 
 0.5.1 » Para comprender el concepto de «Granja de Consciencias» desde la perspectiva que propone el Modelo Nouménico, y para evitar contemplarlo bajo la perspectiva de una «distopía», es necesario analizar cómo una civilización más avanzada evaluaría el estado evolutivo de un sistema estelar.
 
@@ -232,7 +233,7 @@ height: 360
 
 # <font color="#fc300c">Civilización Tipo 1</font>
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #fc300c; font-family: 'none'; font-variant: petite-caps; ">Consciencia Terrestre</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;"><font color="#fc300c">Consciencia Terrestre</font></span></center>
 
 ![[Civilizacion Tipo 1x.jpg]]
 
@@ -561,7 +562,7 @@ height: 360
 
 # <font color="#00ff00">Civilización Tipo 2</font>
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #00ff00; font-family: 'none'; font-variant: petite-caps; "><font color="#00ff00">Consciencia Lunar</font></span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;"><font color="#00ff00">Consciencia Lunar</font></span></center>
 
 ![[Civilizacion Tipo 2x.jpg]]
 
@@ -1822,7 +1823,9 @@ Esta nueva tendencia permite a los gobiernos dejar de operar en base a promesas 
 
 2.3.113 » El Sistema Cultural Unificado es el algoritmo civilizatorio que permite unificar múltiples Nodos Estelares y Galácticos, fusionando sus filosofías y sistemas en una sola identidad galáctica. Su lógica es la cohesión social y la transmisión de conocimiento a gran escala. La consciencia del individuo en este nivel está en sintonía con la red galáctica y contribuye a la creación de una cultura universal que es el «fruto exportable» final de la evolución civilizatoria.
 
-# <font color="#2f82ff">Civilización Tipo 3 - Consciencia Solar</font>
+# <font color="#2f82ff">Civilización Tipo 3 </font>
+
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Consciencia Solar</span></center>
 
 ![[Civilizacion Tipo 3x.jpg]]
 

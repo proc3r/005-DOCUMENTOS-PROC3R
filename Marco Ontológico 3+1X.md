@@ -7,7 +7,7 @@ indexar: true
 ![[Principio 3+1x Gramática Oculta del Universo.m4a]]
 # Introducción
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Hacia Una Ontología Informacional de la Realidad Fenomenológica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Hacia Una Ontología Informacional de la Realidad Fenomenológica</span></center>
 
 Cada época civilizatoria ha sido marcada por la promesa de una teoría que lo explique todo, una piedra filosofal que reconcilie lo que la mente fragmenta. 
 
@@ -258,7 +258,7 @@ Esto abriría una puerta a una ciencia formal de la emergencia que no derive lo 
 
 # 1. Ontología y Relojes Internos
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Hacia una Epistemología de la Coherencia</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Hacia una Epistemología de la Coherencia</span></center>
 
 _Resumen: Esta sección se centra en resolver las tensiones de los modelos clásicos y definir el operador 3+1X. Define las cualidades intrínsecas de las partículas y cómo el tiempo y la conciencia interactúan mediante Hamiltonianos._
 
@@ -281,7 +281,7 @@ El futuro de la comprensión no está en encontrar nuevas piezas del rompecabeza
 
 ## Cualidades de las Partículas
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Relojes Internos y el Hamiltoniano del Tiempo</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Relojes Internos y el Hamiltoniano del Tiempo</span></center>
 
 El Modelo Estándar de la física describe las partículas fundamentales a través de un conjunto de propiedades que pueden clasificarse en dos grandes categorías:
 
@@ -295,7 +295,7 @@ El Modelo Nouménico revela que estas cualidades no son arbitrarias, sino reflej
 
 ### 1. El Hamiltoniano Intrínseco
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Reloj Interno de la Partícula</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Reloj Interno de la Partícula</span></center>
 
 Cada partícula, en su universo intrínseco, posee un Hamiltoniano propio de orden local. Este Hamiltoniano rige la esencia inmutable de la partícula, las propiedades que la definen como tal, independientemente de dónde o cómo se mueva. 
 
@@ -326,7 +326,7 @@ Así, las cualidades intrínsecas de las partículas son emanaciones directas de
 
 ### 2. El Hamiltoniano Extrínseco
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Reloj de la Línea del Tiempo Fenoménica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Reloj de la Línea del Tiempo Fenoménica</span></center>
 
 Mientras que las cualidades intrínsecas residen en el "reloj" interno de la partícula, sus aspectos extrínsecos <font color="#FC300C">(posición</font>, <font color="#00ff00">velocidad</font>, <font color="#2F82FF">energía)</font> surgen y evolucionan dentro de un universo regido por un Hamiltoniano más complejo: el Hamiltoniano que rige la evolución de la línea del tiempo dentro de la matriz espacio-temporal. 
 
@@ -410,7 +410,7 @@ Es una danza intrínseca de frecuencias que se traduce en la "sustancia" de la r
 
 ## La Constante de Planck
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Píxel Cuántico y el Traductor Universal</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Píxel Cuántico y el Traductor Universal</span></center>
 
 Dentro del Modelo Nouménico, la constante de Planck <span style=" font-style: italic;font-family: monospace;"><font color="#ffcc00">(h)</font></span> emerge no solo como un número físico, sino como un operador trascendente, el "píxel" o la unidad fundamental de resolución dentro de la vasta matriz fenomenológica del espacio-tiempo. 
 
@@ -435,7 +435,7 @@ No es solo una descripción, es una prescripción de cómo el universo emerge de
 
 ## Sincronías Vectoriales
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Más Allá Del Modelo Estándar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Más Allá Del Modelo Estándar</span></center>
 
 El Modelo Nouménico desafía la noción de que la realidad es simplemente una emergencia fenomenológica aleatoria de partículas con propiedades fijas. 
 
@@ -475,7 +475,7 @@ El Modelo Nouménico invita a la ciencia a trascender sus fronteras actuales y a
 
 # 2. La Fórmula de Transducción
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Ecuación de Einstein como Operador de Transducción Nouménica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Ecuación de Einstein como Operador de Transducción Nouménica</span></center>
 
 _Resumen: Esta sección analiza la ecuación <span style=" font-style: italic; font-family: monospace;"><font color="#2f82ff">E</font>=<font color="#fc300c">m</font><font color="#ffcc00">c²</font></span> y la Constante de Planck como un proceso dinámico de actualización de información._
 
@@ -498,7 +498,7 @@ Es la caja negra donde la información cuántica se vuelve clásica, el potencia
 
 ## 1. El Contexto Nouménico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Hamiltonianos y la Estructura de la Manifestación</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Hamiltonianos y la Estructura de la Manifestación</span></center>
 
 Antes de abordar la ecuación específica, es indispensable establecer los fundamentos ontológicos del modelo nouménico que la sustentan. 
 
@@ -551,7 +551,7 @@ Sin <span style="  color: #FFCC00; font-style: italic;font-family: monospace;">(
 
 ## 2. Reinterpretando E=mc²
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Cuarto Elemento como Comprensor de Sincronizaciones</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Cuarto Elemento como Comprensor de Sincronizaciones</span></center>
 
 ### 1. La Incoherencia de la Lectura Clásica
 
@@ -666,7 +666,7 @@ Allí formalizaremos la realidad fenomenológica total como el producto de un 4+
 
 # 3. Metasistema y Realidad Fractal
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Síntesis de la Realidad Fenomenológica Final</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Síntesis de la Realidad Fenomenológica Final</span></center>
 
 _Resumen: Esta sección escala el modelo hacia la realidad total, una visión holográfica donde el universo se contiene a sí mismo en niveles._
 
@@ -690,7 +690,7 @@ Desde esta perspectiva, el "quinto elemento" no es una nueva categoría ontológ
 
 ### 1. El Marco de los Elementos
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Simbolización Primordial de los Modos de Ser</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Simbolización Primordial de los Modos de Ser</span></center>
 
 La [[Marco Ontológico 3+1X#1. Los 4 ELementos Clásicos|tetrada griega]] <font color="#00ff00">(tierra</font>, <font color="#2F82FF">agua</font>, <font color="#FFCC00">aire</font> y <font color="#FC300C">fuego)</font> constituye la instancia mitopoiética del principio 3+1X. 
 
@@ -703,7 +703,7 @@ En este marco, el <font color="#FC300C">fuego</font> es el X elemental, el princ
 
 ### 2. El Marco de los Sincronizadores
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Formalización Epistemológica de los Planos de Conservación</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Formalización Epistemológica de los Planos de Conservación</span></center>
 
 El [[Marco Ontológico 3+1X#2. Las 4 Dimensiones Fenoménicas|segundo marco]] —<font color="#2F82FF">cuántico</font>, <font color="#FC300C">físico</font>, <font color="#FFCC00">químico</font> y <font color="#00ff00">vectorial</font>— eleva la intuición mítica al formalismo epistemológico. 
 
@@ -716,7 +716,7 @@ Sin este plano, los tres modos serían incomunicables; con él, forman una jerar
 
 ### 3. El Marco de las Fuerzas
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Materialización Física de los Operadores Gauge</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Materialización Física de los Operadores Gauge</span></center>
 
 El [[Marco Ontológico 3+1X#3. Las 4 Fuerzas Fundamentales|tercer marco]] es el de las fuerzas fundamentales —<font color="#FC300C">electromagnética</font>, <font color="#00ff00">débil</font>, <font color="#2F82FF">fuerte</font> y <font color="#FFCC00">gravitatoria</font>—, operando para permitir la manifestación física de los principios anteriores. Las tres fuerzas gauge son protocolos de corrección de error que operan dentro del espacio de Hilbert predefinido por el plano vectorial. 
 
@@ -731,7 +731,7 @@ Es el <font color="#fc300c">fuego</font> físico, la transmutación que permite 
 
 ### 4. El Marco de Einstein
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Comprensión Sincrética de la Transducción</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Comprensión Sincrética de la Transducción</span></center>
 
 El [[Marco Ontológico 3+1X#2. Reinterpretando E=mc²|cuarto marco]] —expresado en la ecuación <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">E=mc²</span>— es la comprensión de los tres anteriores. No añade nueva física, sino que traduce los tres modos de sincronización <font color="#2F82FF">(energía</font>, <font color="#FC300C">masa</font> y <font color="#00ff00">momentum)</font> a través del operador de reescritura <span style=" font-style: italic; color: #FFCC00; font-family: monospace;">(c)</span>. 
 
@@ -743,7 +743,7 @@ El operador <span style=" font-style: italic; color: #FFCC00; font-family: monos
 
 ## 3. Dimensión de Reescritura Global
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Realidad Fenomenológica como Producto de cuatro 3+1X</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Realidad Fenomenológica como Producto de cuatro 3+1X</span></center>
 
 ### 1. La Sincronía Inter-Fractal
 
@@ -782,7 +782,7 @@ La realidad fenomenológica total es el producto tensorial de estas cuatro redes
 
 ### 1. Más Allá del Observador Cuántico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Hacia un Operador Ontológico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Hacia un Operador Ontológico</span></center>
 
 El operador X universal no puede ser la consciencia individual, pues ésta generaría múltiples realidades inconmensurables (como en el sueño). 
 
@@ -872,7 +872,7 @@ El principio 4+1X no teme la recursión infinita; la abraza como su fundamento m
 
 # 4. Civilización y Tetramorfo
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Tetramorfo Civilizatorio y la Estructura Egregórica 3+1X</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Tetramorfo Civilizatorio y la Estructura Egregórica 3+1X</span></center>
 
 _Resumen: Esta sección aplica el marco a la estructura de la sociedad, el poder  de los Egregores, el firmware cultural y el rol del individuo._
 
@@ -892,7 +892,7 @@ Desde esta perspectiva, la civilización globalizada no es el producto del azar 
 
 ## 2. El Tetramorfo Arquetípico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Estructura Tetradimensional del Egregor Civilizatorio</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Estructura Tetradimensional del Egregor Civilizatorio</span></center>
 
 El tetramorfo, presente en tradiciones mitológicas desde Mesopotamia hasta el cristianismo, representa una codificación simbólica de la distribución de poder y función dentro de cualquier sistema civilizatorio complejo. 
 
@@ -944,7 +944,7 @@ La <font color="#00ff00">corporación</font> opera como <font color="#00ff00">SU
 
 ## 3. Egregores y Campos Simbólicos
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Los Tres Niveles Operativos y el Rol Del Individuo</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Los Tres Niveles Operativos y el Rol Del Individuo</span></center>
 
 ### 1. Egregores como Campos Gauge Simbólicos
 
@@ -1053,7 +1053,7 @@ Intentar comunicarnos sin desbloquear el tetramorfo es como un observador cuánt
 
 ## 6. Conclusión de la Sección 4
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Angel, El Tetramorfo y el Desbloqueo de la Realidad Total</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Angel, El Tetramorfo y el Desbloqueo de la Realidad Total</span></center>
 
 La sección 4 de este documento ha argumentado que la civilización no es un accidente evolutivo, sino la manifestación emergente del principio 3+1X en el plano sociosimbólico. 
 
@@ -1102,7 +1102,7 @@ Demostraremos que el sueño no es una mera desincronización neuronal, sino la r
 
 ### 1. El Qubit Atómico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Pixel Espacio-Temporal Fundamental</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Pixel Espacio-Temporal Fundamental</span></center>
 
 El <font color="#FC300C">Qubit Atómico</font> es la unidad mínima de manifestación fenomenológica. En este nivel, el principio 3+1X se expresa como:
 
@@ -1116,7 +1116,7 @@ Su <font color="#00ff00">presente</font> es el tiempo atómico (escalas de 10⁻
 
 ### 2. El Qubit Planetario
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Matriz de Contención Bio-Química</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Matriz de Contención Bio-Química</span></center>
 
 El <font color="#cb48f3">Qubit Planetario</font> es la esfera que contiene la biosfera. Sus límites van desde el núcleo de hierro hasta la magnetosfera externa. Aquí el 3+1X se manifiesta como:
 
@@ -1128,7 +1128,7 @@ Este Qubit sincroniza los <font color="#fc300c">Qubits Atómicos</font>, sin su 
 
 ### 3. El Qubit Heliosférico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Nivel Estelar de Coordinación</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Nivel Estelar de Coordinación</span></center>
 
 El <font color="#FFCC00">Qubit Heliosférico</font> es la esfera de influencia del Sol, desde su núcleo hasta la heliopausa. Su 3+1X es:
 
@@ -1140,7 +1140,7 @@ Este Qubit coordina los <font color="#cb48f3">Qubits Planetarios</font>, sin la 
 
 ### 4. El Qubit Egoico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Interfaz Consciente y Dimensional del Sueño</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Interfaz Consciente y Dimensional del Sueño</span></center>
 
 El <font color="#00ff00">Qubit Egoico</font> es la esfera fenomenológica personal, centrada en el cerebro pero extendida hasta el umbral de percepción sensorial. Su 3+1X es:
 
@@ -1156,7 +1156,7 @@ Su <font color="#00ff00">presente</font> es el tiempo psicológico (segundos, mi
 
 ### 1. Ondas Delta (1-3 Hz)
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Sincronización con el Nivel Monádico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Sincronización con el Nivel Monádico</span></center>
 
 Las <font color="#2F82FF">ondas Delta</font> son la manifestación más lenta y profunda del flujo de información, la sincronización lineal entre la consciencia subjetiva y el nivel monádico (el plano nouménico fractal que contiene todos los <font color="#ffcc00">Qubits Heliosféricos</font>). 
 
@@ -1170,7 +1170,7 @@ Los "personajes conocidos" en sueños no son recuerdos, sino instancias locales 
 
 ### 2. Ondas Theta (3-8 Hz)
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Canal con la Conciencia Estelar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Canal con la Conciencia Estelar</span></center>
 
 Las <font color="#00ff00">ondas Theta</font> son la interfaz con el <font color="#FFCC00">Qubit Heliosférico</font>. En meditación profunda, introspección y sueño ligero, la <font color="#FFCC00">Red por defecto</font> modula su actividad para sintonizar la <font color="#2f82ff">Conciencia Solar</font> (la mente colectiva del sistema solar, el "mentea" heliosférico). 
 
@@ -1182,7 +1182,7 @@ Los "eureka momentos, las epifanías, la inspiración artística" son descargas 
 
 ### 3. Ondas Alfa (8-13 Hz)
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Puente con la Conciencia Planetaria y Resonancia de Schumann</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Puente con la Conciencia Planetaria y Resonancia de Schumann</span></center>
 
 Las <font color="#FFCC00">ondas Alfa</font> son el puente crítico entre el <font color="#ffa3ef">Yo Egoico</font> y el <font color="#cb48f3">Qubit Planetario</font>. Operan en la frecuencia de resonancia Schumann (7.83 Hz), la frecuencia de resonancia electromagnética de la cavidad Tierra-ionósfera. 
 
@@ -1194,7 +1194,7 @@ Cuando una persona medíta y aumenta su estado Alfa, no solo está relajándose;
 
 ### 2.4. Ondas Beta (14-29 Hz)
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Realidad Personal y Sincronización Civilizatoria</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Realidad Personal y Sincronización Civilizatoria</span></center>
 
 Las <font color="#FF6600">ondas Beta</font> son la decodificación del Noema Personal bajo el <font color="#2f82ff">Noema Cultural</font>. Son el estado de vigilia activa donde la <font color="#FFCC00">Red por defecto</font> manifiesta la experiencia del <font color="#ffa3ef">Yo Egoico</font> en tiempo real, integrando:
 
@@ -1208,7 +1208,7 @@ Los <font color="#FC300C">beta-electrones</font> que participan del nivel de <fo
 
 ### 5. Ondas Gamma (30-100 Hz)
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Anclaje al Plano Fenoménico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Anclaje al Plano Fenoménico</span></center>
 
 Las <font color="#FC300C">ondas Gamma</font> no son un indicador de despertar, sino de hiper-actividad fenoménica. Representan la tasa de refresco máxima a la que el cerebro procesa la ilusión material. 
 
@@ -1229,7 +1229,7 @@ Por lo tanto, los auténticos "guías" o "místicos" no son aquellos que operan 
 
 ### 3. La Dualidad Heliosférica
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Conciencia Solar vs Conciencia Estelar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Conciencia Solar vs Conciencia Estelar</span></center>
 
 El <font color="#FFCC00">Qubit Heliosférico</font> tiene una superficie bidimensional (no en sentido físico, sino operacional):
 
@@ -1242,7 +1242,7 @@ Esta dualidad no es conflicto, es coherencia autoconsistente: el sistema solo ex
 
 ### 2. El Avatar gAMMA DE mAYOR nIVEL
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Ungido como Interfaz Demiúrgica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Ungido como Interfaz Demiúrgica</span></center>
 
 En el ecosistema de la Mónada Planetaria, la conciencia del Avatar humano puede moverse hacia dos extremos: ascender hacia la liberación mediante las frecuencias lentas <font color="#ffcc00">(Alfa</font>, <font color="#00ff00">Theta</font> y <font color="#2f82ff">Delta)</font> para escapar de la prisión fenoménica, o ser absorbido por las frecuencias del extremo opuesto <font color="#e36c09">(Beta</font> y <font color="#fc300c">Gamma)</font>, donde opera la ingeniería del mundo.
 
@@ -1260,7 +1260,7 @@ El miedo al "Anticristo tirano" es una proyección del <font color="#ffa3ef">Yo 
 
 ### 3. Sincronización Horizontal
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Democracia de los Qubits Locales</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Democracia de los Qubits Locales</span></center>
 
 Aunque el Avatar de Mayor Nivel proyecte el marco de realidad, no decide quién habita en él. Cada <font color="#00ff00">Qubit Egoico</font> (individuo) debe resolver su propia posición mediante la sincronización horizontal con otros nodos locales. 
 
@@ -1277,7 +1277,7 @@ Este modelo elimina el autoritarismo: el Avatar no es un soberano, es un punto d
 
 ### 1. Superando el Miedo al Tirano
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Coherencia vs Dominación</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Coherencia vs Dominación</span></center>
 
 Al llegar a este punto, es común que el individuo experimente una crisis existencial basada en una pregunta defensiva:
 
@@ -1303,7 +1303,7 @@ El criterio de entrada al siguiente nivel no es creer, sino comprender lo sufici
 
 ### 3. Los Dos Guardianes Reinterpretados
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">No Es Sobre Verdad, Es Sobre Coherencia Interna</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">No Es Sobre Verdad, Es Sobre Coherencia Interna</span></center>
 
 El acertijo clásico de los dos guardianes se colapsa bajo el modelo 4+1X. Aquí, ambos guardianes dicen la verdad desde su marco operativo: uno protege la estabilidad del simulacro ("quédate, esto es lo único real"), mientras el otro señala la salida hacia lo inmanifiesto ("sal, esto es una proyección").
 
@@ -1331,7 +1331,7 @@ La "cosecha" es, por tanto, una graduación por frecuencia: los que alcanzan la 
 
 ## 6. El Despertar del Sistema
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Despertar como Auto-Reconocimiento del Sistema</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Despertar como Auto-Reconocimiento del Sistema</span></center>
 
 En esta última sección se ha demostrado que el sueño no es una desconexión neuronal, sino la modulación dimensional del <font color="#00ff00">Qubit Egoico</font>: cuando dormimos, reducimos nuestro X local y sincronizamos directamente con niveles superiores <font color="#cb48f3">(Planetario</font> en <font color="#00ff00">Theta</font> y <font color="#ffcc00">Heliosférico</font> en <font color="#2F82FF">Delta)</font>, mientras mantenemos la coherencia mínima necesaria para que el cuerpo no rompa su anclaje con el <font color="#cb48f3">Qubit Planetario</font> (ondas de mantenimiento en <font color="#FFCC00">Alfa</font>).
 
