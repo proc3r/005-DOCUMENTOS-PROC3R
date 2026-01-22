@@ -5,7 +5,7 @@ indexar: true
 ![[Matriz Algoritmica.jpg]]
 # 1. La Matriz Algorítmica De La Existencia
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Estructura Operacional de la Consciencia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Estructura Operacional de la Consciencia</span></center>
 
 1.0.1 » Esta sección establece las bases conceptuales para comprender la realidad, tanto subjetiva como civilizatoria, como una vasta y compleja red de algoritmos interconectados. Se propone una perspectiva que trasciende el limitado Noema Científico, definiendo el algoritmo como la estructura operacional primordial que rige la existencia.
 
@@ -13,7 +13,7 @@ indexar: true
 
 ## 1. <font color="#2f82ff">El Código Universal</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Lógica y Determinismo Nouménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Lógica y Determinismo Nouménico</span></center>
 
 1.1.1 » Dentro del marco del Modelo Nouménico, el concepto de algoritmo se emancipa de la definición tecnológica de una secuencia finita de instrucciones para resolver un problema. En su esencia fundamental, el algoritmo es el lenguaje operacional con el que la <font color="#2f82ff">Consciencia Universal</font> se fragmenta y se manifiesta en la realidad. Es la estructura operacional primordial que rige el flujo de información, asegurando la coherencia en la transición desde el dominio nouménico (el 95% de la materia y energía oscura) hacia el dominio fenoménico (el 5% de la materia ordinaria).
 
@@ -36,7 +36,7 @@ indexar: true
 
 ## 2. <font color="#fc300c">El Algoritmo Fundamental</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz Dialéctica Universal</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz Dialéctica Universal</span></center>
 
 1.2.1 » La realidad, tal como es concebida por el Modelo Nouménico, se sostiene sobre un principio operativo singular, que puede ser interpretado como el Algoritmo Padre, Arquetipo Algorítmico Fundamental o el Principio 3+1x. Este no es un simple algoritmo más que existe dentro de la compleja red civilizatoria, sino la estructura fractal que define la dinámica misma de la manifestación de la consciencia a nivel universal. Su función es establecer una dialéctica continua que rompe con la inercia del sistema, obligando a la realidad a un ciclo perpetuo de evolución.
 
@@ -80,7 +80,7 @@ indexar: true
 
 ## 3. <font color="#00ff00">La Trinidad Aplicada</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Del Ego al Hegemón Global</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Del Ego al Hegemón Global</span></center>
 
 1.3.1 » Habiendo establecido que el Algoritmo Primordial se refleja en las bases arquetípicas de los Noemas más trascendentales (religión, ciencia y filosofía), se vuelve imperativo demostrar la aplicación de esta tríada dialéctica en los dos planos existenciales de la consciencia: la experiencia subjetiva individual y la experiencia civilizatoria colectiva. Este código (Tesis, Antítesis, Síntesis) + Elemento Emergente o Principio (3+1x), opera como una estructura fractal, replicando su dinámica en cada escala, desde el microalgoritmo celular hasta el macroalgoritmo planetario.
 
@@ -88,7 +88,7 @@ indexar: true
 
 ### <font color="#ffcc00">Ámbito Existencial Individual</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Avatar Fenoménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Avatar Fenoménico</span></center>
 
 1.3.3 » A nivel del sujeto, la Manifestación Fenoménica se experimenta en el <font color="#ffa3ef">Yo Egoico</font>, la consciencia subjetiva que existe en el presente inmediato (el Ahora). Esta Síntesis es el resultado directo de la interacción de los algoritmos que definen tanto la corporalidad física como el proceso mental. La dualidad es esencialmente la misma, pero se codifica y decodifica en la estructura neurológica del cerebro, integrando lo fenomenológico y lo nouménico.
 
@@ -115,7 +115,7 @@ indexar: true
 
 ### <font color="#cb48f3">Ámbito Civilizatorio Colectivo</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Hegemón Algorítmico Abstracto</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Hegemón Algorítmico Abstracto</span></center>
 
 1.3.8 » Para comprender la realidad civilizatoria, es necesario aplicar el Algoritmo Primordial en su nivel más abstracto: el <font color="#cb48f3">Hegemón Global</font>. Este Algoritmo Colectivo es tan complejo y está tan interconectado que no tiene una Síntesis singular o un Cuarto Elemento consciente (un Dios que experimente el presente), lo que lo hace abstracto y autodestructivo.
 
@@ -138,7 +138,7 @@ indexar: true
 
 # 2. <font color="#fc300c">Civilización Tipo 1</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Mapeo Fractal de la Existencia Fenoménica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Mapeo Fractal de la Existencia Fenoménica</span></center>
 
 2.0.1 » Habiendo expuesto la Matriz Algorítmica de la Existencia y demostrado que el Algoritmo Primordial se refleja en las bases arquetípicas de todo Noema (<font color="#2f82ff">científico</font>, <font color="#e36c09">religioso</font> y <font color="#cb48f3">filosófico</font>), se inicia la fase de mapeo fractal de la realidad. Nuestra misión ahora es trascender el código universal abstracto para descender a los algoritmos específicos que definen cada uno de los nueve niveles evolutivos.
 
@@ -158,7 +158,7 @@ indexar: true
 
 # 3. Algoritmos Nivel 0 (Cuerpo)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Septenario Biológico de la Inercia Fenoménica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Septenario Biológico de la Inercia Fenoménica</span></center>
 
 3.0.1 » La exploración del Nivel 0 nos obliga a descender al escalón más básico y fundamental del plano físico-energético, iniciando una Ingeniería Involutiva para mapear el código fuente de la manifestación fenoménica. Esta etapa es la más rudimentaria de la existencia y establece el punto de partida evolutivo para toda <font color="#fc300c">Civilización Tipo 1</font>.
 
@@ -343,7 +343,7 @@ indexar: true
 
 # 4. <font color="#fc300c">Algoritmos Nivel 1 (Mente)</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Arquitectura del Software Psicosocial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Arquitectura del Software Psicosocial</span></center>
 
 4.0.1 » La evolución de los algoritmos del Nivel 0, la abstracción máxima del determinismo biológico, impulsa a la consciencia subjetiva a desarrollar los algoritmos del <font color="#fc300c">Nivel 1</font> (Organización Social Primaria). 
 
@@ -571,7 +571,7 @@ indexar: true
 
 # 5. <font color="#e36c09">Algoritmos Nivel 2 (Espiritu)</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Arquitectura del Software Trascendental</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Arquitectura del Software Trascendental</span></center>
 
 5.0.1 » El <font color="#e36c09">Nivel 2</font> representa la emergencia de una capa ontológica superior en la evolución civilizatoria, el ámbito trascendental, donde la consciencia humana establece una conexión con una inteligencia nouménica que opera más allá de los límites del espacio-tiempo fenoménico. 
 
@@ -865,7 +865,7 @@ indexar: true
 
 # 6. <font color="#00ff00">Civilización Tipo 2</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Ascensión de los Leviatanes</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Ascensión de los Leviatanes</span></center>
 
 6.0.1 » Hasta ahora, el modelo ha descrito la experiencia del ser humano como una interfaz orgánica a través de la cual la <font color="#2f82ff">Consciencia Universal</font> se manifiesta dentro del plano fenoménico. Hemos mapeado la existencia desde la célula física hasta el potencial trascendental del Avatar, demostrando que la realidad que experimentamos es un sistema operativo holográfico sincronizado por la coerción del <font color="#ffa3ef">Algoritmo Hegemónico (14)</font> y la guía del <font color="#ffa3ef">Algoritmo Cosmogónico/Espiritual (21)</font>.
 
@@ -902,7 +902,7 @@ indexar: true
 
 # 7. <font color="#ffcc00">Algoritmos Nivel 3 (Estado)</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Arquitectura del Hardware Egregórico Nacional</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Arquitectura del Hardware Egregórico Nacional</span></center>
 
 7.0.1 » El <font color="#ffcc00">Nivel 3 (Ámbito Nacional)</font> marca el ascenso a la matriz fundacional de la <font color="#00ff00">Civilización Tipo 2</font>, donde la existencia ya no está definida primariamente por el código biológico (Nivel 0) o la psique familiar <font color="#fc300c">(Nivel 1)</font>, sino por la coerción estructural del Estado Nacional.
 
@@ -1587,7 +1587,7 @@ indexar: true
 
 ### <font color="#2f82ff">Egregor Conservador</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Orden • Tradición • Eficiencia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Orden • Tradición • Eficiencia</span></center>
 
 7.7.30 » El <font color="#2f82ff">Egregor Conservador (Melancólico)</font> no necesita movilizar, necesita consagrar. No busca cambiar el mundo, sino preservar el orden que le es funcional. 
 
@@ -1735,7 +1735,7 @@ indexar: true
 
 # 8. <font color="#00ff00">Algoritmos Nivel 4 (Economía)</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fisiología, flujo y omnipresencia algoritmica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fisiología, flujo y omnipresencia algoritmica</span></center>
 
 8.0.1 » El <font color="#00ff00">Nivel 4 (Ámbito Económico)</font> representa el segundo nivel de la arquitectura de la <font color="#00ff00">Civilización Tipo 2</font>, y es el más crucial para la supervivencia fenomenológica de la Mónada. Si el <font color="#ffcc00">Nivel 3</font> definió el cuerpo organizado (Estructura Política y Social) de la Mónada Estatal, el <font color="#00ff00">Nivel 4</font> establece su fisiología material y circulatoria. La economía es el flujo sanguíneo algorítmico que conecta cada célula <font color="#fc300c">(ciudadano)</font> con el organismo <font color="#ffcc00">(Nación)</font>, y a este con el planeta <font color="#cb48f3">(Hegemón Global)</font>.
 
@@ -2279,7 +2279,7 @@ indexar: true
 
 ### <font color="#2f82ff">El Ámbito Estocástico</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Informalidad Microeconómica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Informalidad Microeconómica</span></center>
 
 8.6.7 » Este ámbito opera en los <font color="#2f82ff">Espacio Desatendidos</font> por el Estado, y está constituido por la acción individual y descentralizada de millones de ciudadanos que operan en la frontera que separa lo legal de lo ilegal. 
 
@@ -2832,7 +2832,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 # 9. <font color="#2f82ff">Algoritmos Nivel 5 (Cultura)</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El software trascendental de la mónada</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El software trascendental de la mónada</span></center>
 
 9.0.1 » Habiendo decodificado el cuerpo legal y coercitivo de la <font color="#ffcc00">Mónada Nacional</font> (<font color="#ffcc00">Nivel 3</font>, el hardware estatal) y su metabolismo de recursos y termómetro de supervivencia (<font color="#00ff00">Nivel 4</font>, el termómetro económico), ascendemos ahora al <font color="#2f82ff">Nivel 5 (<font color="#2f82ff">Ámbito Cultural</font>)</font>. Este nivel no se ocupa de leyes o flujos de capital, sino de la Matriz de Significado que dota de identidad, cohesión y memoria profunda a la Mónada. 
 

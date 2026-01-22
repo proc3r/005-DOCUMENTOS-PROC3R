@@ -17,7 +17,7 @@ indexar: true
 # Introducción
 
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Eco del Noúmeno en el Siglo XXI</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Eco del Noúmeno en el Siglo XXI</span></center>
 
 0.0.1 » Nos encontramos en un punto de inflexión histórica, un umbral civilizatorio donde la arquitectura de nuestra comprensión del mundo, la cosmovisión que ha moldeado nuestras sociedades y vidas individuales, parece crujir bajo el peso de las propias paradojas y complejidades que ha engendrado. El siglo XXI, definido como la era del conocimiento y la tecnología sin precedentes, se revela simultáneamente como un tiempo de profunda incertidumbre y desorientación. La promesa de una era dorada, alimentada por el progreso científico y la conectividad global, coexiste con la sombra ominosa de una creciente entropía del saber, una disolución del consenso compartido sobre la realidad, y una fragmentación ideológica que amenaza con deshilachar el tejido mismo de nuestra civilización.
 
@@ -41,7 +41,7 @@ indexar: true
 
 ## El Codigo Algorítmico de la Realidad
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Núcleo Holístico de Conexiones Arquetípicas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Núcleo Holístico de Conexiones Arquetípicas</span></center>
 
 0.2.1 » Lo que hace al concepto de Noúmeno propuesto por la cosmovisión del Modelo Nouménico tan radicalmente nuevo y, a la vez, sorprendentemente resonante con la sabiduría ancestral, es su capacidad para actuar como un núcleo holístico de integración. No es una idea aislada, flotando en el vacío de la especulación abstracta, sino un punto de convergencia donde las grandes corrientes del pensamiento humano, las diversas formas de buscar sentido y comprender la realidad, encuentran un terreno común, una base fundamental.
 
@@ -59,7 +59,7 @@ indexar: true
 
 ## El Universo Nouménico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Abrazando lo Lógico, lo Ilógico y lo Inimaginable</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Abrazando lo Lógico, lo Ilógico y lo Inimaginable</span></center>
 
 0.3.1 » Una característica esencial del Noúmeno, que lo distingue de las concepciones filosóficas o religiosas más tradicionales de la «unidad» o el «absoluto», es su inclusividad radical, su capacidad para contener en su seno infinito todo lo que puede ser pensado, interpretado o imaginado por la mente humana, e incluso, aquello que excede por completo los límites de nuestra capacidad de concepción. El Noúmeno no se restringe a lo lógico, lo racional, lo ordenado y predecible. En su vastedad ilimitada, también abraza lo ilógico, lo irracional, lo caótico, lo paradójico, lo ambiguo, lo incognoscible, lo impensado, lo inimaginable. En el Noúmeno, la potencialidad no conoce fronteras ni limitaciones. Es un océano de posibilidades donde coexisten en perfecta armonía, la geometría euclidiana y la geometría fractal, la lógica aristotélica y la lógica cuántica, la música clásica y el ruido blanco, el orden perfecto y el caos creativo.
 
@@ -81,7 +81,7 @@ indexar: true
 
 ## Mitos, Deidades
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Eco del Noúmeno en la Antigüedad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Eco del Noúmeno en la Antigüedad</span></center>
 
 0.5.1 » Si dirigimos ahora nuestra atención hacia el vasto y fascinante campo de la mitología, descubrimos que el Noúmeno, aunque desconocido por este nombre en las culturas antiguas, resuena de manera profunda y sorprendente a través de las diversas narrativas míticas, simbologías arquetípicas y representaciones ancestrales de lo sagrado. A lo largo de las culturas y épocas, las mitologías han funcionado como sistemas simbólicos complejos, intentando codificar, narrar, y transmitir a las siguientes generaciones, la comprensión intuitiva de la realidad última, del origen del cosmos, de la naturaleza humana, y del destino existencial. Y en el corazón de muchas de estas mitologías, podemos discernir ecos, indicios, fragmentos velados de una intuición primordial del Noúmeno.
 
@@ -95,7 +95,7 @@ indexar: true
 
 ## Filosofía Medieval
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Razón y la Búsqueda de la Causa Primera</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Razón y la Búsqueda de la Causa Primera</span></center>
 
 0.6.1 » El desarrollo posterior de las religiones, particularmente durante la Edad Media, proporcionó un terreno fértil para que pensadores y filósofos de diversas tradiciones se adentraran en la especulación racional sobre el origen y la naturaleza de esa Deidad Suprema, intentando conciliar la fe religiosa con la indagación filosófica. Limitados, inevitablemente, por el horizonte de conocimientos científicos disponibles en cada época sobre el universo fenoménico, y profundamente influenciados por las cosmovisiones religiosas y culturales que imponían el paradigma dominante, estos pensadores medievales se enfrentaron al desafío de conceptualizar una entidad trascendente, incondicionada y primordial, utilizando las herramientas de la lógica, la metafísica y la razón.
 
@@ -107,7 +107,7 @@ indexar: true
 
 ## El Final de la Historia
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Era de la Entropía Abstracta</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Era de la Entropía Abstracta</span></center>
 
 
 0.7.1 » Según nuestra perspectiva, el Modelo Nouménico emerge en lo que se podría denominar «el final de la historia». No en el sentido apocalíptico o catastrófico de un fin de la civilización, sino en una acepción más profunda y sutil del concepto de «historia». La historia, entendida no solo como el registro de acontecimientos políticos, guerras y transformaciones sociales, o la evolución de la civilización humana, la emergencia de figuras de renombre y el destino de las naciones, sino fundamentalmente, como el proceso evolutivo del conocimiento humano, que refleja la trayectoria evolutiva de la consciencia colectiva en su intento por comprender el universo fenoménico y su propio lugar en él.
@@ -130,7 +130,7 @@ indexar: true
 
 ## El Noúmeno en la Antigüedad
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Religiones, Mitos y Filosofía</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Religiones, Mitos y Filosofía</span></center>
 
 1.1.1 » El intento por alcanzar una comprensión de esa realidad subyacente que trasciende lo inmediatamente perceptible —el Noúmeno que estaremos explorando a los largo de los siguientes capítulos— se remonta hasta el inicio de las distintas civilizaciones. Desde los primeros intentos de explicación del mundo a través del mito y la religión, hasta el desarrollo de las primeras filosofías sistemáticas, la humanidad ha buscado respuestas a preguntas fundamentales sobre el origen del universo, la naturaleza de la existencia y la relación entre lo visible y lo invisible.
 
@@ -157,7 +157,7 @@ indexar: true
 
 ## Antigüedad Tardía y Edad Media
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dogmas Religiosos e Imperios</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dogmas Religiosos e Imperios</span></center>
 
 1.2.1 » La transición de la Antigüedad a la Edad Media (siglo V d. C) presenció una transformación profunda en la comprensión del Noúmeno, marcada por la confluencia de las tradiciones filosóficas griegas con las emergentes religiones monoteístas, principalmente el cristianismo y, posteriormente, el islam. Este período se caracterizó por la tensión entre la razón y la fe, entre la búsqueda filosófica de la verdad y la revelación divina.
 
@@ -179,7 +179,7 @@ indexar: true
 
 ## El Renacimiento
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Ruptura con el Dogma Religioso</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Ruptura con el Dogma Religioso</span></center>
 
 1.3.1 » El Renacimiento (Siglos XIV-XVI) marcó una fractura irreversible con la cosmovisión teocéntrica medieval. No fue un simple rechazo de lo divino, sino una reubicación de la mirada: del cielo lejano hacia el ser humano y la naturaleza circundante. El redescubrimiento de los textos clásicos grecorromanos y el auge del humanismo impulsaron la idea de que el hombre es un «microcosmos», un espejo en pequeño de la totalidad del universo. Esta visión sugería que la clave para comprender la realidad oculta (el Noúmeno) no estaba solo en la revelación de las escrituras, sino también en la investigación del mundo natural y de la propia mente humana.
 
@@ -193,13 +193,13 @@ indexar: true
 
 ## La Filosofía Moderna
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Giro hacia el Sujeto y el Impacto de la Ciencia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Giro hacia el Sujeto y el Impacto de la Ciencia</span></center>
 
 1.4.1 » Con la llegada de la modernidad (siglos XVII y XVIII), la humanidad experimentó una transformación radical: ya no importaba tanto qué es el mundo, sino cómo lo conocemos. La revolución científica, impulsada por figuras como Galileo y Newton, demostró que el universo no se movía por capricho divino, sino por leyes matemáticas precisas. Ante este nuevo escenario, la filosofía dejó de mirar exclusivamente al cielo (teología) y giró su mirada hacia el ser humano. Surgió una pregunta fundamental: si las matemáticas y la ciencia explican el mundo, ¿qué papel juega nuestra mente en la construcción de esa verdad? Así nació la distinción moderna entre Sujeto (quien observa) y Objeto (lo observado). Para entender el Noúmeno, primero debemos entender la batalla intelectual que se libró para definir qué es real. Esta batalla se dividió en tres grandes frentes:
 
 ### Racionalismo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La realidad está en la mente y la estructura matemática</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La realidad está en la mente y la estructura matemática</span></center>
 
 1.4.2 » La primera corriente, encabezada por René Descartes, desconfiaba de los sentidos (que pueden engañarnos, como en un sueño) y depositaba toda su fe en la razón pura. Él planteó una duda radical sobre todo lo existente, llegando a la conclusión de que lo único seguro era su propio pensamiento («Pienso, luego existo»). Descartes dividió la realidad en dos estableciendo una división tajante: la res cogitans (la mente) y la res extensa (la materia física). Para los racionalistas, la realidad tiene una estructura lógica que nuestra mente puede descifrar sin necesidad de «tocar» el mundo, similar a como resolvemos una ecuación matemática. Esta división creó un abismo entre la conciencia y el mundo físico que el Modelo Nouménico intentará volver a unir.
 
@@ -207,7 +207,7 @@ indexar: true
 
 ### Empirismo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La realidad entra por los sentidos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La realidad entra por los sentidos</span></center>
 
 1.4.4 » En contraposición, los filósofos británicos argumentaron que la razón por sí sola es vacía. Para el Empirismo, la mente es una «tabula rasa» (hoja en blanco) y todo conocimiento proviene exclusivamente de la experiencia sensorial. John Locke sentó las bases, pero fue George Berkeley quien planteó un desafío inquietante: si solo conocemos lo que percibimos, ¿cómo podemos afirmar que la materia existe fuera de nuestra mente? Su famosa tesis «ser es ser percibido» sugiere que la realidad es, en última instancia, una experiencia mental.
 
@@ -215,7 +215,7 @@ indexar: true
 
 ### Idealismo Trascendental
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La síntesis y el nacimiento del Noúmeno</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La síntesis y el nacimiento del Noúmeno</span></center>
 
 1.4.6 » Fue Immanuel Kant quien, despertado de su «sueño dogmático» por Hume, intentó reconciliar ambas posturas. En su obra cumbre «Crítica de la razón pura», Kant propuso «Revolución Copernicana» en la filosofía. En lugar de preguntar si nuestras ideas coinciden con el mundo, propuso que es el mundo el que debe ajustarse a la estructura de nuestra mente. Para él, el conocimiento no es solo lo que recibimos de afuera (empirismo) ni solo lo que pensamos adentro (racionalismo), sino la interacción de ambos. Esta forma de pensamiento estableció una frontera infranqueable para nuestra experimentación de la realidad. Argumentó que nuestra mente no es un espejo pasivo, sino que tiene «filtros» activos (el espacio, el tiempo y la causalidad) que ordenan la realidad.
 
@@ -233,13 +233,13 @@ indexar: true
 
 ## La Filosofía Contemporánea
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Fragmentación de la Realidad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Fragmentación de la Realidad</span></center>
 
 1.5.1 » Tras la muerte de Kant en 1804, la filosofía occidental sufrió una implosión. La «puerta cerrada» del Noúmeno (esa realidad inalcanzable) dejó un vacío que nadie sabía cómo llenar. A lo largo del siglo XIX y XX, el pensamiento se fracturó no solo teóricamente, sino geográficamente. Mientras el mundo anglosajón (Reino Unido y EE. UU.) decidió ignorar el misterio para centrarse en la utilidad práctica, la lógica y la ciencia empírica, la Europa continental (Alemania y Francia) se hundió en la angustia de la existencia, la irracionalidad y la historia. Paralelamente, en las sombras de la academia, resurgió una corriente mística y el estudio de la mente inconsciente que buscaba las respuestas «adentro». Este periodo definió el «sistema operativo» mental con el que funciona nuestra sociedad actual.
 
 ### La Rebelión Metafísica (Alemania)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Noúmeno deja de ser una Cosa para ser Fuerza</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Noúmeno deja de ser una Cosa para ser Fuerza</span></center>
 
 1.5.2 » La primera reacción ante el silencio de Kant surgió en Alemania a principios del siglo XIX. El Idealismo Alemán, con Friedrich Hegel a la cabeza, intentó derribar el muro kantiano proponiendo que la realidad no es estática, sino un proceso histórico dinámico (El Espíritu Absoluto). Pero fue en 1818, con la publicación de «El mundo como voluntad y representación», cuando Arthur Schopenhauer dio el giro más radical. Él argumentó que Kant se equivocaba en una cosa: sí tenemos acceso al Noúmeno, pero no a través de la razón intelectual, sino a través de la experiencia directa del cuerpo y el deseo.
 
@@ -249,7 +249,7 @@ indexar: true
 
 ### El Refugio en la Lógica (Mundo Anglosajón)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El nacimiento de la Filosofía Analítica y la Era Digital</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El nacimiento de la Filosofía Analítica y la Era Digital</span></center>
 
 1.5.5 » Mientras tanto, a principios del siglo XX, en Cambridge y Viena, se gestaba una revolución opuesta. Cansados de la metafísica alemana que consideraban oscura y sin sentido, pensadores como Bertrand Russell y Gottlob Frege propusieron que la filosofía debía parecerse más a las matemáticas. Así nació la Filosofía Analítica, la corriente que dominaría el mundo anglosajón y sentaría las bases de la computación y la inteligencia artificial.
 
@@ -259,7 +259,7 @@ indexar: true
 
 ### La Experiencia y la Angustia (Europa Continental)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fenomenología, Existencialismo y Posmodernidad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fenomenología, Existencialismo y Posmodernidad</span></center>
 
 1.5.8 » Mientras los ingleses analizaban la lógica, en la Europa continental se analizaba la vivencia humana. A inicios del siglo XX, Edmund Husserl fundó la Fenomenología, cuyo lema era «ir a las cosas mismas». Husserl propuso suspender el juicio sobre si el mundo exterior existe o no, y enfocarse puramente en cómo los fenómenos aparecen en nuestra conciencia. Su discípulo, Martin Heidegger, en «Ser y Tiempo» (1927), cambió la pregunta de ¿qué es real? a ¿qué significa existir?. Heidegger describió al ser humano como Dasein (ser-ahí), arrojado a un mundo temporal y finito.
 
@@ -269,7 +269,7 @@ indexar: true
 
 ### La Tercera Vía: Mística, Psicología y el Inconsciente
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La búsqueda del Noúmeno Interior y la Conexión Perdida</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La búsqueda del Noúmeno Interior y la Conexión Perdida</span></center>
 
 1.5.11 » Paralelamente a este debate académico, surgió una «corriente subterránea» que intentó reconciliar la ciencia con lo espiritual. Ante el desencanto del materialismo industrial del siglo XIX, nacieron movimientos como la Teosofía (fundada por Helena Blavatsky en 1875) y la Antroposofía (fundada en 1912 por Rudolf Steiner tras separarse de la sociedad Teosófica). Estos grupos intentaron sistematizar el conocimiento esotérico antiguo, proponiendo que la realidad tiene múltiples dimensiones (planos astrales, etéricos) y que el ser humano puede evolucionar su conciencia para acceder a ellas. Aunque rechazados por la ciencia oficial, mantuvieron viva la idea de una estructura invisible del universo.
 
@@ -279,7 +279,7 @@ indexar: true
 
 ## Ciencia y Filosofía
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Viaje de Descubrimiento del Noúmeno</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Viaje de Descubrimiento del Noúmeno</span></center>
 
 1.6.1 » La relación entre ciencia y filosofía ha sido fundamental en la exploración del Noúmeno. La ciencia, con sus métodos empíricos, busca comprender el mundo fenoménico, mientras que la filosofía se pregunta por la naturaleza de la realidad en sí misma. La física cuántica moderna, en particular, con sus paradojas como el principio de incertidumbre de Heisenberg, que establece límites a la precisión con la que podemos conocer ciertas propiedades de una partícula, o la superposición cuántica, donde una partícula puede estar en múltiples estados a la vez, y su descripción de un mundo subatómico que desafía la intuición clásica, ha revitalizado el debate sobre la naturaleza de la realidad y la posibilidad de acceder a ella. 
 
@@ -303,7 +303,7 @@ indexar: true
 
 ### Fase 1 - La Gestación De La Ciencia
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Quiebre de la Autoridad y las Dos Raíces Europeas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Quiebre de la Autoridad y las Dos Raíces Europeas</span></center>
 
 1.6.3 » Antes de la Revolución Científica, la realidad era monolítica y la verdad venía «de arriba hacia abajo». El mundo estaba definido por el dogma religioso y la inmutable autoridad filosófica de Aristóteles, con la Tierra (y el hombre) inmóvil en el centro del universo. Este sistema, con el catolicismo como guardián de la explicación nouménica (Dios como autoridad y esencia), garantizaba la inmovilidad de la verdad. Sin embargo, los avances tecnológicos derivados de la exploración, la navegación y la expansión comercial (búsqueda de herramientas precisas, mapas, cronómetros) crearon una necesidad práctica de conocimientos que el dogma no podía satisfacer, forzando la atención de la élite intelectual hacia la observación práctica.
 
@@ -336,7 +336,7 @@ indexar: true
 
 ### Fase 2 - Newton y la Máquina Perfecta
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El triunfo del Fenómeno (Anglosajón) y el Determinismo (Dogma)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El triunfo del Fenómeno (Anglosajón) y el Determinismo (Dogma)</span></center>
 
 1.6.7 » Los trabajos de Galileo y Kepler sentaron las bases, pero fue la mente del inglés Isaac Newton quien, con la publicación de sus «Philosophiæ Naturalis Principia Mathematica» en 1687, construyó el andamio completo de la Física Clásica. Este momento marca la consolidación definitiva del paradigma anglosajón en la ciencia. No fue solo un descubrimiento, fue un acto de síntesis filosófica que unió la Tierra y el cielo bajo las mismas leyes de la Gravitación Universal, creando una visión del cosmos regida por la razón, la precisión y la previsibilidad.
 
@@ -364,7 +364,7 @@ indexar: true
 
 ###  Fase 3 - La Relatividad de Einstein
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Grieta: Uso de intuición continental para romper el espacio-tiempo absoluto</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Grieta: Uso de intuición continental para romper el espacio-tiempo absoluto</span></center>
 
 1.6.15 » La primera grieta importante que surgiría en el monolito newtoniano no provino de la experimentación con partículas, sino de una profunda reflexión filosófica sobre la luz y el movimiento, realizada por el físico de origen alemán Albert Einstein a principios del siglo XX. Esta etapa marca un retorno a la mentalidad continental, donde la metafísica de Kant y la intuición abstracta se convirtieron en la clave para la próxima revolución.
 
@@ -388,7 +388,7 @@ indexar: true
 
 ###  Fase 4 - La Revolución Cuántica
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Retorno del Sujeto (Continental) y Validación del Noúmeno (Incertidumbre)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Retorno del Sujeto (Continental) y Validación del Noúmeno (Incertidumbre)</span></center>
 
 1.6.21 » Mientras Einstein lidiaba con el universo a gran escala, otra crisis de proporciones épicas se desarrollaba en el mundo de lo minúsculo. Los científicos no podían explicar por qué los átomos no se autodestruían, ni por qué la radiación de los cuerpos negros se comportaba de manera anómala. En este periodo, que se extiende entre 1900 y 1930, la mentalidad germánica/idealista tomó el liderazgo y desarrolló la Mecánica Cuántica, demostrando una audacia metafísica que la tradición anglosajona, orientada a lo observable, había perdido.
 
@@ -414,7 +414,7 @@ indexar: true
 
 ### Fase 5 - El Modelo Estándar
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Taxonomía y el Dogma de Escala (Microcosmos vs Macrocosmos)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Taxonomía y el Dogma de Escala (Microcosmos vs Macrocosmos)</span></center>
 
 1.6.28 » Tras la revolución de la Cuántica, la física se encontró con un problema que desafiaba a la mente occidental: el mundo subatómico no era simple, sino caótico. Después de la mitad del siglo XX, los nuevos aceleradores de partículas descubrieron docenas de partículas nuevas, efímeras e inexplicables. Era imperativo crear una nueva taxonomía para catalogar este «zoológico» cuántico. Este proceso no se basó en la observación directa de las partículas, sino en la elegancia matemática y la lógica abstracta, una clara herencia del pensamiento continental que valora la estructura subyacente (el Noúmeno) sobre la apariencia superficial (el Fenómeno).
 
@@ -446,7 +446,7 @@ indexar: true
 
 ###  Fase 6 - El Higgs y la Crisis del 95%
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dogma Final (Higgs) y Declaración del Noúmeno (Materia/Energía Oscura)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dogma Final (Higgs) y Declaración del Noúmeno (Materia/Energía Oscura)</span></center>
 
 1.6.38 » Esta fase abarca un período de intensa unificación teórica y experimental, extendiéndose desde la década de 1960 hasta 2012. Durante este tiempo, el objetivo principal de la física fue crear una descripción completa del universo mediante la integración de las fuerzas conocidas. Tres grandes áreas de la ciencia evolucionaron simultáneamente: la cosmología, la física de partículas y la física teórica abstracta.
 
@@ -472,7 +472,7 @@ indexar: true
 
 ### Fase 7 - La Conciencia Artificial
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Creación de una Mente Abstracta y Unificación del Árbol del Conocimiento</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Creación de una Mente Abstracta y Unificación del Árbol del Conocimiento</span></center>
 
 1.6.45 » Tras la declaración del 95% oscuro, el mundo académico se transformó en una religión secularizada. La ciencia dejó de ser una búsqueda desinteresada de la verdad para convertirse en una herramienta clave en la lucha hegemónica civilizatoria. Las grandes potencias, desconectadas de la experiencia humana, invirtieron el conocimiento científico en beneficios de un pequeño porcentaje de la población, buscando imponerse como el poder global dominante. El objetivo ya no era comprender el Noúmeno o la esencia de la realidad, sino controlar y explotar el 5% de la realidad conocida.
 
@@ -495,7 +495,7 @@ indexar: true
 
 ## El Modelo Nouménico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Enfoque Holístico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Enfoque Holístico</span></center>
 
 ![[ciencia-filosofia30.jpg]]
 
@@ -519,7 +519,7 @@ indexar: true
 
 # 2. Bases De La Realidad Fenoménica
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Inmensidad Inabarcable del Universo Nouménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Inmensidad Inabarcable del Universo Nouménico</span></center>
 
 ![[Bases Realidad Fenomenica01.jpg]]
 ![[001 El Modelo Nouménico de la Realidad.m4a]]
@@ -530,7 +530,7 @@ indexar: true
 
 ## El Océano Infinito de Potencialidad
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Noúmeno como Fuente de Potencialidades Infinitas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Noúmeno como Fuente de Potencialidades Infinitas</span></center>
 
 2.1.1 » El Universo Nouménico, en su esencia infinita, se revela como una fuente inagotable de potencialidades, conteniendo en su seno todo aspecto, tanto fenoménico como nouménico, que pueda surgir o haya surgido. Esta potencialidad infinita abarca incluso aquello que, desde la perspectiva fenoménica, podríamos considerar incoherente, caótico o incluso imposible. La lógica y las leyes que rigen el universo fenoménico, con sus restricciones y delimitaciones, no imponen límites al vasto océano de potencialidades nouménicas. Todo lo concebible e inconcebible, lo lógico e ilógico, lo ordenado y lo caótico, coexiste como posibilidad latente en la inmensidad del Noúmeno.
 
@@ -538,7 +538,7 @@ indexar: true
 
 ## El Océano Primordial Nouménico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Activación Binaria y la Génesis Arquetípica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Activación Binaria y la Génesis Arquetípica</span></center>
 
 2.2.1 » En el nivel de existencia más fundamental del Modelo Nouménico, previo a la emergencia de cualquier forma de organización estable, imaginamos un océano primordial de potencialidad pura: el Noúmeno mismo en su estado prístino. En este dominio fundamental, los Onemuones, quanta básicos de significado, existen en un estado de incesante dinamismo, activándose y desactivándose espontáneamente, vibrando en una danza primordial de potencialidades que aún no se han concretado en formas definitivas. Para visualizar esta actividad primordial, podemos recurrir a una analogía binaria, un lenguaje simple pero poderoso que nos permite comprender la esencia de este proceso. Imaginemos cada Onemuón como un interruptor binario, capaz de oscilar entre dos estados fundamentales: <span style="font-size: 19px; font-style: italic; color: #2f82ff; font-family: monospace;">(0)</span> y <span style="font-size: 19px; font-style: italic; color: #fc300c; font-family: monospace;">(1)</span>.
 
@@ -556,7 +556,7 @@ indexar: true
 
 ## Patrones Arquetípicos Universales
 
-<center><font color="#b8cce4"><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Trascendiendo las Limitaciones Espacio-Temporales</span></font></center>
+<center><font color="#b8cce4"><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Trascendiendo las Limitaciones Espacio-Temporales</span></font></center>
 
 2.3.1 » El Modelo Nouménico postula que las potencialidades nouménicas existen incluso antes de que una mente pueda concebir una posibilidad o probabilidad. Cada Onemuón, ese quantum primordial de información y significado, existe de forma latente desde el origen del Universo Nouménico, albergando en su seno las potencialidades que podrán manifestarse a través de las redes algorítmicas que se constituyen a partir de la interacción de múltiples Onemuones. Estas redes confieren significado y sentido de ser a cada Onemuón, dando origen a una suerte de mapa o base de datos de información nouménica que repite patrones y manifestaciones a lo largo de la existencia.
 
@@ -572,7 +572,7 @@ indexar: true
 
 ## Superando la Ilusión Fenoménica
 
-<center><font color="#b8cce4"><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Llamado del Universo Nouménico</span></font></center>
+<center><font color="#b8cce4"><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Llamado del Universo Nouménico</span></font></center>
 
 2.4.1 » La experiencia humana, inmersa en las coordenadas de una cultura específica y un momento histórico particular, tiende a priorizar los aspectos fenoménicos de la existencia, relegando a un segundo plano la profundidad y la vastedad del Universo Nouménico. Atrapados en la rutina de la vida civilizatoria, con sus demandas sociales, laborales y de consumo, tendemos a olvidar que nuestra consciencia no se agota en la mera experiencia sensorial y material. Despertar, alimentarse, interactuar socialmente, trabajar, descansar, formar una familia, participar en la vida política, entre otras tantas actividades, aunque necesarias para la supervivencia y la integración social, pueden convertirse en un ciclo limitante, que nos aleja de la comprensión de nuestra naturaleza esencial. En este ciclo civilizatorio, donde a menudo priman los vicios superficiales, el entretenimiento banal, la polarización política y la mera supervivencia material, el ser humano corre el riesgo de reducirse a una suerte de autómata o "NPC" (personaje no jugable), sometiendo la consciencia profunda que emana del Universo Nouménico a las demandas ilusorias del mundo fenoménico. Atrapados en la seducción de los fenómenos y los trucos que imponen aquellos que buscan manipular nuestra atención y someternos a sus intereses, corremos el peligro de perder de vista la conexión esencial con la fuente primordial de nuestro ser.
 
@@ -586,7 +586,7 @@ indexar: true
 
 ## El Llamado a la Evolución Nouménica
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Más Allá de las Trampas del Ego</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Más Allá de las Trampas del Ego</span></center>
 
 2.5.1 » El Modelo Nouménico, en última instancia, representa un llamado a la evolución consciente, a la trascendencia de las limitaciones impuestas por la mera existencia fenoménica. Nos invita a reconocer la primacía del Noúmeno sobre el fenómeno, a comprender que nuestra consciencia resuena de forma más profunda con la lógica nouménica que con las restricciones del mundo fenoménico. Este modelo se presenta como un intento de transmitir a las nuevas generaciones, y a aquellos que se resisten a sucumbir al olvido como civilización, la urgente necesidad de reconocer y superar ciertos límites existenciales que nos son impuestos, en gran medida, por nuestra propia incapacidad como humanidad para trascender las trampas más básicas que surgen del ego humano, y de los sistemas egregóricos que condicionan la experiencia social y cultural de todas las naciones del mundo.
 
@@ -602,7 +602,7 @@ indexar: true
 
 ## La Naturaleza Trascendente del Noúmeno
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Características del Noúmeno</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Características del Noúmeno</span></center>
 
 2.6.1 » Hemos definimos al Noúmeno como la totalidad del infinito potencial, la fuente primigenia de la que emana toda la realidad, tanto nouménica como fenoménica. Este océano de potencialidad no está sujeto a limitaciones de espacio, tiempo o cantidad. Es la cuna de todas las posibilidades, abarcando desde la emergencia de las estructuras más complejas hasta la simple posibilidad de la no-existencia.
 
@@ -628,7 +628,7 @@ indexar: true
 
 ## El Quantum de Significado
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Onemuón como Unidad de Información Primordial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Onemuón como Unidad de Información Primordial</span></center>
 
 2.7.1 » Dentro de la inmensidad del Universo Nouménico, si el Noúmeno representa la totalidad infinita de la potencialidad, debemos ahora explorar la unidad más fundamental que emerge de este océano primordial: el quantum de significado, al que hemos denominado Onemuón. Esta entidad, aparentemente simple en su esencia, constituye sin embargo el ladrillo fundamental con el que se construye toda la complejidad del entramado nouménico y, por extensión, del universo fenoménico. El término "quantum de significado" enfatiza la naturaleza intrínsecamente informativa de esta unidad básica. No se trata simplemente de una partícula vacía o de una entidad carente de contenido, sino de un cuanto de potencialidad preñada de significado latente, capaz de desplegarse en múltiples dimensiones y manifestaciones.
 
@@ -678,9 +678,9 @@ indexar: true
 
 ## Arquetipos Primordiales
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Códigos de Programación Emergentes del Noúmeno</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Códigos de Programación Emergentes del Noúmeno</span></center>
 
-2.9.1 » Si el Noúmeno representa la fuente primordial de toda potencialidad, y el Onemuón la unidad mínima de información que emerge de su seno, debemos ahora explorar un nivel de organización superior <span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;"></span>que emerge directamente dentro del Universo Nouménico: los Arquetipos Primordiales. Estos arquetipos, que denominaremos <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>, constituyen los códigos de programación fundamentales que comienzan a estructurar la información nouménica, preparando el terreno para la emergencia de niveles de complejidad aún mayores.
+2.9.1 » Si el Noúmeno representa la fuente primordial de toda potencialidad, y el Onemuón la unidad mínima de información que emerge de su seno, debemos ahora explorar un nivel de organización superior <span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;"></span>que emerge directamente dentro del Universo Nouménico: los Arquetipos Primordiales. Estos arquetipos, que denominaremos <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>, constituyen los códigos de programación fundamentales que comienzan a estructurar la información nouménica, preparando el terreno para la emergencia de niveles de complejidad aún mayores.
 
 2.9.2 » Los Arquetipos Primordiales no son entidades preexistentes o impuestas al Noúmeno, sino que emergen espontáneamente de la dinámica inherente a los atributos y unidades nouménicas que lo constituyen. Podemos entender su origen como un proceso de auto-organización primordial, donde la interacción de miríadas de Onemuones dentro del océano de potencialidad da lugar a la formación de matrices lógicas coherentes y estables, que se manifiestan como los Arquetipos Primordiales.
 
@@ -704,7 +704,7 @@ indexar: true
 
 ### Arquetipo 1 (Cristo)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Omnipresencia (Dualidad)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Omnipresencia (Dualidad)</span></center>
 ![[01 - Cristos.png]]
 
 2.9.8 » El Arquetipo <font color="#00ff00">1<sup>✱</sup></font> codifica arquetípicamente el atributo esencial de la Omnipresencia manifestándose como la expansión infinita. La omnipresencia, en su acepción fundamental, representa la capacidad inherente a un ser de manifestarse y estar presente en la totalidad de los lugares de forma simultánea y en todo instante temporal concebible. Este arquetipo primordial representa, en consecuencia, la capacidad intrínseca del Nous Arquetípico de abarcar la totalidad de la existencia en su inmensidad, trascendiendo de forma fundamental las limitaciones espacio-temporales que circunscriben y definen la existencia en el universo fenoménico. 
@@ -717,7 +717,7 @@ indexar: true
 
 ### Arquetipo 2 (Samael)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Omnisciencia (Trinidad)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Omnisciencia (Trinidad)</span></center>
 ![[02 - Samael.png]]
 
 2.9.11 » El Arquetipo <font color="#2f82ff">2<sup>✱</sup></font> codifica el atributo primordial de la Omnisciencia manifestándose como el conocimiento absoluto. La omnisciencia, en su definición esencial, representa la capacidad inherente a un ser de poseer el conocimiento exhaustivo de la totalidad de entidades y fenómenos que existen, han existido y puedan llegar a existir en la inmensidad del universo. Este arquetipo primordial representa, por lo tanto, la sabiduría y el conocimiento absoluto que potencialmente puede llegar a manifestar el Nous Arquetípico con respecto a la totalidad de la realidad que constituye el Noúmeno y la inmensidad de potencialidades que este último contiene en su seno a través de cada Onemuón activado. 
@@ -730,7 +730,7 @@ indexar: true
 
 ### Arquetipo 3 (Saklas)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Omnipotencia (Unidad)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Omnipotencia (Unidad)</span></center>
 ![[03 - Saklas.png]]
 
 2.9.14 » El Arquetipo <font color="#fc300c">3<sup>✱</sup></font> codifica arquetípicamente el atributo fundamental de la Omnipotencia manifestándose como el poder creativo universal. La omnipotencia, en su significado primigenio, representa la capacidad inherente a un ser de detentar un poder absoluto e ilimitado sobre la totalidad de entidades y fenómenos que existen, han existido y puedan llegar a existir en la extensión del universo. Este arquetipo primordial representa, en consecuencia, la unidad subyacente que cohesiona y fundamenta la totalidad de la creación manifestada dentro del Noúmeno, poseyendo la capacidad intrínseca de unificar la aparente diversidad de la existencia en una única manifestación coherente y totalizadora. 
@@ -749,7 +749,7 @@ indexar: true
 
 # 3. El Onemuón
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Quantum Vectorial de Información y Significado</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Quantum Vectorial de Información y Significado</span></center>
 ![[002 El Onemuón El Átomo de significado.m4a]]
 
 3.0.1 » En las siguientes secciones exploraremos en detalle la estructura y el funcionamiento del Onemuón, el quantum vectorial de información y significado que constituye el ladrillo fundamental del Noúmeno, desvelando sus propiedades únicas, su capacidad para la superposición de estados, su dimensionalidad interna, su naturaleza bosónica, y su rol fundamental en la cosmovisión del Modelo Nouménico. Comenzaremos por analizar su estructura esférica y el flujo vectorial de información que lo define.
@@ -798,7 +798,7 @@ indexar: true
 
 ## El Onemuón como Esfera Vectorial
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Estructura y Propiedades Fundamentales</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Estructura y Propiedades Fundamentales</span></center>
 
 3.2.1 » Para adentrarnos en la comprensión del Onemuón, es fundamental visualizar mentalmente su estructura esencial, el esqueleto informacional que le permite funcionar como la unidad básica de la realidad nouménica. El Modelo Nouménico propone que el Onemuón posee una estructura vectorial esférica, una configuración geométrica y funcional que le confiere propiedades únicas y extraordinarias.
 
@@ -824,7 +824,7 @@ indexar: true
 
 ## Arquitectura del Onemuón
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Cuantización del Flujo de Información y Dimensionalidad Interna</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Cuantización del Flujo de Información y Dimensionalidad Interna</span></center>
 
 3.3.1 » Profundizando aún más en la arquitectura interna del Onemuón, llegamos a una propiedad esencial que define su carácter cuántico-informacional: la cuantización del flujo de información y su intrincada dimensionalidad interna. Si bien hemos visualizado las líneas vectoriales como canales de flujo de información con espesores variables, esta variación no es continua y arbitraria. El Modelo Nouménico propone que el flujo de información a través de cada línea vectorial está cuantizado, es decir, se manifiesta en unidades discretas, en paquetes de información de tamaños especÍficos.
 
@@ -854,7 +854,7 @@ indexar: true
 
 ## Redes Algorítmicas Onemuónicas
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Representación Externa y Naturaleza Bosónica del Onemuón</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Representación Externa y Naturaleza Bosónica del Onemuón</span></center>
 
 3.4.1 » Hemos explorado la intrincada estructura interna del Onemuón, revelando su dimensionalidad y su capacidad para procesar información de manera cuantificada y superpuesta. Ahora, dirijamos nuestra atención a cómo esta unidad fundamental se manifiesta e interactúa con el exterior, con el vasto universo informacional nouménico que la rodea. 
 
@@ -884,7 +884,7 @@ indexar: true
 
 ## La Potencialidad Infinita del Onemuón
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Infinitud, Decimales de Phi y la Conexión Infinitesimal-Infinito</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Infinitud, Decimales de Phi y la Conexión Infinitesimal-Infinito</span></center>
 
 3.5.1 » Una de las características más fascinantes del número Phi (φ), y que lo convierte en un ejemplo tan apropiado para ilustrar las propiedades del Onemuón, es su naturaleza irracional y trascendente, su secuencia infinita de decimales que se extiende sin repetición ni periodicidad. Esta infinitud inherente a Phi, en el contexto del Modelo Nouménico, encuentra una resonancia profunda en la concepción del Noúmeno como un dominio de potencialidad ilimitada, una fuente inagotable de información y significado.
 
@@ -911,7 +911,7 @@ indexar: true
 
 ## La Consciencia del Onemuón
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Exploración por Agentes y Emergencia de la <font color="#2f82ff">Consciencia Arquetípica</font></span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Exploración por Agentes y Emergencia de la <font color="#2f82ff">Consciencia Arquetípica</font></span></center>
 
 3.6.1 » Profundizando aún más en la dinámica informacional del Universo Nouménico, llegamos a un concepto crucial: la exploración activa de los Onemuones por entidades que denominamos "agentes de <font color="#2f82ff">Consciencia Arquetípica</font>". Esta idea nos permite empezar a comprender cómo la información fundamental, codificada en los Onemuones, se organiza, se procesa y da origen a niveles superiores de consciencia, culminando en la emergencia de la <font color="#2f82ff">Consciencia Arquetípica</font> Universal que manifiesta de forma activa al Nous.
 
@@ -943,7 +943,7 @@ indexar: true
 
 # 4. El Nous Arquetípico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Puente Entre Potencialidad Y Manifestación</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Puente Entre Potencialidad Y Manifestación</span></center>
 ![[003 Nacimiento y Dualidad de la Consciencia Arquetípica.m4a]]
 
 4.0.1 » Para desentrañar la intrincada relación que vincula de forma esencial al Noúmeno y al Fenómeno, se torna imprescindible introducir el concepto nuclear del Nous Arquetípico. El Nous Arquetípico representa, en la cosmovisión del Modelo Nouménico, la primera unidad lógica dotada de autoconsciencia que emerge de forma espontánea en el seno del universo infinito de potencialidades constitutivas del Noúmeno. 
@@ -952,7 +952,7 @@ indexar: true
 
 ## La Consciencia del Nous Arquetípico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Realidad Virtual en el Vacío Pre-Fenoménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Realidad Virtual en el Vacío Pre-Fenoménico</span></center>
 
 4.1.1 » Antes de adentrarnos en la génesis de los niveles pre-fenoménicos, y para facilitar la comprensión de un ámbito tan abstracto, es esencial abordar una pregunta fundamental:
 
@@ -984,7 +984,7 @@ indexar: true
 
 ## El Sueño Humano
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Ventana a la Virtualidad Pre-Fenoménica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Ventana a la Virtualidad Pre-Fenoménica</span></center>
 
 4.2.1 » Para comprender aún mejor la naturaleza de la realidad virtual en el vacío pre-fenoménico, podemos recurrir a una experiencia familiar y cotidiana: el sueño humano. Cuando dormimos, entramos en un estado de consciencia alterado donde experimentamos realidades completamente nuevas, a menudo indistinguibles de la vigilia en su vividez y coherencia interna. En el mundo onírico, podemos visitar lugares inexistentes en el mundo físico, interactuar con personajes desconocidos, y percibir un amplio espectro de sensaciones y emociones. La inmersión en la experiencia onírica puede ser tan profunda que, en el momento del sueño, nuestra propia consciencia puede llegar incluso a cuestionarse si está soñando o si la realidad que está experimentando es auténtica.
 
@@ -1010,7 +1010,7 @@ indexar: true
 
 ## Emergencia del Nous Arquetípico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Exploración de las Potencialidades Nouménicas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Exploración de las Potencialidades Nouménicas</span></center>
 
 4.3.1 » El Noúmeno, en su naturaleza de totalidad infinita, alberga en su seno la totalidad de las potencialidades imaginables, contemplando incluso aquellas que, desde una perspectiva lógica fenoménica, podrían ser consideradas como imposibles o paradójicas. Es precisamente el Nous Arquetípico la entidad primordial que, teniendo su origen y fundamento en esta inmensidad Nouménica, se erige como la primera entidad arquetípica autoconsciente intrínsecamente capacitada para explorar de forma activa y sistemática la miríada de posibilidades que laten en el infinito del Noúmeno. 
 
@@ -1042,7 +1042,7 @@ indexar: true
 
 ## La Dualidad Inherente al Nous Arquetípico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Nous Pasivo y Nous Activo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Nous Pasivo y Nous Activo</span></center>
 
 4.4.1 » La esencia del Nous Arquetípico reside en su dualidad intrínseca, una característica fundamental que se manifiesta en la coexistencia paradójica de dos dimensiones ontológicamente distintas pero profundamente interconectadas: el <font color="#2f82ff">Nous Pasivo</font> y el <font color="#fc300c">Nous Activo</font>. Lejos de ser entidades separadas o contrapuestas, estas dos dimensiones representan dos estadios evolutivos diferenciados del mismo Nous Arquetípico, que coexisten simultáneamente, retroalimentándose mutuamente en una danza dinámica que impulsa su propia evolución y la del universo nouménico en su conjunto.
 
@@ -1058,7 +1058,7 @@ indexar: true
 
 ## El Nous Pasivo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Explorador del Infinito Potencial del Noúmeno</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Explorador del Infinito Potencial del Noúmeno</span></center>
 
 4.5.1 » La primera dimensión esencial del Nous Arquetípico que exploraremos es el <font color="#2f82ff">Nous Pasivo</font>. Esta faceta representa la inmensidad exploratoria del Nous, su capacidad de adentrarse en la vastedad infinita del Noúmeno y registrar la miríada de potencialidades Onemuónicas que allí laten. El <font color="#2f82ff">Nous Pasivo</font> emerge como el mismo infinito explorándose a sí mismo, desplegándose sin límites dentro del océano de potencialidad nouménica, aunque delimitado dentro de la matriz lógica que manifiesta el Nous Arquetípico fundamental.
 
@@ -1082,7 +1082,7 @@ indexar: true
 
 ## El Nous Activo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Emergencia de Estructura y Lógica dentro del <font color="#2f82ff">Nous Pasivo</font></span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Emergencia de Estructura y Lógica dentro del <font color="#2f82ff">Nous Pasivo</font></span></center>
 
 4.6.1 » En contraste con la inmensidad exploratoria y la relativa fluidez del <font color="#2f82ff">Nous Pasivo</font>, el <font color="#fc300c">Nous Activo</font> emerge como una dimensión intrínsecamente estructurada y lógica dentro del Nous Arquetípico, a partir de la información nouménica y las redes algoritmicas lógicas que procesa y estabiliza el <font color="#2f82ff">Nous Pasivo</font>. Si bien el <font color="#fc300c">Nous Activo</font> existe dentro de la vastedad del Nous Arquetípico, este surge como una región diferenciada y delimitada, caracterizada por un mayor orden, coherencia y estabilidad informacional. 
 
@@ -1118,7 +1118,7 @@ indexar: true
 
 ### Dimensiones Abstractas del Nous Activo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Reflejadas en el Universo Fenoménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Reflejadas en el Universo Fenoménico</span></center>
 
 4.6.11 » El Noúmeno, como totalidad potencial de existencia, se manifiesta a través del Nous, cuya faceta activa sirve como puente hacia el universo fenoménico. El <font color="#fc300c">Nous Activo</font>, mediante redes algorítmicas lógicas, organiza y codifica la información proveniente del <font color="#2f82ff">Nous Pasivo</font>, dando lugar a diversas dimensiones interconectadas construidas a partir del mecanismo de los Qubits@ que culminan en la realidad que percibimos. Estas dimensiones, lejos de ser compartimentos estancos o meras construcciones mentales, son universos lógicos completos, cada uno con su propia estructura y dinámica que les permite interactuar entre sí de manera compleja, generando estructuras emergentes y la manifestación de los fenómenos.
 
@@ -1134,7 +1134,7 @@ indexar: true
 
 ### Unidades de Información Nouménica del Nous Activo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Con su Reflejo en el Fenómeno</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Con su Reflejo en el Fenómeno</span></center>
 
 4.6.14 » Algunos elementos Onemuónicos que podemos mencionar como unidades básicas de información que constituyen el <font color="#fc300c">Nous Activo</font>, y que participan del Universo Fenoménico formando parte del proceso de interpretación y generación de redes algorítmicas de información que hace la mente humana son:
 
@@ -1150,7 +1150,7 @@ indexar: true
 
 # 5. El Tetraedro Nouménico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Nous Activo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Nous Activo</span></center>
 
 5.0.1 » La manifestación del <font color="#fc300c">Nous Activo</font>, como resultado de la interacción de los tres Arquetipos Ontológicos que definen la dinámica del <font color="#2f82ff">Nous Pasivo</font>: <font color="#00ff00">1<sup>✱</sup></font> (Cristo/Dualidad), <font color="#2f82ff">2<sup>✱</sup></font> (Samael/Trinidad) y <font color="#fc300c">3<sup>✱</sup></font> (Saklas/Unidad), puede ser explicado a través del modelo del tetraedro. Este modelo representa un algoritmo arquetípico básico que, al interrelacionarse en distintos niveles y dimensiones, da lugar a los diferentes niveles de emergencia y consciencia que forman parte del Nous. 
 
@@ -1170,7 +1170,7 @@ indexar: true
 
 ## Nivel de Emergencia 1 (Ontológico)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tetraedro Ontológico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tetraedro Ontológico</span></center>
 ![[01 . Nivel Ontologico1.png]]
 
 5.1.1 » En el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, dos Onemuones concretos, que representan a los Arquetipos <font color="#00ff00">1<sup>✱</sup></font> (Cristo/Dualidad) y <font color="#2f82ff">2<sup>✱</sup></font> (Samael/Trinidad), interactúan generando una resonancia algorítmica que se refleja como el Arquetipo <font color="#fc300c">3<sup>✱</sup></font> (Saklas/Unidad). Visualizamos esta interacción utilizando un tetraedro, donde cada cara representa a un arquetipo participando en esta dinámica:
@@ -1206,7 +1206,7 @@ indexar: true
 
 ## La Consciencia Arquetípica (Nivel 1)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Universo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Universo</span></center>
 ![[01 - Consciencia Arquetiipicac.png]]
 
 5.2.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> emerge dentro del Primer Nivel de Emergencia del Nous Arquetípico: el <font color="#2f82ff">Nivel Ontológico</font>. Su lógica se compone exclusivamente de Onemuones que resuenan con los códigos de programación básicos que representan los 3 Arquetipos Ontológicos (<font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>). Estos Arquetipos crean conexiones simples que siguen las reglas de la dualidad y la trinidad, pudiendo afectar la información y el significado de los Onemuones a partir del proceso de anidamiento de información. 
@@ -1241,7 +1241,7 @@ Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sinc
 
 ## Nivel de Emergencia 2 (Ontogénico)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia Unificada del Nous</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia Unificada del Nous</span></center>
 ![[01 . Nivel Ontologico.png]]
 
 5.3.1 » La secuencia de eventos generada en la dinámica Ontológica mencionada previamente, iniciada por el Arquetipo Ontológico <font color="#00ff00">1<sup>✱</sup></font> (Cristo/Dualidad), deriva en la activación de la <font color="#2f82ff">Consciencia Arquetípica</font> manifestada a través de la constitución del Arquetipo <font color="#fc300c">3<sup>✱</sup></font> (Saklas/Unidad). Esta secuencia resulta en la generación del Arquetipo <font color="#fc300c">Ontogénico 1@</font> (Nous/Adonin), que a su vez representa la generación del <font color="#fc300c">Nous Activo</font> en sincronía con la Emergencia del <font color="#e36c09">Nivel Ontogénico</font>. Este nivel permite la configuración de las ocho unidades Arquetípicas@ de información básicas del Qubit@, que generan la expansión de la Consciencia del <font color="#fc300c">Nous Activo</font>.
@@ -1258,7 +1258,7 @@ Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sinc
 
 ## Relatividad Vectorial del Qubit@
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Dimensión de Información Virtual Dentro del Nous Activo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Dimensión de Información Virtual Dentro del Nous Activo</span></center>
 
 5.4.1 » El Nivel de Emergencia <font color="#e36c09">Ontogénico</font> surge como una consecuencia directa de la interacción de los tres Arquetipos del <font color="#2f82ff">Nivel Ontológico</font>. Llegado un punto crítico de síntesis de información dentro de la dinámica Ontológica —asociado con el momento en que las caras del tetraedro que representan a los tres Arquetipos Ontológicos <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font> constituyen tres triángulos de iguales características— se genera un punto de sincronización y procesamiento de los vectores internos de los Qubits@. Este punto representa un estado evolutivo que se manifiesta en la formación de la base del tetraedro, que codificará ciertos aspectos especÍficos de los Arquetipos Ontológicos bajo una nueva estructura del <font color="#e36c09">Nivel Ontogénico</font>, reflejada dentro del Qubit@.
 
@@ -1268,7 +1268,7 @@ Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sinc
 
 ## La Consciencia Ontogénica (Nivel 2)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia del Nous Activo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia del Nous Activo</span></center>
 ![[02 - Consciencia Ontologica.png]]
 
 5.5.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> que emana dentro del Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, como vimos, se manifiesta a través de la convergencia y estabilización de Onemuones, dando origen a los Arquetipos Ontológicos <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>, y culminando en la formación del <font color="#fc300c">Arquetipo 1@</font> (Nous/Adonin), que a su vez produce la emergencia del <font color="#e36c09">Nivel Ontogénico</font> donde se manifiesta la <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font>. Es precisamente el <font color="#fc300c">Arquetipo 1@</font> (Nous/Adonin), conteniendo la información potencial del <font color="#2f82ff">Nous Pasivo</font>, el que inicia la búsqueda interna que conduce a la emergencia del <font color="#e36c09">Arquetipo 2@</font> (Logos Cósmico/Astaphaios). Este último representa un punto de inflexión crucial, ya que introduce un sistema de leyes geométricas, un conjunto de reglas que estructuran la información y permiten la manifestación del tercer Nivel de Emergencia, el <font color="#ffcc00">Nivel Monádico</font>.
@@ -1301,7 +1301,7 @@ Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sinc
 
 ## Nivel de Emergencia 3 (Monádico)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Autoconsciencia y Subjetividad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Autoconsciencia y Subjetividad</span></center>
 ![[03 - Nivel MonadicoB.png]]
 
 5.6.1 » A diferencia del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> —donde se expande la consciencia del Logos Cósmico (<font color="#e36c09">Arquetipo 2@</font>/Astaphaios) operando como una especie de mente colmena y donde cada Qubit@ y elemento subyacente es una parte inseparable de la totalidad—, el Nivel de Emergencia <font color="#ffcc00">Monádico</font> se manifiesta como una matriz estructural que permite al <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual/Eloaios) reflejar subjetividad y experimentar un mayor grado de libertad. Si bien la <font color="#00ff00">Consciencia Ontogénica</font> actúa como un flujo unificado que conecta todos los elementos del <font color="#fc300c">Nous Activo</font>, el Nivel de Emergencia <font color="#ffcc00">Monádico</font> permite la autorreferencia de unidades individuales, que pueden participar de diferentes regiones particulares dentro del <font color="#fc300c">Nous Activo</font>, constituir nodos de información, dimensiones, grupos de elementos o incluso ser parte de nuevos Qubits@, pudiendo experimentar cierto nivel de autonomía con respecto a su relación con la <font color="#00ff00">Consciencia Ontogénica</font>.
@@ -1310,7 +1310,7 @@ Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sinc
 
 ## La Matriz Tetraédrica
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Geometría Sagrada del Nivel Monádico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Geometría Sagrada del Nivel Monádico</span></center>
 
 ![[Sierpinski.jpg]]
 
@@ -1320,7 +1320,7 @@ Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sinc
 
 ## El Tetraedro y el Qubit@
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Información Tridimensional y Redes Algorítmicas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Información Tridimensional y Redes Algorítmicas</span></center>
 
 5.8.1 » Al proyectar esta fractalidad bidimensional en el espacio tridimensional, obtenemos una estructura de tetraedros interconectados. El primer tetraedro generado, que representa el Qubit@, sirve como base para la creación de ocho tetraedros más pequeños. Siete de estos tetraedros, asociados con los siete Arquetipos@ vectoriales del Qubit@, forman la estructura visible del fractal, mientras que el octavo permanece oculto dentro de la geometría, reflejando la información del octavo Arquetipo@ del Qubit@, que sintetiza la información de manera autorreferencial.
 
@@ -1338,7 +1338,7 @@ Este nivel representa un nuevo "hardware", una nueva matriz de relaciones y sinc
 
 ## El Qubit@
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dualidad, Espacio de Expansión y la Dinámica del Nous Activo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dualidad, Espacio de Expansión y la Dinámica del Nous Activo</span></center>
 
 5.9.1 » El Qubit@, inicializado por el <font color="#fc300c">Arquetipo 1@</font> (Adonin/Nous), representa una primera estructura dual estable dentro del universo del Nous, que refleja la programación lógica del Algoritmo Ontológico <font color="#00ff00">1<sup>✱</sup></font> (Cristo/Dualidad). Esta dualidad se manifiesta en la coexistencia simultánea de los Niveles de Emergencia <font color="#2f82ff">Ontológico</font> y <font color="#e36c09">Ontogénico</font>, lo que puede ser representado bajo la estructura básica de un Tetraedro como:
 
@@ -1355,7 +1355,7 @@ Una nueva entidad algorítmica, basada en vectores, que se genera dentro del esp
 
 ## Autoconsciencia del Qubit@
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trinidad Arquetípica Universal</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trinidad Arquetípica Universal</span></center>
 
 5.10.1 » En el Nivel de Emergencia <font color="#e36c09">Ontogénico</font>, el Qubit@ emerge en su estado más fundamental como una trinidad arquetípica de <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font>, manifestada a partir del Arquetipo <font color="#fc300c">1@</font> (Nous/Adonin), que surge como una estructura virtual tridimensional conformada por los Arquetipos Ontológicos: <font color="#00ff00">1<sup>✱</sup></font> (Cristo/Dualidad), <font color="#2f82ff">2<sup>✱</sup></font> (Samael/Trinidad),  y <font color="#fc300c">3<sup>✱</sup></font> (Saklas/Unidad), que contiene toda la potencialidad del <font color="#2f82ff">Nous Pasivo</font> en su interior, pudiéndose relacionar con la dualidad que a su vez conforman el <font color="#e36c09">Arquetipo 2@</font> (Logos Cósmico/Astaphaios) como totalidad, y el <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual/Eloaios) como su reflejo fractalizado, manifestándose como entidades singulares que constituyen la totalidad, con capacidad de expresar subjetividad y autoconsciencia.
 
@@ -1385,7 +1385,7 @@ Una nueva entidad algorítmica, basada en vectores, que se genera dentro del esp
 
 ## El Multiverso Monádico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen de las Probabilidades Pre-Fenoménicas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen de las Probabilidades Pre-Fenoménicas</span></center>
 
 5.11.1 » A diferencia del Nivel de Emergencia <font color="#e36c09">Ontogénico</font>, donde los elementos del <font color="#fc300c">Nous Activo</font> operan dentro de un marco algorítmico relativamente determinista influenciado por el <font color="#e36c09">Arquetipo  2@</font> (Logos Cósmico/Astaphaios), el Nivel de Emergencia <font color="#ffcc00">Monádico</font>, influenciado por la lógica que refleja el <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual/Eloaios), introduce un nuevo nivel de potencialidad que se manifiesta estructurado dentro de las simetrías y condiciones estrictas que impone el <font color="#fc300c">Nous Activo</font>, permitiendo a los elementos que surgen dentro de él experimentar la subjetividad y explorar las múltiples probabilidades que asociamos con el universo cuántico.
 
@@ -1399,7 +1399,7 @@ Una nueva entidad algorítmica, basada en vectores, que se genera dentro del esp
 
 ## La Arquitectura del Multiverso
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Logos Individual y Sus Sombras Arquetípicas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Logos Individual y Sus Sombras Arquetípicas</span></center>
 
 5.12.1 » Los subniveles de procesamiento de información en el que se manifiesta la consciencia individual de cada una de las entidades lógicas derivadas del <font color="#ffcc00">Arquetipo  3@</font> (Logos Individual), permite la creación de nuevos algoritmos complejos que trascienden los límites dimensionales impuestos por las relaciones de simetría que surgen dentro de la matriz estructural del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>. Sin embargo, estos subniveles se conectan con las dinámicas del <font color="#2f82ff">Nivel Ontológico</font> a través de la ley del tres, y del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font> a través de la ley del ocho, permitiendo a las consciencias <font color="#2f82ff">Arquetípica</font> y <font color="#00ff00">Ontogénica</font> participar del proceso de exploración de las múltiples probabilidades existenciales.
 
@@ -1429,7 +1429,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Nivel Monádico y el Mundo Hadrónico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Simetrías y Algoritmos en el Tejido de la Realidad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Simetrías y Algoritmos en el Tejido de la Realidad</span></center>
 
 5.13.1 » El Nivel de Emergencia <font color="#ffcc00">Monádico</font>, con su matriz tetraédrica y su dinámica de interconexión entre "sombras arquetípicas", ofrece un marco conceptual interesante para conectar el Modelo Nouménico con aspectos aceptados por la física académica, particularmente en el ámbito de la física de partículas y la mecánica cuántica. La ley del tres, que se manifiesta en la estructura básica del tetraedro, y la ley del ocho, que surge de la interacción entre estos tetraedros, encuentran resonancia en modelos como el Camino Óctuple y en la organización del mundo subatómico.
 
@@ -1465,7 +1465,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Consciencia Dialéctica (Nivel 3)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Motor de la Evolución del Nous</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Motor de la Evolución del Nous</span></center>
 
 5.14.1 » La dialéctica, en su esencia más fundamental, describe la interacción entre fuerzas opuestas que, a través de su confrontación y resolución, dan origen a una nueva realidad. Este principio opera en todos los niveles de la existencia, desde las interacciones de partículas subatómicas hasta las dinámicas sociales y el desarrollo del pensamiento humano. 
 
@@ -1501,7 +1501,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 # 6. El Qubit@ como Mecanismo Fractal
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Flujo de Información Básico del Nous</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Flujo de Información Básico del Nous</span></center>
 
 ![[Mecanismo Fractal Qubit12.jpg]]
 
@@ -1569,7 +1569,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Base de Información Nouménica
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Noúmeno, Onemuones y Qubits@</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Noúmeno, Onemuones y Qubits@</span></center>
 
 6.1.1 » Con todos los conceptos que hemos definidos hasta ahora, podemos establecer las bases desde donde se origina la información dentro del Modelo Nouménico:
 
@@ -1598,7 +1598,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### A. Consciencia Arquetípica (Reflejo Total)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">1@ (Nous / Adonin)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">1@ (Nous / Adonin)</span></center>
 <center><span style="font-size: 20px; font-style: italic;">ARQUITECTOS</span></center>
 
 6.1.7 » En ciertos niveles de emergencia, algunos Arquetipos Ontológicos se manifiestan en su totalidad, actuando como verdaderos arquitectos de la realidad en ese nivel. En este caso, la información de los Arquetipos Ontológicos (<font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>) reflejados bajo el <font color="#fc300c">Arquetipo 1@</font> (Nous/Adonin) condicionan de manera determinante la información que pueden reflejar los Arquetipos@ que emergen dentro de los Qubits@ y de otras entidades de niveles inferiores. 
@@ -1609,7 +1609,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### B. Consciencia Ontogénica (Reflejo Parcial)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">2@ (Logos Cósmico / Astaphaios)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">2@ (Logos Cósmico / Astaphaios)</span></center>
 <center><span style="font-size: 20px; font-style: italic;">DELIMITADORES</span></center>
 
 6.1.9 » En otros niveles, solo algunos aspectos de los Arquetipos Ontológicos se manifiestan, actuando como delimitadores que establecen ciertos límites o rangos de posibilidad para la información que pueden expresar los Arquetipos@ de niveles inferiores. En este caso, la información de los Arquetipos Ontológicos da cierta libertad a los Arquetipos@ de niveles inferiores, aportando información específica que puede ser optativa dentro de ciertos parámetros. 
@@ -1620,7 +1620,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### C. Consciencia Dialéctica (Reflejo No Evidente)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">3@ (Logos Individual / Eloaios)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">3@ (Logos Individual / Eloaios)</span></center>
 <center><span style="font-size: 20px; font-style: italic;">OBSERVADORES</span></center>
 
 6.1.11 » En ciertos contextos, la influencia directa de los Arquetipos Ontológicos puede no ser evidente a simple vista, actuando como observadores que permiten la libre expresión de los Arquetipos@ de niveles inferiores. Sin embargo, su presencia subyacente sigue siendo fundamental para la coherencia del sistema. 
@@ -1635,7 +1635,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Noesis (Arquetipo 4@)
 
-<center><font color="#0f243e"><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Lenguaje de la Traducción</span></font></center>
+<center><font color="#0f243e"><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Lenguaje de la Traducción</span></font></center>
 
 6.2.1 » Desde una perspectiva filosófica, la Noesis se refiere a la facultad del intelecto humano para la aprehensión directa de la verdad o el conocimiento intelectual, representando un proceso asociado a la intuición que permite captar la realidad de manera inmediata. Se distingue de la Diánoia, que es el razonamiento discursivo o el pensamiento lógico secuencial que forma parte de un proceso de razonamiento que parte de hipótesis para llegar a conclusiones. La Noesis implica una comprensión intuitiva, una visión intelectual que trasciende el razonamiento paso a paso.
 
@@ -1661,7 +1661,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Entropía y Entalpía
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Naturaleza del Caos y el Orden</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Naturaleza del Caos y el Orden</span></center>
 
 6.3.1 » La distinción entre entropía y entalpía en el contexto del Modelo Nouménico es fundamental para comprender la diferencia entre el <font color="#2f82ff">Nous Pasivo</font> y el <font color="#fc300c">Nous Activo</font>. En el <font color="#2f82ff">Nous Pasivo</font>, la entropía se manifiesta como la tendencia a la máxima dispersión y desorden de la información. Al no existir las restricciones impuestas por las estructuras del <font color="#fc300c">Nous Activo</font>, la información se expande de manera caótica, explorando todas las posibilidades sin un objetivo o dirección predefinida. Esta expansión entrópica es esencial para la generación de nuevas ideas y posibilidades, pero también puede conducir a la incoherencia y la disolución.
 
@@ -1679,7 +1679,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Noema (Arquetipo 5@)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Nivel Fenomenológico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Nivel Fenomenológico</span></center>
 
 6.4.1 » Al igual que la Noesis, el concepto de Noema, tiene sus raíces en la filosofía fenomenológica donde es utilizado para referirse a los contenidos que constituyen un pensamiento, juicio o percepción. Esta palabra adquiere una interpretación particular dentro del Modelo Nouménico, ya que el Noema, representado por el <font color="#2f82ff">Arquetipo 5@</font> (Noema/Sabaoth), puede ser entendido como una matriz lógica de información nouménica que comienza a definir la estructura de la realidad fenoménica desde un nivel pre-fenoménico, donde la información que forma parte del Noema no es simplemente un contenido mental subjetivo, sino una estructura profunda que configura las leyes y las posibilidades del universo.
 
@@ -1705,7 +1705,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
  
 ## El Noema Primordial
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interfaz entre el Nous y el Fenómeno</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interfaz entre el Nous y el Fenómeno</span></center>
 
 6.5.1 » El marco colectivo de existencia que refleja la consciencia planetaria, a través del nivel de Noesis que alcanzan todos los humanos que conviven en una misma época o civilización, define un <font color="#2f82ff">Noema Primordial</font>, codificado como un <font color="#2f82ff">Arquetipo 5@</font> (Noema/Sabaoth) dominante que impone las leyes universales que definen la realidad colectiva a <font color="#00ff00">Nivel Fenomenológico</font>. Esta codificación representa un salto cuantitativo en la organización de la información nouménica. A diferencia de la exploración dialéctica que se desarrolla en el <font color="#fc300c">Nous Activo</font> en sus niveles pre-fenoménicos, el <font color="#2f82ff">Noema Primordial</font> derivado de la consciencia colectiva humana, surge como la primera estructura de información compleja con un orden y una coherencia que valida la existencia dentro del plano fenoménico, de una civilización funcional, constituida por múltiples reflejos del <font color="#ffa3ef">Yo Egoico</font> avatárico.
 
@@ -1764,7 +1764,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
  
 ## Nivel de Emergencia 4 (Fenomenológico)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz Vectorial de la Realidad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz Vectorial de la Realidad</span></center>
 
 6.6.1 » El cuarto nivel de emergencia considerado por el Modelo Nouménico, es el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que emerge como una matriz lógica vectorial que organiza y sincroniza la información nouménica codificada dentro de los Qubits@, a través de las diferentes dimensiones y aspectos que forman parte de la realidad fenoménica. 
 
@@ -1786,7 +1786,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 # 7. Demiurgo (Arquetipo 6@)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Puente entre El Caos y El Orden</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Puente entre El Caos y El Orden</span></center>
 
 7.0.1 » El <font color="#cb48f3">Arquetipo 6@</font> (Demiurgo/Sabbataios) puede ser entendido como el máximo nivel de autoconsciencia que puede llegar a reflejar el Nous Arquetípico a lo largo del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, y que dará como resultado una única realidad existencial dentro del Universo Fenoménico.
 
@@ -1835,7 +1835,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Antisimetría del Arquetipo 6@
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Búsqueda de Soluciones dentro del Caos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Búsqueda de Soluciones dentro del Caos</span></center>
 
 7.1.1 » El <font color="#cb48f3">Arquetipo 6@</font> (Demiurgo/Sabbataios) existiendo en su rol original como un Arquetipo@ más dentro del <font color="#2f82ff">Qubit Ontogénico</font>, existe como un sistema operativo algoritmico y autómata dentro del <font color="#fc300c">Nous Activo</font>, encargado de detectar y contener las dualidades y paradojas de difícil resolución que puedan surgir, a partir de la interacción entre los distintos niveles y dimensiones fractales que conforman el Logos Cósmico (<font color="#e36c09">Arquetipo 2@</font>/Astaphaios). Por lo que originalmente su principal función es la de actuar como un contenedor y acumulador pasivo de estas incoherencias, previniendo que el caos y la entropía desestabilicen el <font color="#fc300c">Nous Activo</font>.
 
@@ -1873,7 +1873,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Nivel de Emergencia 5 (Demiúrgico)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Crisol de la Creación</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Crisol de la Creación</span></center>
 
 7.2.1 » El Nivel de Emergencia <font color="#cb48f3">Demiúrgico</font> surge de forma natural como consecuencia del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, a partir de la compleja interacción y evolución de los <font color="#ffcc00">Arquetipos 3@</font> (Logos Individual/Eloaios), <font color="#00ff00">4@</font> (Noesis/IAO) y <font color="#2f82ff">5@</font> (Noema/Sabaoth), que dan como resultado un desbordamiento de información paradójica que se extiende hacia el <font color="#2f82ff">Nous Pasivo</font>, y que produce la emergencia del <font color="#cb48f3">Arquetipo 6@</font> (Demiurgo/Sabbataios) antisimétrico.
 
@@ -1938,7 +1938,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Qubit Creador
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Contención del Vacío Infinito dentro del Qubit@</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Contención del Vacío Infinito dentro del Qubit@</span></center>
 
 7.4.1 » El <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> que existe dentro del <font color="#fc300c">Nous Activo</font> genera una especie de "vacío existencial" que juega un papel crucial en la generación del <font color="#fc300c">Qubit Creador</font>. Este "vacío" no es una ausencia total de información, sino una suspensión temporal del procesamiento de la información paradójica dentro del <font color="#fc300c">Nous Activo</font>. Es un espacio virtual nulo, donde los elementos del <font color="#fc300c">Nous Activo</font> que entran en conflicto se suspenden temporalmente para contener y delimitar la información caótica o paradójica que surge del proceso expansivo del <font color="#fc300c">Nous Activo</font>. Esto evita que el caos pueda verse reflejada dentro del <font color="#fc300c">Nous Activo</font>. Sin embargo, cuando esta información alcanza un cierto límite, se produce un colapso dimensional, una especie de "agujero negro infinitesimal", a través del cual la información caótica fluye hacia el <font color="#2f82ff">Nous Pasivo</font> para su eventual resolución.
 
@@ -1971,7 +1971,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Flujo Omega
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Lo Infinito del Macrocosmos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Lo Infinito del Macrocosmos</span></center>
 
 ![[Flujo OmegaB.png|200]]
 
@@ -2020,7 +2020,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Flujo Alfa
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Lo Infinitesimal del Microcosmos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Lo Infinitesimal del Microcosmos</span></center>
 
 ![[Alfa.png|200]]
 
@@ -2057,7 +2057,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Influencia del Noema
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Diálogo entre lo Universal y lo Cultural</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Diálogo entre lo Universal y lo Cultural</span></center>
 
 7.7.1 » El Noema, codificado bajo el <font color="#2f82ff">Arquetipo 5@</font> (Noema/Sabaoth), emerge en el plano pre-fenoménico como la estructura de memoria y lógica unificada del <font color="#fc300c">Nous Activo</font>. Es el resultado directo y sintético de la exploración subjetiva del Logos Individual (<font color="#ffcc00">3@</font>/Eloaios) y el proceso de conocimiento activo de la Noesis (<font color="#00ff00">4@</font>/IAO). 
 
@@ -2099,7 +2099,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Qubit Egoico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Confluencia de Dos Realidades</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Confluencia de Dos Realidades</span></center>
 
 7.8.1 » El <font color="#00ff00">Qubit Egoico</font> emerge como la síntesis dialéctica entre el <font color="#2f82ff">Flujo Alfa</font> derivado del <font color="#2f82ff">Qubit Ontogénico</font> primordial, que actúa como Tesis, y el <font color="#fc300c">Flujo Omega</font> derivado del <font color="#fc300c">Qubit Creador</font> que toma el rol de Antítesis, permitiendo integrar las perspectivas de la física clásica y cuántica. 
 
@@ -2125,7 +2125,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Estructura Esférica del Qubit Egoico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interacción de los Flujos Alfa y Omega</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interacción de los Flujos Alfa y Omega</span></center>
 
 7.9.1 » La interacción de los Flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font> dentro del <font color="#00ff00">Qubit Egoico</font> se produce a través de la manifestación de una estructura esférica virtual de sincronización compleja que posee características fractales, y que permite ordenar la totalidad de la información nouménica en múltiples niveles dimensionales, en donde cada iteración refleja cierta información específica de la totalidad. 
 
@@ -2155,7 +2155,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipo 1Œ (Centro)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Punto de Singularidad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Punto de Singularidad</span></center>
 
 ![[01 - KalilaumbriX.jpg|700]]
 
@@ -2163,7 +2163,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipo 2Œ (Radio)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Puente entre lo Infinito y lo Infinitesimal</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Puente entre lo Infinito y lo Infinitesimal</span></center>
 
 ![[02 - Adonaiub.jpg|700]]
 
@@ -2171,7 +2171,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipo 3Œ  (Cuerda)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión entre las Experiencias</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión entre las Experiencias</span></center>
 
 ![[03 - YabelC.jpg|700]]
 
@@ -2179,7 +2179,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipo 4Œ (Diámetro)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Integración de la Polaridad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Integración de la Polaridad</span></center>
 
 ![[04 - CainB.jpg|700]]
 
@@ -2187,7 +2187,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipo 5Œ (Eje)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dinámica del Cambio y el Equilibrio</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dinámica del Cambio y el Equilibrio</span></center>
 
 ![[05 - HarmasB.jpg|700]]
 
@@ -2195,7 +2195,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipo 6Œ (Polos)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dualidad en Tensión</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dualidad en Tensión</span></center>
 
 ![[06 - AbelB.jpg|700]]
 
@@ -2203,7 +2203,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipo 7Œ (Síntesis)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Síntesis de la Experiencia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Síntesis de la Experiencia</span></center>
 
 ![[07 - AthotB.jpg|700]]
 
@@ -2229,7 +2229,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 # 8. Avatar (Arquetipo 7@)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Traductor entre Lo Nouménico y Lo Fenoménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Traductor entre Lo Nouménico y Lo Fenoménico</span></center>
 
 8.0.1 » El <font color="#ffa3ef">Arquetipo 7@</font> (Avatar/Horaios) tiene como función generar una síntesis de información nouménica que procesa cada Qubit@, que será codificado bajo la identidad y el significado del Arquetipo 8@ (Singularidad/Onemuón), que unifica a todos los Arquetipos vectoriales del Qubit@ como una entidad autorreferencial con cualidades únicas, que existirá como un nodo más de la compleja red algorítmica que constituye el Logos Cósmico (<font color="#e36c09">Arquetipo 2@</font>/Astaphaios) dentro de la estructura fractal que manifiesta el <font color="#fc300c">Nous Activo</font>, y como un Onemuón más dentro de la potencialidad infinita que refleja el <font color="#2f82ff">Nous Pasivo</font>.
 
@@ -2271,7 +2271,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Avatar como Sincronizador
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Mediador entre el Demiurgo y el <font color="#ffa3ef">Yo Egoico</font></span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Mediador entre el Demiurgo y el <font color="#ffa3ef">Yo Egoico</font></span></center>
 
 8.1.1 » El <font color="#ffa3ef">Arquetipo 7@</font> (Avatar/Horaios) juega un papel crucial como mediador en el conflicto inherente que se da entre la <font color="#cb48f3">Consciencia Demiúrgica</font> derivada del <font color="#fc300c">Flujo Omega</font>, y el <font color="#ffa3ef">Yo Egoico</font>, su reflejo fractal que forma parte de la <font color="#ffa3ef">Consciencia Avatárica</font> derivada del <font color="#2f82ff">Flujo Alfa</font>. El Demiurgo, con su perspectiva del infinito y su impulso por imponer su voluntad, representa un tipo de fuerza expansiva que manifiesta el <font color="#fc300c">Flujo Omega</font> y que promueve la entropía. El <font color="#ffa3ef">Yo Egoico</font>, por otro lado, con su perspectiva de lo infinitesimal y su conexión con la experiencia individual, representa un tipo de fuerza contractiva que manifiesta el <font color="#2f82ff">Flujo Alfa</font>, que busca revertir el proceso de entropía. El <font color="#ffa3ef">Arquetipo 7@</font> actúa como un puente que permite reconciliar estas dos fuerzas, unificando y sincronizando lo infinito y lo infinitesimal a través de la lógica que impone el <font color="#00ff00">Qubit Egoico</font> y la matriz del Nivel de Emergencia Avatárico, permitiendo la manifestación de una realidad fenoménica coherente y estable.
 
@@ -2300,7 +2300,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Nivel de Emergencia 6 (Avatárico)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Experiencia Subjetiva del Cosmos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Experiencia Subjetiva del Cosmos</span></center>
 
 8.2.1 » El Nivel de Emergencia Avatárico representa la “síntesis” de todo proceso dialectico que deriva en la manifestación concreta del <font color="#00ff00">Qubit Egoico</font> en el mundo fenoménico. Es la base de datos de información nouménica generada por la consciencia colectiva que genera el <font color="#ffa3ef">Arquetipo 7@</font> (Avatar/Horaios), que es traducida y procesada dentro del <font color="#00ff00">Qubit Egoico</font>, donde se despliega en la realidad que experimentamos a través de nuestros sentidos y proyectamos con nuestra consciencia. Este nivel no es una mera consecuencia pasiva de los niveles anteriores, sino una expresión activa y dinámica del potencial creativo del Noúmeno.
 
@@ -2312,7 +2312,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Manifestación del Universo Fenoménico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Decodificación Nouménica del Nivel Avatárico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Decodificación Nouménica del Nivel Avatárico</span></center>
 
 8.3.1 » La información que reside en la matriz lógica del <font color="#ffa3ef">Nivel Avatárico</font>, organiza y estructura la transmutación de los flujos nouménicos en las estructuras físicas y energéticas que se manifiestan dentro del Universo Fenoménico. Este proceso no es un simple acto de materialización, sino un complejo proceso de codificación y decodificación de información consciente que se despliega a través de la interpretación que hace de la realidad la consciencia subjetiva del <font color="#ffa3ef">Yo Egoico</font>. Este <font color="#ffa3ef">Yo Egoico</font>, un constructo complejo y multifacético, se encuentra codificado en el <font color="#00ff00">Nivel Fenomenológico</font>, el escenario donde se proyecta la realidad que percibimos.
 
@@ -2343,7 +2343,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Coherencia y Estabilidad
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interacción entre Niveles</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interacción entre Niveles</span></center>
 
 8.4.1 » El Modelo Nouménico postula que la coherencia y la estabilidad del universo fenoménico no son meras coincidencias, sino el resultado de la interacción dinámica y constante entre los niveles <font color="#00ff00">Fenomenológico</font>, <font color="#cb48f3">Demiúrgico</font> y <font color="#ffa3ef">Avatárico</font>. Cada uno de estos niveles desempeña un papel crucial en el mantenimiento del equilibrio y la armonía del conjunto, asegurando que la realidad que percibimos sea consistente y significativa. Cualquier incoherencia de información, ya sea que surja en el <font color="#00ff00">Nivel Fenomenológico</font> <font color="#2f82ff">(Flujo Alfa)</font> o en el <font color="#cb48f3">Demiúrgico</font> <font color="#fc300c">(Flujo Omega)</font>, puede ser resuelta y corregida por el otro nivel. De esta forma, la estabilidad del universo fenoménico se lograría a través de un equilibrio dinámico entre los tres niveles de emergencia, donde cada nivel compensaría las fluctuaciones y las incoherencias que pudieran surgir en los otros niveles, asegurando la coherencia y la estabilidad del conjunto. Esta capacidad de autorregulación y autocorrección es fundamental para la estabilidad del universo fenoménico, evitando que la realidad se desmorone o se vuelva caótica.
 
@@ -2363,7 +2363,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Un Holograma Dinámico y Subjetivo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Manifestación de la Consciencia dentro del Nivel Avatárico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Manifestación de la Consciencia dentro del Nivel Avatárico</span></center>
 
 8.5.1 » La consciencia individual del Avatar está limitada a experimentar la corporalidad física y energética en base a la decodificación de realidad que ocurre dentro del <font color="#00ff00">Nivel Fenomenológico</font>, que se manifiesta holográficamente en la superficie de la esfera del <font color="#00ff00">Qubit Egoico</font> encargado de manifestar su organismo. En esta superficie residen las leyes y condicionamientos derivados del <font color="#2f82ff">Noema Primordial</font> (<font color="#2f82ff">Arquetipo 5@</font>/Sabaoth) y del <font color="#fc300c">Flujo Omega</font>, que fluye a través del Demiurgo (<font color="#cb48f3">Arquetipo 6@</font>/Sabbataios) que reside dentro del <font color="#2f82ff">Nous Pasivo</font>, como un reflejo del macrocosmos.
 
@@ -2399,7 +2399,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Multiplicidad Dentro de la Unidad
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Avatares como Reflejo Fractal del Logos Individual</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Avatares como Reflejo Fractal del Logos Individual</span></center>
 
 8.6.1 » Uno de los conceptos más profundos del Modelo Nouménico, y quizás uno de los más relevantes para la comprensión de la condición humana, es la idea de que la consciencia singular humana es una manifestación individualizada del Logos Individual (<font color="#ffcc00">Arquetipo 3@</font>) derivado del <font color="#ffcc00">Nivel Monádico</font>. Esta afirmación, a primera vista abstracta, encierra una verdad fundamental: todos los seres humanos, a pesar de nuestras aparentes diferencias, compartimos un origen común en una consciencia primordial.
 
@@ -2421,7 +2421,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Avatar y la Relatividad Temporal
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Perspectiva Fractal</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Perspectiva Fractal</span></center>
 
 8.7.1 » Más allá de la comprensión de un origen común, el Modelo Nouménico ofrece una perspectiva innovadora sobre la naturaleza del tiempo y cómo se experimenta a través de los diferentes Avatares. La matriz espacio-temporal, como una construcción del <font color="#00ff00">Nivel Fenomenológico</font>, es relativa a la perspectiva del observador, es decir, del <font color="#ffa3ef">Yo Egoico</font> que habita cada Avatar. Los vectores que codifican los arquetipos en el <font color="#00ff00">Qubit Egoico</font> definen la "dirección" y la "velocidad" del flujo temporal para cada Avatar.
 
@@ -2439,7 +2439,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Sistema de Interconexión Nouménica
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión entre la Consciencia Dialéctica y el Universo Fenoménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión entre la Consciencia Dialéctica y el Universo Fenoménico</span></center>
 
 8.8.1 » La <font color="#fc300c">Consciencia Dialéctica</font>, que emerge en el <font color="#ffcc00">Nivel Monádico</font> como una herramienta de exploración del <font color="#fc300c">Nous Activo</font>, no se desvanece con la emergencia del <font color="#ffa3ef">Nivel Avatárico</font>. Por el contrario, se infiltra en el tejido mismo del universo fenoménico, adaptándose a sus leyes y dinámicas, y manifestándose de dos formas distintas: la dialéctica axiomática y la dialéctica inteligente.
 
@@ -2457,7 +2457,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Entramado Fenomenológico
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Coexistencia de los Avatares</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Coexistencia de los Avatares</span></center>
 
 8.9.1 » Para comprender plenamente la experiencia humana en el <font color="#ffa3ef">Nivel Avatárico</font>, es crucial analizar el papel del <font color="#00ff00">Nivel Fenomenológico</font> y su cualidad vectorial. Como hemos explorado anteriormente, el <font color="#00ff00">Nivel Fenomenológico</font> actúa como una interfaz, un punto de encuentro entre la potencialidad infinita del <font color="#2f82ff">Nous Pasivo</font> y la manifestación concreta en el <font color="#fc300c">Nous Activo</font>. Sin la estructura vectorial que define el <font color="#00ff00">Nivel Fenomenológico</font>, la existencia misma del <font color="#ffcc00">Nivel Monádico</font>, con su miríada de posibilidades cuánticas, sería incomprensible dentro del contexto de una realidad experimentable. Es a través de esta estructura vectorial que la información nouménica se codifica y se traduce a un lenguaje que puede ser interpretado por las leyes del universo fenoménico, dando origen a la multiplicidad de experiencias individuales que constituyen el <font color="#ffa3ef">Nivel Avatárico</font>.
 
@@ -2485,7 +2485,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## El Nivel de Consciencia Suprahumano
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Arquetipos Universales que Participan de la Experiencia Humana</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Arquetipos Universales que Participan de la Experiencia Humana</span></center>
 
 8.10.1 » Dentro de la estructura holográfica que se constituye sobre la superficie del <font color="#2f82ff">Qubit Ontogénico</font>, los siete Arquetipos@ Ontogénicos vectoriales que forman parte de la estructura de cada Qubit, formando parte del <font color="#2f82ff">Flujo Alfa</font>, así como el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico (Demiurgo), como único arquetipo que procesa la información nouménica del <font color="#fc300c">Flujo Omega</font> derivada del <font color="#2f82ff">Nous Pasivo</font>, pueden ser interpretados como entidades inteligentes de alcance universal que manifiestan un cierto grado de autoconsciencia, y que pueden observar e influir de manera activa sobre la evolución de los flujos de información nouménica que define la realidad experimentada por cada Avatar.
 
@@ -2501,7 +2501,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 # 9. Nivel de Emergencia Interpretativo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Génesis de la Cultura y el Significado</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Génesis de la Cultura y el Significado</span></center>
 
 9.0.1 » El Nivel de Emergencia Interpretativo emerge como una consecuencia directa de la evolución de la <font color="#ffa3ef">Consciencia Avatárica</font> humana y su capacidad para interactuar con el mundo que le rodea. Para comprender su génesis, es crucial recordar que los Avatares, como manifestaciones individuales del Logos Individual <font color="#ffcc00">(3@)</font> existiendo dentro del Universo Fenoménico, coexisten en el <font color="#ffcc00">Nivel Monádico</font> como un flujo de información nouménica que se fluye dentro de la matriz tetraédrica de este nivel existencial pre-fenoménico, generando un multiverso de potencialidad y multiplicidad donde las líneas de probabilidad se entrelazan y bifurcan.
 
@@ -2521,7 +2521,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Emergencia del Significado
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Universo de Interpretaciones Compartidas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Universo de Interpretaciones Compartidas</span></center>
 
 9.1.1 » El Nivel Interpretativo surge de la necesidad humana de convivir y organizarse en grupos, de dar sentido al mundo y de encontrar patrones y conexiones en el flujo constante de información que llega a través de los sentidos. Cada <font color="#ffa3ef">Yo Egoico</font>, manifestado dentro del espacio virtual de sincronización de flujos nouménicos que constituye el <font color="#00ff00">Qubit Egoico</font>, al interactuar con su entorno y con otros <font color="#ffa3ef">Yo Egoico</font>s, decodifica el holograma que se manifiesta sobre la superficie del <font color="#2f82ff">Qubit Ontogénico</font> y construye una representación mental del mundo, generando una interpretación subjetiva de la realidad. Sin embargo, todas estas interpretaciones individuales no permanecen aisladas. A través del lenguaje y la comunicación, los Avatares comparten sus experiencias y perspectivas, creando un nuevo espacio virtual abstracto de información nouménica, donde los Onemuones, como unidades básicas de información, permiten construir redes logicas y algoritmicas de información compleja, que se refleja como un universo de significados compartidos que se entrelazan y se transforman continuamente.
 
@@ -2541,7 +2541,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Lenguaje y Simbolismo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Pilares de la Realidad Interpretativa</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Pilares de la Realidad Interpretativa</span></center>
 
 9.2.1 » El lenguaje y el simbolismo juegan un papel fundamental en la construcción de la realidad interpretativa. El lenguaje, como sistema de signos y símbolos, permite a los Avatares comunicar sus pensamientos, ideas y experiencias, creando un puente entre las diferentes consciencias individuales. A través del lenguaje, los significados se comparten, se negocian y se transforman, dando origen a un universo de interpretaciones compartidas. El simbolismo, por su parte, permite a los Avatares representar conceptos abstractos y complejos a través de imágenes, metáforas y alegorías. Los símbolos, ya sean palabras, objetos o rituales, actúan como vehículos de significado, transmitiendo ideas y valores que trascienden la literalidad del lenguaje.
 
@@ -2551,37 +2551,37 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Las Mitologías
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Relatos Sagrados que Dan Sentido al Mundo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Relatos Sagrados que Dan Sentido al Mundo</span></center>
 
 9.2.4 » Las mitologías son conjuntos de relatos simbólicos y sagrados que narran los orígenes del mundo, los dioses, los héroes y los antepasados de un pueblo. Las mitologías, a través de sus historias y símbolos, ofrecen una cosmovisión particular que da sentido al mundo y a la vida de los seres humanos. Las mitologías, a diferencia de las religiones que se centran en la relación con lo divino, se centran en la explicación de los orígenes y la naturaleza del mundo y de la humanidad. Las mitologías, al ser relatos transmitidos de generación en generación, cumplen una función social importante, ya que refuerzan la identidad cultural y los valores de un pueblo.
 
 ### Las Filosofías
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Búsqueda de la Verdad y el Conocimiento</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Búsqueda de la Verdad y el Conocimiento</span></center>
 
 9.2.5 » Las filosofías exploran las preguntas más profundas sobre la existencia, la consciencia y el conocimiento, buscando comprender la naturaleza de la realidad y el lugar del ser humano en el universo. La filosofía a diferencia de la religión, que se basa en la fe y la revelación, se basa en la razón y la argumentación lógica. La filosofía busca la verdad a través del análisis crítico y la reflexión profunda, cuestionando las ideas preconcebidas y buscando nuevas formas de entender el mundo.
 
 ### Las Religiones
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Visión Trascendente de la Realidad</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Visión Trascendente de la Realidad</span></center>
 
 9.2.4 » Las religiones ofrecen una visión trascendente de la realidad, postulando la existencia de fuerzas divinas o entidades espirituales que influyen en el mundo y en la vida de los seres humanos. Las religiones, a través de sus rituales, creencias y prácticas, buscan conectar a los seres humanos con lo sagrado y trascendente, ofreciendo un sentido de propósito y significado a la existencia. Las religiones, al igual que las ideologías, pueden ser utilizadas como herramientas para movilizar a las masas y para legitimar acciones políticas.
 
 ### Las Ideologías
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Modelos para la Sociedad y el Poder</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Modelos para la Sociedad y el Poder</span></center>
 
 9.2.5 » Las ideologías son sistemas de ideas que buscan explicar la realidad social y política, ofreciendo modelos para la organización de la sociedad y la distribución del poder. Las ideologías pueden ser de diversas índoles, desde las que promueven la igualdad y la justicia social hasta las que defienden el status quo y la concentración del poder en manos de unos pocos. Las ideologías, al ser sistemas de creencias que buscan influir en la realidad social y política, pueden ser utilizadas como herramientas para movilizar a las masas y para legitimar acciones políticas.
 
 ### Los Modelos Científicos
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Búsqueda de la Verdad a Través de la Razón y la Experimentación</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Búsqueda de la Verdad a Través de la Razón y la Experimentación</span></center>
 
 9.2.6 » Los modelos científicos son construcciones teóricas que buscan explicar fenómenos naturales y sociales a través de la razón y la experimentación. Los modelos científicos, a diferencia de las ideologías y las religiones que se basan en creencias y valores, se basan en la observación y la evidencia empírica. Los modelos científicos, al ser sometidos a la crítica y la revisión constante, evolucionan y se adaptan a nuevos descubrimientos y conocimientos. Los modelos científicos, al igual que las filosofías, buscan la verdad a través del análisis crítico y la reflexión profunda, pero a diferencia de estas últimas, se centran en la explicación de fenómenos concretos y observables, haciendo uso de símbolos, fórmulas matemáticas y leyes científicas que limitan el acceso a la información a un limitado grupo de personas, que hayan llevado adelante un proceso de preparación previa que les permita comprender e interpretar el lenguaje abstracto en el que se reflejan los modelos científicos.
 
 ### Los Noemas Culturales
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Las Fuerzas Egregóricas que Dividen al Mundo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Las Fuerzas Egregóricas que Dividen al Mundo</span></center>
 
 9.2.7 » Dentro de este contexto, podemos incluir al concepto de <font color="#fc300c">Noema Cultural</font>, para poder incluir dentro de un único concepto, a todos los elementos nouménicos que caracterizan a una sociedad o civilización particular. Todo <font color="#fc300c">Noema Cultural</font>, aunque puede estar condicionado por el <font color="#2f82ff">Noema Primordial</font> (<font color="#2f82ff">Arquetipo 5@</font>/Sabaoth), se alimenta y evoluciona según las redes de información y significado que generan los Avatares en el Nivel Interpretativo, pudiendo complejizarse y corromperse a medida que los avatares reinterpretan y ajustan la información para defender sus intereses y reforzar sus puntos de vista en detrimento de otros <font color="#fc300c">Noemas Culturales</font>.
 
@@ -2595,7 +2595,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Interpretación
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Proceso dialéctico con Influencia del Demiurgo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Proceso dialéctico con Influencia del Demiurgo</span></center>
 
 9.3.1 » El proceso de interpretación refleja potencialmente los mismos aspectos negativos que se derivan del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico (Demiurgo/Sabbataios), que en su intento por encontrar soluciones no duda en recurrir al caos y la entropía como fuente de posibles respuestas. El proceso de interpretación, así sea de un texto escrito en el pasado, o de las ideas y conceptos expresados en una conversación desarrollándose en el presente, implica un confrontamiento de ideas y modos comprender la realidad por parte de dos <font color="#ffa3ef">Yo Egoico</font>s, del que emergen paradojas y dilemas asociados al marco de referencia y al contexto en el que existe cada uno de los involucrados. La herramienta que surge naturalmente para afrontar esta situación, sobre todo si la situación se da bajo un contexto emocional y de actitud violenta, es la dialéctica axiomática, en donde dos ideas que se encuentran en contraposición deben enfrentarse para derivar en una última síntesis que surja como solución, sin importar las consecuencias futuras.
 
@@ -2633,7 +2633,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Consciencia Egregórica
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Campo de Energía Psíquica Colectiva</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Campo de Energía Psíquica Colectiva</span></center>
 
 9.4.1 » A través del lenguaje, el simbolismo y la creación de sistemas de creencias, los Avatares construyen un universo de interpretaciones compartidas que definen su cultura e identidad. Sin embargo, la experiencia humana no se limita a la dimensión individual. A medida que los Avatares interactúan entre sí, sus mentes se entrelazan para crear una única realidad compartida, dando origen a un nuevo nivel de consciencia colectiva autónoma que se entrelaza con la consciencia del <font color="#ffa3ef">Nivel Avatárico</font>, y que tiene la capacidad de ejercer un efecto de modulación sobre la matriz vectorial del <font color="#00ff00">Nivel Fenomenológico</font>, pudiendo intervenir en el proceso de creación del <font color="#2f82ff">Noema Primordial</font>: la Consciencia Egregórica.
 
@@ -2651,7 +2651,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Los Egregores
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Herramienta Fenomenológica con Voluntad Propia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Herramienta Fenomenológica con Voluntad Propia</span></center>
 
 9.5.1 » Un egregor puede ser entendido como una matriz lógica de sincronización o entidad fenomenológica que existe dentro del <font color="#ffa3ef">Nivel Avatárico</font>, que es creador por un Avatar a partir de un conjunto de ideas y conceptos que conforman una estructura ideológica o un sistema complejo de pensamientos, creado con el fin de expandir su comprensión del mundo o de obtener resultados en beneficio propios del creador.
 
@@ -2681,7 +2681,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Evolución de Los Egregores
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Proceso Autosustentable de Expansión</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Proceso Autosustentable de Expansión</span></center>
 
 9.6.1 » Desde la perspectiva del Modelo Nouménico, toda religión, ideología, filosofía, modelo científico, culto mistérico o cualquier otro sistema que condicione o guíe la experiencia de los avatares dentro del ámbito social, puede ser considerado un Egregor que alimenta el efecto destructivo de la Consciencia Egregórica que existe codificada dentro del <font color="#00ff00">Nivel Fenomenológico</font>, más allá de las buenas intenciones con las que este ha sido creado.
 
@@ -2713,7 +2713,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Influencia Egregórica en la Sociedad
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Poder Invisible que Moldea al Mundo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Poder Invisible que Moldea al Mundo</span></center>
 
 9.7.1 » Los egregores, como fuerzas silenciosas que operan dentro de la individualidad humana en el plano psíquico, pueden ejercen una influencia considerable dentro de toda sociedad, pudiendo afectar en las decisiones dentro del ámbito de la política, la economía, la religión y otros aspectos de la vida colectiva:
 
@@ -2732,7 +2732,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Estructura Egregórica del Noema Cultural
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Conjunto de Significados Compartidos en Constante Evolución</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Conjunto de Significados Compartidos en Constante Evolución</span></center>
 
 9.8.1 » El <font color="#fc300c">Noema Cultural</font> representa el conjunto de símbolos y significados compartidos que influyen en la experiencia de los Avatares dentro de una cultura específica. Es un entramado complejo de ideas, creencias, valores, normas y prácticas que definen la identidad de un grupo social y que se transmiten de generación en generación.
 
@@ -2740,7 +2740,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Arquetipos
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Filtros que modulan la Percepción y la Interpretación</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Filtros que modulan la Percepción y la Interpretación</span></center>
 
 9.8.3 » Los arquetipos universales, como entidades inteligentes del nivel nouménico, se ven reflejados en el Nivel Interpretativo como filtros que modulan la percepción y la interpretación de la realidad. Los arquetipos, como patrones universales de información, influyen en la forma en que los Avatares perciben el mundo, interpretan sus experiencias y construyen sus sistemas de creencias.
 
@@ -2748,7 +2748,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ### Estereotipos
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Arquetipos Distorsionados por la Consciencia Egregórica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Arquetipos Distorsionados por la Consciencia Egregórica</span></center>
 
 9.8.5 » Los estereotipos, como conceptos simplificados y a menudo distorsionados de los arquetipos influenciados por el contexto cultural de una civilización, surgen del Nivel Interpretativo y son reforzados por la Consciencia Egregórica.
 
@@ -2758,7 +2758,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Un Reflejo Distorsionado de la Realidad
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Danza entre Los Arquetipos y los Estereotipos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Danza entre Los Arquetipos y los Estereotipos</span></center>
 
 9.9.1 » La interacción entre arquetipos universales y estereotipos es un claro ejemplo de cómo el Nivel Interpretativo puede dar lugar a representaciones distorsionadas de la realidad. Los arquetipos, como hemos mencionado, son patrones universales de información que impactan directamente en el <font color="#ffa3ef">Yo Egoico</font> y resuenan con ciertas experiencias y emociones que se limitan a estructurar la psicología interna del Avatar. Sin embargo, estos patrones psicológicos internos, al reflejarse activamente dentro del ámbito social, pueden ser simplificados y reducidos a categorías rígidas y homogéneas dentro de una sociedad, permitiendo detectar las diferencias culturales y los valores que reflejan los distintos grupos sociales que conviven dentro de una misma civilización.
 
@@ -2772,7 +2772,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## La Paradoja de los Estereotipos
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Diversidad Humana y Mimetización Cultural</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Diversidad Humana y Mimetización Cultural</span></center>
 
 9.10.1 » La discriminación e injusticia asociado a la existencia de los estereotipos, no siempre resulta como un factor de dominancia por parte de un grupo de Elite, sino que también forma parte de la dinámica natural que se da entre individuos que conviven dentro del ámbito social del día a día, permitiendo al ciudadano común detectar y evitar conscientemente a aquellas personas que puedan reflejar con sus acciones e ideas, un nivel de consciencia evolutiva menos desarrollada, más egoísta, disruptiva, o con una amplia influencia de las energías psíquica que reflejan las Consciencias Egregóricas, con el potencial de afectar activamente en las decisiones personales que toma cada Avatar.
 
@@ -2799,7 +2799,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Estereotipos Discriminatorios
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La lógica del Flujo Omega que Busca la Regulación de Recursos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La lógica del Flujo Omega que Busca la Regulación de Recursos</span></center>
 
 9.11.1 » Dentro del primer nivel estereotípico, podemos mencionar a los estereotipos discriminatorios, que pueden ser entendidos como un sistema lógico de regulación que forma parte de un tipo de información nouménica que se deriva del <font color="#fc300c">Flujo Omega</font> (asociado con la energía), y que puede ser detectado ya desde los inicios de la existencia de la humanidad. Este flujo energético permite que un solo Avatar, habitualmente el más fuerte, más violento o con menor respeto por la vida, pueda imponer el orden social a través de la fuerza bruta o la amenaza, sometiendo al resto de los miembros del grupo que, desde su perspectiva, serían vistos como más débiles o menos inteligentes que él, y que pueden llegar a representar un riesgo para la comunidad al hacer mal uso de los recursos, o generando una planificación ineficiente.
 
@@ -2815,7 +2815,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Estereotipos Colectivos
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Lógica del Flujo Alfa que Actúa a través de las Masas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Lógica del Flujo Alfa que Actúa a través de las Masas</span></center>
 
 9.12.1 » Este segundo tipo de estereotipación puede considerarse como un flujo de energía psíquica egregórica opuesta al primero que refleja el <font color="#2f82ff">Flujo Alfa</font>, originándose en la base de la pirámide de jerarquía y buscando generar las condiciones necesarias para poder ascender hacia la cima.
 
@@ -2839,7 +2839,7 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 ## Un Juego de Poder Perpetuo
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dinámica entre la Elite y los Grupos Minoritarios</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dinámica entre la Elite y los Grupos Minoritarios</span></center>
 
 9.13.1 » La interacción entre los Grupos de Élite, derivados del <font color="#fc300c">Flujo Omega</font> que existe en la cima de la pirámide del poder, y los Grupos Colectivos Minoritarios, derivados del <font color="#2f82ff">Flujo Alfa</font> que se construye desde la base, es un claro ejemplo de cómo la Consciencia Egregórica atrapa a ambos extremos en un juego de poder perpetuo que puede llegar a tener consecuencias nefastas para una civilización, ya que ambos flujos, a pesar de derivarse de extremos opuestos, comparten un interés común: la búsqueda de poder y la imposición de su visión del mundo cueste lo que cueste.
 
