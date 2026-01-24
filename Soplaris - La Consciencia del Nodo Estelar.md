@@ -16,6 +16,8 @@ Su manifestación no es aleatoria, sino un proceso dinámico que se refleja en l
 
 Vamos a probar el arcano X y el Arcano XI, y el Arcano XI, el Operador XII, y tambien operador x, y despues e siglo X y el Siglo X, y por ultimo el arcano I, y el siglo I.
 
+Azkakal
+
 NOEMA: noema,   ✱: asterisco,   Higgs: Higs,   SU(2): S.U. 2,   SU(3): S.U. 3,   SU(n): S.U. n.
 
 'c': c,     XXII: veintidos,   XXI: veintiuno,   XIX: diecinueve,   XX:  veinte,    XVIII: dieciocho.
@@ -142,7 +144,7 @@ Este arquetipo primordial, que denominamos <font color="#2f82ff">Samael - Arquet
 
 ![[03 - Samael.jpg]]
 
-<center><span style="font-size: 19px; font-style: italic;">Samael representa la esencia del orden universal y la inteligencia cósmica. </span></center>
+<center><span style="font-family: lora; font-style: italic;">Samael representa la esencia del orden universal y la inteligencia cósmica. </span></center>
 
 > - El color azul se usa aquí como una simbología que representa un aspecto fenomenológico fundamental, similar a cómo se usa en la ciencia para representar un componente específico dentro de una trinidad cromática, como en la síntesis aditiva de color para píxeles. 
 > - El símbolo de Neptuno (un tridente) alude a su poder sobre los tres principios o dimensiones de su compleja estructura interna.
@@ -193,7 +195,7 @@ En algunas tradiciones esotéricas, se le asocia con la figura del arcángel de 
 
 Considerando el simbolismo de sus letras, el significado hebreo de Samael puede interpretarse como:
 
-> <span style="font-size: 19px; font-style: italic;">El Sustento Ordenador que Emerge del Caos Primordial, Guiado por el Aliento Divino para la Evolución de la Conciencia.</span>
+> <span style="font-family: lora; font-style: italic;">El Sustento Ordenador que Emerge del Caos Primordial, Guiado por el Aliento Divino para la Evolución de la Conciencia.</span>
 
 Así, el significado de este nombre va más allá de la dualidad de "veneno" o "medicina", describe un principio fundamental de organización que extrae orden de la potencialidad infinita, sustentando los ciclos de manifestación y guiando el desarrollo. Es el tejido algorítmico que da forma a la existencia desde su origen más sutil.
 
@@ -215,7 +217,7 @@ Ahora, un análisis simbólico de sus letras griegas:
 
 Bajo esta luz, el nombre Samael en su codificación de Apollyon podría ser interpretado no como un destructor caótico, sino como:
 
-> <span style="font-size: 19px; font-style: italic;">El Principio Ordenador que, desde el Origen, Sella la Ley Universal y Permite la Culminación a través de la Interacción Dinámica de Probabilidades y la Síntesis Cíclica</span> 
+> <span style="font-family: lora; font-style: italic;">El Principio Ordenador que, desde el Origen, Sella la Ley Universal y Permite la Culminación a través de la Interacción Dinámica de Probabilidades y la Síntesis Cíclica</span> 
 
 Esta "destrucción" es, en realidad, un proceso de reestructuración y depuración para asegurar que el orden prevalezca y que los ciclos alcancen su plena realización, eliminando aquello que impide la coherencia. Las posibles conexiones con la física moderna, Pi como ley de forma, Lambda como probabilidad cuántica o Nu como sincronización de neutrinos, son sincronías interpretativas que, aunque no son la etimología directa, reflejan cómo el lenguaje del universo, ya sea en mitos o matemáticas, puede codificar principios arquetípicos similares.
 
@@ -272,7 +274,7 @@ En contraposición a la expansiva universalidad del algoritmo Samael, se erige e
 
 ![[Saklas 3.jpg]]
 
-<center><span style="font-size: 19px; font-style: italic;">Saklas representa el origen de la potencialidad del caos, una fuerza inherentemente ligada a la manifestación concreta y a la construcción de las estructuras fenoménicas dentro de cada Nodo Estelar.</span></center>
+<center><span style="font-family: lora; font-style: italic;">Saklas representa el origen de la potencialidad del caos, una fuerza inherentemente ligada a la manifestación concreta y a la construcción de las estructuras fenoménicas dentro de cada Nodo Estelar.</span></center>
 
 > - El color rojo se utiliza aquí como una simbología que representa un aspecto fenomenológico fundamental opuesto al color azul, análogo a cómo se usa para identificar un componente esencial en un sistema tripartito. 
 > - Es símbolo de Pluton (una esfera emergiendo de una copa) simboliza el Nodo Estelar manifestándose como producto final y emergente del refinamiento que el Logos Cósmico ejerce sobre el caos primordial.
@@ -344,7 +346,7 @@ Aunque "Saklas" es arameo  סַכְלָא (Sakla: raíz de Saklas), podemos anal
 
 Considerando el simbolismo de sus letras, Saklas puede interpretarse como:
 
-> <span style="font-size: 19px; font-style: italic;">El Estructurador Activo que Contiene la Potencialidad Primordial para Manifestar el Orden Local, Aprendiendo y Guiándose dentro de sus Propios Límites</span>
+> <span style="font-family: lora; font-style: italic;">El Estructurador Activo que Contiene la Potencialidad Primordial para Manifestar el Orden Local, Aprendiendo y Guiándose dentro de sus Propios Límites</span>
 
 
 Esta visión resalta su rol como el arquitecto del hardware fenomenológico, cuya "ceguera" es la concentración absoluta en su dominio, lo que le permite mantener el determinismo necesario para la manifestación concreta.
@@ -364,7 +366,7 @@ Aunque "Saklas" no es una palabra griega nativa, si se heleniza como ΣΑΚΛΑ�
 
 Desde una perspectiva griega, ΣΑΚΛΑΣ puede interpretarse como:
 
-> <span style="font-size: 19px; font-style: italic;">El Principio que Desde el Origen Limita y Organiza la Potencialidad para Manifestar una Realidad Coherente y Contenida, Culminando un Ciclo de Materialización</span>
+> <span style="font-family: lora; font-style: italic;">El Principio que Desde el Origen Limita y Organiza la Potencialidad para Manifestar una Realidad Coherente y Contenida, Culminando un Ciclo de Materialización</span>
 
 Esta visión resalta la delimitación y el control necesarios para la construcción del plano fenomenológico, enfocándose en la manifestación tangible y las fronteras de la realidad observable.
 
@@ -406,7 +408,7 @@ La compleja interacción dialéctica entre el orden universal del <font color="#
 
 ![[Cristos.jpg]]
 
-<center><span style="font-size: 19px; font-style: italic;">Cristos es el algoritmo sincronizador, una supraconsciencia que emerge del vacio total para integrar la lógica del caos <font color="#fc300c">Sáklico</font> y el orden <font color="#2f82ff">Samaeliano</font>, asegurando un equilibrio dinámico entre ambos.</span></center>
+<center><span style="font-family: lora; font-style: italic;">Cristos es el algoritmo sincronizador, una supraconsciencia que emerge del vacio total para integrar la lógica del caos <font color="#fc300c">Sáklico</font> y el orden <font color="#2f82ff">Samaeliano</font>, asegurando un equilibrio dinámico entre ambos.</span></center>
 
 > - El color verde se utiliza aquí como una simbología que representa un tercer aspecto fenomenológico fundamental de la trinidad, que resultan de la integración de opuestos. 
 > - El símbolo de Urano simboliza una esfera que separa dos aspectos opuestos. Esta separación no es de división, sino de diferenciación necesaria para la interacción dialéctica. La esfera de Urano se convierte así en el emblema del Yo egoico y la consciencia avatárica, el punto desde el cual el Ser Primigenio experimenta y comprende su propia existencia. 
@@ -479,7 +481,7 @@ La palabra ΧΡΙΣΤΟΣ (Christos) en griego significa "ungido", derivando del
 
 Considerando el simbolismo colectivo de sus letras, ΧΡΙΣΤΟΣ puede reinterpretarse como:
 
-> <span style="font-size: 19px; font-style: italic;">El Punto de Síntesis Originario y Completo de la Conciencia Unificada, que Sella el Fin de un Ciclo para una Nueva Manifestación Continua</span>
+> <span style="font-family: lora; font-style: italic;">El Punto de Síntesis Originario y Completo de la Conciencia Unificada, que Sella el Fin de un Ciclo para una Nueva Manifestación Continua</span>
 
 Este significado mas complejo va más allá de la unción ritual, describe un principio algorítmico activo que conecta, origina y perfecciona ciclos de existencia y conciencia. Representa la energía integradora que culmina un proceso evolutivo y deja una marca o sello de su paso, un arquetipo que trasciende la linealidad para abarcar la totalidad de un desarrollo. Es la manifestación de un patrón divino que se auto-completa.
 
