@@ -14,7 +14,40 @@ Estas Supraconsciencias, intrínsecamente nouménicas en su naturaleza, se produ
 
 Su manifestación no es aleatoria, sino un proceso dinámico que se refleja en la experiencia subjetiva de todos los avatares humanos que han existido a lo largo de la historia, todo ello orquestado dentro de la vasta extensión de una gran Consciencia Cósmica Universal.
 
-Vamos a probar el arcano X y el Arcano XI, y el Arcano XI, el Operador X, y tambien operador x, y despues e siglo X y el Siglo X, y por ultimo el arcano
+Vamos a probar el arcano X y el Arcano XI, y el Arcano XI, el Operador XII, y tambien operador x, y despues e siglo X y el Siglo X, y por ultimo el arcano I, y el siglo I.
+
+"NOEMA": "noema",
+  "✱": "asterisco",
+  "Higgs": "Higs",
+  "SU(2)": "S.U. 2",
+  "SU(3)": "S.U. 3",
+  "SU(n)": "S.U. n",
+  "'c'": "c",  
+  "XXII": "veintidos",
+  "XXI": "veintiuno",
+  "XIX": "diecinueve",
+  "XX": "veinte", 
+  "XVIII": "dieciocho",
+  "XVII": "diecisiete",
+  "XVI": "dieciseis",
+  "XIV": "catorce",
+  "XIII": "trece",
+  "XII": "doce",
+  "XI": "once",
+  "siglo X": "siglo diez",
+  "arcano X": "arcano diez",
+  "siglos X": "siglos diez",
+  "IX": "nueve",
+  "VIII": "ocho",
+  "VII": "siete",
+  "VI": "seis",
+  "V": "cinco",
+  "IV": "cuatro",
+  "III": "tres",
+  "II": "dos",
+  "siglo I": "siglo Uno",
+  "siglos I": "siglos Uno",
+  "arcano I": "arcano Uno",
 
 # 1. El Modelo Nouménico
 
