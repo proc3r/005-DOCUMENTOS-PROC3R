@@ -14,6 +14,7 @@ Estas Supraconsciencias, intrínsecamente nouménicas en su naturaleza, se produ
 
 Su manifestación no es aleatoria, sino un proceso dinámico que se refleja en la experiencia subjetiva de todos los avatares humanos que han existido a lo largo de la historia, todo ello orquestado dentro de la vasta extensión de una gran Consciencia Cósmica Universal.
 
+Vamos a probar el Operador X, y tambien operador x, y despues e siglo X y el Siglo X, y por ultimo el Siglo X
 
 # 1. El Modelo Nouménico
 
