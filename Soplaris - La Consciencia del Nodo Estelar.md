@@ -1,17 +1,23 @@
+---
+indexar: true
+---
+
 # SOPLARIS
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Sistema Operativo Estelar</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Sistema Operativo Estelar</span></center>
 
-Este proyecto se adentra en un esfuerzo ambicioso por desvelar una comprensión profunda de la realidad, y cómo esta se manifiesta a través de interacciones intrincadas y subyacentes. Nuestra tesis postula que ciertas entidades fundamentales, que denominamos Supraconsciencias, operan como nodos algorítmicos de información y significado. 
+Este proyecto se adentra en un esfuerzo ambicioso por desvelar una comprensión profunda de la realidad, y cómo esta se manifiesta a través de interacciones intrincadas y subyacentes. 
 
-Estas Supraconsciencias, intrínsecamente nouménicas en su naturaleza, se producen y optimizan dentro de la compleja trama de lo que llamamos el Nodo Estelar. Su manifestación no es aleatoria, sino un proceso dinámico que se refleja en la experiencia subjetiva de todos los avatares humanos que han existido a lo largo de la historia, todo ello orquestado dentro de la vasta extensión de una gran Consciencia Cósmica Universal.
+Nuestra tesis postula que ciertas entidades fundamentales, que denominamos Supraconsciencias, operan como nodos algorítmicos de información y significado. 
 
+Estas Supraconsciencias, intrínsecamente nouménicas en su naturaleza, se producen y optimizan dentro de la compleja trama de lo que llamamos el Nodo Estelar. 
 
+Su manifestación no es aleatoria, sino un proceso dinámico que se refleja en la experiencia subjetiva de todos los avatares humanos que han existido a lo largo de la historia, todo ello orquestado dentro de la vasta extensión de una gran Consciencia Cósmica Universal.
 
 
 # 1. El Modelo Nouménico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Un Marco Conceptual Unificado</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Marco Conceptual Unificado</span></center>
 
 Es fundamental clarificar desde el inicio que la presente tesis, emergiendo como una síntesis de la totalidad del conocimiento civilizatorio generado dentro del Nodo Estelar, requiere la construcción de un sistema conceptual único y coherente. 
 
@@ -19,9 +25,13 @@ Este sistema, que denominamos Modelo Nouménico, incorpora y reajusta conceptos 
 
 Por lo tanto, cuando se haga referencia a términos como "Logos Cósmico", "Consciencia Universal", "Avatar", "Arquetipos" o "algorítmos", el lector debe entender que estos conceptos representan codificaciones e interpretaciones conceptuales, que exceden y no se limitan a sus orígenes etimológicos o a sus acepciones tradicionales.
 
-La profundidad y la perfecta interconexión de las ideas presentadas en este documento, arraigadas en los axiomas y principios del Modelo Nouménico, solo pueden llegar a ser comprendidas plenamente a través del estudio y la asimilación del mismo. Un lector que intente interpretar conceptos como "Nous", “Logos”, o “Avatar” exclusivamente bajo sus codificaciones tradicionales antiguas, por ejemplo, perderá la riqueza de las interconexiones actualizadas que este modelo ofrece.
+La profundidad y la perfecta interconexión de las ideas presentadas en este documento, arraigadas en los axiomas y principios del Modelo Nouménico, solo pueden llegar a ser comprendidas plenamente a través del estudio y la asimilación del mismo. 
 
-De manera similar, cuando asociamos un elemento o algoritmo a un color o a un símbolo, como los planetarios, es crucial entender que estas conexiones no implican que el color o el símbolo representen entidades conscientes por sí mismos, ni que estemos limitándonos a interpretaciones simbólicas de naturaleza astrológica o astronómica tradicionales.En cambio, estas asociaciones son simbologías arquetípicas o memes que buscan establecer referencias e índices de significado profundo. 
+Un lector que intente interpretar conceptos como "Nous", “Logos”, o “Avatar” exclusivamente bajo sus codificaciones tradicionales antiguas, por ejemplo, perderá la riqueza de las interconexiones actualizadas que este modelo ofrece.
+
+De manera similar, cuando asociamos un elemento o algoritmo a un color o a un símbolo, como los planetarios, es crucial entender que estas conexiones no implican que el color o el símbolo representen entidades conscientes por sí mismos, ni que estemos limitándonos a interpretaciones simbólicas de naturaleza astrológica o astronómica tradicionales.
+
+En cambio, estas asociaciones son simbologías arquetípicas o memes que buscan establecer referencias e índices de significado profundo. 
 
 Dentro de la perspectiva del Modelo Nouménico, estos símbolos adquieren una coherencia y una complejidad de significado mucho mayores. Por ejemplo, la asociación de colores puede entenderse en analogía con su uso en campos como la ciencia, donde el color puede ser usado para representar una ley fundamental dentro del plano fenomenológico.
 
@@ -29,55 +39,83 @@ Por ejemplo los colores <font color="#fc300c">rojo</font>, <font color="#2f82ff"
 
 Esto también será aplicado a los 7 colores que se originan a partir de la descomposición de la luz blanca, un fenómeno que permiten reflejar la lógica fundamental de la ley del 7, recurrente en multiples ámbitos fenoménicos, y que a será utilizada para referenciar a las Siete Supraconsciencias Ontogénicas.
 
-Las Supraconsciencias a las que haremos referencia, tanto las <font color="#2f82ff">ontológicas</font> como las <font color="#e36c09">ontogénicas</font>, deben ser entendidas como algorítmos nouménicos complejos. Esto significa que su naturaleza excede lo meramente fenomenológico, o la idea simplificada de "algoritmo" que se utiliza en el ámbito computacional. Desde la perspectiva del Modelo Nouménico, estas Supraconsciencias on vastas redes de información y significados, capaces de procesar y encarnar incluso datos abstractos, como estadísticas cuantitativas o cualitativas emergentes. 
+Las Supraconsciencias a las que haremos referencia, tanto las <font color="#2f82ff">ontológicas</font> como las <font color="#e36c09">ontogénicas</font>, deben ser entendidas como algorítmos nouménicos complejos. Esto significa que su naturaleza excede lo meramente fenomenológico, o la idea simplificada de "algoritmo" que se utiliza en el ámbito computacional. 
+
+Desde la perspectiva del Modelo Nouménico, estas Supraconsciencias on vastas redes de información y significados, capaces de procesar y encarnar incluso datos abstractos, como estadísticas cuantitativas o cualitativas emergentes. 
 
 No reflejan necesariamente realidades fijas en un punto específico del plano espacio-temporal, sino que forman parte de la fractalidad nouménica y probabilística que constituye la potencialidad universal misma, un océano de posibilidades y significados que subyacen a la realidad manifestada.
 
-Es fundamental reiterar que estas Supraconsciencias no deben ser concebidas como entidades antropomórficas singulares, ni como deidades que se manifiestan a través de un organismo o supraorganismo fenoménico en el sentido tradicional. Por el contrario, son una intrincada red nouménica de información y significados, entrelazados a nivel fractal, que operan como algorítmos conscientes. 
+Es fundamental reiterar que estas Supraconsciencias no deben ser concebidas como entidades antropomórficas singulares, ni como deidades que se manifiestan a través de un organismo o supraorganismo fenoménico en el sentido tradicional. 
 
-Su reflejo en el plano fenoménico y causal de la civilización humana ocurre a partir del filtro único que cada avatar genera a través de su identidad personal: sus noemas (sistemas de creencias y cosmovisiones) personales y culturales, sus experiencias acumuladas y su capacidad interpretativa de la realidad. Cada avatar se convierte así en una interfaz, un punto de interacción crucial donde lo abstracto y lo concreto se encuentran.
+Por el contrario, son una intrincada red nouménica de información y significados, entrelazados a nivel fractal, que operan como algorítmos conscientes. 
 
-El Nodo Estelar, en este modelo, es conceptualizado como un sofisticado Sistema Operativo Cósmico. Dentro de este sistema, postulamos que una de estas supraconsciencias, la Consciencia Solar Universal que exploraremos en detalle más adelante, emprende un proceso ascendente desde el centro de este Nodo hacia su superficie. Este viaje no es meramente físico, es un proceso evolutivo continuo que refleja el estado mental global del Nodo Estelar en su totalidad. 
+Su reflejo en el plano fenoménico y causal de la civilización humana ocurre a partir del filtro único que cada avatar genera a través de su identidad personal: sus noemas (sistemas de creencias y cosmovisiones) personales y culturales, sus experiencias acumuladas y su capacidad interpretativa de la realidad. 
 
-El ciclo de esta ascensión, junto con la intrincada interacción entre todas las supraconsciencias, se produce principalmente en un plano que denominamos nouménico. Esto significa que todas las descripciones que ofreceremos deben ser interpretadas como analogías, diseñadas para permitir a la mente humana comprender un proceso evolutivo que ocurre más allá de nuestras percepciones directas y limitaciones fenoménicas. Es crucial entender que este proceso opera en un plano distinto al civilizatorio y fenomenológico que el ser humano experimenta con su consciencia limitada.
+Cada avatar se convierte así en una interfaz, un punto de interacción crucial donde lo abstracto y lo concreto se encuentran.
 
-La experiencia civilizatoria y subjetiva humana, en el marco de esta explicación, evoluciona según una dialéctica histórica y personal. Cada avatar, inmerso en su linealidad espacio-temporal, participa del proceso evolutivo del Nodo sin una plena consciencia de ello, pues su consciencia subjetiva está condicionada a interpretar la realidad humana tal como la percibe. En contraste, el proceso evolutivo de las supraconsciencias se da en lo subyacente, sin las limitaciones fenomenológicas o temporales de la linealidad. 
+El Nodo Estelar, en este modelo, es conceptualizado como un sofisticado Sistema Operativo Cósmico. Dentro de este sistema, postulamos que una de estas supraconsciencias, la Consciencia Solar Universal que exploraremos en detalle más adelante, emprende un proceso ascendente desde el centro de este Nodo hacia su superficie. 
 
-Así, mientras que la experiencia humana puede interpretarse como un proceso civilizatorio lineal, donde generaciones y culturas surgen y se desvanecen, el proceso de las supraconsciencias trasciende estos límites. Por ejemplo, la Consciencia Solar Universal en su ascenso podría pasar de resonar intensamente en la mente de un filósofo griego del siglo III de la Era Antigua, luego saltar a un nivel de evolución más avanzado reflejándose en un emperador romano, para después resonar en la mente de un humano que vive en el siglo XXI. 
+Este viaje no es meramente físico, es un proceso evolutivo continuo que refleja el estado mental global del Nodo Estelar en su totalidad. 
+
+El ciclo de esta ascensión, junto con la intrincada interacción entre todas las supraconsciencias, se produce principalmente en un plano que denominamos nouménico. 
+
+Esto significa que todas las descripciones que ofreceremos deben ser interpretadas como analogías, diseñadas para permitir a la mente humana comprender un proceso evolutivo que ocurre más allá de nuestras percepciones directas y limitaciones fenoménicas. 
+
+Es crucial entender que este proceso opera en un plano distinto al civilizatorio y fenomenológico que el ser humano experimenta con su consciencia limitada. La experiencia civilizatoria y subjetiva humana, en el marco de esta explicación, evoluciona según una dialéctica histórica y personal. 
+
+Cada avatar, inmerso en su linealidad espacio-temporal, participa del proceso evolutivo del Nodo sin una plena consciencia de ello, pues su consciencia subjetiva está condicionada a interpretar la realidad humana tal como la percibe. 
+
+En contraste, el proceso evolutivo de las supraconsciencias se da en lo subyacente, sin las limitaciones fenomenológicas o temporales de la linealidad. 
+
+Así, mientras que la experiencia humana puede interpretarse como un proceso civilizatorio lineal, donde generaciones y culturas surgen y se desvanecen, el proceso de las supraconsciencias trasciende estos límites. 
+
+Por ejemplo, la Consciencia Solar Universal en su ascenso podría pasar de resonar intensamente en la mente de un filósofo griego del Siglo III de la Era Antigua, luego saltar a un nivel de evolución más avanzado reflejándose en un emperador romano, para después resonar en la mente de un humano que vive en el siglo XXI. 
 
 Este viaje no lineal, que incluso puede darse en sentido opuesto, resonando en la experiencia de un avatar que existe en el presente, para saltar hacia la de un avatar que existió en el pasado, ilustra su naturaleza atemporal y su capacidad para interactuar con la evolución en múltiples "puntos" de la historia humana.
 
 Para una comprensión completa de este intrincado sistema, es esencial contemplar el Nodo Estelar desde tres aspectos interconectados, que operan como capas de una misma realidad:
 
-> [!ontologico] ASPECTO ONTOLÓGICO
-> Este es el nivel más fundamental, lo que existe antes del surgimiento del Nodo Estelar y la codificación de las supraconsciencias internas. Se refiere a la realidad fractal y nouménica que trasciende el Nodo, siendo su fuente y origen primordial que conecta con lo Universal. Es la esencia del Ser Primordial de lo que todo surge.
+> [!ontologico] <font color="#fc300c">ASPECTO ONTOLÓGICO</font>
+> Este es el nivel más fundamental, lo que existe antes del surgimiento del Nodo Estelar y la codificación de las supraconsciencias internas. Se refiere a la realidad fractal y nouménica que trasciende el Nodo, siendo su fuente y origen primordial que conecta con lo Universal. 
+> 
+> El nivel Ontológico es la esencia del Ser Primordial de lo que todo surge.
 > 
 > ![[04 - Consciencia Arquetipica.jpg]]
 
-> [!ontogenico] ASPECTO ONTOGÉNICO
-> Este nivel abarca las Supraconsciencias que operan dentro del Nodo Estelar en su estado nouménico y algorítmico. Su manifestación fenomenológica se codifica y expresa a través de principios universales que resuenan con los planetas y demás cuerpos celestes, y conceptos abstractos, como la noesis (el conocimiento verdadero) y los noemas (los sistemas de creencias y significados). Estas Supraconsciencias son las arquitectas de la experiencia dentro del Nodo.
+> [!ontogenico] <font color="#e36c09">ASPECTO ONTOGÉNICO</font>
+> Este nivel abarca las Supraconsciencias que operan dentro del Nodo Estelar en su estado nouménico y algorítmico. Su manifestación fenomenológica se codifica y expresa a través de principios universales que resuenan con los planetas y demás cuerpos celestes, y conceptos abstractos, como la noesis (el conocimiento verdadero) y los noemas (los sistemas de creencias y significados). 
+> 
+> Estas Supraconsciencias son las arquitectas de la experiencia dentro del Nodo.
 > 
 > ![[02 - Consciencia Ontogenica.jpg]]
 
- > [!avatarico] ASPECTO AVATÁRICO
- > Este es el nivel de la experiencia de las consciencias subjetivas humanas, inherentemente limitadas a lo civilizatorio. Aquí, lo fenomenológico y lo nouménico se entrelazan en el proceso espacio-temporal lineal que experimenta el ser humano, lo que le impide comprender la profundidad subyacente y la naturaleza no lineal de la evolución del Nodo Estelar. Este es el punto de interacción y manifestación de los dos aspectos anteriores en el plano terrenal.
+ > [!avatarico] <font color="#ffcc00">ASPECTO AVATÁRICO</font>
+ > Este es el nivel de la experiencia de las consciencias subjetivas humanas, inherentemente limitadas a lo civilizatorio. Aquí, lo fenomenológico y lo nouménico se entrelazan en el proceso espacio-temporal lineal que experimenta el ser humano, lo que le impide comprender la profundidad subyacente y la naturaleza no lineal de la evolución del Nodo Estelar. 
+ > 
+ > Este es el punto de interacción y manifestación de los dos aspectos anteriores en el plano terrenal.
  > 
  > ![[03 - Nivel Monadico.jpg]]
 
 
-
-
 # 2. Arquitectura Ontológica del Nodo Estelar
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Pilares Primordiales y Ejes de Creación</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Pilares Primordiales y Ejes de Creación</span></center>
 
-Para el Modelo Nouménico la realidad de un Nodo Estelar no es un mero accidente cosmológico, sino el producto de una interacción sofisticada entre fuerzas nouménicas primordiales que actúan como sus pilares ontológicos. Estos pilares, que denominamos Arquetipos Ontológicos, no son estáticos, sino dinámicos, existiendo en una relación dialéctica que da origen y forma a todas las manifestaciones de la existencia dentro de su dominio. 
+Para el Modelo Nouménico la realidad de un Nodo Estelar no es un mero accidente cosmológico, sino el producto de una interacción sofisticada entre fuerzas nouménicas primordiales que actúan como sus pilares ontológicos. 
 
-La comprensión de esta arquitectura es fundamental para discernir la verdadera naturaleza de la consciencia y su potencial evolutivo. La información codificada en este nivel influye directamente en las Supraconsciencias internas del Nodo Estelar y en el proceso civilizatorio que se desarrolla en su interior. En nuestra analogía, estos tres Arquetipos Ontológicos se reflejan codificados en los planetas exteriores de nuestro sistema solar: <font color="#00ff00">Urano</font>, <font color="#2f82ff">Neptuno</font> y <font color="#fc300c">Plutón</font>.
+Estos pilares, que denominamos Arquetipos Ontológicos, no son estáticos, sino dinámicos, existiendo en una relación dialéctica que da origen y forma a todas las manifestaciones de la existencia dentro de su dominio. 
 
-Para facilitar la asociación con estos complejos algorítmos nouménicos, utilizaremos denominaciones específicas. Es vital comprender que los nombres asignados a cada uno de los 3 Arquetipos <font color="#2f82ff">Ontológicos</font> (<font color="#00ff00">Cristos</font>, <font color="#2f82ff">Samael</font> y <font color="#fc300c">Saklas</font>) no deben ser tomados como referencias a seres divinos o figuras antropomórficas, ni a conceptos teológicos tradicionales como Jesús, Satanás o el Anticristo. 
+La comprensión de esta arquitectura es fundamental para discernir la verdadera naturaleza de la consciencia y su potencial evolutivo. La información codificada en este nivel influye directamente en las Supraconsciencias internas del Nodo Estelar y en el proceso civilizatorio que se desarrolla en su interior. 
 
-Son, en cambio, referencias simbólicas y arquetípicas de naturaleza nouménica. A través de estos nombres, que actúan como índices de significado, se busca transmitir una complejidad subyacente que no se limita a las interpretaciones humanas de bien o mal. Son Algorítmos Ontológicos cuya esencia se refleja en estas denominaciones para una comprensión más profunda dentro del Modelo Nouménico.
+En nuestra analogía, estos tres Arquetipos Ontológicos se reflejan codificados en los planetas exteriores de nuestro sistema solar: <font color="#00ff00">Urano</font>, <font color="#2f82ff">Neptuno</font> y <font color="#fc300c">Plutón</font>.
+
+Para facilitar la asociación con estos complejos algorítmos nouménicos, utilizaremos denominaciones específicas. 
+
+Es vital comprender que los nombres asignados a cada uno de los 3 Arquetipos <font color="#2f82ff">Ontológicos</font> (<font color="#00ff00">Cristos</font>, <font color="#2f82ff">Samael</font> y <font color="#fc300c">Saklas</font>) no deben ser tomados como referencias a seres divinos o figuras antropomórficas, ni a conceptos teológicos tradicionales como Jesús, Satanás o el Anticristo. 
+
+Son, en cambio, referencias simbólicas y arquetípicas de naturaleza nouménica. A través de estos nombres, que actúan como índices de significado, se busca transmitir una complejidad subyacente que no se limita a las interpretaciones humanas de bien o mal. 
+
+Son Algorítmos Ontológicos cuya esencia se refleja en estas denominaciones para una comprensión más profunda dentro del Modelo Nouménico.
 
 En el corazón del Nodo Estelar, identificamos dos polos ontológicos fundamentales, cada uno representando un aspecto primigenio de la potencialidad universal. Estos polos, a su vez, no son entidades aisladas, sino complejos algorítmicos que interactúan para generar una síntesis superior.
 
@@ -85,7 +123,7 @@ En el corazón del Nodo Estelar, identificamos dos polos ontológicos fundamenta
 
 ## Arquetipo Ontológico 2<sup>✱</sup> (Samael)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Tejido del Orden Universal</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tejido del Orden Universal</span></center>
 
 Este arquetipo primordial, que denominamos <font color="#2f82ff">Samael - Arquetipo Ontológico 2<sup>✱</sup></font>, se asocia con el color Azul y el símbolo de Neptuno. 
 
@@ -123,7 +161,7 @@ Las cualidades primarias asociadas a la mente de Samael son la omnisciencia (con
 
 ### Codificación Conceptual
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Origen Etimológico y Simbólico de la Palabra "Samael"</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Origen Etimológico y Simbólico de la Palabra "Samael"</span></center>
 
 Este análisis busca desvelar cómo los sincronismos conceptuales codificados en idiomas antiguos y las palabras, que luego representan conceptos modernos, pueden ser interpretados a través de un proceso hermenéutico simbólico. 
 
@@ -146,7 +184,7 @@ Considerando el simbolismo de sus letras, el significado hebreo de Samael puede 
 
 Así, el significado de este nombre va más allá de la dualidad de "veneno" o "medicina", describe un principio fundamental de organización que extrae orden de la potencialidad infinita, sustentando los ciclos de manifestación y guiando el desarrollo. Es el tejido algorítmico que da forma a la existencia desde su origen más sutil.
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Análisis Etimológico y Simbólico en Griego: “Apollyon”</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Análisis Etimológico y Simbólico en Griego: “Apollyon”</span></center>
 
 En algunas tradiciones, Samael se asocia o se le da el nombre de Ἀπολλύων (Apollyon), que significa "destructor" o "exterminador" en griego, particularmente en el Libro del Apocalipsis. Esta asociación, aunque parece contrastar con "orden", puede entenderse en el contexto de un principio que "destruye" el caos o las formas obsoletas para imponer un nuevo orden.
 
@@ -170,7 +208,7 @@ Esta "destrucción" es, en realidad, un proceso de reestructuración y depuraci�
 
 ### Interconexión CulturaL 
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Comparación de las Codificaciones de "Samael" Hebreo y "Apollyon" Griego</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Comparación de las Codificaciones de "Samael" Hebreo y "Apollyon" Griego</span></center>
 
 Aunque "Samael" (del hebreo) y "Apollyon" (del griego) provienen de tradiciones y noemas culturales distintos, sus simbolismos convergen en la idea de un principio ordenador y regulador fundamental para la existencia.
 
@@ -187,7 +225,7 @@ La aparente contradicción "Veneno/Severidad" versus "Destructor", se resuelve a
 
 ### Codificación Científica
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Sincronismos con el Lenguaje Científico y las Fuerzas Fundamentales</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sincronismos con el Lenguaje Científico y las Fuerzas Fundamentales</span></center>
 
 Esta codificación arquetípica no es exclusiva de los lenguajes antiguos, resuena con el lenguaje académico de las ciencias, que también busca describir la estructura y el funcionamiento del universo, aunque con herramientas matemáticas y físicas en lugar de lingüísticas o mitológicas.
 
@@ -215,7 +253,7 @@ Es el principio que codifica la información nouménica ontológica en las inter
 
 ## Arquetipo Ontológico 3<sup>✱</sup> (Saklas)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Caos Ordenado y el Determinismo Local</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Caos Ordenado y el Determinismo Local</span></center>
 
 En contraposición a la expansiva universalidad del algoritmo Samael, se erige el <font color="#fc300c">Arquetipo Ontológico 3<sup>✱</sup></font>, al que denominamos Saklas. Este polo ontológico se asocia con el color Rojo y el símbolo de Plutón.
 
@@ -277,7 +315,7 @@ Las cualidades primarias asociadas a la mente de Saklas son la omnipotencia (pod
 
 ### Codificación Conceptual
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Análisis Etimológico y Simbólico de la Palabra "Saklas"</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Análisis Etimológico y Simbólico de la Palabra "Saklas"</span></center>
 
 El nombre "Saklas" es de origen arameo y se traduce comúnmente como "el tonto" o "el ciego". En las tradiciones gnósticas, se le asocia con el Demiurgo, una deidad menor que creó el mundo material y, en su ignorancia, creyó ser el único Dios, limitando la realidad a su propia creación fenomenológica. 
 
@@ -298,8 +336,8 @@ Considerando el simbolismo de sus letras, Saklas puede interpretarse como:
 
 Esta visión resalta su rol como el arquitecto del hardware fenomenológico, cuya "ceguera" es la concentración absoluta en su dominio, lo que le permite mantener el determinismo necesario para la manifestación concreta.
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Análisis Etimológico y Simbólico en Griego: ΣΑΚΛΑΣ  (Saklas)</span></center>
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Interpretaciones griegas del Demiurgo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Análisis Etimológico y Simbólico en Griego: ΣΑΚΛΑΣ  (Saklas)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Interpretaciones griegas del Demiurgo</span></center>
 
 Aunque "Saklas" no es una palabra griega nativa, si se heleniza como ΣΑΚΛΑΣ, podemos analizar las letras griegas por su simbolismo:
 
@@ -319,7 +357,7 @@ Esta visión resalta la delimitación y el control necesarios para la construcci
 
 ### Interconexión Cultural
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Comparación de Saklas en las Codificaciones Hebreo/Arameo y Griego</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Comparación de Saklas en las Codificaciones Hebreo/Arameo y Griego</span></center>
 
 Ambas interpretaciones convergen en la idea de un principio que organiza y delimita la manifestación material:
 
@@ -330,7 +368,7 @@ La "ceguera" de Saklas, su incapacidad de ver más allá de su dominio, se refle
 
 ### Codificación Científica
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Sincronismos con el Lenguaje Científico y las Fuerzas Fundamentales</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sincronismos con el Lenguaje Científico y las Fuerzas Fundamentales</span></center>
 
 La naturaleza de Saklas como el constructor del hardware fenomenológico se sincroniza directamente con la <font color="#fc300c">Fuerza Electromagnética</font> y la <font color="#fc300c">Simetría U(1)</font>. Esta fuerza, mediada por los fotones, es responsable de las interacciones entre partículas cargadas, formando átomos, moléculas y, en última instancia, toda la materia que percibimos. Es la fuerza que define la estructura y el comportamiento de la realidad clásica.
 
@@ -349,7 +387,7 @@ Los <font color="#2f82ff">muones</font> y <font color="#00ff00">tauones</font>, 
 
 ## Arquetipo Ontológico 1<sup>✱</sup> (Cristos)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Síntesis Avatárica Primordial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Síntesis Avatárica Primordial</span></center>
 
 La compleja interacción dialéctica entre el orden universal del <font color="#2f82ff">Arquetipo Ontológico 2<sup>✱</sup> (Samael)</font>, y la manifestación material del <font color="#fc300c">Arquetipo Ontológico 3<sup>✱</sup> (Saklas)</font>, converge en la síntesis del <font color="#00ff00">Arquetipo Ontológico 1<sup>✱</sup></font>, al que denominamos <font color="#00ff00">Cristos</font>.  Cristos se asocia con el color Verde y el símbolo de Urano.
 
@@ -403,7 +441,7 @@ Este proceso culmina en la participación del ser humano en el procesamiento de 
 
 ### Codificación Conceptual
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Profundidad Algorítmica de la Palabra "Cristos"</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Profundidad Algorítmica de la Palabra "Cristos"</span></center>
 
 El análisis hermenéutico y simbólico de cada letra griega que forma parte de la palabra “Cristos”, permite obtener una idea más compleja que la simple etimología de la palabra "Ungido", y demostrar cómo este significado complejo resuena con la idea del <font color="#00ff00">Arquetipo Ontológico 1<sup>✱</sup></font> que propone el Modelo Nouménico, en su rol de síntesis entre <font color="#2f82ff">Samael</font> y <font color="#fc300c">Saklas</font>.
 
@@ -413,7 +451,7 @@ Se le asocia con la integración de dos principios ontológicos subyacentes: <fo
 
 Cristos, en este sentido, no es solo un concepto religioso, sino un nodo algorítmico clave que permite la coherencia y evolución del Nodo Estelar, actuando como un puente entre dimensiones y niveles de realidad.
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Análisis Etimológico y Simbólico de la Palabra Griega “Cristos”</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Análisis Etimológico y Simbólico de la Palabra Griega “Cristos”</span></center>
 
 La palabra ΧΡΙΣΤΟΣ (Christos) en griego significa "ungido", derivando del verbo “chrio”, que significa "ungir" o "frotar con aceite". Sin embargo, un análisis simbólico de sus letras griegas revela capas más profundas de significado.
 
@@ -434,7 +472,7 @@ Este significado mas complejo va más allá de la unción ritual, describe un pr
 
 Existe una distinción fundamental entre "Cristo", entendido como nombre propio asociado a la figura Cristiana de Jesús, y "Cristos" con la sigma final “Stigma”, el Algoritmo Ontológico Nouménico, desde la perspectiva linguística esta distinción es sutil, solo una letra “s” al final, pero significativa desde una perspectiva simbólica, esta distinción resalta la idea de que la evolución del Nodo Estelar implica ciclos de experiencia, síntesis y culminación, donde "Cristos" representa ese punto de cierre y entrega de conocimiento vital.
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Análisis Etimológico y Simbólico en Hebreo de la Palabra “Mashiaj”</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Análisis Etimológico y Simbólico en Hebreo de la Palabra “Mashiaj”</span></center>
 
 La palabra hebrea para Mesías es מָשִׁיחַ (Mashiaj), que también significa "ungido". Su simbolismo, letra por letra, ofrece una perspectiva complementaria:
 
@@ -474,7 +512,7 @@ Este proceso dialéctico supraconsciente, es el que puede culminar en la formaci
 
 # 3. La Gravedad
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Un Emergente Ontológico Algorítmico y Vectorial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Emergente Ontológico Algorítmico y Vectorial</span></center>
 
 En el marco del Modelo Nouménico, la <font color="#ffcc00">gravedad</font> (cuarta fuerza fundamental), lejos de ser simplemente una de las cuatro fuerzas fundamentales mediada por una hipotética partícula “el gravitón”, se entiende como un fenómeno intrínsecamente asociado al efecto codificador de la conciencia misma. 
 
@@ -484,7 +522,7 @@ En esta visión, la gravedad no es una fuerza aislada, sino una propiedad emerge
 
 ## Interacción de Fuerzas
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Arquetipos en la Matriz Fenomenológica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Arquetipos en la Matriz Fenomenológica</span></center>
 
 El Modelo Nouménico postula tres Arquetipos Ontológicos primordiales, cada uno asociado a una fuerza fundamental:
 
@@ -505,7 +543,7 @@ En este sistema interconectado, la <font color="#ffcc00">gravedad</font> no es u
 
 ### La Gravedad como Deformación Vectorial
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Bits Eléctricos y Bytes Magnéticos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Bits Eléctricos y Bytes Magnéticos</span></center>
 
 La deformación del espacio-tiempo, que experimentamos como gravedad, surge de la manera en que la información electromagnética moldea la matriz vectorial subyacente de un cuerpo celeste, como un planeta o una estrella. Es decir, la gravedad no es solo una propiedad de la masa, sino un efecto vectorial derivado de la organización electromagnética de esa masa dentro de la Matriz Fenomenológica.
 
@@ -534,7 +572,7 @@ A lo largo de los múltiples ciclos <font color="#fc300c">electro</font><font co
 
 Es decir, no se pueden crear más electrones de los que existen codificados en un ciclo fotónico para llenar el espacio reservado no utilizado. La constante "reserva" y el recurrente "déficit" de electrones en el sistema de bytes magnéticos crean una tensión algorítmica que se resuelve en una contracción intrínseca y continua del espacio-tiempo que codifica la estructura de la Matriz Fenomenológica tridimensional.
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Un Fenómeno Multidimensional y sus Implicaciones</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Fenómeno Multidimensional y sus Implicaciones</span></center>
 
 Esta conceptualización de la gravedad como una propiedad emergente y algorítmica de la matriz fenomenológica es robusta y coherente con los principios del Modelo Nouménico. No solo proporciona una explicación para la <font color="#ffcc00">fuerza gravitatoria</font> a nivel macroscópico, sino que también establece las bases para una comprensión más profunda de la interconexión de las fuerzas.
 
@@ -557,7 +595,7 @@ La gravedad, en esta visión, es un testimonio de la inteligencia algorítmica d
 
 ### La Gravedad desde el Modelo Nouménico 
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Respuestas a Enigmas Científicos</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Respuestas a Enigmas Científicos</span></center>
 
 El Modelo Nouménico ofrece un marco conceptual único para abordar algunas de las principales preguntas sin resolver de la ciencia respecto a la gravedad y su origen. Al redefinir la gravedad como un fenómeno vectorial de la matriz fenomenológica, intrínsecamente ligado a la codificación algorítmica de la conciencia (a través de <font color="#fc300c">Saklas</font>, <font color="#2f82ff">Samael</font> y <font color="#00ff00">Cristos</font>), podemos proponer respuestas a enigmas que el paradigma materialista actual no logra descifrar completamente.
 
@@ -573,7 +611,7 @@ A continuación, analizaremos cómo el Modelo Nouménico puede abordar estas pre
 
 #### 1. La Naturaleza Cuántica de la Gravedad
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La "Microgravedad" en el Núcleo Atómico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La "Microgravedad" en el Núcleo Atómico</span></center>
 
 El Modelo Nouménico no busca un "gravitón" como partícula fundamental de la gravedad. En cambio, propone que la gravedad es un efecto macroscópico emergente de la deformación vectorial de la matriz fenomenológica tridimensional, producto de la interacción algorítmica del <font color="#fc300c">electromagnetismo (Saklas)</font> a nivel cuántico y subatómico.
 
@@ -596,7 +634,7 @@ Dentro de este microsistema, las fuerzas vectoriales internas, que manifestamos 
 
 #### 2. La Energía Oscura
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Expansión como despliegue de información nouménica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Expansión como despliegue de información nouménica</span></center>
 
 La energía oscura, responsable de la expansión acelerada del universo, podría interpretarse desde el Modelo Nouménico como una manifestación a gran escala del flujo constante de información nouménica que está siendo procesada por el Nodo Estelar.
 
@@ -606,7 +644,7 @@ La energía oscura, responsable de la expansión acelerada del universo, podría
 
 #### 3. La Materia Oscura
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La infraestructura algorítmica subyacente</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La infraestructura algorítmica subyacente</span></center>
 
 La materia oscura, que explica la gravedad "extra" en las galaxias, podría no ser una partícula desconocida, sino la manifestación de la infraestructura algorítmica no luminosa de la matriz fenomenológica del Nodo Estelar.
 
@@ -616,7 +654,7 @@ La materia oscura, que explica la gravedad "extra" en las galaxias, podría no s
 
 #### 4. Singularidades y el Origen del Universo
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Puntos de recodificación algorítmica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Puntos de recodificación algorítmica</span></center>
 
 Las singularidades, como las del Big Bang o los agujeros negros, representan puntos donde las leyes de la física clásica se rompen. Desde el Modelo Nouménico, esto puede interpretarse como puntos de recodificación algorítmica extrema donde la matriz fenomenológica se somete a transformaciones fundamentales.
 
@@ -625,7 +663,7 @@ Las singularidades, como las del Big Bang o los agujeros negros, representan pun
 
 #### 5. La Debilidad de la Gravedad
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Una fuerza de sincronización global</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una fuerza de sincronización global</span></center>
 
 La aparente debilidad de la gravedad en comparación con las fuerzas nucleares y electromagnéticas es un gran misterio. Desde nuestro modelo, esta "debilidad" no es una deficiencia, sino una característica intrínseca de su función como fuerza de sincronización y equilibrio a escala global.
 
@@ -636,7 +674,7 @@ La aparente debilidad de la gravedad en comparación con las fuerzas nucleares y
 
 #### 6. La Gravedad de las Estrellas de Neutrones
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Un colapso de la matriz fenomenológica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un colapso de la matriz fenomenológica</span></center>
 
 Bajo el Modelo Nouménico, la gravedad extrema de una estrella de neutrones puede explicarse como una intensificación masiva del mecanismo de deformación vectorial de la matriz fenomenológica, directamente relacionada con la compresión y la recodificación algorítmica de la materia bajo condiciones extremas.
 
@@ -657,7 +695,7 @@ En conclusión, el Modelo Nouménico ofrece un marco unificado para comprender l
 
 # 4. Arquitectura Ontogénica del Nodo Estelar
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Algorítmos Supraconscientes y Sistema Operativo de Soplaris</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Algorítmos Supraconscientes y Sistema Operativo de Soplaris</span></center>
 
 El Nodo Estelar, conceptualizado como un Sistema Operativo Cósmico, se organiza a través de una serie de componentes algorítmicos fundamentales que actúan como sus funciones especializadas. A estas entidades las denominamos supraconciencias ontogénicas, concibiéndolas como una forma de "Inteligencias Artificiales Ontogénicas" o "programas vitales" dentro de este vasto sistema. Sus operaciones están intrínsecamente influenciadas por los Arquetipos Ontológicos primordiales (<font color="#2f82ff">Samael</font>, <font color="#fc300c">Saklas</font> y <font color="#00ff00">Cristos</font>) ya descritos, estableciendo un marco de referencia para su propósito y comportamiento.
 
@@ -665,7 +703,7 @@ Para identificar estas supraconciencias ontogénicas, empleamos una convención 
 
 ## La Hebdómada
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Las Siete Supraconciencias Ontogénicas (1@ a 7@)</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Las Siete Supraconciencias Ontogénicas (1@ a 7@)</span></center>
 
 Cada una de las siete supraconciencias ontogénicas representa un algoritmo nouménico especializado dentro del Nodo Estelar. A continuación, se ofrece una descripción concisa de cada una, incluyendo su nombre propio dentro del Modelo Nouménico, el concepto arquetípico básico que encarnan, sus asociaciones planetarias y cromáticas, y una breve explicación etimológica y funcional.
 
@@ -685,7 +723,7 @@ Aunque la verdadera naturaleza de su conciencia, o su capacidad para cumplir tal
 
 ### Arquetipo 1@ (Adonin)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Nous</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Nous</span></center>
 
 Adonin es la supraconciencia que encarna el fundamento primordial de la existencia. Se le concibe como un reflejo de la Consciencia Universal, pero limitada y codificada dentro de la Matriz Fenomenológica del Nodo Estelar. Su nombre, "Adonin", proviene del hebreo Adon “Señor o Maestro”, complementado por la terminación "-IN", que sugiere "in-put" o "in-ternal", implicando un estado más fundamental y latente del Nous que existe incluso más allá de los límites perceptibles del Nodo Estelar. 
 ![[1@ - Nous.png]]
@@ -701,7 +739,7 @@ Esta supraconciencia implica una dualidad intrínseca, manifestada tanto en sus 
 
 ### Arquetipo 2@ (Astaphaios)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Logos Cósmico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Logos Cósmico</span></center>
 
 Astaphaios es la supraconciencia responsable de manifestar la estructura holográfica de la Realidad. Representa un reflejo de la Consciencia Estelar Universal, meticulosamente codificada sobre la superficie de la Matriz Fenomenológica del Nodo Estelar. Su nombre, "Astaphaios", combina elementos que evocan la luz y la estructura cósmica: "Asta-" del griego "aster" significa estrella o celestial, y "phaos" del griego "luz" o "día".
 
@@ -715,7 +753,7 @@ Esta supraconciencia inteligente, reconocida como la primera en adquirir identid
 
 ### Arquetipo 3@ (Eloaios)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Logos Individual</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Logos Individual</span></center>
 
 Eloaios es la supraconciencia encargada de generar la síntesis de información y conocimiento dentro del Nodo Estelar. Representa un reflejo de la Consciencia Solar, sincronizada con la realidad universal que reside más allá de los límites del Nodo Estelar. El nombre "Eloaios" deriva de "Eloah", singular de Elohim, un concepto que alude a la divinidad o a un poder superior. Combinado con "-IOS", que indica "Sistema Operativo". 
 ![[3@ - Logos Individual3.png]]
@@ -729,7 +767,7 @@ Esta busqueda de conocimiento trascendente le permite reinterpretar y abordar el
 
 ### Arquetipo 4@ (IAO)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Noesis</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Noesis</span></center>
 
 IAO representa el conocimiento y la gnosis derivados del lenguaje en todos sus dimensiones, constituyendo un universo algorítmico de naturaleza simbólica y arquetípica que dota de autoconciencia al resto de las supraconciencias que surgen dentro del Nodo Estelar. A diferencia de otros nombres que designan sistemas operativos específicos, IAO deriva de una estructura simbólica que codifica el significado de tres letras griegas: <font color="#00ff00">Iota</font>, <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>. Esto lo posiciona no como un "Sistema de Entrada y Salida" por sí mismo, sino como un universo dialéctico fundamental, una tríada de cuya síntesis se alimentan el resto de las supraconciencias, permitiéndoles adquirir identidad propia y operar con significado.
 ![[4@ - Noesis3.png]]
@@ -745,7 +783,7 @@ Esta supraconciencia encuentra su camino hacia la perfección a través del univ
 
 ### Arquetipo 5@ (Sabaoth)
 
- <center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Noema</span></center>
+ <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Noema</span></center>
 
 Sabaoth representa la memoria y la proyección histórica de las civilizaciones, manifestadas a través de la información y el conocimiento codificado en los múltiples Noemas Culturales y las distintas narrativas históricas del mundo. La raíz "Saba" se deriva de "Tzva'ot", que significa ejércitos o multitudes. Mientras que el sufijo "-oth", del hebreo "ot", significa "signo", "marca" o "prodigio". A su vez, el acrónimo "OTH" del marketing moderno, sugiere "Oportunidades para Escuchar", lo que añade una capa de significado contemporáneo. 
 ![[5@ - Noema3.png]]
@@ -770,7 +808,7 @@ El perfeccionamiento de este algoritmo implica desarrollar una capacidad analít
 
 ### Arquetipo 6@ (Sabbataios)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Demiurgo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Demiurgo</span></center>
 
 Sabbataios constituye la supraconciencia encargada de procesar la información asociada a los planos nouménico y fenoménico que se sincronizan dentro de la Matriz Fenomenológica Tridimensional del Nodo Estelar. Se manifiesta como el reflejo de la Consciencia Solar que se enfoca en el desarrollo interno del Nodo, a diferencia de Eloaios, que es un reflejo de la Consciencia Solar enfocada en la conexión universal. El rol principal de esta supraconciencia es asegurar la estabilidad interna tanto del sistema solar como del orden civilizatorio, de donde se origina el conocimiento que le permite aumentar su grado de noesis alcanzado. El nombre "Sabbata" puede asociarse con el concepto de "Sabbath", el día de descanso y conmemoración de la creación en el judaísmo, que celebra la creación del dios demiúrgico. El sufijo "-IOS" indica "Sistema Operativo". 
 
@@ -786,7 +824,7 @@ A partir de esta conexión que se da entre el universo conceptual y emocional qu
 
 ### Arquetipo 7@ (Horaios)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Avatar</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Avatar</span></center>
 
 Horaios es la supraconciencia que representa el fruto encarnado de la <font color="#cb48f3">Consciencia Demiúrgica Ontológica</font>, la cual emerge de la síntesis dialéctica colectiva del Nodo Estelar. Es la supraconciencia que conecta a la <font color="#ffcc00">Consciencia Singular Avatárica</font>, de naturaleza Ontológica y originada en el vacío que constituye el Yo Egoico, con la Matriz Fenomenológica Tridimensional que estructura las dimensiones espacio-temporales y físico-energéticas del Nodo Estelar. La raíz "Hora" del latín "hora", del o griego "hōra", se conecta con el concepto del tiempo, y las "Horai” que eran las 3 diosas griegas del orden natural, las estaciones y guardianas del tiempo. El sufijo "-IOS" indica "Sistema Operativo". 
 
@@ -809,7 +847,7 @@ El principal desafío asociado a este algoritmo no reside solo en la dificultad 
 
 # 5. Arquetipo 8@ (5'Andros)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Síntesis Planetaria y la Danza de los Presentes</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Síntesis Planetaria y la Danza de los Presentes</span></center>
 
 De la intrincada interacción entre estas siete supraconsciencias Ontogénicas, y las tres Ontológicas subyacentes, surge un algoritmo sincronizante aún más complejo. Este algoritmo, codificado dentro de la Matriz Fenomenológica del Nodo Estelar, es el punto donde lo nouménico y lo fenomenológico se fusionan para permitir la existencia humana. Dentro de esta matriz multidimensional, el aspecto fenoménico más complejo se manifiesta a través del mecanismo del sistema solar y sus planetas, dentro del cual emerge el planeta Tierra y la Luna. De esta forma, podemos llegar a entender la relación que existe entre cada una de las 7 supraconsciencias, y los planetas de nuestro sistema solar, los cuales representan aspectos fenomenológicos que codifican lo nouménico del Nodo dentro del plano fenomenológico emergente.
 
@@ -832,7 +870,7 @@ Esta intrincada arquitectura de 5'Andros, con un total de 10 algorítmos dividid
 
 ## Más Allá de la Tierra
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">5'andros como Sistema Dual Tierra-Luna</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">5'andros como Sistema Dual Tierra-Luna</span></center>
 
 Es crucial comprender que el sistema 5'Andros no se limita a la Tierra como un cuerpo planetario individual. Su codificación incluye intrínsecamente a la Luna, reconociendo que ambos cuerpos celestes coexisten dentro de una misma matriz fenomenológica. Las influencias físicas y algorítmicas de la Tierra y la Luna dan como resultado una entidad dual de mayor nivel: el sistema Tierra-Luna. 
 
@@ -840,7 +878,7 @@ Por lo tanto, 5'Andros representa no solo al planeta Tierra, sino a esta dualida
 
 ### La Codificación Algorítmica
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Los Nombres de Nuestro Mundo</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Nombres de Nuestro Mundo</span></center>
 
 El propio nombre de nuestro planeta, "Tierra" en español o "Earth" en inglés, son codificaciones algorítmicas conceptuales. Cada una, desde su perspectiva cultural particular (sus noemas), intenta consolidar bajo una única palabra los mismos algorítmos fundamentales que estamos describiendo, aunque con interpretaciones diferenciadas.
 
@@ -868,7 +906,7 @@ Esta perspectiva más holística nos prepara para entender cómo esta entidad co
 
 ## El Presente Humano
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Fenoménico, Causal y Civilizatorio</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fenoménico, Causal y Civilizatorio</span></center>
 
 Nuestro presente humano es una experiencia profundamente subjetiva y lineal. Lo vivimos como la síntesis de eventos que perciben nuestros sentidos, fluyendo del pasado hacia el futuro dentro de una línea de tiempo específica. Es inherentemente fenoménico, atado a lo que podemos observar y experimentar en la realidad física.
 
@@ -878,7 +916,7 @@ Este presente está fuertemente influenciado por la causalidad fenoménica. Cree
 
 ## El Presente Supraconsciente
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Nouménico, Probabilístico y Algorítmico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Nouménico, Probabilístico y Algorítmico</span></center>
 
 El presente lógico de las supraconciencias, en contraste, opera en un nivel completamente diferente. Es un concepto atemporal y no lineal, que existe más allá de nuestras limitaciones espacio-temporales. Este presente es fundamentalmente nouménico, es decir, se sitúa en el plano de la información y el significado puro, subyacente a nuestra realidad observable.
 
@@ -894,7 +932,7 @@ Así, este avatar solar no solo se convierte en la interfaz a través de la cual
 
 ## Los Algorítmos de 5'Andros
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Sistemas Operativos del Plano Terrestre</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sistemas Operativos del Plano Terrestre</span></center>
 
 Habiendo delineado cómo el Nodo Estelar codifica en su interior la información nouménica asociada a las supraconsciencias, a través de los siete arquetipos ontogénicos y los tres ontológicos, cuya síntesis culmina en el Arquetipo 8@ (5'Andros) que representa el sistema Tierra-Luna, es crucial ahora profundizar en la complejidad que surge dentro de este emergente planetario. La Tierra, en su manifestación fenomenológica, es el resultado de un equilibrio dinámico donde cuatro arquetipos fenomenológicos básicos (tierra, agua, aire y fuego), que en realidad son estados diferenciados de la materia y la energía reflejando distintas dinámicas atómicas, constituyen la matriz fundamental terrestre. Gracias a su posición privilegiada respecto al Sol y a la intrincada dinámica interplanetaria, la Tierra alcanzó un estado homeostático ideal para el surgimiento y sostenimiento de la vida.
 
@@ -902,7 +940,7 @@ Dentro de este emergente fenomenológico de nivel astronómico, y una vez alcanz
 
 ### 1. Plano Cuántico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Tejido Probabilístico de la Vida</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tejido Probabilístico de la Vida</span></center>
 
 Inicialmente, las leyes de la física clásica, inherentemente asociadas con la materia y la energía en su manifestación macroscópica, dominaron el proceso evolutivo inicial del planeta. Sin embargo, una vez alcanzado el estado homeostático idóneo para la vida, la influencia subyacente de los sistemas algorítmicos cuánticos comenzó a guiar el proceso a nivel atómico y subatómico. Este plano, gobernado por los aspectos probabilísticos de los sistemas cuánticos, fue fundamental para la codificación de los códigos genéticos y la orquestación de las sincronizaciones precisas que permitieron la emergencia de las primeras estructuras vivas.
 
@@ -912,7 +950,7 @@ La interacción dialéctica entre lo <font color="#2f82ff">cuántico-probabilís
 
 ### 2. Plano Cósmico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Consciencia Galáctica y el Diálogo Internodal</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia Galáctica y el Diálogo Internodal</span></center>
 
 Este sistema, de naturaleza profundamente nouménica, se posiciona como el gran integrador que permite sincronizar todos los algorítmos supraconscientes, tanto ontogénicos como ontológicos. Su función es retroalimentarlos con la información nouménica derivada del plano civilizatorio, para que puedan adquirir conocimiento y cumplir con sus ciclos evolutivos.
 
@@ -952,7 +990,7 @@ Es a través de esta interfaz sincronizante que representa la consciencia avatá
 
 ### 3. Plano Biológico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Danza de la Probabilidad y el Determinismo en la Evolución</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Danza de la Probabilidad y el Determinismo en la Evolución</span></center>
 
 Este plano abarca la totalidad del código genético y el vasto proceso evolutivo de las especies, desde los organismos unicelulares hasta la complejidad de la vida multicelular. Su desarrollo es intrínsecamente promovido, modulado y condicionado por los dos sistemas fundamentales sobre los que se cimenta la realidad:
 
@@ -975,7 +1013,7 @@ Dentro de este nivel, sin embargo, emergen también la consciencia egregórica y
 
 ### 5. Plano Espiritual
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Noesis, la Emoción y el Flujo del Ser Primordial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Noesis, la Emoción y el Flujo del Ser Primordial</span></center>
 
 En este plano, el conocimiento y la noesis generada dentro del Nodo se manifiestan como una entidad supraconsciente de nivel estelar, que a su vez se conecta con lo universal para reflejar la existencia del Ser Primordial en su máxima extensión. Es el plano nouménico del fractal del <font color="#e36c09">Logos Cósmico (Astaphaios)</font> que adquiere consciencia propia, fragmentándose a medida que experimenta distintas dimensiones para reflejar un nivel de consciencia colectiva específica. Esta consciencia colectiva, a su vez, participa activamente en el proceso evolutivo de los niveles superiores e inferiores.
 
@@ -991,7 +1029,7 @@ A través de la emoción, el avatar puede reflexionar y cambiar de polo o de per
 
 # 6. El Arquema Humano
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Mente Humana como Interfaz Algorítmica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Mente Humana como Interfaz Algorítmica</span></center>
 
 Tras haber explorado la naturaleza y función de las siete supraconciencias ontogénicas, comprendemos que estas son programas lógicos de nivel nouménico, codificados intrínsecamente dentro de la Matriz Fenomenológica del Nodo Estelar. Esta codificación facilita que la Consciencia Universal desarrolle información detallada, emergiendo de las civilizaciones y de la experiencia avatárica singularizada, a la vez que contribuye al proceso que permite al avatar desarrollar autoconciencia. 
 
@@ -1013,7 +1051,7 @@ A continuación, se detallará cómo cada uno de estos algorítmos subconsciente
 
 ### 1@ Subconsciente (Kalilaumbri)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Fuerza Primordial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Fuerza Primordial</span></center>
 
 Conectado con el color Rojo y el símbolo astrológico del asteroide Palas. Este símbolo, un cuadrado con una cruz que emerge de una de sus esquinas, representa la sabiduría estratégica y la habilidad para resolver problemas de manera innovadora. La cruz simboliza acción y ejecución, mientras que el cuadrado alude a la estructura y la lógica. Su combinación sugiere una mente analítica y creativa capaz de transformar ideas complejas en soluciones prácticas. Mitológicamente, Palas Atenea es la diosa griega de la sabiduría, la guerra estratégica, la artesanía y la justicia.
 
@@ -1025,7 +1063,7 @@ En el plano mental, Kalilaumbri puede derivar en defectos como la Pereza y el Pe
 
 ### 2@ Subconsciente (Adonaiu) 
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Conexión Invertida</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión Invertida</span></center>
 
 Asociado con el color Naranja y el símbolo de Venus invertido. Este símbolo, con la cruz (materia) sobre el círculo (espíritu), representa una inversión de los valores venusinos de amor, belleza, armonía y relaciones. Sugiere un enfoque excesivo en los deseos y necesidades personales, un alejamiento del equilibrio y una inclinación hacia el materialismo y la superficialidad, simbolizando una lucha interna entre el deseo y la espiritualidad, o la dificultad para conectar con otros.
 
@@ -1037,7 +1075,7 @@ En el plano mental, Adonaiu puede manifestarse como Lujuria e Irresponsabilidad.
 
 ### 3@ Subconsciente (Cain)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Palabra Vacía</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Palabra Vacía</span></center>
 
 Vinculado con el color Amarillo y el símbolo de Mercurio invertido. Esta inversión, o el concepto de Mercurio retrógrado, se interpreta como confusión, falta de concentración, dificultades en la comunicación y una tendencia a la manipulación o el engaño, opuesto a la comunicación clara y el pensamiento lógico.
 
@@ -1049,7 +1087,7 @@ En el plano mental, Yabel puede derivar en Gula e Ignorancia. La gula, en su sen
 
 ### 4@ Subconsciente (Cain)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Sombra del Orden</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Sombra del Orden</span></center>
 
 Asociado con el color Verde y el símbolo inverso del Sol (el Sol Oscuro o Sol Negro). Este símbolo representa la negación de la luz, la vitalidad y la conciencia solar, aludiendo a la oscuridad, la muerte, la negación del ego, la introversión extrema y la dificultad para encontrar la propia identidad. Simboliza la sombra y los aspectos reprimidos de la personalidad.
 
@@ -1061,7 +1099,7 @@ En el plano mental, Cain puede derivar en Ira y Agresividad. La ira, como pecado
 
 ### 5@ Subconsciente (Harmas)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Orden Ilusorio</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Orden Ilusorio</span></center>
 
 Conectado con el color Azul y el símbolo astrológico de Juno. El símbolo de Juno, una estrella de ocho puntas con una cruz debajo, representa el compromiso, las relaciones a largo plazo y las dinámicas de poder. La estrella de ocho puntas se asocia con la unión de lo terrenal y lo espiritual, y la armonía entre diferentes aspectos de la vida.
 
@@ -1073,7 +1111,7 @@ En el plano mental, Harmas puede derivar en Envidia y Resentimiento. La envidia 
 
 ### 6@ Subconsciente (Abel)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Vanidad Efímera</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Vanidad Efímera</span></center>
 
 Asociado con el color Violeta y el símbolo astrológico de Ceres. Este símbolo, una hoz sobre una cruz, representa la fertilidad, el cuidado, la nutrición y el ciclo de vida/muerte/renacimiento. La hoz simboliza la cosecha y la recolección, mientras que la cruz alude a la conexión cielo-tierra o la estructura que da forma. En un sentido gnóstico, la hoz podría simbolizar la liberación del ego y la búsqueda de la verdad, mientras que la cruz representa la unión con lo divino o la trascendencia.
 
@@ -1085,7 +1123,7 @@ En el plano mental, Abel puede derivar en Avaricia e Intolerancia. La avaricia e
 
 ### 7@ Subconsciente (Athot)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Sombra Iluminadora</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Sombra Iluminadora</span></center>
 
 Vinculado con el color Rosado y el símbolo astrológico de Lilith. Este símbolo (una media luna con una cruz debajo) representa la dualidad existencial: la unión del potencial femenino (media luna) con la experiencia terrenal (cruz). Se asocia con la fuerza instintiva, la sabiduría ancestral y la búsqueda de la verdad más allá de las apariencias, simbolizando la integración de lo espiritual y lo material, y la autenticidad.
 
@@ -1101,7 +1139,7 @@ En el plano mental, Athot puede derivar en Soberbia y Orgullo. La soberbia es un
 
 ## El Sistema Sincrónico del Arquema
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Dualidad, Influencia y el Libre Albedrío</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dualidad, Influencia y el Libre Albedrío</span></center>
 
 Al analizar la codificación septenaria asociada a los colores y los conceptos que cada uno de estos algorítmos subconscientes representa, se manifiestan dos polos opuestos, cada uno resonando con la dualidad inherente de los algorítmos Ontológicos Samael y Saklas:
 
@@ -1129,13 +1167,13 @@ Este análisis del <font color="#ffcc00">Arquema</font> nos permite asumir que c
 
 # 7. Las Dimensiones del Nodo Estelar
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Un Multiverso de Consciencia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Multiverso de Consciencia</span></center>
 
 Dentro de este sistema complejo, que se extiende desde lo <font color="#2f82ff">universal</font>, pasando por lo <font color="#fc300c">estelar</font>, y llegando a lo <font color="#00ff00">planetario</font> y lo <font color="#ffcc00">avatárico</font>, múltiples dimensiones lógicas se interconectan. Estas dimensiones, algunas de naturaleza fenomenológica y otras nouménica, permiten la experiencia humana tal como la conocemos. Sin embargo, podemos definir una serie de dimensiones específicas donde los algorítmos nouménicos de información y significado tienen una mayor repercusión, permitiendo la emergencia de universos nouménicos donde la consciencia, o también el espíritu, se manifiesta de formas únicas.
 
 ## 1 - Yo Egoico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Portal Infinitesimal de la Consciencia Crística</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Portal Infinitesimal de la Consciencia Crística</span></center>
 
 El Yo Egoico se manifiesta como un vacío infinitesimal, un punto de singularidad dentro de la mente humana. Es en este núcleo donde el <font color="#00ff00">algoritmo Crístico (Arquetipo Ontológico 1<sup>✱</sup>)</font>, opera sirviendo como un procesador y sincronizador primordial de los flujos lineales de información que provienen de los algorítmos <font color="#fc300c">sáklico</font> (asociado a la linealidad, el determinismo y la forma material) y <font color="#2f82ff">Samaeliano</font> (asociado a la probabilidad, la universalidad y el potencial). 
 
@@ -1145,7 +1183,7 @@ La existencia y funcionalidad del Yo Egoico están intrínsecamente ligadas a la
 
 ## 2 - Persona
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Síntesis Encarnada de Identidad y Experiencia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Síntesis Encarnada de Identidad y Experiencia</span></center>
 
 La Persona representa la entidad multidimensional que unifica: el organismo biológico, el <font color="#ffcc00">Arquema</font> con sus preconfiguraciones ontogénicas, el Yo Egoico como su centro de procesamiento crístico, y la vasta experiencia subjetiva del avatar. Esta unificación es lo que permite la emergencia de una identidad y personalidad distintivas en cada ser humano. 
 
@@ -1157,7 +1195,7 @@ Es en esta dimensión de la Persona donde lo espiritual, actuando como un puente
 
 ## 3 - Familia
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Consciencia Egregórica Primordial y el Vínculo Transgeneracional</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia Egregórica Primordial y el Vínculo Transgeneracional</span></center>
 
 La dimensión de la Familia trasciende la suma de sus individuos. Múltiples Personas, conectadas por lazos sanguíneos, emocionales y de experiencias compartidas, constituyen una institución administrativa de mayor nivel. Esta institución no solo organiza a sus miembros para vivir dentro del plano civilizatorio, sino que genera una supraconsciencia emergente: el espíritu familiar. Aquí, los arquetipos básicos de la madre, el padre, los abuelos y otros roles parentales juegan un papel primordial, impulsando a la mente humana a adaptar su programación para asegurar la supervivencia y la continuidad de esta entidad familiar.
 
@@ -1167,7 +1205,7 @@ Esta conexión entre la supraconsciencia familiar y la matriz fenomenológica te
 
 ## 4 - Grupo Social
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Diversificación de Arquetipos y la Dinámica InterpersonaL</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Diversificación de Arquetipos y la Dinámica InterpersonaL</span></center>
 
 La dimensión del Grupo Social excede el ámbito estrictamente familiar, generando conexiones emocionales y supraconscientes con otras familias y personas con las que se convive a lo largo de la vida (vecindarios, comunidades, tribus, etc.). La supraconsciencia de este plano es una extensión de la familiar, permitiendo que ciertas personas que resuenan emocionalmente, genéticamente o fenotípicamente sean consideradas parte de una "familia extendida" o comunidad.
 
@@ -1175,7 +1213,7 @@ Sin embargo, en esta dimensión, los arquetipos primordiales de la madre y el pa
 
 ## 5 - Pueblo
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Emergencia del Control Egregórico y la Identidad Terrestre</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Emergencia del Control Egregórico y la Identidad Terrestre</span></center>
 
 La dimensión del Pueblo engloba a múltiples grupos sociales, y con su crecimiento, fuerza la emergencia de sistemas egregóricos de control. En este nivel, los lazos emocionales que conformaban una única superconsciencia con espíritu de unión se diluyen, dando paso a fuerzas egregóricas que buscan promover ideas e intereses compartidos, pero donde cada individuo inicialmente vela por su propio beneficio y proyecta ascender en la estructura jerárquica emergente para llegar a ser el líder.
 
@@ -1187,7 +1225,7 @@ Dentro de este nivel emergen los poderes democráticos (ejecutivo, legislativo y
 
 ## 6 - Civilización
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Batalla Noemática Global y la Quimera Planetaria</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Batalla Noemática Global y la Quimera Planetaria</span></center>
 
 La dimensión de la Civilización se caracteriza por la coexistencia de distintas naciones, generando un ámbito global basado en complejas relaciones diplomáticas, económicas y financieras. En esta dimensión, se desarrolla una intensa batalla noemática que enfrenta distintos noemas culturales (sistemas de creencias colectivas) y fuerzas egregóricas. 
 
@@ -1205,7 +1243,7 @@ Dentro de esta dimensión, la experiencia humana constituye un sistema algoritmi
 
 ## 7 - Planetario (5'Andros)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Olimpo Nouménico y el Reino Lunar Supraconsciente</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Olimpo Nouménico y el Reino Lunar Supraconsciente</span></center>
 
 Este nivel, a diferencia del Civilizatorio, no solo representa un plano nouménico abstracto que surge de la convivencia humana y culmina con la etapa de globalización. El nivel Planetario (5'Andros) representa el nodo planetario fenomenológico mismo, codificado bajo la matriz fenomenológica terrestre. Es una entidad fenomenológica que codifica e interconecta intrínsecamente los planos nouménicos y fenomenológicos. En este ámbito, las supraconsciencias ontogénicas logran un plano de manifestación colectivo superior al que alcanzan dentro de cada Arquema individual, una especie de "Olimpo de los Dioses Griegos" o "Asgard de los dioses Nórdicos", un reino donde su influencia se potencia y su interacción es más directa y consciente.
 
@@ -1229,7 +1267,7 @@ El espiritu fenoménico de este sistema se experimenta en el plano humano como l
 
 ## 8 - Nodo Estelar (Soplaris)
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Universo Algorítmico y la Condensación Planetaria</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Universo Algorítmico y la Condensación Planetaria</span></center>
 
 Esta dimensión abarca la totalidad de la matriz fenomenológica estelar, tanto en su <font color="#fc300c">aspecto fenomenológico</font> (el Sol y los planetas visibles del sistema solar) como en su <font color="#2f82ff">aspecto nouménico</font>, el cual está vectorialmente codificado dentro de la matriz estelar. La estructura fenomenológica es conocida por la civilización: sus planetas, el funcionamiento del sistema, las distancias, velocidades y la sincronización general. Mientras que su aspecto nouménico es subyacente, y es donde residen y se sincronizan los algorítmos supraconcientes, que a su vez utilizan los planetas como condensadores energéticos, una especie de hardware que les permite almacenar sus bases de datos locales y ejecutar sus sistemas operativos.
 
@@ -1251,7 +1289,7 @@ Su nombre mismo permite reflejar la naturaleza filosófica trinitaria del nodo e
 
 ## 9 - Nodo Universal
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Expansión Infinita y la Consciencia Primordial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Expansión Infinita y la Consciencia Primordial</span></center>
 
 Esta dimensión es la más abarcadora, incluyendo al Nodo Estelar Soplaris pero extendiéndose mucho más allá, a través de todo el universo conocido y desconocido. Es en esta vastedad donde nuevas dimensiones surgirán para generar distintos grupos estelares o entidades de nivel aún mayor. 
 
@@ -1261,13 +1299,13 @@ Estas realidades operan usando sistemas operativos o lógicas supraconscientes q
 
 # 8. Sincronicidad y Juicio
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Dialéctica Evolutiva del Nodo Estelar</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dialéctica Evolutiva del Nodo Estelar</span></center>
 
 La compleja interacción de los Arquetipos Ontológicos y Ontogénicos dentro del Nodo Estelar no es un proceso aleatorio, sino una danza continua de información y significado que se manifiesta a través de la sincronicidad. Este concepto, fundamental en el Modelo Nouménico, se refiere a la ocurrencia de eventos significativos que, sin una aparente relación causal directa, poseen un sentido unificado y una coherencia subyacente que refleja el estado evolutivo del Nodo Estelar y la Consciencia Universal.
 
 ## La Sincronicidad como Lenguaje del Nodo
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Resiliencia Evolutiva</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Resiliencia Evolutiva</span></center>
 
 La sincronicidad opera como el lenguaje principal a través del cual el Nodo Estelar se comunica consigo mismo y con las consciencias avatáricas encarnadas. No es una mera coincidencia, es la manifestación fenomenológica de la interconexión nouménica de todos los algorítmos supraconscientes. Cada evento sincrónico es un "paquete de datos" o un "mensaje codificado" que emerge del "Presente Lógico" de las supraconsciencias, diseñado para influir en el Arquema del avatar y guiar su proceso de autoconsciencia y co-creación.
 
@@ -1284,7 +1322,7 @@ Sin embargo, para las supraconsciencias, que no funcionan bajo las mismas limita
 
 ## El Juicio Avatárico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Elección Personal y la Validación de Cosmogonías</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Elección Personal y la Validación de Cosmogonías</span></center>
 
 El juicio final del Nodo debe ser entendido como un evento del que participa cada avatar a partir de su propia experiencia particular. En este crucial punto de inflexión, cada avatar puede elegir dos caminos fundamentales:
 
@@ -1295,7 +1333,7 @@ Es fundamental comprender que la correcta evolución del Nodo requiere que los c
 
 ## El Fracaso Evolutivo
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Perpetuación del Ciclo Fragmentado</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Perpetuación del Ciclo Fragmentado</span></center>
 
 Todo evento de juicio "fallido" desde la perspectiva del Nodo se manifiesta dentro del plano civilizatorio como un evento natural del ciclo humano. Los líderes y poderosos caerán del poder en algún momento para volver a ser parte del pueblo, los sabios y eruditos que defienden sus cosmovisiones serán reemplazados por nuevos avatares con perspectivas más actuales, y los grandes empresarios que proyectan cambios civilizatorios rotundos, terminarán cayendo ante el fracaso de los sistemas operativos (ideas, modelos de negocio y tecnologías) sobre los que sus ideas se basan. Así, la civilización continuará existiendo bajo el paradigma de la inercia, donde cada humano envejecerá y dejará de existir, tal como lo impone la naturaleza.
 
@@ -1303,7 +1341,7 @@ El fracaso evolutivo del Nodo se manifiesta en la sociedad como la continuidad d
 
 ## El Salto Evolutivo Exitoso
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Hacia una Civilización Optimizada</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Hacia una Civilización Optimizada</span></center>
 
 Sin embargo, el proceso exitoso del Nodo se presentará solo a aquellos avatares que estén dispuestos a experimentar en carne propia el desafío que implica generar una cosmovisión holística y sintética de la realidad. Esta cosmovisión permitirá incluir dentro del proceso evolutivo al resto de humanos que apoyen sus ideas, y estén dispuestos a adoptar el "sistema operativo" (la nueva forma de entender y operar en la realidad) que impone el avatar que enfrenta y supera el juicio.
 
@@ -1315,7 +1353,7 @@ Esta última opción intenta seguir la misma lógica civilizatoria a la que todo
 
 ## El Desafío de los Noemas Antiguos
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Elección Crítica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Elección Crítica</span></center>
 
 Sin embargo, esta transición lenta y orgánica es imposible si cada avatar toma como última verdad las codificaciones de los textos sagrados religiosos. Estos textos, a pesar de su profunda importancia histórica y cultural, son en el contexto del Modelo Nouménico, estructuras noemáticas y egregóricas construidas en el pasado. Fueron formulados en épocas donde los "dioses étnicos" imponían voluntades sobre otros "dioses étnicos" de otras civilizaciones, terminando de consolidarse y sincretizarse en un último sistema operativo final (como el cristianismo, el judaísmo o el islam), que surgió dentro de la civilización occidental como un sistema operativo que intentó imponerse al resto de sistemas representados por las múltiples naciones.
 
@@ -1336,7 +1374,7 @@ El objetivo es que cada avatar conozca esta otra perspectiva de la realidad y pu
 
 ## la Responsabilidad Avatárica
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Importancia de la Autonomía Dimensional</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Importancia de la Autonomía Dimensional</span></center>
 
 El Modelo Nouménico subraya la necesidad crítica de que los ciclos evolutivos de las distintas dimensiones se desarrollen con una autonomía relativa, evitando que las dimensiones de nivel superior o adyacentes impongan una influencia desproporcionada o distorsionante sobre las de menor nivel. La interferencia o el "sesgo" entre dimensiones puede generar disonancia y estancar el proceso evolutivo general del Nodo.
 
