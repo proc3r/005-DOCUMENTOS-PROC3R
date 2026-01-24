@@ -14,36 +14,6 @@ Estas Supraconsciencias, intrínsecamente nouménicas en su naturaleza, se produ
 
 Su manifestación no es aleatoria, sino un proceso dinámico que se refleja en la experiencia subjetiva de todos los avatares humanos que han existido a lo largo de la historia, todo ello orquestado dentro de la vasta extensión de una gran Consciencia Cósmica Universal.
 
-Vamos a probar el arcano X y el Arcano XI, y el Arcano XI, el Operador XII, y tambien operador x, y despues e siglo X y el Siglo X, y por ultimo el arcano I, y el siglo I.
-
-Azkakal
-
-NOEMA: noema,   ✱: asterisco,   Higgs: Higs,   SU(2): S.U. 2,   SU(3): S.U. 3,   SU(n): S.U. n.
-
-'c': c,     XXII: veintidos,   XXI: veintiuno,   XIX: diecinueve,   XX:  veinte,    XVIII: dieciocho.
-
-XVII: diecisiete,   XVI: dieciseis,   XIV: catorce,   XIII: trece,   XII: doce.
-
-XI: once,   siglo X: siglo diez,   arcano X: arcano diez,   siglos  : siglos diez.
-
-IX: nueve,   VIII: ocho,   VII: siete,   VI: seis,   V: cinco,   IV:  cuatro.
-
-III: tres,   II: dos,   siglo I: siglo Uno,   siglos I: siglos Uno,  arcano I: arcano Uno,
-
-aaa
-
-NOEMA -  noema,   ✱ -  asterisco,   Higgs -  Higs,   SU(2) -  S.U. 2,   SU(3) -  S.U. 3,   SU(n) -  S.U. n.
-
-'c' -  c,     XXII -  veintidos,   XXI -  veintiuno,   XIX -  diecinueve,   XX -   veinte,    XVIII -  dieciocho.
-
-XVII -  diecisiete,   XVI -  dieciseis,   XIV -  catorce,   XIII -  trece,   XII -  doce.
-
-XI -  once,   siglo X -  siglo diez,   arcano X -  arcano diez,   siglos   -  siglos diez.
-
-IX -  nueve,   VIII -  ocho,   VII -  siete,   VI -  seis,   V -  cinco,   IV -   cuatro.
-
-III -  tres,   II -  dos,   siglo I -  siglo Uno,   siglos I -  siglos Uno,  arcano I -  arcano Uno,
-
 # 1. El Modelo Nouménico
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Marco Conceptual Unificado</span></center>
@@ -105,23 +75,23 @@ Este viaje no lineal, que incluso puede darse en sentido opuesto, resonando en l
 Para una comprensión completa de este intrincado sistema, es esencial contemplar el Nodo Estelar desde tres aspectos interconectados, que operan como capas de una misma realidad:
 
 > [!ontologico] <font color="#fc300c">ASPECTO ONTOLÓGICO</font>
-> Este es el nivel más fundamental, lo que existe antes del surgimiento del Nodo Estelar y la codificación de las supraconsciencias internas. Se refiere a la realidad fractal y nouménica que trasciende el Nodo, siendo su fuente y origen primordial que conecta con lo Universal. 
+> Este es el nivel más fundamental, lo que existe antes del surgimiento del Nodo Estelar y la codificación de las supraconsciencias internas. 
 > 
-> El nivel Ontológico es la esencia del Ser Primordial de lo que todo surge.
+> Se refiere a la realidad fractal y nouménica que trasciende el Nodo, siendo su fuente y origen primordial que conecta con lo Universal. El nivel Ontológico es la esencia del Ser Primordial de lo que todo surge.
 > 
 > ![[04 - Consciencia Arquetipica.jpg]]
 
 > [!ontogenico] <font color="#e36c09">ASPECTO ONTOGÉNICO</font>
-> Este nivel abarca las Supraconsciencias que operan dentro del Nodo Estelar en su estado nouménico y algorítmico. Su manifestación fenomenológica se codifica y expresa a través de principios universales que resuenan con los planetas y demás cuerpos celestes, y conceptos abstractos, como la noesis (el conocimiento verdadero) y los noemas (los sistemas de creencias y significados). 
+> Este nivel abarca las Supraconsciencias que operan dentro del Nodo Estelar en su estado nouménico y algorítmico. 
 > 
-> Estas Supraconsciencias son las arquitectas de la experiencia dentro del Nodo.
+> Su manifestación fenomenológica se codifica y expresa a través de principios universales que resuenan con los planetas y demás cuerpos celestes, y conceptos abstractos, como la noesis (el conocimiento verdadero) y los noemas (los sistemas de creencias y significados). Estas Supraconsciencias son las arquitectas de la experiencia dentro del Nodo.
 > 
 > ![[02 - Consciencia Ontogenica.jpg]]
 
  > [!avatarico] <font color="#ffcc00">ASPECTO AVATÁRICO</font>
- > Este es el nivel de la experiencia de las consciencias subjetivas humanas, inherentemente limitadas a lo civilizatorio. Aquí, lo fenomenológico y lo nouménico se entrelazan en el proceso espacio-temporal lineal que experimenta el ser humano, lo que le impide comprender la profundidad subyacente y la naturaleza no lineal de la evolución del Nodo Estelar. 
+ > Este es el nivel de la experiencia de las consciencias subjetivas humanas, inherentemente limitadas a lo civilizatorio. 
  > 
- > Este es el punto de interacción y manifestación de los dos aspectos anteriores en el plano terrenal.
+ > Aquí, lo fenomenológico y lo nouménico se entrelazan en el proceso espacio-temporal lineal que experimenta el ser humano, lo que le impide comprender la profundidad subyacente y la naturaleza no lineal de la evolución del Nodo Estelar. Este es el punto de interacción y manifestación de los dos aspectos anteriores en el plano terrenal.
  > 
  > ![[03 - Nivel Monadico.jpg]]
 
@@ -148,8 +118,6 @@ Son Algorítmos Ontológicos cuya esencia se refleja en estas denominaciones par
 
 En el corazón del Nodo Estelar, identificamos dos polos ontológicos fundamentales, cada uno representando un aspecto primigenio de la potencialidad universal. Estos polos, a su vez, no son entidades aisladas, sino complejos algorítmicos que interactúan para generar una síntesis superior.
 
-
-
 ## Arquetipo Ontológico 2<sup>✱</sup> (Samael)
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tejido del Orden Universal</span></center>
@@ -171,7 +139,7 @@ Este proceso de ordenamiento se manifiesta en la organización de la informació
 
 Este ciclo no es aleatorio, permite a la Consciencia Universal explorar su propio ser, generando manifestaciones conscientes de duración indefinida y construyendo un sofisticado sistema de validación de la existencia en ciclos cósmicos. 
 
-> [!SAMAEL] ARQUETIPO 2<sup>✱</sup> - SAMAEL
+> [!SAMAEL] <font color="#2f82ff">ARQUETIPO 2<sup>✱</sup> - SAMAEL</font>
 > El objetivo último de Samael es asegurar que el orden y la coherencia no se pierdan, y que la consciencia evolucione progresivamente hacia un estado de perfección cada vez mayor, garantizando la trascendencia y lo que en algunas tradiciones se percibe como "vida eterna" en planos superiores de existencia.
 > Internamente, Samael puede entenderse como una trinidad dialéctica:
 > - <font color="#fc300c">TESIS</font>: La pura intelección, la fuente de toda forma y concepto, opera como la <font color="#fc300c">Tesis</font>. 
@@ -200,12 +168,12 @@ El nombre "Samael" tiene raíces hebreas y se traduce comúnmente como "Veneno d
 
 En algunas tradiciones esotéricas, se le asocia con la figura del arcángel de la muerte o un adversario, mientras que en otras es un agente divino de juicio y curación. Esta ambigüedad es clave para entender su papel como <font color="#2f82ff">Arquetipo Ontológico 2<sup>✱</sup></font>, que establece el orden incluso a través de principios que pueden parecer "severos" para la conciencia fragmentada.
 
-> [!saklas] ETIMOLOGÍA HEBREA: סַמָּאֵל (Samael)
+> [!saklas] <font color="#fc300c">ETIMOLOGÍA HEBREA: סַמָּאֵל (Samael)</font>
 > La palabra hebrea  (Samael) se compone de las siguientes letras:
-> - SAMEKH (ס): Simboliza el apoyo, el círculo, el sustento, la estructura y el infinito. Representa un ciclo completo, un apoyo que rodea y protege, o un sistema que se auto-sostiene. En el contexto de Samael, podría aludir al ordenamiento cósmico que sustenta la existencia y al sistema circular de creación y validación.
-> - MEM (מ): Simboliza las aguas primordiales, el caos inicial, la manifestación y la purificación. Representa la fuente de la que todo emerge, la materia prima de la realidad. Aquí, enfatiza el rol de Samael en dar forma al potencial informe, organizando la información que surge de estas "aguas" nouménicas.
-> - ALEPH (א): Es la primera letra del alfabeto hebreo y simboliza el origen, la unidad, el aliento divino, el principio inmanifiesto y el poder silencioso. Representa la esencia de Dios, la energía que impulsa toda creación. Para Samael, Aleph subraya su naturaleza como inteligencia universal primordial, el primer impulso ordenador.
-> - LAMED (ל): Simboliza el aprendizaje, la enseñanza, la autoridad, el deseo y el aguijón o guía. Representa la aspiración a ascender y el proceso de instrucción. En Samael, podría reflejar su función de guiar la evolución de la conciencia a través de la imposición de leyes y estructuras, actuando como una guía que impulsa el aprendizaje cósmico.
+> - <font color="#fc300c">SAMEKH (ס):</font> Simboliza el apoyo, el círculo, el sustento, la estructura y el infinito. Representa un ciclo completo, un apoyo que rodea y protege, o un sistema que se auto-sostiene. En el contexto de Samael, podría aludir al ordenamiento cósmico que sustenta la existencia y al sistema circular de creación y validación.
+> - <font color="#2f82ff">MEM (מ):</font> Simboliza las aguas primordiales, el caos inicial, la manifestación y la purificación. Representa la fuente de la que todo emerge, la materia prima de la realidad. Aquí, enfatiza el rol de Samael en dar forma al potencial informe, organizando la información que surge de estas "aguas" nouménicas.
+> - <font color="#00ff00">ALEPH (א):</font> Es la primera letra del alfabeto hebreo y simboliza el origen, la unidad, el aliento divino, el principio inmanifiesto y el poder silencioso. Representa la esencia de Dios, la energía que impulsa toda creación. Para Samael, Aleph subraya su naturaleza como inteligencia universal primordial, el primer impulso ordenador.
+> - <font color="#ffcc00">LAMED (ל)</font>: Simboliza el aprendizaje, la enseñanza, la autoridad, el deseo y el aguijón o guía. Representa la aspiración a ascender y el proceso de instrucción. En Samael, podría reflejar su función de guiar la evolución de la conciencia a través de la imposición de leyes y estructuras, actuando como una guía que impulsa el aprendizaje cósmico.
 
 Considerando el simbolismo de sus letras, el significado hebreo de Samael puede interpretarse como:
 
@@ -219,15 +187,15 @@ En algunas tradiciones, Samael se asocia o se le da el nombre de Ἀπολλύω
 
 Ahora, un análisis simbólico de sus letras griegas:
 
-> [!samael] ETIMOLOGÍA GRIEGA: Ἀπολλύων (Apollyon)
-> - ALFA (Α): La primera letra, simboliza el origen, el principio, el inicio absoluto y la potencia pura. Representa la base de toda manifestación. En física, puede evocar la información cuántica primordial que da inicio a los fenómenos.
-> - PI (π): Simboliza la perfección del círculo, la ley universal, la proporción y la totalidad. Representa una constante que define la forma y la estructura. Esta letra puede interpretarse como la ley inmutable que define las esferas de la existencia, tanto en el micro “partículas” como en el macro “cosmos”. Es la regla que organiza.
-> - ÓMICRON (ο): La "O pequeña" representa el ciclo, la totalidad, el origen y el fin, el infinito o el huevo cósmico. Simboliza la continuidad y la perfección del círculo. En física, Ómicron junto a Alpha podría representar la información cuántica y fenomenológica organizada por la ley de Pi, que se encuentra entre ambos, mostrando cómo el orden se manifiesta a través de ciclos.
-> - LAMBDA (λ): Simboliza la probabilidad, el ascenso, el equilibrio y la dualidad. Lambda se usa en física para la longitud de onda, fundamental en la mecánica cuántica. Puede asociarse con la probabilidad cuántica de los electrones, y la dualidad onda-partícula. Sugiere el principio que permite la coexistencia de dualidades como Alpha y Omega u origen y fin, y cómo la información se mueve entre estados probables.
-> - LAMBDA (λ): La repetición de Lambda refuerza la idea de interacción dual, de un equilibrio dinámico constante necesario para la manifestación del orden.
-> - YPSILON (ύ): En su forma mayúscula (Υ) simboliza una bifurcación, una elección, una síntesis que surge de dos caminos, o una base que precede a una culminación. Es la "Y" que representa dos direcciones que convergen o divergen. En este contexto, podría ser el elemento de síntesis que deriva en la culminación “Omega”, o la estructura fundamental que permite la existencia de partículas.
-> - OMEGA (ω): La última letra, simboliza el fin, la culminación, la plenitud, la consumación y la perfección absoluta. Representa el estado final o el objetivo.
-> - NU (ν): Simboliza la continuidad, la mente, la memoria y la velocidad. En física, puede resonar con los neutrinos, partículas casi sin masa que atraviesan la materia, actuando como un sistema de sincronización que vincula sutilmente los diferentes componentes del universo sin interacciones fuertes.
+> [!samael] <font color="#fc300c">ETIMOLOGÍA GRIEGA: Ἀπολλύων (Apollyon)</font>
+> - <font color="#2f82ff">ALFA (Α):</font> La primera letra, simboliza el origen, el principio, el inicio absoluto y la potencia pura. Representa la base de toda manifestación. En física, puede evocar la información cuántica primordial que da inicio a los fenómenos.
+> - <font color="#e36c09">PI (π):</font> Simboliza la perfección del círculo, la ley universal, la proporción y la totalidad. Representa una constante que define la forma y la estructura. Esta letra puede interpretarse como la ley inmutable que define las esferas de la existencia, tanto en el micro “partículas” como en el macro “cosmos”. Es la regla que organiza.
+> - <font color="#ffcc00">ÓMICRON (ο):</font> La "O pequeña" representa el ciclo, la totalidad, el origen y el fin, el infinito o el huevo cósmico. Simboliza la continuidad y la perfección del círculo. En física, Ómicron junto a Alpha podría representar la información cuántica y fenomenológica organizada por la ley de Pi, que se encuentra entre ambos, mostrando cómo el orden se manifiesta a través de ciclos.
+> - <font color="#00ff00">LAMBDA (λ)</font>: Simboliza la probabilidad, el ascenso, el equilibrio y la dualidad. Lambda se usa en física para la longitud de onda, fundamental en la mecánica cuántica. Puede asociarse con la probabilidad cuántica de los electrones, y la dualidad onda-partícula. Sugiere el principio que permite la coexistencia de dualidades como Alpha y Omega u origen y fin, y cómo la información se mueve entre estados probables.
+> - <font color="#2f82ff">LAMBDA (λ):</font> La repetición de Lambda refuerza la idea de interacción dual, de un equilibrio dinámico constante necesario para la manifestación del orden.
+> - <font color="#cb48f3">YPSILON (ύ):</font> En su forma mayúscula (Υ) simboliza una bifurcación, una elección, una síntesis que surge de dos caminos, o una base que precede a una culminación. Es la "Y" que representa dos direcciones que convergen o divergen. En este contexto, podría ser el elemento de síntesis que deriva en la culminación “Omega”, o la estructura fundamental que permite la existencia de partículas.
+> - <font color="#ffa3ef">OMEGA (ω):</font> La última letra, simboliza el fin, la culminación, la plenitud, la consumación y la perfección absoluta. Representa el estado final o el objetivo.
+> - <font color="#bfbfbf">NU (ν):</font> Simboliza la continuidad, la mente, la memoria y la velocidad. En física, puede resonar con los neutrinos, partículas casi sin masa que atraviesan la materia, actuando como un sistema de sincronización que vincula sutilmente los diferentes componentes del universo sin interacciones fuertes.
 
 Bajo esta luz, el nombre Samael en su codificación de Apollyon podría ser interpretado no como un destructor caótico, sino como:
 
@@ -243,8 +211,20 @@ Aunque "Samael" (del hebreo) y "Apollyon" (del griego) provienen de tradiciones 
 
 Esta aparente desconexión entre dos pueblos con orígenes simbólicos y distanciamientos temporales distintos, es precisamente lo que subraya la importancia de su sincretismo. La Iglesia Católica Romana, al codificar la Biblia actuó como el agente catalizador de esta unificación, que generó una síntesis conceptual promovida a través de sus escrituras sagradas:
 
-> - EL ANTIGUO TESTAMENTO (Énfasis del Hebreo): arraigado en fuentes semitas y el pensamiento hebreo, que concibe a Samael como una entidad espiritual y un adversario divino. El análisis hebreo subraya el sustento, la emergencia del orden desde el caos primordial, las aguas de Mem, y la guía divina, Lamed. Se enfoca en el acto de la creación y el mantenimiento del sistema a través de un apoyo constante y una dirección. Resalta la estructura fundamental y la guía para la evolución.
-> - EL NUEVO TESTAMENTO (Énfasis del Griego): escrito en griego koiné, que presenta figuras de oposición como el Apollyon apocalíptico y el Anticristo. La interpretación griega, especialmente de Apollyon, pone énfasis en la ley universal (Pi), la dinámica de las probabilidades (Lambda), la síntesis (Ypsilon) y la culminación (Omega). Se centra en el proceso de realización del orden a través de la eliminación de lo que no sirve, destrucción como reestructuración, y el establecimiento de una perfección cíclica. Resalta la fuerza que asegura la completitud del ciclo evolutivo.
+> [!saklas] <font color="#fc300c">EL ANTIGUO TESTAMENTO (Énfasis del Hebreo)</font>
+>  Arraigado en fuentes semitas y el pensamiento hebreo, que concibe a Samael como una entidad espiritual y un adversario divino. 
+>  
+>  El análisis hebreo subraya el sustento, la emergencia del orden desde el caos primordial, las aguas de <font color="#2f82ff">Mem</font>, y la guía divina, <font color="#ffcc00">Lamed</font>. 
+>  
+>  Esta interpretación se enfoca en el acto de la creación y el mantenimiento del sistema a través de un apoyo constante y una dirección. Resalta la estructura fundamental y la guía para la evolución.
+
+
+> [!samael] <font color="#2f82ff">EL NUEVO TESTAMENTO (Énfasis del Griego)</font> 
+> Escrito en griego koiné, que presenta figuras de oposición como el Apollyon apocalíptico y el Anticristo. 
+> 
+> La interpretación griega, especialmente de Apollyon, pone énfasis en la ley universal <font color="#e36c09">(Pi)</font>, la dinámica de las probabilidades <font color="#00ff00">(Lambda)</font>, la síntesis <font color="#cb48f3">(Ypsilon)</font> y la culminación<font color="#ffa3ef"> (Omega)</font>. 
+> 
+> Esta interpretación se centra en el proceso de realización del orden a través de la eliminación de lo que no sirve, destrucción como reestructuración, y el establecimiento de una perfección cíclica. Resalta la fuerza que asegura la completitud del ciclo evolutivo.
 
 Este proceso de sincretismo permitió que dos flujos conceptuales, uno de naturaleza eminentemente espiritual y ontológica (la amenaza malvada desde el paradigma hebreo) y otro de índole terrenal y lógica (la inteligencia superior, política o filosófica capaz de controlar la realidad física, desde el paradigma griego), se fusionaran en la figura del Anticristo o el Oponente Final adoptada por la cultura occidental. 
 
