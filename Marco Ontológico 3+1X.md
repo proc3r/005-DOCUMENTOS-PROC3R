@@ -977,7 +977,7 @@ Los tres egregores principales <font color="#2F82FF">(Estado</font>, <font color
 
 ### 2. El Individuo como Operador X
 
-El individuo consciente (Humano/Ángel del tetramorfo) es el único operador X capaz de de-codificar y reescribir los egregores. Sin embargo, este poder no es absoluto: el <font color="#ffa3ef">Yo Egoico</font> está profundamente condicionado por el paradigma civilizatorio que hereda. 
+El individuo consciente (Humano/Ángel del tetramorfo) es el único operador X capaz de decodificar y reescribir los egregores. Sin embargo, este poder no es absoluto: el <font color="#ffa3ef">Yo Egoico</font> está profundamente condicionado por el paradigma civilizatorio que hereda. 
 
 Un individuo nacido en una cultura teocrática no puede dejar de percibir el Estado como sagrado; uno en una cultura capitalista no puede dejar de ver el mundo en términos de propiedad y contrato. 
 
