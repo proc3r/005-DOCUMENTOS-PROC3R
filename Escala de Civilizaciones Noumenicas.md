@@ -5,7 +5,7 @@ indexar: true
 ![[Niveles Civilizacion.jpg]]
 
 
-![[Los nueve niveles de la Consciencia Cósmica32.mp3]]
+![[Nueve Niveles Civilizatorios.mp3]]
 # Introducción
 
 El progreso de la civilización se ha medido tradicionalmente por su capacidad para dominar y manipular la materia y la energía. Este enfoque, popularizado por la Escala de Kardashev, es invaluable para cuantificar el avance tecnológico, pero ignora la esencia de la existencia: «la consciencia». 

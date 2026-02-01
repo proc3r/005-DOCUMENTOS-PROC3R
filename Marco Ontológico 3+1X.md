@@ -4,7 +4,7 @@ indexar: true
 
 ![[004 - Evolucion Noumenica2.jpg]]
 
-![[10 Audios/Principio 3+1x Gramática Oculta del Universo32.mp3|Principio 3+1x Gramática Oculta del Universo32]]
+![[Principio 3+1x.mp3]]
 # Introducción
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Hacia Una Ontología Informacional de la Realidad Fenomenológica</span></center>
