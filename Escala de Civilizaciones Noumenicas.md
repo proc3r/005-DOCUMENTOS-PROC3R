@@ -4,7 +4,8 @@ indexar: true
 
 ![[Niveles Civilizacion.jpg]]
 
-![[Los nueve niveles de la Consciencia Cósmica.m4a]]
+
+![[Los nueve niveles de la Consciencia Cósmica32.mp3]]
 # Introducción
 
 El progreso de la civilización se ha medido tradicionalmente por su capacidad para dominar y manipular la materia y la energía. Este enfoque, popularizado por la Escala de Kardashev, es invaluable para cuantificar el avance tecnológico, pero ignora la esencia de la existencia: «la consciencia». 
@@ -46,7 +47,7 @@ height: 360
 
 0.0.12 » La escala se estructura en tres ejes principales que representan distintas etapas de la evolución de la <font color="#e36c09">Consciencia Colectiva</font>:
 
-> [!cterrestre] <font color="#fc300c">CONSCIENCIA TERRESTRE</font> (<font color="#fc300c">Civilización Tipo 1</font>)
+> [!cterrestre] <font color="#fc300c">CONSCIENCIA TERRESTRE</font> (Civilización Tipo 1)
 > El nivel más básico de experiencia, limitado a lo fisiológico y a la supervivencia planetaria. Aquí, la consciencia se fragmenta y se manifiesta en sistemas sociales primarios.
 
 > [!clunar] <font color="#00ff00">CONSCIENCIA LUNAR</font> (Civilización Tipo 2)

@@ -4,7 +4,7 @@ indexar: true
 
 ![[004 - Evolucion Noumenica2.jpg]]
 
-![[Principio 3+1x Gramática Oculta del Universo.m4a]]
+![[10 Audios/Principio 3+1x Gramática Oculta del Universo32.mp3|Principio 3+1x Gramática Oculta del Universo32]]
 # Introducción
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Hacia Una Ontología Informacional de la Realidad Fenomenológica</span></center>
@@ -1357,14 +1357,14 @@ Este documento es el puente definitivo. Es el punto de encuentro donde el Model
 
 El corazón de este documento es la "Metafórmula" que rige la manifestación. El lector descubrirá que todo sistema estable en el universo se compone de:
 
-> - <font color="#ffcc00">3 Dimensiones de Conservación</font>: La estructura que mantiene las cosas como son (como los estados de la materia o las fuerzas nucleares).
-> - <font color="#cb48f3">1 Dimensión de Reescritura (X)</font>: El motor del cambio, el "fuego" que permite que el pasado se convierta en futuro y que la información evolucione.
+> - <font color="#ffcc00">3 Dimensiones de Conservación:</font> La estructura que mantiene las cosas como son (como los estados de la materia o las fuerzas nucleares).
+> - <font color="#cb48f3">1 Dimensión de Reescritura (X):</font> El motor del cambio, el "fuego" que permite que el pasado se convierta en futuro y que la información evolucione.
 
 ### Los Puntos Clave del Viaje
 
-> - <font color="#fc300c">La Ciencia Reinterpretada</font>: Entenderás por qué existen 4 fuerzas fundamentales y 4 estados de la materia, revelando que la famosa ecuación de Einstein  no es solo una fórmula de energía, sino el manual de instrucciones para que la realidad aparezca ante nosotros.
-> - <font color="#2f82ff">El Reloj de la Consciencia</font>: Descubrirás que las partículas y tu mente tienen "relojes internos" distintos. Aprenderás cómo la consciencia actúa como el "operador X" que lee este código y crea la experiencia del <font color="#00ff00">presente</font>.
-> - <font color="#00ff00">Civilización y Sueños</font>: Verás cómo este mismo algoritmo 3+1X organiza desde las jerarquías de poder en la sociedad (el Tetramorfo) hasta la estructura de tus sueños, explicando cómo tu cerebro sintoniza diferentes "frecuencias" de información.
+> - <font color="#fc300c">La Ciencia Reinterpretada:</font> Entenderás por qué existen 4 fuerzas fundamentales y 4 estados de la materia, revelando que la famosa ecuación de Einstein  no es solo una fórmula de energía, sino el manual de instrucciones para que la realidad aparezca ante nosotros.
+> - <font color="#2f82ff">El Reloj de la Consciencia:</font> Descubrirás que las partículas y tu mente tienen "relojes internos" distintos. Aprenderás cómo la consciencia actúa como el "operador X" que lee este código y crea la experiencia del <font color="#00ff00">presente</font>.
+> - <font color="#00ff00">Civilización y Sueños:</font> Verás cómo este mismo algoritmo 3+1X organiza desde las jerarquías de poder en la sociedad (el Tetramorfo) hasta la estructura de tus sueños, explicando cómo tu cerebro sintoniza diferentes "frecuencias" de información.
 
 ## ¿Por qué leer este libro antes que los demás?
 
