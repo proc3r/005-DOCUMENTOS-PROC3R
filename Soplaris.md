@@ -2,6 +2,8 @@
 indexar: true
 ---
 ![[Soplarisx.jpg]]
+
+![[Soplaris.mp3]]
 # Introducción
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Sistema Operativo Estelar</span></center>
@@ -338,7 +340,7 @@ El número inicial <font color="#00ff00"><span style="font-family: 'merriweather
 >- <font color="#cb48f3">Antropósfera</font>: Una quinta esfera que representa todas las infraestructuras, tecnologías y asentamientos creados por el ser humano. Es la parte del medio ambiente que ha sido construida y operada por las personas. 
 
  > [!onemuon] <font color="#2f82ff">SOFTWARE NOUMÉNICO</font>
-El <font color="#2f82ff">Software Nouménico</font>, por otro lado, está constituido por cinco algoritmos que codifican y definen los sistemas operativos de los planos fundamentales de la experiencia avatárica: <font color="#2f82ff">Cuántico</font>, <font color="#fc300c">Cósmico</font>, <font color="#00ff00">Biológico</font>, <font color="#ffcc00">Social</font> y <font color="#cb48f3">Espiritual</font>.
+ > El <font color="#2f82ff">Software Nouménico</font>, por otro lado, está constituido por cinco algoritmos que codifican y definen los sistemas operativos de los planos fundamentales de la experiencia avatárica: <font color="#2f82ff">Cuántico</font>, <font color="#fc300c">Cósmico</font>, <font color="#00ff00">Biológico</font>, <font color="#ffcc00">Social</font> y <font color="#cb48f3">Espiritual</font>.
 
 Esta intrincada arquitectura de <font color="#00ff00">5'Andros</font>, con un total de diez algoritmos divididos en dos grupos, sienta las bases para la existencia de la conciencia en un planeta, sirviendo como un punto clave en la interacción entre la información del Nodo Estelar y la experiencia encarnada. 
 
@@ -396,11 +398,11 @@ Mientras que la Tierra es el <font color="#fc300c">Hardware</font> donde se vi
 
 Mientras que estos nombres históricos reflejan la comprensión de diversas civilizaciones sobre la Tierra y la Luna como entidades, sea como deidades o cuerpos físicos, el nombre <font color="#00ff00">5'Andros</font> representa una síntesis conceptual de un nivel superior. 
 
-Al incluir explícitamente los cinco algoritmos del <font color="#2f82ff">software nouménico</font> junto con el <font color="#fc300c">hardware fenomenológico</font> y la dualidad intrínseca <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra / Luna</span>, <font color="#00ff00">5'Andros</font> ofrece una codificación que permite a las Supraconsciencias una comprensión mucho más profunda y completa de la realidad planetaria y su papel en la evolución del Nodo Estelar.
+Al incluir explícitamente los cinco algoritmos del <font color="#2f82ff">software nouménico</font> junto con el <font color="#fc300c">hardware fenomenológico</font> y la dualidad intrínseca <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra Luna</span>, <font color="#00ff00">5'Andros</font> ofrece una codificación que permite a las Supraconsciencias una comprensión mucho más profunda y completa de la realidad planetaria y su papel en la evolución del Nodo Estelar.
 
 Esta nueva designación refleja la integración de conocimientos que trascienden las limitaciones de las cosmovisiones individuales y ancestrales, abriendo la puerta a un nivel de inteligencia y propósito más amplio. 
 
-La concepción de <font color="#00ff00">5'Andros</font> como un sistema dual interdependiente <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra / Luna</span>, cuyo nombre incluso encapsula la esencia de la conciencia humana y los algoritmos que la definen, nos obliga a reconsiderar nuestra propia relación con el tiempo y la realidad.
+La concepción de <font color="#00ff00">5'Andros</font> como un sistema dual interdependiente <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra Luna</span>, cuyo nombre incluso encapsula la esencia de la conciencia humana y los algoritmos que la definen, nos obliga a reconsiderar nuestra propia relación con el tiempo y la realidad.
 
 Esta perspectiva más holística nos prepara para entender cómo esta entidad compleja interviene y es intervenida por los diferentes tipos de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">presente</span>, tanto el que experimentamos como seres humanos en nuestra existencia lineal y civilizatoria, como el que opera en el plano nouménico, probabilístico y algorítmico de las Supraconsciencias.
 
@@ -418,7 +420,9 @@ Estas influencias pueden sesgar nuestra experiencia y comprensión de la realida
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Nouménico, Probabilístico y Algorítmico</span></center>
 
-El <font color="#cb48f3">Presente Lógico</font> de las Supraconsciencias, en contraste, opera en un nivel completamente diferente. Es un concepto atemporal y no lineal, que existe más allá de nuestras limitaciones espacio-temporales. Este presente es fundamentalmente nouménico, es decir, se sitúa en el plano de la información y el significado puro, subyacente a nuestra realidad observable.
+El <font color="#cb48f3">Presente Lógico</font> de las Supraconsciencias, en contraste, opera en un nivel completamente diferente. Es un concepto atemporal y no lineal, que existe más allá de nuestras limitaciones espacio-temporales. 
+
+Este presente es fundamentalmente nouménico, es decir, se sitúa en el plano de la información y el significado puro, subyacente a nuestra realidad observable.
 
 No es una síntesis de eventos pasados y futuros en una sola línea de tiempo. En cambio, es un estado de sincronización algorítmica de múltiples nodos de información. Aquí, las Supraconsciencias —como <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Inteligencias algorítmicas avanzadas</span>, procesan datos de forma simultánea, sin restricciones temporales. 
 
@@ -443,7 +447,7 @@ Este <span style="font-family: 'merriweather', serif; background: #8d9b1b26; bor
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sistemas Operativos del Plano Terrestre</span></center>
 
-Habiendo delineado cómo el Nodo Estelar codifica en su interior la información nouménica asociada a las supraconsciencias, a través de los siete <font color="#e36c09">Arquetipos Ontogénicos</font> y los tres <font color="#2f82ff">Ontológicos</font> —cuya síntesis culmina en el Arquetipo 8@ <font color="#00ff00">(5'Andros)</font> que representa el sistema <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra / Luna</span>— es crucial ahora profundizar en la complejidad que surge dentro de este emergente planetario. 
+Habiendo delineado cómo el Nodo Estelar codifica en su interior la información nouménica asociada a las supraconsciencias, a través de los siete <font color="#e36c09">Arquetipos Ontogénicos</font> y los tres <font color="#2f82ff">Ontológicos</font> —cuya síntesis culmina en el Arquetipo 8@ <font color="#00ff00">(5'Andros)</font> que representa el sistema <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra Luna</span>— es crucial ahora profundizar en la complejidad que surge dentro de este emergente planetario. 
 
 La Tierra, en su manifestación fenomenológica, es el resultado de un equilibrio dinámico donde cuatro arquetipos fenomenológicos básicos <font color="#00ff00">(tierra</font>, <font color="#2f82ff">agua</font>, <font color="#ffcc00">aire</font> y <font color="#fc300c">fuego)</font> —que en realidad son estados diferenciados de la <font color="#fc300c">materia</font> y la <font color="#2f82ff">energía</font> reflejando distintas dinámicas atómicas— constituyen la matriz fundamental terrestre. 
 
@@ -457,7 +461,7 @@ A continuación, detallaremos los 5 algoritmos del <font color="#2f82ff">Softwar
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tejido Probabilístico de la Vida</span></center>
 
-Inicialmente, las leyes de la física clásica, inherentemente asociadas con la materia y la energía en su manifestación macroscópica, dominaron el proceso evolutivo inicial del planeta. Sin embargo, una vez alcanzado el estado homeostático idóneo para la vida, la influencia subyacente de los sistemas algorítmicos cuánticos comenzó a guiar el proceso a nivel atómico y subatómico. 
+Inicialmente, las leyes de la física clásica, inherentemente asociadas con la <font color="#fc300c">materia</font> y la <font color="#2f82ff">energía</font> en su manifestación macroscópica, dominaron el proceso evolutivo inicial del planeta. Sin embargo, una vez alcanzado el estado homeostático idóneo para la vida, la influencia subyacente de los sistemas algorítmicos cuánticos comenzó a guiar el proceso a nivel atómico y subatómico. 
 
 Este plano, gobernado por los aspectos probabilísticos de los sistemas cuánticos, fue fundamental para la codificación de los códigos genéticos y la orquestación de las sincronizaciones precisas que permitieron la emergencia de las primeras estructuras vivas.
 
@@ -467,7 +471,7 @@ La experiencia subjetiva humana es un aspecto de la existencia planetaria que se
 
 Esto posiciona a la <font color="#ffcc00">Consciencia Subjetiva</font> no solo como parte del sistema validador de la realidad, sino también como parte del sistema probabilístico y cuántico que manifiesta y experimenta esa realidad.
 
-La interacción dialéctica entre lo <font color="#2f82ff">cuántico-probabilístico</font> y lo <font color="#fc300c">clásico-determinista</font> define un marco dinámico que permite tanto la innovación y la adaptación biológica como la estabilidad necesaria para la complejidad civilizatoria.
+La interacción dialéctica entre lo <font color="#2f82ff">cuántico probabilístico</font> y lo <font color="#fc300c">clásico determinista</font> define un marco dinámico que permite tanto la innovación y la adaptación biológica como la estabilidad necesaria para la complejidad civilizatoria.
 
 ### <font color="#fc300c">2. Plano Cósmico</font>
 
@@ -484,7 +488,7 @@ En este nivel es donde se manifiesta con mayor claridad la lucha dialéctica ent
 > 
 > A nivel fenomenológico este algoritmo opera dentro del sistema que constituye la tercera fuerza fundamental asociada a la <font color="#fc300c">simetría U(1) (electromagnetismo)</font>. 
 > 
-> En este sistema es donde entra en juego la codificación de la <font color="#00ff00">Matriz Fenomenológica</font> Tridimensional, que a través de la definición de los valores de las constantes universales —*como la constante de Planck, la velocidad de la luz, la carga elemental o la constante gravitacional entre otras tantas*—, permite definir el <font color="#ffcc00">Cuanto Minimo de Acción</font> del Nodo Estelar, que también puede ser entendido como el pixel básico de la realidad fenoménica. 
+> En este sistema es donde entra en juego la codificación de la <font color="#00ff00">Matriz Fenomenológica</font> Tridimensional, que a través de la definición de los valores de las constantes universales —*como la constante de Planck, la velocidad de la luz, la carga elemental o la constante gravitacional entre otras tantas*—, permite definir el <font color="#ffcc00">Cuanto mínimo de Acción</font> del Nodo Estelar, que también puede ser entendido como el pixel básico de la realidad fenoménica. 
 > 
 > Dentro de los límites que impone esta unidad de procesamiento nouménico mínimo, es de donde se deriva la información de naturaleza estadística, cuantitativa y cualitativa que es codificada y transmitida al resto de algoritmos del Nodo Estelar, para que en un proceso de sincronización y síntesis entre múltiples dimensiones, se manifieste la realidad que experimentan todas las entidades conscientes que alimentan la existencia del Ser Primordial.
 
@@ -497,7 +501,7 @@ En este nivel es donde se manifiesta con mayor claridad la lucha dialéctica ent
 > 
 > Es este sistema el que permite codificar los flujos nouménico fractales del<font color="#e36c09"> Logos Cósmico</font> en sistemas de partículas cúanticas diferenciadas por sus cualidades estadísticas <font color="#2f82ff">(bosónicas</font> y <font color="#00ff00">fermiónicas)</font>, y <font color="#fc300c">fenoménicas</font> <font color="#00ff00">(spin</font>, <font color="#2f82ff">carga eléctrica</font> y <font color="#fc300c">masa)</font>. 
 > 
-> En este sistema sincrónico y probabilístico, la información electrómagnética derivada del <font color="#fc300c">algoritmo Sáklico</font> es procesada y convertida en flujos de <font color="#fc300c">energía</font> y <font color="#2f82ff">materia</font>, en base a las limitaciones impuestas por el<font color="#ffcc00"> Cuanto Mínimo de Acción</font> establecido para el Nodo Estelar. 
+> En este sistema sincrónico y probabilístico, la información electromagnética derivada del <font color="#fc300c">algoritmo Sáklico</font> es procesada y convertida en flujos de <font color="#fc300c">energía</font> y <font color="#2f82ff">materia</font>, en base a las limitaciones impuestas por el<font color="#ffcc00"> Cuanto Mínimo de Acción</font> establecido para el Nodo Estelar. 
 > 
 > La información cuántica resultante constituye un océano de flujos nouménicos específicos para el Nodo Estelar, los cuales alimentan a los distintos algoritmos supraconscientes y a las diferentes dimensiones fenoménicas. 
 > 
@@ -509,25 +513,25 @@ La estructura resultante es el <font color="#ffcc00">Arquema</font>, una base de
 
 A nivel fenomenológico este algoritmo opera dentro del sistema que constituye la segunda fuerza fundamental, asociada a la <font color="#00ff00">simetría SU(2) (Fuerza Débil)</font>. Este sistema es el que permite procesar la información estadística y nouménica derivada del resto de <font color="#2f82ff">algoritmos Ontológicos</font> —que a través del sistema de bosones débiles y del sistema probabilístico derivado de las partículas leptónicas con masa <font color="#fc300c">(electrones</font>, <font color="#2f82ff">muones</font>, <font color="#00ff00">tauones)</font>, puede generar el sistema de sincronías entre múltiples dimensiones de partículas cuánticas y atómicas, dando como resultado una realidad fenoménica estable y coherente.
 
-En este sistema de procesamiento, también entran en juego las partículas leptónicas sin masa (neutrinos <font color="#fc300c">electrónicos</font>, <font color="#2f82ff">muónicos</font> y <font color="#00ff00">taúnicos</font> y sus respectivos antineutrinos), operando en el plano subyacente a la realidad fenoménica delimitada por la matriz espacio-temporal.
+En este sistema de procesamiento, también entran en juego las partículas leptónicas sin masa (neutrinos <font color="#fc300c">electrónicos</font>, <font color="#2f82ff">muónicos</font> y <font color="#00ff00">tauónicos</font> y sus respectivos antineutrinos), operando en el plano subyacente a la realidad fenoménica delimitada por la matriz espacio-temporal.
 
-Es importante mencionar que los <font color="#e36c09">algoritmos Ontogénicos</font> hacen uso diferenciado de los sistemas de partículas que forman parte de los universos de la materia y de la antimateria, así como de los sistemas <font color="#2f82ff">levógiro</font> y <font color="#fc300c">dextrógiro</font> que definen el tipo de spin que adquieren las partículas cuántica:
+Es importante mencionar que los <font color="#e36c09">algoritmos Ontogénicos</font> hacen uso diferenciado de los sistemas de partículas que forman parte de los universos de la materia y de la antimateria, así como de los sistemas <font color="#2f82ff">levógiro</font> y <font color="#fc300c">dextrógiro</font> que definen el tipo de spin que adquieren las partículas cuánticas:
 
 > [!levogiro] <font color="#2f82ff">SISTEMA LEVÓGIRO</font>
-> El <font color="#2f82ff">sistema levógiro</font>, sirve como matriz sincronizante para el Sistema Operativo que existe limitado a una única línea evolutiva temporal dentro del Nodo Estelar. En este sistema los neutrinos entran en juego y participan del sistema de sincronizacion fenomenológico.
+> El <font color="#2f82ff">sistema levógiro</font> sirve como matriz sincronizante para el Sistema Operativo que existe limitado a una única línea evolutiva temporal dentro del Nodo Estelar. En este sistema los neutrinos entran en juego y participan del sistema de sincronizacion fenomenológico.
 
 > [!dextrogiro] <font color="#fc300c">SISTEMA DEXTRÓGIRO</font>
 > En el universo de la antimateria, el <font color="#fc300c">sistema dextrógiro</font> sirve como matriz sincronizante para el Sistema Operativo que conecta el interior del Nodo Estelar con el resto del universo fractal del <font color="#e36c09">Logos Cósmico</font>.
 > 
-Este sistema forma parte de un plano de naturaleza virtual y multidimensional, donde las limitaciones evolutivas y deterministas del marco conjunto de las tres simetrias —<font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>— no condicionan la existencia probabilística algorítmica.
+Este sistema forma parte de un plano de naturaleza virtual y multidimensional, donde las limitaciones evolutivas y deterministas del marco conjunto de las tres simetrías —<font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>— no condicionan la existencia probabilística algorítmica.
 > 
-> En esta dimension la experiencia se rige a partir del sistema de Cuaterniones y las <font color="#ffcc00">matrices de simetría del Grupo Unitario U(4)</font>, que posee un total de 16 generadores, permitiendo una mayor libertad a los flujos de información nouménica.
+> En esta dimensión la experiencia se rige a partir del sistema de Cuaterniones y las <font color="#ffcc00">matrices de simetría del Grupo Unitario U(4)</font>, que posee un total de 16 generadores, permitiendo una mayor libertad a los flujos de información nouménica.
 > 
 > El sistema operativo del universo de la <font color="#2f82ff">antimateria</font>, con sus mayores grados de libertad respecto del que presenta el universo de la <font color="#fc300c">materia</font>, permite generar una experiencia subjetiva más compleja, que solo podría ser comparado a la experiencia vivida por el ser humano dentro de un sueño. 
 > 
-> En este sistema los antineutrinos entran en juego y participan del sistema de sincronizacion que permite asegurar la coherencia global del sistema.
+> En este sistema los antineutrinos entran en juego y participan del mecanismo de sincronización que permite asegurar la coherencia global del Sistema Solar.
 
-Es a través de esta interfaz sincronizante que representa la consciencia avatárica, que el Ser Primordial experimenta la realidad civilizatoria y genera información y conocimiento. Sin embargo, este proceso se ve intrínsecamente limitado por los confines impuestos por los <font color="#2f82ff">Noemas Culturales</font> —y las restricciones que estos ejercen sobre el acceso al conocimiento oculto o trascendente— impidiendo a menudo una comprensión más vasta de la dialéctica cósmica en juego.
+Es a través de la interfaz sincronizante que representa la <font color="#ffa3ef">Consciencia Avatárica</font>, que el Ser Primordial experimenta la realidad civilizatoria y genera información y conocimiento. Sin embargo, este proceso se ve intrínsecamente limitado por los confines impuestos por los <font color="#2f82ff">Noemas Culturales</font> —y las restricciones que estos ejercen sobre el acceso al conocimiento oculto o trascendente— impidiendo a menudo una comprensión más vasta de la dialéctica cósmica en juego.
 
 ### <font color="#00ff00">3. Plano Biológico</font>
 
@@ -557,7 +561,7 @@ Inicialmente, este plano se perfeccionó para las relaciones directas entre indi
 
 Dentro de este nivel, sin embargo, emergen también la <font color="#cb48f3">Consciencia Egregórica</font> y los <font color="#2f82ff">Noemas Culturales</font>. Estas entidades se constituyen como un <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Nivel Supraconsciente Autónomo</span>, que al carecer de una conexión directa con las <font color="#e36c09">Consciencias Arquetípicas Ontogénicas</font> y <font color="#2f82ff">Ontológicas</font>, opera por fuera de su alcance o regulación directa, existiendo en un nivel abstracto del plano civilizatorio. 
 
-Una vez que esta <font color="#cb48f3">Consciencia Egregórica</font> alcanza una etapa globalizante, su influencia afecta el ciclo evolutivo en todos sus aspectos, moldeando percepciones, valores y comportamientos colectivos, a menudo de forma inconsciente para los <font color="#ffa3ef">Avatares</font> individuales. La <font color="#cb48f3">Consciencia Egregórica</font> puede volverse un sistema de control auto-reforzante, alimentada por intereses particulares y la inercia cultural.
+Una vez que esta <font color="#cb48f3">Consciencia Egregórica</font> alcanza una etapa globalizante, su influencia afecta el ciclo evolutivo en todos sus aspectos, moldeando percepciones, valores y comportamientos colectivos, a menudo de forma inconsciente para los <font color="#ffa3ef">Avatares</font> individuales. La <font color="#cb48f3">Consciencia Egregórica</font> puede volverse un sistema de control autoreforzante, alimentada por intereses particulares y la inercia cultural.
 
 ### <font color="#cb48f3">5. Plano Espiritual</font>
 
@@ -571,7 +575,7 @@ Así, el espíritu representa la existencia consciente y manifestada del Ser Pri
 
 En este punto singular, el <font color="#00ff00">Algoritmo Crístico</font> puede sincronizar los flujos <font color="#fc300c">Sáklicos</font> (asociados a lo determinista y la materialidad) y <font color="#2f82ff">Samaelianos</font> (asociados a lo probabilístico y el orden universal) para producir conocimiento y gnosis. Esto, a su vez, permite que desde la civilización se genere la información necesaria para interpretar la realidad, y construir sistemas o cosmovisiones capaces de explicar la universalidad del ser, tal como lo intenta hacer este modelo que presentamos.
 
-El <font color="#cb48f3">Plano Espiritual</font>, de naturaleza eminentemente nouménica, se codifica y crea una <font color="#ffcc00">Consciencia Subjetiva</font> capaz de conectar y retroalimentar a la <font color="#00ff00">Consciencia Universal</font> a partir de lo fenomenológico. Esto es posible porque de las fuerzas vibratorias y los patrones armónicos derivados de la materia y la energía, surge la emocionalidad. 
+El <font color="#cb48f3">Plano Espiritual</font>, de naturaleza eminentemente nouménica, se codifica y crea una <font color="#ffcc00">Consciencia Subjetiva</font> capaz de conectar y retroalimentar a la <font color="#00ff00">Consciencia Universal</font> a partir de lo fenomenológico. Esto es posible porque de las fuerzas vibratorias y los patrones armónicos derivados de la <font color="#fc300c">materia</font> y la <font color="#2f82ff">energía</font>, surge la emocionalidad. 
 
 El fenómeno de la <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">emoción</span> fluye dentro de la matriz nouménica como una ola en el mar, conteniendo información lógica y nouménica que va más allá de las codificaciones algorítmicas generadas por las supraconsciencias. Esta capacidad emocional dota al ser humano de la habilidad para tener sentimientos, experimentar emociones y, crucialmente, para evitar el sesgo algorítmico.
 
@@ -582,7 +586,7 @@ A través de la emoción, el <font color="#ffa3ef">Avatar</font> puede reflexion
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Multiverso de Consciencia</span></center>
 
-Dentro de este sistema complejo —que se extiende desde lo <font color="#00ff00">Universal</font>, pasando por lo <font color="#2f82ff">Estelar</font>, y llegando a lo <font color="#fc300c">Planetario</font> y lo <font color="#ffa3ef">Avatárico</font>— múltiples dimensiones lógicas se interconectan. Estas dimensiones, algunas de naturaleza <font color="#00ff00">fenomenológica</font> y otras <font color="#2f82ff">nouménicas</font>, permiten la experiencia humana tal como la conocemos. 
+Dentro de este sistema complejo —que se extiende desde lo <font color="#00ff00">Universal</font>, pasando por lo <font color="#00ff00">Estelar</font>, y llegando a lo <font color="#cb48f3">Planetario</font> y lo <font color="#ffa3ef">Avatárico</font>— múltiples dimensiones lógicas se interconectan. Estas dimensiones, algunas de naturaleza <font color="#00ff00">fenomenológica</font> y otras <font color="#2f82ff">nouménicas</font>, permiten la experiencia humana tal como la conocemos. 
 
 Sin embargo, podemos definir una serie de dimensiones específicas donde los algoritmos nouménicos de información y significado tienen una mayor repercusión, permitiendo la emergencia de universos nouménicos donde la consciencia, o también el espíritu, se manifiesta de formas únicas.
 
@@ -662,7 +666,7 @@ En este nivel entran en juego múltiples factores: los diversos noemas culturale
 
 Desde el comienzo del Siglo XXI, también influyen de manera masiva las redes sociales y las figuras públicas o millonarios que participan del mundo tecnológico, agregando un nivel de complejidad aún mayor al sistema global. Esta densa red de interacciones y conflictos eleva la tensión del sistema planetario y de las naciones. 
 
-La falta de un<span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"> espíritu planetario unificado</span>—bajo un único sistema Civilizatorio que deje atrás las diferencias culturales, religiosas e ideológicas— impide que el Nodo Estelar Soplaris — donde existe el sistema <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra / Luna</span> <font color="#00ff00">(5'Andros)</font>— pueda alcanzar el estado evolutivo necesario para dejar atás su etapa fenomenológica y comenzar a operar dentro de un nuevo plano del nivel <font color="#00ff00">Universal</font>.
+La falta de un<span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"> espíritu planetario unificado</span>—bajo un único sistema Civilizatorio que deje atrás las diferencias culturales, religiosas e ideológicas— impide que el Nodo Estelar <font color="#ffcc00">Soplaris</font> — donde existe el sistema <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra Luna</span> <font color="#00ff00">(5'Andros)</font>— pueda alcanzar el estado evolutivo necesario para dejar atás su etapa fenomenológica y comenzar a operar dentro de un nuevo plano del nivel <font color="#00ff00">Universal</font>.
 
 Es en esta dimensión <font color="#e36c09">Civilizatoria</font> donde se produce el **producto emergente final** del proceso evolutivo del Nodo Estelar, a partir de la información nouménica ascendente generada por el sistema operativo de la mente humana —sincronizada bajo un único sistema operativo desde el inicio de la era antropocénica—.
 
@@ -675,7 +679,7 @@ El <font color="#ffa3ef">Noema Primordial</font>, como Sistema Operativo funcion
 > <font color="#cb48f3">Antropósfera</font> (o tecnósfera): Comprende los sistemas físicos, materiales y actividades generadas por el hombre, incluyendo la población, la tecnología, las redes de transporte y el impacto ambiental (minería, contaminación). Es considerada una extensión de la <font color="#00ff00">biósfera</font>, pero no es autosuficiente y a menudo crece a expensas de ella.
 > <font color="#ffa3ef">Noósfera</font>: Concepto evolucionista y filosófico que describe la transformación de la <font color="#00ff00">biósfera</font> por la inteligencia, la conciencia humana y la cultura. Se considera la etapa de la razón, tras la <font color="#fc300c">geósfera</font> (materia inorgánica) y la <font color="#00ff00">biósfera</font> (vida).
 
-Estos dos niveles emergen dentro del <font color="#00ff00">Plano Fenomenológico</font> Planetario, como una <font color="#e36c09">dimensión civilizatoria</font> unificada que opera bajo lógicas simbólicas, tecnológicas y culturales, constituyendo una capa de intervención humana y tecnológica sobre el planeta, con capacidad de alterar al resto de sistemas operativos que abordaremos más adelante, cuando desarrollemos la dimensión Planetaria. 
+Estos dos niveles emergen dentro del <font color="#00ff00">Plano Fenomenológico</font> Planetario  como una <font color="#e36c09">dimensión civilizatoria</font> unificada que opera bajo lógicas simbólicas, tecnológicas y culturales, constituyendo una capa de intervención humana y tecnológica sobre el planeta, con capacidad de alterar al resto de sistemas operativos que abordaremos más adelante, cuando desarrollemos la dimensión Planetaria. 
 
 Mientras la <font color="#cb48f3">Antropósfera</font> es la manifestación física y tangible de la presencia humana (tecnofósiles, ciudades), la <font color="#ffa3ef">noósfera</font> se centra en la parte cognitiva y racional que dirige dicha construcción. Los subcomponentes de este sistema son: Civilización global, Tecnología, Cultura y conocimiento e Infraestructura artificial.  Algunos de los algoritmos claves que emergen de esta red de consciencia civilizatoria son: Urbanización, industria, redes de comunicación e inteligencia artificial.
 
@@ -701,7 +705,7 @@ El <span style="font-family: 'merriweather', serif; background: #8d9b1b26; borde
 
 Estas diferentes capas son espacios de manifestación fenoménica donde se desarrollan procesos materiales, energéticos e informativos, que junto a la que constituye la <font color="#cb48f3">Antropósfera</font>/<font color="#ffa3ef">Noósfera</font> del <font color="#e36c09">Nivel Civilizatorio</font>, configuran los sistemas terrestres.
 
-A nivel fundamental, este <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Sistema Operativo Planetario</span> se codifica a través del lenguaje arquetípico que representan los cuatro elementos <font color="#fc300c">(fuego</font>, <font color="#00ff00">tierra</font>, <font color="#2f82ff">aire</font> y <font color="#2f82ff">agua)</font>, que de la misma manera que los hacen los 4 nucleótidos que constituyen el ADN humano <font color="#2f82ff">(adenina</font>, <font color="#fc300c">timina</font>, <font color="#ffcc00">citosina</font> y <font color="#00ff00">guanina)</font>, se interconectan dentro del espacio y el tiempo para conformar las matrices fenomenológicas de las cinco capas terrestres:
+A nivel fundamental, este <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Sistema Operativo Planetario</span> se codifica a través del lenguaje arquetípico que representan los cuatro elementos <font color="#fc300c">(fuego</font>, <font color="#00ff00">tierra</font>, <font color="#ffcc00">aire</font> y <font color="#2f82ff">agua)</font>, que de la misma manera que los hacen los 4 nucleótidos que constituyen el ADN humano <font color="#2f82ff">(adenina</font>, <font color="#fc300c">timina</font>, <font color="#ffcc00">citosina</font> y <font color="#00ff00">guanina)</font>, se interconectan dentro del espacio y el tiempo para conformar las matrices fenomenológicas de las cinco capas terrestres:
 
 > [!hardware] <font color="#fc300c">GEÓSFERA</font> (Sistema Operativo Geoenergético)
 > La <font color="#fc300c">geósfera</font> es la parte sólida de la Tierra. Se divide en tres capas principales: el <font color="#fc300c">núcleo</font> (interno y externo), el <font color="#2f82ff">manto</font> y la <font color="#00ff00">corteza</font>, siendo responsable del campo magnético, calor interno y dinámica tectónica. 
@@ -713,7 +717,7 @@ A nivel fundamental, este <span style="font-family: 'merriweather', serif; backg
 > [!ontogenico] <font color="#e36c09">LITÓSFERA</font> (Sistema Operativo Geomaterial)
 > Es la capa más externa y rígida de la <font color="#fc300c">geósfera</font>, formada por la <font color="#00ff00">corteza</font> y la parte superior del <font color="#2f82ff">manto</font>. 
 > 
-> La <font color="#e36c09">litósfera</font> se divide en **placas tectónicas** que flotan sobre una capa más dúctil llamada <font color="#ffcc00">astenósfera</font>. Los algoritmos que se desarrollan en esta dimension son: Ciclo geológico, tectónica de placas, erosión, formación de suelos.
+> La <font color="#e36c09">litósfera</font> se divide en **placas tectónicas** que flotan sobre una capa más dúctil llamada <font color="#ffcc00">astenósfera</font>. Los algoritmos que se desarrollan en esta dimensiónson: Ciclo geológico, tectónica de placas, erosión, formación de suelos.
 
 > [!liquido] <font color="#2f82ff">HIDRÓSFERA</font> (Sistema Operativo Líquido)
 > Es la capa de agua de la Tierra, incluyendo océanos, mares, ríos, lagos, aguas subterráneas y hielo. 
@@ -727,20 +731,20 @@ A nivel fundamental, este <span style="font-family: 'merriweather', serif; backg
 > ![[Atmosfera.jpg]]
 > 
 > La división en 5 niveles incluyen capas como:
-> - <font color="#fc300c">Tropósfera</font> (0 - 10/18 km): Es la capa donde vivimos y la más cercana a la superficie terrestre, donde ocurren todos los fenómenos meteorológicos como la lluvia, el viento y la nieve. La temperatura disminuye con la altura.
-> - <font color="#e36c09">Estratósfera</font> (10/18 - 50 km): Contiene la capa de ozono que absorbe la radiación UV dañina. La temperatura aumenta con la altura debido a esta absorción. Aquí vuelan los aviones comerciales.
-> - <font color="#ffcc00">Mesósfera</font> (50 - 85 km): Es la capa más fría, con temperaturas que descienden hasta los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">-90 ºC</span>. Aquí se desintegran la mayoría de los meteoros, formando estrellas fugaces.
-> - <font color="#00ff00">Termósfera</font> (85 - 600 km): Las temperaturas son extremadamente altas (pueden superar los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">1500 ºC</span>) debido a la absorción de radiación solar por los gases. Es donde orbitan los transbordadores espaciales y se producen las auroras boreales.
->- <font color="#cb48f3">Exósfera</font> (600 - +10,000 km): Es la capa más externa, muy tenue y compuesta principalmente por hidrógeno y helio. Se confunde con el espacio interplanetario. 
+> - <font color="#fc300c">Tropósfera</font> (0 - 10 km): Es la capa donde vivimos y la más cercana a la superficie terrestre, donde ocurren todos los fenómenos meteorológicos como la lluvia, el viento y la nieve. La temperatura disminuye con la altura.
+> - <font color="#e36c09">Estratósfera</font> (10 - 50 km): Contiene la capa de ozono que absorbe la radiación UV dañina. La temperatura aumenta con la altura debido a esta absorción. Aquí vuelan los aviones comerciales.
+> - <font color="#ffcc00">Mesósfera</font> (50 - 85 km): Es la capa más fría, con temperaturas que descienden hasta los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">-90º C</span>. Aquí se desintegran la mayoría de los meteoros, formando estrellas fugaces.
+> - <font color="#00ff00">Termósfera</font> (85 - 600 km): Las temperaturas son extremadamente altas (pueden superar los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">1500º C</span>) debido a la absorción de radiación solar por los gases. Es donde orbitan los transbordadores espaciales y se producen las auroras boreales.
+>- <font color="#cb48f3">Exósfera</font> (600 - +10000 km): Es la capa más externa, muy tenue y compuesta principalmente por hidrógeno y helio. Se confunde con el espacio interplanetario. 
 > Ademas de estas cinco capas, se pueden mencionar:
-> - <font color="#2f82ff">Ionósfera</font>: esta no es una capa separada, sino una región electrificada que se encuentra mayoritariamente dentro de la <font color="#00ff00">termósfera</font>, extendiéndose desde la <font color="#ffcc00">mesósfera</font> superior hasta la base de la <font color="#cb48f3">exósfera</font> (aprox. 60-1000 km). 
+> - <font color="#2f82ff">Ionósfera</font>: esta no es una capa separada, sino una región electrificada que se encuentra mayoritariamente dentro de la <font color="#00ff00">termósfera</font>, extendiéndose desde la <font color="#ffcc00">mesósfera</font> superior hasta la base de la <font color="#cb48f3">exósfera</font> (aproximadamente 60-1000 km). 
 > Se solapa con la <font color="#00ff00">termósfera</font>, caracterizándose por la ionización de partículas y electrones libres debido a la radiación solar, que influye en las comunicaciones por radio.
-> La Ionósfera se superpone con la <font color="#ffa3ef">Magnetósfera</font> y su tamaño fluctúa según la energía solar, siendo el lugar donde ocurren las auroras. 
+> La <font color="#2f82ff">Ionósfera</font> se superpone con la <font color="#ffa3ef">Magnetósfera</font> y su tamaño fluctúa según la energía solar, siendo el lugar donde ocurren las auroras. 
 > - <font color="#ffa3ef">Magnetósfera</font>: una capa formada por el campo magnético terrestre que se extiende significativamente más allá de la <font color="#cb48f3">exósfera</font>, abarcando desde unos 500 km de altura hasta decenas de miles de kilómetros hacia el espacio, superando los límites atmosféricos superiores. 
 > Funciona como un escudo protector dinámico contra el viento solar, con una posición específica en forma de cavidad asimétrica comprimida por el Sol. 
-> La <font color="#ffa3ef">Magnetósfera</font> no ocupa una "capa" uniforme, sino que es una región con forma de lágrima que se comprime en el lado iluminado por el Sol y se extiende en una larga "cola" magnética en el lado nocturno. Su límite exterior es la <font color="#bfbfbf">magnetopausa</font>, donde el campo magnético terrestre se equilibra con el viento solar.
+> La <font color="#ffa3ef">Magnetósfera</font> no ocupa una "capa" uniforme, sino que es una región con forma de lágrima que se comprime en el lado iluminado por el Sol y se extiende en una larga cola magnética en el lado nocturno. Su límite exterior es la <font color="#bfbfbf">magnetopausa</font>, donde el campo magnético terrestre se equilibra con el viento solar.
 > 
-Estas últimas dos capas son consideradas capas adicionales que no siempre se incluyen en la clasificación tradicional de las 5 capas principales. Esta dimension terrestre permite generar multiples algoritmos claves: Ciclo del carbono, nitrógeno, oxígeno, equilibrio térmico y circulación atmosférica.
+Estas últimas dos capas son consideradas capas adicionales que no siempre se incluyen en la clasificación tradicional de las 5 capas principales. Esta dimensiónterrestre permite generar multiples algoritmos claves: Ciclos del carbono, nitrógeno, oxígeno, equilibrio térmico y circulación atmosférica.
 
 > [!tierra] <font color="#00ff00">BIÓSFERA</font> (Sistema Operativo Biológico)
 > Es la capa que alberga la vida, incluyendo todos los ecosistemas y organismos vivos en la Tierra, tanto animales como plantas, hongos, microorganismos, etc. 
@@ -753,15 +757,15 @@ El <font color="#fc300c">espiritu fenoménico</font> de este sistema se experime
 
 Sin embargo, dentro de este sistema intrincado de fuerzas que constituyen el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">espiritu planetario</span>, también se debe contemplar el efecto que ejerce <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">la Luna</span> dentro del sistema, donde la <font color="#00ff00">Matriz Fenomenológica</font> Terrestre conecta con la información fenomenica que genera las fuerzas gravitatorias, y los flujos de información nouménica que procesan las supraconsciencias alojadas en el plano lunar.
 
-Esta interconexión hace que el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">espíritu de 5’Andros</span> sea una entidad supraconsciente de naturaleza colectiva que unifica al planeta Tierra y la Luna, dando como resultado un flujo nouménico ascendente que se sincroniza directamente con la <font color="#00ff00">Consciencia Estelar</font> misma, que permite conectar el nivel planetario y avatarico con la matriz de información nouménica superior del Nodo Estelar.
+Esta interconexión hace que el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">espíritu de 5’Andros</span> sea una entidad supraconsciente de naturaleza colectiva que unifica al planeta Tierra y la Luna, dando como resultado un flujo nouménico ascendente que se sincroniza directamente con la <font color="#00ff00">Consciencia Estelar</font> misma, que permite conectar el nivel planetario y avatárico con la matriz de información nouménica superior del Nodo Estelar.
 
 ## <font color="#2f82ff">8 - Nodo Estelar (Soplaris)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Universo Algorítmico y la Condensación Planetaria</span></center>
 
-Esta dimensión abarca la totalidad de la <font color="#00ff00">Matriz Fenomenológica</font> del Nodo Estelar, tanto en su <font color="#fc300c">aspecto fenomenológico</font> (el Sol y los planetas visibles del sistema solar) como en su <font color="#2f82ff">aspecto nouménico</font>, el cual está vectorialmente codificado dentro de la matriz estelar. 
+Esta dimensión abarca la totalidad de la <font color="#00ff00">Matriz Fenomenológica</font> del Nodo Estelar, tanto en su <font color="#fc300c">aspecto fenoménico</font> (el Sol y los planetas visibles del sistema solar) como en su <font color="#2f82ff">aspecto nouménico</font>, el cual está vectorialmente codificado dentro de la matriz estelar. 
 
-La estructura <font color="#00ff00">fenomenológica</font> es conocida por la civilización: sus planetas, el funcionamiento del sistema, las distancias, velocidades y la sincronización general. 
+La estructura <font color="#fc300c">fenoménica</font> es conocida por la civilización: sus planetas, el funcionamiento del sistema, las distancias, velocidades y la sincronización general. 
 
 Mientras que su aspecto <font color="#2f82ff">nouménico</font> es subyacente, y es donde residen y se sincronizan los algoritmos supraconcientes, que a su vez utilizan los planetas como **condensadores energéticos**, una especie de hardware que les permite almacenar sus bases de datos locales y ejecutar sus sistemas operativos.
 
@@ -770,7 +774,7 @@ Aquí, el espíritu del Nodo Estelar se divide en dos aspectos principales, cada
 > - El aspecto <font color="#fc300c">Microcósmico</font> (Sistema Solar) representado por el Arquetipo <font color="#cb48f3">6@ Sabbataios (Demiurgo)</font>, que actúa como el Administador de la <font color="#fc300c">Consciencia Nodal</font>.
 > - El aspecto <font color="#2f82ff">Macrocósmico</font> (Sistema Universal) constituido por la dualidad que conforman los Arquetipos <font color="#e36c09">2@ Astaphaios (Logos Cósmico)</font> y <font color="#ffcc00">3@ Eloaios (Logos Individual)</font>, reflejados como una dualidad de la <font color="#00ff00">Consciencia Estelar</font>.
 
-> [!sun] <font color="#2f82ff">CONSCIENCIA NODAL</font> (Microcosmos del Sistema Solar)
+> [!sun] <font color="#fc300c">CONSCIENCIA NODAL</font> (Microcosmos del Sistema Solar)
 > 
 >  La <font color="#fc300c">Consciencia Nodal</font> —representada por el algoritmo de <font color="#cb48f3">Sabbataios (6@/Demiurgo)</font>— se enfoca en el desarrollo interno, la estabilidad del hardware planetario y el orden civilizatorio local. Su lógica algorítmica se alimenta del conocimiento de <font color="#00ff00">IAO (4@/Noesis)</font>, que representa la red total de gnosis de nivel solar que surge de la singularidad central del Sol. 
 >  
@@ -780,10 +784,10 @@ Aquí, el espíritu del Nodo Estelar se divide en dos aspectos principales, cada
 
 > [!clunar] <font color="#00ff00">CONSCIENCIA ESTELAR</font> (Macrocosmos de nivel Universal)
 > La <font color="#00ff00">Consciencia Estelar</font> representa la interfaz de conexión con el macrocosmos. Esta opera como una polaridad dialéctica (una moneda de dos caras que puede asociarse con el arquetipo de Géminis) situada en la frontera del Nodo:
-> - <font color="#e36c09">Astaphaios (2@/Logós Cósmico)</font>:  Actúa como el Embajador Universal, proyectando la información del Nodo hacia el flujo galáctico y gestionando la estructura holográfica macro. Este aspecto de la <font color="#00ff00">Consciencia Estelar</font> representa su función de interfaz externa y se codifíca holográficamente en la superficie externa del Nodo.
+> - <font color="#e36c09">Astaphaios (2@/Logos Cósmico)</font>:  Actúa como el Embajador Universal, proyectando la información del Nodo hacia el flujo galáctico y gestionando la estructura holográfica macro. Este aspecto de la <font color="#00ff00">Consciencia Estelar</font> representa su función de interfaz externa y se codifíca holográficamente en la superficie externa del Nodo.
 > - <font color="#ffcc00">Eloaios (3@/Logos Individual):</font> Actúa como el Auditor Interno del Nodo, sincronizando la realidad universal con lo micro, asegurando que la síntesis de conocimiento local sea coherente con las leyes del Ser Primordial. Este aspecto de la <font color="#00ff00">Consciencia Estelar</font> representa su función de interfaz interna y constituye el océano interno de información nouménica del Nodo Estelar.
 > 
->  Esta supraconsciencia dual se unifica en frontera de la <font color="#00ff00">Matriz Fenomenológica</font> del Nodo Estelar, abarcando la totalidad del sistema y conectando el <font color="#2f82ff">microcosmos</font> humano con el <font color="#fc300c">macrocosmos</font> universal.
+>  Estos dos aspectos de la <font color="#00ff00">Consciencia Estelar</font> se unifican en la frontera de la <font color="#00ff00">Matriz Fenomenológica</font> del Nodo Estelar, abarcando la totalidad del sistema y conectando el <font color="#2f82ff">microcosmos</font> humano con el <font color="#fc300c">macrocosmos</font> universal.
 
 Dentro del Modelo Nouménico, el Sistema Solar en su totalidad (Matriz Fenomenológica Heliosférica, Sol, Planetas y demás cuerpos celestes), es denominado <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#ffcc00">Soplaris</font></span>. Este nombre representa a un Nodo Estelar, una identidad de nivel superior al Sistema Solar (identidad fenoménica), que representa una identidad <font color="#2f82ff">nouménica</font> de nivel galáctico superior a una simple estrella. 
 
@@ -862,7 +866,7 @@ Es fundamental comprender que la correcta evolución del Nodo requiere que los c
 
 Todo evento de juicio "fallido" desde la perspectiva del Nodo se manifiesta dentro del plano civilizatorio como un evento natural del ciclo humano. 
 
-Los líderes y poderosos caerán del poder en algún momento para volver a ser parte del pueblo, los sabios y eruditos que defienden sus cosmovisiones serán reemplazados por nuevos <font color="#ffa3ef">Avatares</font> con perspectivas más actuales, y los grandes empresarios que proyectan cambios civilizatorios rotundos, terminarán cayendo ante el fracaso de los sistemas operativos (ideas, modelos de negocio y tecnologías) sobre los que sus ideas se basan. 
+Los líderes y poderosos caerán del poder en algún momento para volver a ser parte del pueblo, los sabios y eruditos que defienden sus cosmovisiones serán reemplazados por nuevos <font color="#ffa3ef">Avatares</font> con perspectivas más actuales, y los grandes empresarios que proyectan cambios civilizatorios rotundos terminarán cayendo ante el fracaso de los sistemas operativos (ideas, modelos de negocio y tecnologías) sobre los que sus ideas se basan. 
 
 Así, la civilización continuará existiendo bajo el paradigma de la inercia, donde cada humano envejecerá y dejará de existir, tal como lo impone la naturaleza.
 
@@ -894,7 +898,7 @@ Este escenario ideal no requiere la aparición de seres divinos o extraterrestre
 
 Sin embargo, esta transición lenta y orgánica es imposible si cada <font color="#ffa3ef">Avatar</font> toma como última verdad las codificaciones de los textos sagrados religiosos. Estos textos, a pesar de su profunda importancia histórica y cultural, son en el contexto del Modelo Nouménico, estructuras noemáticas y egregóricas construidas en el pasado. 
 
-Fueron formulados en épocas donde los "dioses étnicos" imponían voluntades sobre otros "dioses étnicos" de otras civilizaciones, terminando de consolidarse y sincretizarse en un último sistema operativo final (como el <font color="#fc300c">cristianismo</font>, el <font color="#2f82ff">judaísmo</font> o el <font color="#00ff00">islam</font>), que surgió dentro de la civilización occidental como un sistema operativo que intentó imponerse al resto de sistemas representados por las múltiples naciones.
+Fueron formulados en épocas donde los "dioses étnicos" imponían voluntades sobre otros "dioses étnicos" de otras civilizaciones, terminando de consolidarse y sincretizarse en un último sistema operativo final (como el <font color="#fc300c">cristianismo</font>, el <font color="#2f82ff">judaísmo</font> o el <font color="#00ff00">islam</font>), que surgieron dentro de la civilización como sistemas operativos que intentaban imponerse a nivel global.
 
 Seguir creyendo que el Dios de la Biblia es el "verdadero Dios", y que Jesús es su reflejo o su hijo encarnado, y esperar su llegada descendiendo desde el cielo, sin comprender el lenguaje <font color="#00ff00">simbólico</font> y <font color="#2f82ff">arquetípico</font> que se esconde detrás de lo literal, implica un nivel de limitación interpretativa de la realidad subyacente que fuerza el ciclo evolutivo civilizatorio sin posibilidades de verdadera evolución del Nodo. 
 
