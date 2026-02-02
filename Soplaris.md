@@ -34,7 +34,7 @@ Dentro de la perspectiva del Modelo Nouménico, estos símbolos adquieren una co
 
 Por ejemplo los colores <font color="#fc300c">rojo</font>, <font color="#2f82ff">azul</font> y <font color="#00dd00">verde</font>, representan un sistema algorítmico fundamental que permiten reflejar el sistema operativo de una trinidad, como ocurre con los colores primarios en los píxeles de un monitor, o los 3 colores de los quarks en la cromodinámica cuántica, actuando como identificadores de propiedades específicas dentro de un sistema. 
 
-Esto también será aplicado a los 7 colores que se originan a partir de la descomposición de la luz blanca, un fenómeno que permiten reflejar la lógica fundamental de la <span style="font-size: large; font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">ley del 7</span>, recurrente en multiples ámbitos fenoménicos, y que a será utilizada para referenciar a las Siete Supraconsciencias <font color="#e36c09">Ontogénicas</font>.
+Esto también será aplicado a los 7 colores que se originan a partir de la descomposición de la luz blanca, un fenómeno que permiten reflejar la lógica fundamental de la <span style="font-size: large; font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">ley del 7</span>, recurrente en multiples ámbitos fenoménicos, y que será utilizada para referenciar a las Siete Supraconsciencias <font color="#e36c09">Ontogénicas</font>.
 
 Las Supraconsciencias a las que haremos referencia —tanto las <font color="#2f82ff">Ontológicas</font> como las <font color="#e36c09">Ontogénicas</font>— deben ser entendidas como algoritmos nouménicos complejos. Esto significa que su naturaleza excede lo meramente fenomenológico, o la idea simplificada de <span style="font-size: large; font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">algoritmo</span> que se utiliza en el ámbito computacional. 
 
@@ -95,7 +95,7 @@ Para una comprensión completa de este intrincado sistema, es esencial contempla
 
 Dentro de la arquitectura fractal del Modelo Nouménico, el universo fenoménico se organiza en múltiples niveles de iteración, donde la información del <font color="#fc300c">Nous</font> se despliega en estructuras cada vez más complejas. 
 
-El sistema solar, con su intrincada dinámica y la disposición precisa de sus cuerpos celestes, no es una excepción a esta regla fundamental. Debe ser comprendido como un nodo específico y de alta complejidad dentro de la vasta red del Nous Activo, un nivel de iteración donde la información nouménica esencial, codificada en los arquetipos del <font color="#2f82ff">Qubit@</font>, se manifiesta de manera concreta en las entidades físicas y energéticas que lo componen.
+El sistema solar, con su intrincada dinámica y la disposición precisa de sus cuerpos celestes, no es una excepción a esta regla fundamental. Debe ser comprendido como un nodo específico y de alta complejidad dentro de la vasta red del <font color="#fc300c">Nous Activo</font>, un nivel de iteración donde la información nouménica esencial, codificada en los arquetipos del <font color="#2f82ff">Qubit@</font>, se manifiesta de manera concreta en las entidades físicas y energéticas que lo componen.
 
 # <font color="#ffcc00">2. Soplaris</font>
 
@@ -124,13 +124,13 @@ Cada planeta, a través de su composición, su dinámica orbital y sus caracter�
 > 
 > Marte, en su órbita y su rotación, codifica la información nouménica relacionada con la individualidad y la voluntad de existencia dentro del sistema solar.
 
-> [!ontogenico] <font color="#e36c09">2 - LOGOS CÓSMICO / ASTHAPHAIOS (ARQUETIPO 2@)</font>
-> El principio ordenador que establece las leyes y la estructura del universo, el motor matemático de la evolución, se codifica en <font color="#e36c09">Venus</font>. Su densa atmósfera y su movimiento orbital, junto con su brillo característico, reflejan la información nouménica relacionada con la armonía, la belleza y los patrones cíclicos que rigen la evolución del sistema solar como un todo. 
+> [!ontogenico] <font color="#e36c09">2 - LOGOS CÓSMICO / ASTAPHAIOS (ARQUETIPO 2@)</font>
+> El principio ordenador que establece las leyes y la estructura del universo. Este es el motor matemático de la evolución que se codifica en <font color="#e36c09">Venus</font>. Su densa atmósfera y su movimiento orbital, junto con su brillo característico, reflejan la información nouménica relacionada con la armonía, la belleza y los patrones cíclicos que rigen la evolución del sistema solar como un todo. 
 > 
-> Venus actúa como un resonador cósmico, transmitiendo la información del Logos Cósmico a través de la Heliósfera.
+> Venus actúa como un resonador cósmico, transmitiendo la información del <font color="#e36c09">Logos Cósmico</font> a través de la Heliósfera.
 
 > [!monadico] <font color="#ffcc00">3 - LOGOS INDIVIDUAL / ELOAIOS (Arquetipo 3@)</font>
-> La capacidad de observar, analizar y comunicar, la mente individual que reflexiona sobre la experiencia, se manifiesta en <font color="#ffcc00">Mercurio</font>. Su proximidad al Sol y su rápida órbita simbolizan la agilidad mental y la función de mensajero del <font color="#ffcc00">Logos Individual</font>. 
+> La capacidad de observar, analizar y comunicar, la mente individual que reflexiona sobre la experiencia se manifiestan en <font color="#ffcc00">Mercurio</font>. Su proximidad al Sol y su rápida órbita simbolizan la agilidad mental y la función de mensajero del <font color="#ffcc00">Logos Individual</font>. 
 > 
 > Mercurio codifica la información nouménica relacionada con el procesamiento de la información, la conexión de ideas y la capacidad de generar una perspectiva individual dentro del contexto del sistema solar.
 
@@ -165,12 +165,12 @@ Además de estos siete <font color="#e36c09">Arquetipos Ontogénicos</font>, los
 > 
 > Urano codifica la información nouménica relacionada con la naturaleza dual de la realidad primordial dentro del sistema solar.
 
-> [!SAMAEL] 2 - TRINIDAD / SAMAEL (Arquetipo 2<sup>✱</sup>)
+> [!SAMAEL] <font color="#2f82ff">2 - TRINIDAD / SAMAEL (Arquetipo 2<sup>✱</sup>)</font>
 > La información específica del Noúmeno que reside en el <font color="#2f82ff">Nous Pasivo</font>, reflejando la totalidad potencial del Noúmeno dentro del <font color="#fc300c">Nous</font> Arquetípico, se codifica en <font color="#2f82ff">Neptuno</font>. Su atmósfera profunda y misteriosa simboliza la vastedad y la potencialidad inexplorada del Noúmeno. 
 > 
 > Neptuno codifica la información nouménica relacionada con la profundidad y la naturaleza potencial de la Realidad Primordial.
 
-> [!SAKLAS] 3 - UNIDAD / SAKLAS (Arquetipo 3<sup>✱</sup>)
+> [!SAKLAS] <font color="#fc300c">3 - UNIDAD / SAKLAS (Arquetipo 3<sup>✱</sup>)</font>
 > La unidad primordial del Onemuón, el quanto básico de información que se manifiesta singularmente en la Heliósfera, se codifica en <font color="#fc300c">Plutón</font>. Su órbita excéntrica y su naturaleza transicional simbolizan la unidad fundamental y el potencial de transformación inherente a cada manifestación singular dentro del Noúmeno. 
 > 
 > Plutón codifica la información nouménica relacionada con la unidad primordial de la información.
@@ -194,47 +194,6 @@ La Heliósfera, en su rol de <font color="#fc300c">Qubit Estelar</font> a esta e
 Los planetas, en sus órbitas y sus interacciones gravitacionales, representan los nodos interconectados dentro de esta **red algorítmica**, cada uno procesando y reflejando información específica del <font color="#fc300c">Nous</font> a través del arquetipo que encarnan. 
 
 El viento solar y el campo magnético interplanetario actúan como los canales de comunicación, las autopistas de información que permiten la coherencia y la sincronización de este complejo sistema consciente.
-
-Consideremos ahora con mayor detalle la codificación arquetípica en cada planeta, buscando una comprensión más profunda de la información nouménica que portan:
-
-> [!HARDWARE] <font color="#fc300c">1 - MARTE (Nous / Adonin)</font>
-> Más allá de la simple asociación con la energía, <font color="#fc300c">Marte</font> representa la función primordial del <font color="#fc300c">Nous</font> de diferenciación y autoafirmación. 
-> 
-> Su composición geológica, con evidencia de actividad volcánica pasada, puede interpretarse como la manifestación física de la energía del <font color="#fc300c">Nous</font> buscando definirse y expandirse dentro de la matriz fenomenológica. Su órbita elíptica y su inclinación axial reflejan la individualidad y la trayectoria única de cada conciencia dentro del <font color="#fc300c">Nous</font>.
-
-> [!ontogenico] <font color="#e36c09">2 - VENUS (Logos Cósmico / Astaphaios)</font>
-> La atmósfera densa y la temperatura superficial extrema de <font color="#e36c09">Venus</font>, así como su rotación retrógrada, pueden verse como la expresión fenomenológica de las intensas fuerzas creativas y ordenadoras del <font color="#e36c09">Logos Cósmico</font>. 
-> 
-> Su brillo en el cielo simboliza la luz de la razón y la estructura que el Logos impone sobre el caos potencial. Venus codifica la información nouménica relacionada con las leyes fundamentales que rigen la interacción y la evolución dentro del sistema solar, actuando como un centro de armonización de las energías.
-
-> [!monadico] <font color="#ffcc00">3 - MERCURIO (Logos Individual / Eloaios)</font>
-> La superficie craterizada de <font color="#ffcc00">Mercurio</font>, testimonio de innumerables impactos, puede interpretarse como la representación física de la mente individual procesando constantemente información y registrando experiencias. 
-> 
-> Su rápida órbita alrededor del Sol simboliza la agilidad mental y la capacidad de comunicación del Logos Individual, actuando como un conector entre los diferentes aspectos del sistema consciente.
-
-> [!tiempo] <font color="#00ff00">4 - SOL (Noesis / IAO)</font>
-> La fusión nuclear en el corazón del <font color="#00ff00">Sol</font>, la fuente de toda la energía del sistema, es la manifestación fenomenológica de la Noesis, la fuente última de conocimiento y comprensión dentro del <font color="#fc300c">Nous</font>. 
-> 
-> Su luz y calor no solo sustentan la vida física, sino que también representan la iluminación de la conciencia y la revelación de la verdad nouménica fundamental que irradia a través de todo el sistema. 
-
-> [!cerebro] <font color="#2f82ff">5 - JÚPITER (Noema / Sabaoth)</font>
-> La masiva atmósfera de <font color="#2f82ff">Júpiter</font>, con sus tormentas colosales como la Gran Mancha Roja, puede verse como la manifestación física de la complejidad y la vastedad de los Noemas, los mapas conceptuales que estructuran la realidad. 
-> 
-> Su fuerte campo magnético actúa como un escudo, protegiendo el sistema solar de influencias externas, lo que simboliza la función protectora y ordenadora de los Noemas.
-
-> [!demiurgo] <font color="#cb48f3">6 - SATURNO (Demiúrgo / Sabbataios)</font>
-> Los anillos de <font color="#cb48f3">Saturno</font>, compuestos de innumerables partículas de hielo y roca, representan la estructura y los límites que definen al <font color="#ffa3ef">Yo Egoic</font>o dentro del plano fenoménico. 
-> 
-> Su belleza austera y su naturaleza distante simbolizan la necesidad de establecer una identidad individual y de aprender a través de la disciplina y la restricción. Saturno codifica la información nouménica relacionada con la individuación y la definición de los límites de la experiencia consciente.
-
-> [!avatar] <font color="#ffa3ef">7 - LUNA (Avatar / Horaios)</font>
-> La influencia gravitatoria de la <font color="#ffa3ef">Luna</font> sobre la Tierra, causando las mareas y afectando los ciclos biológicos, puede interpretarse como la manifestación física de la conexión profunda y la influencia sutil del <font color="#ffa3ef">Avatar</font> en la unificación de la consciencia. 
-> 
-> Su naturaleza reflectante, brillando con la luz del Sol, simboliza la capacidad del Avatar de reflejar la consciencia del <font color="#fc300c">Nous</font> en el plano fenoménico.
-
-Por lo tanto, cada uno de estos cuerpos celestes no es un objeto inanimado, sino una encarnación específica de un arquetipo del <font color="#fc300c">Nous</font>, portando consigo la información nouménica fundamental que define su naturaleza y su función dentro del <font color="#fc300c">Qubit Estelar</font> Heliosférico. 
-
-Esta información no solo determina sus características físicas y energéticas, sino que también alimenta una forma de consciencia inherente a cada planeta, una expresión fractal de la consciencia del <font color="#fc300c">Nous</font> a una escala cósmica. 
 
 El sistema solar, en su totalidad, se revela así como una intrincada red consciente, un nivel de iteración único dentro de la vasta fractalidad del <font color="#fc300c">Nous</font> galáctico, donde la información nouménica se despliega en una sinfonía cósmica de forma y conciencia.
 
