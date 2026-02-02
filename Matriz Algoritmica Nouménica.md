@@ -3,6 +3,9 @@ indexar: true
 ---
 
 ![[Matriz Algoritmica.jpg]]
+
+![[Matriz Algoritmica Noumenica.mp3]]
+
 # 1. La Matriz Algorítmica De La Existencia
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Estructura Operacional de la Consciencia</span></center>
