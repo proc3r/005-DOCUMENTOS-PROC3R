@@ -12,9 +12,9 @@ indexar: true
 
 1.0.1 » Esta sección establece las bases conceptuales para comprender la realidad, tanto subjetiva como civilizatoria, como una vasta y compleja red de algoritmos interconectados. Se propone una perspectiva que trasciende el limitado Noema Científico, definiendo el algoritmo como la estructura operacional primordial que rige la existencia.
 
-1.0.2 » A través de este sistema dialéctico unificado, el Modelo Nouménico unifica todas las dimensiones, desde lo universal y civilizatorio hasta lo individual y orgánico. Finalmente, se explorarán los algoritmos fundamentales que definen los nueve niveles evolutivos, permitiendo al lector comprender cómo cada aspecto de la vida forma parte de un sistema codificado que condiciona la experiencia consciente.
+1.0.2 » A través de este sistema dialéctico unificado, el Modelo Nouménico unifica todas las dimensiones, desde lo universal y civilizatorio hasta lo individual y orgánico. Finalmente, se explorarán los algoritmos fundamentales que definen los seis niveles evolutivos de las Civilizaciones Tipo 1 y 2, permitiendo al lector comprender cómo cada aspecto de la vida forma parte de un sistema codificado que condiciona la experiencia consciente.
 
-## 1. <font color="#2f82ff">El Código Universal</font>
+## <font color="#2f82ff">El Código Universal</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Lógica y Determinismo Nouménico</span></center>
 
@@ -37,7 +37,7 @@ indexar: true
 
 1.1.7 » Por consiguiente, la realidad civilizatoria que se experimenta en el plano fenoménico es una síntesis dialéctica, es el punto de equilibrio dinámico entre el determinismo algorítmico (la inercia y la regla de la Tesis) y la estocasticidad de la consciencia (el potencial y el poder manifestador de la Antítesis). El progreso evolutivo se mide por la capacidad de la aleatoriedad generada por el libre albedrío para dirigir el sistema hacia un algoritmo más optimizado, representado por un Noema Primordial.
 
-## 2. <font color="#fc300c">El Algoritmo Fundamental</font>
+## <font color="#fc300c">El Algoritmo Fundamental</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz Dialéctica Universal</span></center>
 
@@ -81,7 +81,7 @@ indexar: true
 
 1.2.6 » Lejos de ser una nueva interpretación sesgada, el Modelo Nouménico actúa como un metaparadigma que revela la matriz común que une a todos estos sistemas. Se expone que cada noema histórico es una aproximación fragmentada y dimensionalmente limitada del Algoritmo Primordial. El objetivo no es desacreditar, sino integrar: mientras que la ciencia moderna se limita al ámbito fenoménico (el 5%) y la religión a lo trascendental (el 95%), este modelo revela que ambos son meros aspectos del mismo proceso algorítmico.
 
-## 3. <font color="#00ff00">La Trinidad Aplicada</font>
+## <font color="#00ff00">La Trinidad Aplicada</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Del Ego al Hegemón Global</span></center>
 
@@ -139,7 +139,7 @@ indexar: true
 
 1.3.12 » El avance al estado de <font color="#2f82ff">Civilización Tipo 3</font> implica la comprensión de esta paradoja. Significa dejar de ser algoritmos condicionados que alimentan al Hegemón autodestructivo y despertar a la realidad nouménica del 95% del universo oscuro. La misión del Modelo Nouménico es exponer estos algoritmos codificados y utilizarlos como una plantilla arquetípica base, para que la consciencia individual pueda liberarse de los límites impuestos por el reduccionismo científico y los dogmas religiosos.
 
-# 2. <font color="#fc300c">Civilización Tipo 1</font>
+# <font color="#fc300c">2. Civilización Tipo 1</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Mapeo Fractal de la Existencia Fenoménica</span></center>
 
@@ -175,7 +175,7 @@ indexar: true
 
 3.0.6 » En su conjunto, estos siete algoritmos establecen la <font color="#fc300c">Tesis</font> de la Existencia Fenoménica, asegurando la formación, replicación y supervivencia del organismo en el plano de la materia ordinaria (el 5%). El estudio de estos códigos permite al Avatar reconocer los sistemas operativos sociales más profundos que rigen la realidad, forzándolo a confrontar su propia naturaleza salvaje y los reflejos limitantes de las <font color="#fc300c">Civilizaciones Tipo 1</font> en su etapa de supervivencia. Estos son los cimientos biológicos y químicos que todo ser vivo debe comprender y optimizar para dejar de pertenecer al ámbito salvaje y convertirse en un Ser civilizado, con potencialidad de alcanzar el estado Avatárico.
 
-## 1. <font color="#fc300c">Algoritmo 1 • Atómico-Físicoquímico </font>
+## <font color="#fc300c">Algoritmo 1 • Atómico-Físicoquímico </font>
 ![[01 - Atomico2.jpg|700]]
 
 3.1.1 » Este es el algoritmo que define la rigidez estructural y las leyes inmutables del universo, pero que también constituye la base inmutable de la existencia orgánica. Es la <font color="#fc300c">Tesis Algorítmica</font> que define las reglas fundamentales de la materia y la energía que componen el cuerpo y las leyes termodinámicas que rigen el cosmos. Este algoritmo asegura que el hardware biológico mantenga la coherencia estructural necesaria para que la consciencia pueda manifestarse y perdurar en el plano fenomenológico.
@@ -192,7 +192,7 @@ indexar: true
 
 3.1.7 » No se trata de castigar el hambre o el exceso de consumo, sino de alinear la ingesta con la necesidad estructural. Cada bocado, cada movimiento, cada respiración profunda, es una interacción directa con este algoritmo fundamental. Ignorarlo no produce caos cósmico, pero sí inercia existencial: el cuerpo se vuelve pesado, lento, opaco. Por el contrario, al honrar este código (a través de alimentación consciente, movimiento regular y respeto por los ciclos de reposo), el Avatar recupera ligereza, estabilidad y la energía física necesaria para operar en los niveles superiores de la matriz civilizatoria.
 
-## 2. <font color="#e36c09">Algoritmo 2 • Químico-Molecular</font>
+## <font color="#e36c09">Algoritmo 2 • Químico-Molecular</font>
 ![[02 - Quimico3.jpg|700]]
 
 3.2.1 » Este código emerge como la Antítesis necesaria al determinismo rígido y coercitivo del <font color="#fc300c">Algoritmo Atómico-Fisicoquímico</font>. Mientras que el código atómico se gobierna por la energía extrema, el <font color="#e36c09">Algoritmo Químico-Molecular</font> florece en entornos de menor gasto energético y mayor estabilidad, donde la fuerza predominante no es la coerción nuclear, sino la vibración y la resonancia. 
@@ -213,7 +213,7 @@ indexar: true
 
 3.2.9 »El desafío no es solo la abstinencia, sino la disciplina radical sobre los deseos instintivos que se originan en la alteración química. Solo al restaurar la homeostasis molecular natural, el Avatar libera el potencial energético y mental necesario para ejecutar los algoritmos de nivel superior y trascender los límites impuestos por el hardware biológico.
 
-## 3. <font color="#ffcc00">Algoritmo 3 • Biológico-Celular</font>
+## <font color="#ffcc00">Algoritmo 3 • Biológico-Celular</font>
 ![[03 - Celular2..jpg|700]]
 
 3.3.1 » Este algoritmo representa la primera Manifestación autónoma <font color="#00ff00">(Síntesis</font>) del Nivel 0, emergiendo como el resultado dialéctico de la <font color="#fc300c">Tesis Atómica</font> (la estructura rígida) y la <font color="#2f82ff">Antítesis Molecular</font> (la resonancia flexible). Es el campo de prueba para la creación de un sistema de información replicable, donde las frágiles estructuras moleculares logran encapsularse para formar la célula (procariota y eucariota), la unidad biológica funcional más elemental.
@@ -230,7 +230,7 @@ indexar: true
 
 3.3.7 » La disciplina aquí reside en someter la <font color="#fc300c">Tesis</font> de la supervivencia celular incontrolada, al software moral y ético de la consciencia <font color="#2f82ff">(Antítesis)</font>. Al hacerlo, se garantiza la estabilidad interna del hardware biológico y se libera el enfoque mental de la zozobra existencial para concentrarse en la evolución de los algoritmos de orden social y trascendental.
 
-## 4. <font color="#00ff00">Algoritmo 4 • Genético-Evolutivo</font>
+## <font color="#00ff00">Algoritmo 4 • Genético-Evolutivo</font>
 ![[04 - Genetico2.jpg|700]]
 
 3.4.1 » Este algoritmo es la Base de Datos Evolutiva y el esquema informacional que rige la construcción de organismos complejos a partir de la <font color="#00ff00">Síntesis</font> celular. Su rol esencial es la codificación de la información genética (ADN/ARN), asegurando que los diseños biológicos probados y exitosos se repliquen con precisión y con capacidad de optimización.
@@ -249,7 +249,7 @@ indexar: true
 
 3.4.8 » La diversidad y las mutaciones raras añaden un potencial estocástico rico al software colectivo, proporcionando un vasto rango de perspectivas y soluciones que impulsan la evolución de la consciencia civilizatoria, desvinculando la <font color="#fc300c">Tesis</font> biológica de la tiranía del entorno.
 
-## 5. <font color="#2f82ff">Algoritmo 5 • Biológico-Sensorial</font>
+## <font color="#2f82ff">Algoritmo 5 • Biológico-Sensorial</font>
 ![[05 - Sensorial3.jpg|700]]
 
 3.5.1 » Este Algoritmo se establece como la interfaz fundamental, el puente entre la consciencia interna y el mundo externo. Este código rige la creación y el desarrollo de los órganos sensoriales (vista, oído, tacto, olfato) y el sistema nervioso central, estructuras biológicas que actúan como sofisticados decodificadores de la realidad fenoménica. 
@@ -268,7 +268,7 @@ indexar: true
 
 3.5.8 » Esta dependencia distorsiona la percepción de la realidad, reforzando la adherencia al Plano Fenoménico (5%) y los algoritmos de Nivel 0, y anula el impulso de la exploración nouménica. Al sobrecargar el sistema nervioso, la consciencia se vuelve esclava de la Materia Ordinaria, quedando atrapada en una Síntesis ruidosa y caótica que impide la introspección y la ejecución eficiente de los algoritmos mentales necesarios para el ascenso evolutivo.
 
-## 6. <font color="#cb48f3">Algoritmo 6 • Fisiológico-Neurovegetativo</font>
+## <font color="#cb48f3">Algoritmo 6 • Fisiológico-Neurovegetativo</font>
 ![[06 - Fisiologico4.jpg|700]]
 
 3.6.1 » Este es el autómata de la supervivencia, el algoritmo que representa el sistema de regulación interno del organismo y que opera como el garante del statu quo biológico.
@@ -289,7 +289,7 @@ indexar: true
 
 3.6.9 » Solo al dominar este autómata biológico, el Avatar puede evitar que el estrés crónico genere entropía interna que degrade la salud mental y la capacidad de ejecutar los algoritmos de la consciencia de niveles superiores.
 
-## 7. <font color="#ffa3ef">Algoritmo 7 • Psico-Temperamental</font>
+## <font color="#ffa3ef">Algoritmo 7 • Psico-Temperamental</font>
 ![[07 - Temperamental2.jpg|700]]
 
 3.7.1 » Este es el algoritmo de abstracción septenaria del Nivel 0, constituyendo la Manifestación Cognitiva más básica y el primer sistema que, por su naturaleza arquetípica, excede el ámbito individual para forzar la interacción social. 
@@ -314,7 +314,7 @@ indexar: true
 
 3.7.11 » El Avatar usa su consciencia no para ganar en el juego de poder de Nivel 0, sino para elevar la Síntesis grupal del momento por encima de la biología, pasando de la actitud de supervivencia animal a la de evolución compartida que busca el ascenso a la <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## 8. Conclusión Nivel 0
+## Conclusión Nivel 0
 
 3.8.1 » El Nivel 0, en su síntesis final, se revela como la Tesis Determinista de la existencia, un ámbito regido por las leyes estrictas de la naturaleza, la física y la química. Este plano opera como un Océano Nouménico constituido por átomos, fuerzas fundamentales y vectores matemáticos que interconectan cada elemento en el espacio-tiempo.
 
@@ -344,7 +344,7 @@ indexar: true
 
 3.8.14 » Así, el Nivel 0 no es solo el inicio de la <font color="#fc300c">Civilización Tipo 1</font>, sino el punto de fuga hacia el que esta involuciona cuando el control del Hegemón es más parasitario que evolutivo.
 
-# 4. <font color="#fc300c">Algoritmos Nivel 1 (Mente)</font>
+# <font color="#fc300c">4. Algoritmos Nivel 1 (Mente)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Arquitectura del Software Psicosocial</span></center>
 
@@ -364,7 +364,7 @@ indexar: true
 
 4.0.8 » Este nivel es el motor del desarrollo mental y conceptual que permite que lo interno se manifieste en el exterior y defina la dinámica social.
 
-## 1. <font color="#fc300c">Algoritmo 8 • Arquetipo-Familiar</font>
+## <font color="#fc300c">Algoritmo 8 • Arquetipo-Familiar</font>
 ![[08 - Familiar3.jpg|700]]
 
 4.1.1 » El <font color="#fc300c">Algoritmo 8 (Arquetipo-Familiar)</font> marca la transición formal del determinismo biológico del Nivel 0 a la estructura social abstracta de la <font color="#fc300c">Civilización Tipo 1</font>. Es un código social de alta complejidad activado por la consciencia de los progenitores, diseñado para subsumir y reconfigurar el egoísmo instintivo que surge del <font color="#ffa3ef">Algoritmo 7 (Psico-Temperamental)</font>. Su función es la creación del primer Egregor Social Abstracto, donde la fuerza de la emoción violenta es templada y elevada al plano del Sentimiento (amor, lealtad, afecto, empatía).
@@ -383,7 +383,7 @@ indexar: true
 
 4.1.8 » La trascendencia exige reconocer que, mientras la adaptación al rol familiar es vital durante la niñez, la ejecución de la programación primaria durante la adultez debe ser una elección libre, recuperando así el potencial estocástico latente de la consciencia para definir su propio destino.
 
-## 2. <font color="#e36c09">Algoritmo 9 • Psicofamiliar</font>
+## <font color="#e36c09">Algoritmo 9 • Psicofamiliar</font>
 ![[09 - Psicofamiliad.jpg|700]]
 
 4.2.1 » El <font color="#e36c09">Algoritmo Psicofamiliar</font> representa la <font color="#2f82ff">Antítesis</font> dialéctica indispensable al orden simple y la estructura idealizada impuesta por el <font color="#fc300c">Algoritmo Arquetipo-Familiar</font>. Mientras que en el nivel anterior la familia se establece como el primer egregor de amor y roles primarios para la supervivencia del linaje, en este nivel se revela la complejidad operativa real, donde la familia funciona como un sistema dinámico, estocástico y a menudo contradictorio, y donde convergen múltiples temperamentos dispares, las presiones culturales externas, las herencias generacionales y los traumas no resueltos.
@@ -402,7 +402,7 @@ indexar: true
 
 4.2.8 »Solo al hacer visible lo invisible —al desvincular el comportamiento presente de los mandatos emocionales heredados— el individuo puede liberar su potencial estocástico para construir una identidad que se sostiene en la elección consciente, y no en la programación determinada por el sistema psíquico vivo de su familia de origen.
 
-## 3. <font color="#ffcc00">Algoritmo 10 • Psicológico-Individual</font>
+## <font color="#ffcc00">Algoritmo 10 • Psicológico-Individual</font>
 ![[10 - Psicologico2.jpg|700]]
 
 4.3.1 » El <font color="#ffcc00">Algoritmo Psicológico-Individual</font> emerge como la <font color="#00ff00">síntesis dialéctica</font> del árbol familiar construido por los Algoritmos <font color="#fc300c">Arquetipo-Familiar (8)</font> y <font color="#e36c09">Psicofamiliar (9)</font>, en interacción con las bases fisiológicas y temperamentales del Nivel 0. 
@@ -425,7 +425,7 @@ indexar: true
 
 4.3.10 » El <font color="#ffcc00">Algoritmo Psicológico-Individual</font> es, por tanto, la cosecha de la consciencia cósmica en el plano individual, el fruto del árbol familiar que, al madurar, conecta con el interior y con el plano nouménico. Y aunque la puerta permanece abierta hasta el último aliento, solo podrá atravesarla quien haya construido, en vida, una identidad verdadera, no heredada, ni impuesta, sino elegida desde la libertad más profunda.
 
-## 4. <font color="#00ff00">Algoritmo 11 • Conductual</font>
+## <font color="#00ff00">Algoritmo 11 • Conductual</font>
 ![[11 - Conductual2 1.jpg|700]]
 
 4.4.1 » El <font color="#00ff00">Algoritmo Conductual</font> forma parte del sistema de interconexión social primario, donde los condicionamientos psicológicos latentes se traducen en interacciones sociales, determinando cómo el individuo se relaciona con el mundo y operando como puente entre lo interno y lo social. 
@@ -450,7 +450,7 @@ indexar: true
 
 4.4.11 » Así, la conducta deja de ser un espejo deformante del entorno, para convertirse en un puente visible entre el mundo interno y el colectivo, capaz de inspirar autenticidad en otros y de contribuir a una <font color="#00ff00">Síntesis Social</font> que trascienda el juego de roles: no una red de personajes, sino una comunidad de sujetos conscientes.
 
-## 5. <font color="#2f82ff">Algoritmo 12 • Psicosocial</font>
+## <font color="#2f82ff">Algoritmo 12 • Psicosocial</font>
 ![[12 - Psicosocialb.jpg|700]]
 
 4.5.1 » El <font color="#2f82ff">Algoritmo Psicosocial</font> representa la <font color="#00ff00">Síntesis dialéctica</font> entre la identidad interna forjada en el <font color="#ffcc00">Algoritmo 10 (Psicológico-Individual)</font> y su exteriorización social a través del <font color="#00ff00">Algoritmo 11 (Conductual)</font>. Al integrarse en múltiples grupos sociales extrafamiliares (amistades, vecinos, colegas, comunidades de interés), el individuo ya no actúa solo como <font color="#fc300c">Tesis aislada</font>, sino como nodo en una red de interacción dinámica, donde la autoridad no es impuesta, sino emergente y negociada.
@@ -471,7 +471,7 @@ indexar: true
 
 4.5.7 » Solo así, el orden psicosocial deja de ser un laberinto de máscaras para convertirse en un tejido vivo de consciencias interconectadas, capaz de sostener el proceso civilizatorio no por coerción, sino por resonancia compartida.
 
-## 6. <font color="#cb48f3">Algoritmo 13 • Egregórico-Grupal</font>
+## <font color="#cb48f3">Algoritmo 13 • Egregórico-Grupal</font>
 ![[13 - Egregorico3.jpg|700]]
 
 4.6.1 » El <font color="#cb48f3">Algoritmo Egregórico-Grupal</font> marca la transición decisiva desde el orden social orgánico generado a partir del <font color="#2f82ff">Algoritmo 12 (Psicosocial)</font>, hacia el poder civilizatorio estructurado con reglas explícitas y rangos de liderazgo definidos. 
@@ -523,7 +523,7 @@ indexar: true
 
 4.6.20 » Solo al comprender estos mecanismos, el Avatar entiende que la lucha entre egregores es un juego de poder sin ganadores, y que su verdadera misión como potencial Avatar no es impulsar la victoria de un egregor, sino despertar dentro del sistema, preservando su autonomía mientras transforma al grupo desde adentro.
 
-## 7. <font color="#ffa3ef">Algoritmo 14 • Hegemónico</font>
+## <font color="#ffa3ef">Algoritmo 14 • Hegemónico</font>
 ![[14 - Hegemonicob.jpg|700]]
 
 4.7.1 » El <font color="#ffa3ef">Algoritmo Hegemónico</font> representa la <font color="#00ff00">Síntesis Total</font> del <font color="#fc300c">Nivel 1</font>, pero su función trasciende lo meramente social, es la fuerza que unifica todos los niveles de la existencia (desde lo atómico hasta lo egregórico) en un único presente operativo. 
@@ -550,7 +550,7 @@ indexar: true
 
 4.7.12 » Así, el <font color="#ffa3ef">Algoritmo Hegemónico</font>, no es un fin, sino el umbral que genera la cristalización temporal de una síntesis entre la biología, la psicología y el poder, el último escalón de la civilización material antes de que la humanidad intente tocar lo divino.
 
-## 8. Conclusión Nivel 1
+## Conclusión Nivel 1
 
 4.8.1 » La conclusión del <font color="#fc300c">Nivel 1</font> (Mente) establece la verdad fundamental de la existencia civilizatoria y la organización social: la civilización no es un simple producto de lo orgánico, sino una arquitectura abstracta que emerge de la Mente. 
 
@@ -572,7 +572,7 @@ indexar: true
 
 4.8.10 » La represión de la libertad individual y el ciclo de conflicto entre cosmovisiones adversas generan la tensión necesaria que impulsa a la consciencia hacia el Umbral de lo Trascendental, dando inicio a la búsqueda del<font color="#e36c09"> Nivel 2</font>, donde la autoridad ya no se basa en el poder relativo del Ahora, sino en una verdad absoluta que trascienda la lucha por el dominio material.
 
-# 5. <font color="#e36c09">Algoritmos Nivel 2 (Espiritu)</font>
+# <font color="#e36c09">5. Algoritmos Nivel 2 (Espiritu)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Arquitectura del Software Trascendental</span></center>
 
@@ -588,7 +588,7 @@ indexar: true
 
 5.0.6 » El <font color="#e36c09">Nivel 2</font> rompe este ciclo al introducir un vector de propósito cósmico, que se presenta como la posibilidad de que la humanidad no sea solo un efecto axiomático del flujo universal, sino una causa intencionada que permite construir una <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## 1. <font color="#fc300c">Algoritmo 15 • Víctima-Victimario</font>
+## <font color="#fc300c">Algoritmo 15 • Víctima-Victimario</font>
 ![[15 - Victirma Victimario2.jpg|700]]
 
 5.1.1 » El <font color="#fc300c">Algoritmo Víctima-Victimario</font> representa la primera respuesta sistémica al poder ciego del <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>. Mientras la ola nouménica produce una <font color="#00ff00">Síntesis</font> del «Ahora» que consagra a los que resultaron victoriosos dentro de la dialéctica histórica—aquellos que han consolidado su supremacía mediante la fuerza, la coerción y el control de los recursos del pasado—, los grupos subordinados, al carecer de capacidad militar o económica para competir en igualdad, desarrollan una estrategia de poder inversa: la victimización como vía de acceso al plano trascendental, dejando registro en la narrativa histórica su pesar y sufrimiento a partir de su propia perspectiva subjetiva de la realidad. 
@@ -612,7 +612,7 @@ indexar: true
 
 5.1.9 » Al reconocer este mecanismo, el Avatar debe discernir cuándo la victimización es una llamada auténtica a la justicia trascendental, y cuándo se ha convertido en una herramienta de manipulación estratégica que perpetúa la dualidad en lugar de trascenderla. Solo así, puede participar en el juego sin quedar atrapado en él, usando la resonancia de la víctima no para vencer, sino para elevar el tono ético de la civilización entera.
 
-## 2. <font color="#e36c09">Algoritmo 16 • Étnico-Ontogénico</font>
+## <font color="#e36c09">Algoritmo 16 • Étnico-Ontogénico</font>
 ![[16 - Etnico ontogenico2.jpg|700]]
 
 5.2.1 » El <font color="#e36c09">Algoritmo Étnico-Ontogénico</font> representa la **capa estadística del plano nouménico**, donde la coherencia evolutiva de un *grupo étnico o espiritual* se registra como un campo informacional persistente, que genera una huella informacional atemporal que suma o resta a la métrica de coherencia del grupo trascendental del que se forma parte, independientemente de las narrativas que ese grupo construya en el plano fenoménico.
@@ -647,7 +647,7 @@ indexar: true
 
 5.2.16 » Pero también implica comprender que, aunque el beneficio generado no recaiga en uno mismo, sino en otro miembro del grupo más alineado con el proceso evolutivo, la recompensa es mayor, ya que permite participar conscientemente en la trama evolutiva del cosmos, sabiendo que, en el plano nouménico, nada se pierde, y todo contribuye al destino final.
 
-## 3. <font color="#ffcc00">Algoritmo 17 • Psicoespiritual</font>
+## <font color="#ffcc00">Algoritmo 17 • Psicoespiritual</font>
 ![[17 - Psicoespiritual3.jpg|700]]
 
 5.3.1 » El <font color="#ffcc00"><font color="#ffcc00">Algoritmo Psicoespiritual</font></font> opera a través de la sincronización y estructuración de una resonancia espiritual colectiva manifestada por un grupo de individuos que se organizan en torno a la conexión explícita con lo trascendental, y que incluye la búsqueda de protección, orientación o poder por parte de esa fuente trascendente considerada superior al orden fenoménico.
@@ -676,7 +676,7 @@ indexar: true
 
 5.3.11 » Al hacerlo, el Avatar descubre que ya no necesita de un intermediario para acceder al plano nouménico, ya que su propia consciencia, alineada con un propósito evolutivo, es suficiente para generar la señal que el universo reconoce.
 
-## 4. <font color="#00ff00">Algoritmo 18 • Mitológico-Religioso</font>
+## <font color="#00ff00">Algoritmo 18 • Mitológico-Religioso</font>
 ![[18 - Mistico Ritual2.jpeg|700]]
 
 5.4.1 » El <font color="#00ff00">Algoritmo Mitológico-Religioso</font> representa la materialización de lo trascendental en formas duraderas: mitos, escrituras sagradas, figuras y símbolos arquetípicos y estructuras arquitectónicas, que permiten proyectar una intención espiritual más allá del presente inmediato. 
@@ -709,7 +709,7 @@ indexar: true
 
 5.4.15 » Solo así, el Avatar puede participar en la creación de un nuevo mito universal, ya no basado en la obediencia a un texto antiguo, sino en la experiencia directa de la <font color="#00ff00">Consciencia Universal</font>, accesible a todos, en todo momento y sin intermediarios.
 
-## 5. <font color="#2f82ff">Algoritmo 19 • Místico-Ritual</font>
+## <font color="#2f82ff">Algoritmo 19 • Místico-Ritual</font>
 ![[19 - Mistico Ritual2.jpg|700]]
 
 5.5.1 » El <font color="#2f82ff">Algoritmo Místico-Ritual</font> es el que permite activar los códigos simbólicos establecidos en el <font color="#00ff00">Algoritmo Mitológico-Religioso (18)</font>. Mientras que el mito fija la intención trascendental en el tiempo a través de la cultura, el ritual la encarna en el espacio-tiempo y el cuerpo. 
@@ -756,7 +756,7 @@ indexar: true
 
 5.5.18 » El avatar que domina este algoritmo, ya no espera el descenso de un «Ungido», se convierte en él, evitando convertirse en un gurú o líder sectario, ni caer en la megalomanía, porque su misión no es generar ganancias, ni obtener poder personal, sino la elevación colectiva hacia la <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## 6. <font color="#cb48f3">Algoritmo 20 • Conyugal</font>
+## <font color="#cb48f3">Algoritmo 20 • Conyugal</font>
 ![[20 - Conyugal2.jpg|700]]
 
 5.6.1 » El <font color="#cb48f3">Algoritmo Conyugal</font> se manifiesta como el pacto de unión entre dos consciencias subjetivas, que deciden compartir una experiencia de vida común dentro del «Ahora» generado por el <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>. 
@@ -803,7 +803,7 @@ indexar: true
 
 5.6.22 » Una vez Juntos, la misión ya no es construir un legado en el mundo fenoménico, sino acceder a una nueva etapa de la existencia, donde la experiencia compartida no está mediada por el miedo, la posesión o la competencia, sino por la armonía de dos seres que han superado la ilusión y eligen caminar juntos hacia la <font color="#2f82ff">Civilización Tipo 3</font>, donde el único desafío será la perfección continua de sus aspectos psicológicos y la profundización de su unión trascendental.
 
-## 7. <font color="#ffa3ef">Algoritmo 21 • Cosmogónico-Espiritual</font>
+## <font color="#ffa3ef">Algoritmo 21 • Cosmogónico-Espiritual</font>
 ![[21 - Cosmogonico Espiritual3.jpg|700]]
 
 5.7.1 » El <font color="#ffa3ef">Algoritmo Cosmogónico-Espiritual</font> representa la singularidad evolutiva trascendental que emerge dentro del flujo del <font color="#ffa3ef">Algoritmo Hegemónico (14)</font>, funcionando como el nodo privilegiado a través del cual la <font color="#00ff00">Consciencia Universal</font> experimenta, interpreta y proyecta la realidad civilizatoria en un momento específico del «Ahora».
@@ -838,7 +838,7 @@ indexar: true
 
 5.7.16 » Esta información le permite al Avatar comprender que, actuar como singularidad del <font color="#ffa3ef">Algoritmo Cosmogónico-Espiritual</font> no lo convierte en un dios, un profeta o un líder, sino que lo sitúa como la <font color="#00ff00">Consciencia Universal</font> recordándose a sí misma, eligiendo en cada instante un nuevo destino para la humanidad.
 
-## 8. Conclusión Nivel 2
+## Conclusión Nivel 2
 
 5.8.1 » El <font color="#e36c09">Nivel 2</font> (Ámbito Trascendental) culmina la arquitectura de la <font color="#fc300c">Civilización Tipo 1</font>, revelando el funcionamiento interno del software nouménico que opera más allá de la percepción fenoménica y la lógica lineal. Este nivel no se basa en la fe ciega ni en el dogma, sino en la aplicación de la lógica algorítmica y la resonancia nouménica para postular una nueva ciencia de la existencia.
 
@@ -866,7 +866,7 @@ indexar: true
 
 5.8.9 » El Avatar que domina el <font color="#e36c09">Nivel 2</font> abandona la búsqueda de un salvador externo, asumiendo el rol de interfaz local de la <font color="#00ff00">Consciencia Universal</font>. Al elegir alinear cada uno de sus algoritmos con una intención evolutiva —vivir como si la <font color="#2f82ff">Civilización Tipo 3</font> ya existiera—, deja de ser esclavo del Ahora Hegemónico y se convierte en el punto de origen de un nuevo paradigma, creando una **burbuja de coherencia** que guía a la humanidad hacia el siguiente estado evolutivo.
 
-# 6. <font color="#00ff00">Civilización Tipo 2</font>
+# <font color="#00ff00">6. Civilización Tipo 2</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Ascensión de los Leviatanes</span></center>
 
@@ -903,7 +903,7 @@ indexar: true
 
 6.0.12 » Al comprender estos nuevos códigos, el lector dejará de verse como una simple celda biológica, para reconocerse como una célula de la <font color="#ffcc00">Mónada Nacional</font> que, a su vez, es un órgano del <font color="#cb48f3">Hegemón Global</font>. Este reconocimiento es un paso fundamental hacia la <font color="#2f82ff">Civilización Tipo 3</font>, ya que revela que las grandes estructuras de poder son tan algorítmicas y potencialmente reprogramables como la psique individual.
 
-# 7. <font color="#ffcc00">Algoritmos Nivel 3 (Estado)</font>
+# <font color="#ffcc00">7. Algoritmos Nivel 3 (Estado)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Arquitectura del Hardware Egregórico Nacional</span></center>
 
@@ -941,7 +941,7 @@ indexar: true
 
 7.0.17 » Todos, sin embargo, se entrelazan para definir el Identificador Nacional que limita la experiencia de cada ciudadano. El <font color="#ffcc00">Nivel 3</font> desvela cómo la <font color="#ffcc00">Mónada Nacional</font> emerge a partir de siete algoritmos clave que estructuran su hardware coercitivo, asegurando el control social y definiendo la identidad nacional, mientras el juego real del poder se juega en la sombra de la lucha noemática internacional.
 
-## 1. <font color="#fc300c">Algoritmo 22 • Monádico-Estatal</font>
+## <font color="#fc300c">Algoritmo 22 • Monádico-Estatal</font>
 ![[22 - Monadico Estatal2.jpg|700]]
 
 7.1.1 » El <font color="#fc300c">Algoritmo Monádico-Estatal (22)</font> es el código fundacional que crea la abstracción de poder y sometimiento colectivo dentro de un espacio geográfico delimitado. Este algoritmo se consolida en un evento primordial —la firma de una Constitución, el fin de una guerra fundacional o la declaración de independencia—, una fecha patria que se inscribe en la memoria colectiva y marca el nacimiento de la Mónada. 
@@ -1009,7 +1009,7 @@ indexar: true
 
 7.1.24 » Las primeras naciones que logren implementar esta transformación —un sistema que priorice la participación tecnológica y la meritocracia— se posicionarán para definir la primera Constitución de la Mónada Global, guiando al planeta más allá del caos estocástico del Hegemón actual.
 
-## 2. <font color="#e36c09">Algoritmo 23 • Estratosocial</font>
+## <font color="#e36c09">Algoritmo 23 • Estratosocial</font>
 ![[23 - Estratosocial2.jpg|700]]
 
 7.2.1 » Si el <font color="#fc300c">Algoritmo Monádico-Estatal (22)</font> es el hardware coercitivo de la nación —la «botella vacía» de la estructura lógica—, entonces el <font color="#e36c09">Algoritmo Estrato-Social (23)</font> representa el líquido de <font color="#ffcc00">Consciencia Colectiva</font> que llena esa estructura. 
@@ -1058,7 +1058,7 @@ indexar: true
 
 7.2.19 » Este es el prerrequisito para que una nación pueda operar como un Nodo eficiente en la futura Red Monádica Global.
 
-## 3. <font color="#ffcc00">Algoritmo 24 • Sociopolítico</font>
+## <font color="#ffcc00">Algoritmo 24 • Sociopolítico</font>
 ![[24 - Sociopolitico2.jpg|700]]
 
 7.3.1 » Si el <font color="#fc300c">Algoritmo Monádico-Estatal (22)</font> representa el hardware coercitivo de la nación, y el <font color="#e36c09">Algoritmo Estratosocial (23)</font> el líquido de <font color="#ffcc00">Consciencia Colectiva</font> que lo llena, el <font color="#ffcc00">Algoritmo Sociopolítico (24)</font> es la **red nerviosa vegetativa** que sincroniza los órganos del organismo monádico. 
@@ -1272,7 +1272,7 @@ indexar: true
 
 7.3.39 » Su rol no será legislar desde la comodidad de un despacho, sino resolver problemas en tiempo real, bajo la supervisión constante de la ciudadanía. El poder no será un derecho, sino una responsabilidad vigilada. Y quien no esté dispuesto a asumirla, no tendrá acceso al sistema.
 
-## 4. <font color="#00ff00">Algoritmo 25 • Ético-Moral</font>
+## <font color="#00ff00">Algoritmo 25 • Ético-Moral</font>
 ![[25 - Etico Moral2.jpg|700]]
 
 7.4.1 » Si el <font color="#ffcc00">Algoritmo Sociopolítico (24)</font> representa la red nerviosa vegetativa que sincroniza los órganos del organismo monádico, el <font color="#00ff00">Algoritmo Ético-Moral (25)</font> es el **índice nouménico de valoración moral** que cuantifica el equilibrio entre el bien y el mal colectivo, en un momento dado de la historia de una Nación, y que refleja el estado espiritual de la Mónada. 
@@ -1335,7 +1335,7 @@ indexar: true
 
 7.4.16 » El <font color="#00ff00">Algoritmo Ético-Moral</font> es el punto de unión que sincroniza a todos los algoritmos del <font color="#ffcc00">Nivel 3</font>. No es un índice aislado, sino un nodo central que refleja el estado de salud del organismo monádico. Evaluarlo no es juzgar, sino comprender. Y comprenderlo no es una obligación externa, sino una necesidad interna. Porque mientras el ciudadano no asuma su rol como nodo activo en la red ética de la Mónada, el sistema seguirá operando bajo la lógica de la corrupción, la manipulación y la inacción. Y la <font color="#ffcc00">Mónada Nacional</font>, en lugar de elevarse, seguirá siendo un espejo de la oscuridad colectiva.
 
-## 5. <font color="#2f82ff">Algoritmo 26 • Sociocultural</font>
+## <font color="#2f82ff">Algoritmo 26 • Sociocultural</font>
 ![[26 - Socio-Cultural2.jpg|700]]
 
 7.5.1 » El <font color="#2f82ff">Algoritmo Sociocultural</font> es el sistema estructural que da forma, coherencia y color a la identidad de la <font color="#ffcc00">Mónada Nacional</font>, definiendo la realidad social de una Nación. No es solo un conjunto de costumbres o tradiciones, sino un algoritmo de cohesión civilizatoria que sincroniza a millones de individuos en una misma realidad compartida, definiendo no solo qué se hace, sino qué es aceptable y qué es inadmisible dentro del territorio monádico.
@@ -1440,7 +1440,7 @@ indexar: true
 
 7.5.33 » La meta es que el <font color="#2f82ff">Algoritmo Sociocultural</font> Nacional se subordine a una Cultura Universal que promueva el equilibrio y el servicio (el Estrato Intermedio), eliminando las tradiciones que actúan como un lastre algorítmico para la adaptación de la Mónada al presente global. El individuo debe convertirse en un agente de mutación cultural, actualizando su propio código para elevar el <font color="#00ff00">índice ético-moral</font> del colectivo.
 
-## 6. <font color="#cb48f3">Algoritmo 27 • Cívico-Judicial</font>
+## <font color="#cb48f3">Algoritmo 27 • Cívico-Judicial</font>
 ![[27 - Civico Judicial2.jpg|700]]
 
 7.6.1 » El <font color="#cb48f3">Algoritmo Cívico-Judicial</font> representa la estructura abstracta que materializa el contrato coercitivo explícito de la Mónada. Su naturaleza no es sagrada ni eterna, es programación histórica, resultado de decisiones tomadas por los líderes de cada Nación en un contexto político, social y cultural específico. 
@@ -1510,7 +1510,7 @@ indexar: true
 
 7.6.30 » Así, el<font color="#cb48f3"> Algoritmo Cívico-Judicial</font> puede ser purificado para convertirse en un reflejo terrenal de la justicia trascendental. El ciudadano de la <font color="#2f82ff">Civilización Tipo 3</font> vivirá en la región estable de la ley, sin temer a la coerción, porque su propia participación garantiza la coherencia y la pureza del código, cumpliendo el contrato evolutivo de la Mónada.
 
-## 7. <font color="#ffa3ef">Algoritmo 28 • Idiosincrático</font>
+## <font color="#ffa3ef">Algoritmo 28 • Idiosincrático</font>
 ![[28 - Idiosincratico2.jpg|700]]
 
 7.7.1 » El <font color="#ffa3ef">Algoritmo Idiosincrático (28)</font> es el código abstracto más elevado del <font color="#ffcc00">Nivel 3</font>, representando la estructura psicológica y el temperamento interno de la <font color="#ffcc00">Mónada Nacional</font>. Su función primordial es actuar como el sistema de síntesis que agrupa y da coherencia al resto de los algoritmos del ámbito nacional. 
@@ -1678,7 +1678,7 @@ indexar: true
 
 7.7.68 » El resultado no es pluralismo, sino atomización, la sociedad se segmenta en islas simbólicas incomunicadas, donde lo colectivo se disuelve y el individuo queda expuesto a fuerzas que no controla ni comprende.
 
-## 8. Conclusión Nivel 3
+## Conclusión Nivel 3
 
 7.8.1 » El <font color="#ffcc00">Nivel 3 (Ámbito Nacional)</font> representa la primera fase de la arquitectura de la <font color="#00ff00">Civilización Tipo 2</font>, definiendo la estructura algorítmica de la Mónada Estatal. Si el Nivel 0 establece el cuerpo del sujeto individual, el <font color="#fc300c">Nivel 1</font> su mente egregórica, y el <font color="#e36c09">Nivel 2</font> el espíritu individual y colectivo, el <font color="#ffcc00">Nivel 3</font> establece el cuerpo organizado, jerárquico y coercitivo de la nación como un organismo funcional dentro de la fragmentación global. 
 
@@ -1736,7 +1736,7 @@ indexar: true
 
 7.8.16 » Esto implica que el ciudadano, al comprender el <font color="#ffa3ef">Algoritmo Idiosincrático(28)</font>, debe dejar de ser un esclavo tribal de un egregor <font color="#cb48f3">político</font> o <font color="#e36c09">religioso</font>, y convertirse en un agente consciente de la Mónada Global, preparado para participar activamente en la construcción de la justicia y la ley a un nivel superior.
 
-# 8. <font color="#00ff00">Algoritmos Nivel 4 (Economía)</font>
+# <font color="#00ff00">8. Algoritmos Nivel 4 (Economía)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fisiología, flujo y omnipresencia algoritmica</span></center>
 
@@ -1902,7 +1902,7 @@ indexar: true
 
 8.0.24 » La comprensión profunda de estos mecanismos de flujo, asi como la lógica de dominación entre Mónadas, es esencial para que la consciencia subjetiva entienda su rol de nodo y el origen real de su bienestar o penuria económica, preparando el camino para comprender la lógica del primer algoritmo del <font color="#00ff00">Nivel 4</font>: el <font color="#fc300c">Algoritmo Microeconómico (29)</font>.
 
-## 1. <font color="#fc300c">Algoritmo 29 • Microeconómico</font>
+## <font color="#fc300c">Algoritmo 29 • Microeconómico</font>
 ![[29 - Microeconomico3.jpg|700]]
 
 8.1.1 » El <font color="#fc300c">Algoritmo Microeconómico (29)</font> es el primero de los siete algoritmos del <font color="#00ff00">Nivel 4 (Ámbito Económico)</font> y representa el imperativo de la subsistencia o el algoritmo del día a día. 
@@ -2004,7 +2004,7 @@ indexar: true
 
 8.1.33 » Esta comprensión Algoritmica de la realidad permite al Avatar entender que su objetivo dentro del <font color="#00ff00">ámbito económico</font> no debe ser consumir o acumular: sino optimizar su flujo energético dentro del sistema, manteniendo la coherencia con su misión evolutiva.
 
-## 2. <font color="#e36c09">Algoritmo 30 • Ecónomo-Familiar</font>
+## <font color="#e36c09">Algoritmo 30 • Ecónomo-Familiar</font>
 ![[30 - Economo Familiar3b.jpg|700]]
 
 8.2.1 » El <font color="#e36c09">Algoritmo Ecónomo-Familiar</font> focaliza la lógica del <font color="#00ff00">Nivel 4</font> a la esfera de la convivencia primaria, estableciendo el hogar como la Micro-Mónada Doméstica. 
@@ -2053,7 +2053,7 @@ indexar: true
 
 8.2.20 » Por lo tanto, el control y la administración del <font color="#e36c09">Algoritmo Económico-Familiar</font> se convierten en el primer deber civil del ciudadano, una escuela donde los hijos se forman para convertirse en agentes maduros que puedan optimizar su existencia dentro del nuevo orden civilizatorio.
 
-## 3. <font color="#ffcc00">Algoritmo 31 • Psicoeconómico</font>
+## <font color="#ffcc00">Algoritmo 31 • Psicoeconómico</font>
 ![[31 - Psicoeconomico3.jpg|700]]
 
 8.3.1 » El <font color="#ffcc00">Algoritmo Psicoeconómico</font> desciende del ámbito familiar al nivel más granular, donde la conciencia subjetiva del ciudadano opera como nodo singular del sistema microeconómico. Aquí se define la entidad atómica del flujo circulatorio y la abstracción que define la naturaleza de los diferentes agentes económicos. 
@@ -2108,7 +2108,7 @@ indexar: true
 
 8.3.17 »Trascender los aspectos negativos del <font color="#ffcc00">Algoritmo Psicoeconómico</font> implica dejar de ser un nodo manipulable del flujo para convertirse en un agente disciplinado que opera conscientemente dentro del sistema microeconómico.
 
-## 4. <font color="#00ff00">Algoritmo 32 • Socioeconómico</font>
+## <font color="#00ff00">Algoritmo 32 • Socioeconómico</font>
 ![[32 - Socioeconomico2.jpg|700]]
 
 8.4.1 » El <font color="#00ff00">Algoritmo Socioeconómico</font> es el punto de escalamiento colectivo del sistema microeconómico, no es un simple reflejo de las acciones individuales, sino la matriz estructural abstracta y la síntesis lógica que emerge del proceso microeconómico, operando como la estructura funcional que organiza y define el estatus social de los ciudadanos de un país.
@@ -2160,7 +2160,7 @@ indexar: true
 
 8.4.20 » De esta forma, la falta de estabilización estructural del <font color="#00ff00">Algoritmo Socioeconómico</font> perpetúa un círculo vicioso, formando a las futuras generaciones como nodos disfuncionales que no están preparadas para ejercer su rol como agentes económicos, asegurando que el sistema se mantenga en un estado crónico de crisis y vulnerabilidad.
 
-## 5. <font color="#2f82ff">Algoritmo 33 • Ecónomo-Transgeneracional</font>
+## <font color="#2f82ff">Algoritmo 33 • Ecónomo-Transgeneracional</font>
 ![[33 - Transgeneracional3.jpg|700]]
 
 8.5.1 » El <font color="#2f82ff">Algoritmo Económo-Transgeneracional</font> representa la dimensión vertical del poder económico a través del tiempo. Si el <font color="#00ff00">Socioeconómico (32)</font> establece el ordenamiento horizontal y dinámico de la pirámide estrato social en el presente (el día a día de la Mónada), el Transgeneracional opera sincronizando los excedentes económicos a lo largo de las generaciones para establecer una casta de poder económico permanente.
@@ -2253,7 +2253,7 @@ indexar: true
 
 8.5.26 » Esta invisibilidad les permite continuar manipulando la dialéctica política (así sea desde la sombra o participando activamente a través del sistema de <font color="#cb48f3">partidos políticos</font>), alimentando la <font color="#cb48f3">batalla cultural</font> que se genera en el <font color="#ffa3ef">Algoritmo Idiosincrático (28)</font>, para asegurarse que el presente político siempre esté al alcance de sus manos, y que los gobiernos operen en beneficio de sus propios intereses y el de sus futuras generaciones, perpetuando así el sistema de captación de poder elitista que refleja el <font color="#2f82ff">Algoritmo Ecónomo-Transgeneracional</font>.
 
-## 6. <font color="#cb48f3">Algoritmo 34 • Ecónomo-Criminal</font>
+## <font color="#cb48f3">Algoritmo 34 • Ecónomo-Criminal</font>
 ![[34 - Economo Criminal3.jpg|700]]
 
 8.6.1 » El <font color="#cb48f3">Algoritmo Ecónomo-Criminal</font> representa una dimensión altamente funcional pero oculta del flujo de poder económico, que opera en paralelo con el resto de los sistemas formales de la <font color="#ffcc00">Mónada Nacional</font>. 
@@ -2515,7 +2515,7 @@ indexar: true
 
 8.6.64 » Solo así se podrá evitar que el poder político de la Mónada se vea corrompido de manera crónica, permitiendo que la Mónada y el pueblo recuperen el control de los flujos económicos vitales.
 
-## 7. <font color="#ffa3ef">Algoritmo 35 • Macroeconómico</font>
+## <font color="#ffa3ef">Algoritmo 35 • Macroeconómico</font>
 ![[35 - Macroeconomico2.jpg|700]]
 
 8.7.1 » El <font color="#ffa3ef">Algoritmo Macroeconómico</font> es la capa final de codificación del <font color="#00ff00">Nivel 4 (Ámbito Económico)</font> y la estructura que sincroniza a todas las Mónadas Nacionales con la <font color="#ffa3ef">SuperMónada</font> emergente que da forma al organismo del <font color="#cb48f3">Hegemón Global</font>. 
@@ -2685,7 +2685,7 @@ indexar: true
 
 8.7.54 » En conclusión, el <font color="#ffa3ef">Algoritmo Macroeconómico</font> es el mecanismo que, mediante la coerción ideológica y la asimetría dimensional, garantiza la supervivencia y el enriquecimiento de la <font color="#ffa3ef">Nación Hegemónica dominante</font>, a costa de la soberanía y el bienestar de los <font color="#ffcc00">Nodos Periféricos</font>.
 
-## 8. Análisis del Fenómeno Económico
+## Análisis del Fenómeno Económico
 
 8.8.1 » El <font color="#00ff00">Nivel 4 (Ámbito Económico)</font> representa la fisiología material y circulatoria de la <font color="#ffcc00">Mónada Nacional</font>, siendo el flujo sanguíneo algorítmico que conecta a todos los ciudadanos de una Nación, y a esta con el sistema global que administra el <font color="#cb48f3">Hegemón Global</font>. 
 
@@ -2750,7 +2750,7 @@ indexar: true
 >- <span style="font-family: 'Barlow Condensed'; color: #2f82ff; text-transform: uppercase; ">Función</span>: Permite la deriva del dinero del mercado real hacia la especulación, elevando el valor de los activos en función de la expectativa futura y no de la producción actual. La variación de valor permite a los tenedores especular y multiplicar la riqueza. Genera flujos de capital masivos que impulsan el valor total de la Mónada a nivel abstracto.
 >- <span style="font-family: 'Barlow Condensed'; color: #cb48f3; text-transform: uppercase; ">Alcance</span>: Su variación de valor crea la dimensión de sincronización económica entre las Mónadas a escala global, siendo el principal vehículo de la riqueza de las élites, y uno de los principales factores que contribuyen a la inflación estructural impulsada por el dominio hegemónico.
 
-## 9. Los 7 Hitos Evolutivos del Hegemón
+## Los 7 Hitos Evolutivos del Hegemón
 
 8.9.1 » Habiendo definido los niveles de análisis y las dimensiones del capital, la complejidad algorítmica del <font color="#00ff00">Nivel 4</font> se revela como la culminación de un proceso evolutivo que transformó el simple intercambio de bienes, servicios y capitales en una <font color="#00ff00">guerra económica</font> que opera bajo un mecanismo de coerción global. 
 
@@ -2819,7 +2819,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 8.9.10 » Actualmente, esta presión se manifiesta a través del sistema ideológico <font color="#ffcc00">libertario</font>, cuyo enfoque macroeconómico de libre mercado y los sistemas financieros busca intencionalmente evitar un gobierno autónomo en la periferia, forzando a la Mónada a actuar como un nodo funcional según las reglas impuestas desde el centro.
 
-## 10. Conclusión Nivel 4
+## Conclusión Nivel 4
 
 8.10.1 » En resumen, los siete algoritmos del <font color="#00ff00">Nivel 4</font> constituyen la matriz de fisiológica del sistema económico estatal y hegemónico, conectando la experiencia de cada ciudadano (lo micro), con la realidad geopolítica del <font color="#cb48f3">Hegemón Global</font> y los grandes agentes macroeconómicos, que en su conjunto definen la dinámica y la operatividad del Sistema Económico Global:
 
@@ -2833,7 +2833,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 8.10.2 » Comprender esta estructura evolutiva y algorítmica dota al Avatar de una visión holística que le permite analizar su posición dentro del sistema económico global, y cómo su mente, su cultura, su familia y la sociedad lo fuerzan a vivir dentro de un paradigma limitante, donde incluso lo transgeneracional y lo criminal tienen una función primordial, reflejándose principalmente en el plano político y la batalla cultural, antes que en los procesos económicos.
 
-# 9. <font color="#2f82ff">Algoritmos Nivel 5 (Cultura)</font>
+# <font color="#2f82ff">9. Algoritmos Nivel 5 (Cultura)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El software trascendental de la mónada</span></center>
 
@@ -2891,7 +2891,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 9.0.24 » El reconocimiento de este software es un paso esencial para la trascendencia hacia la <font color="#2f82ff">Civilización Tipo 3</font>, donde la verdad no se recibe por imposición cultural, sino por revelación holística.
 
-## 1. <font color="#fc300c">Algoritmo 36 • Gnoseológico Individual</font>
+## <font color="#fc300c">Algoritmo 36 • Gnoseológico Individual</font>
 ![[36 - Gnoseologico Individual2.jpg|700]]
 
 9.1.1 » El <font color="#fc300c">Algoritmo Gnoseológico Individual</font> se refiere a la matriz personal del conocimiento que cada individuo construye, abarcando las ideas, experiencias, procesos psicológicos y operaciones cognitivas que usa para interpretar el mundo. 
@@ -2965,7 +2965,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 9.1.21 » La liberación de este algoritmo, a través de la confrontación consciente de las narrativas culturales autoimpuestas, es el primer paso para que el ciudadano, como célula del organismo cultural monádico, pueda reescribir el software de la Mónada y contribuir a la emergencia de la <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## 2. <font color="#e36c09">Algoritmo 37 • Axiológico-Familiar</font>
+## <font color="#e36c09">Algoritmo 37 • Axiológico-Familiar</font>
 ![[37 - Axiologico Familiar2.jpg|700]]
 
 9.2.1 » El <font color="#e36c09">Algoritmo Axiológico-Familiar</font> es la matriz que organiza el conjunto de valores, creencias y principios que una familia considera importantes y que guían su comportamiento y decisiones. 
@@ -3029,7 +3029,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 9.2.19 » La defensa activa de esta programación heredada en el plano social es lo que alimenta y mantiene la coherencia cultural de la Mónada, para bien o para mal.
 
-## 3. <font color="#ffcc00">Algoritmo 38 • Experiencial</font>
+## <font color="#ffcc00">Algoritmo 38 • Experiencial</font>
 ![[38 - Experiencial3.jpg|700]]
 
 
@@ -3128,7 +3128,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 9.3.32 » Al manipular la forma en que el individuo vive, siente y recuerda, la <font color="#ffcc00">Mónada Nacional</font> garantiza que todos los ciudadanos adopten un único paradigma, obedezcan sus leyes, y perciban la realidad a través de la lente que impone la autoridad Estatal, como si esa realidad fuese el único mundo posible.
 
-## 4. <font color="#00ff00">Algoritmo 39 • Socio-Dialéctico</font>
+## <font color="#00ff00">Algoritmo 39 • Socio-Dialéctico</font>
 ![[39 - Socio Dialectico5.jpg|700]]
 
 9.4.1 » El <font color="#00ff00">Algoritmo Socio-Dialéctico</font> representa el proceso dialéctico de sincronización, cuya síntesis genera a la sociedad como un sistema dinámico y en constante cambio, impulsado por las contradicciones internas y la interacción entre sus elementos.
@@ -3217,7 +3217,7 @@ Mientras tanto, se creaban burbujas de activos financieros que terminarían expl
 
 9.4.20 » La comprensión de que su propia interacción social está preprogramada es el primer acto de auto-liberación, un paso necesario para trascender la realidad del «Ahora Hegemónico» hacia un estado de consciencia no determinado por el consenso colectivo.
 
-## 5. <font color="#2f82ff">Algoritmo 40 • Noemático Cultural</font>
+## <font color="#2f82ff">Algoritmo 40 • Noemático Cultural</font>
 ![[40 - Noematico Cultural2.jpg|700]]
 
 9.5.1 » El <font color="#2f82ff">Algoritmo Noemático Cultural</font> es el código base de la <font color="#00ff00">Civilización Tipo 2</font>, que permite generar el estado de civilización globalizada.
@@ -3521,7 +3521,7 @@ Esta limitación también impide crear un último <font color="#cb48f3">Noema Fi
 
 9.5.62 » La verdadera libertad solo se alcanza cuando el individuo deja de enfocarse en las programaciones negativas externas y comprende que, al trascender los Noemas inferiores e implementar conscientemente su Noema Personal (trascendido), ya está operando como un Avatar dentro de un sistema que, aunque se sienta igual que la <font color="#00ff00">Civilización Tipo 2</font>, ahora responde a la lógica de liberación nouménica de la <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## 6. <font color="#cb48f3">Algoritmo 41 • Paradigmático-Egregórico</font>
+## <font color="#cb48f3">Algoritmo 41 • Paradigmático-Egregórico</font>
 ![[41 - Paradigmatico Egregorico3.jpg|700]]
 
 9.6.1 » El <font color="#cb48f3">Algoritmo Paradigmático Egregórico</font> constituye el sexto componente fundamental del <font color="#2f82ff">Ámbito Cultural</font> <font color="#2f82ff">(Nivel 5)</font>, operando como la dimensión activa y energética que da vida a la matriz conceptual del <font color="#2f82ff">Algoritmo Noemático Cultural</font>.
@@ -3660,7 +3660,7 @@ Esta limitación también impide crear un último <font color="#cb48f3">Noema Fi
 
 9.6.57 » La clave de la liberación personal es la identificación precisa de los <font color="#cb48f3">Egregores</font> a los que se está alimentando y la desconexión intencional de la atención y la emoción, permitiendo que la energía de cada consciencia subjetiva fluya hacia la construcción de su propio <font color="#2f82ff">Noema Primordial</font>, en resonancia con la realidad manifestada por el <font color="#2f82ff">Noema Primordial</font> del <font color="#cb48f3"><font color="#cb48f3">Avatar Solar</font></font> referente del sistema Estelar en el cual uno existe.
 
-## 7. <font color="#ffa3ef">Algoritmo 42 • Epistemológico Social</font>
+## <font color="#ffa3ef">Algoritmo 42 • Epistemológico Social</font>
 ![[42 - Epistemologico Social2.jpg|700]]
 
 9.7.1 » El <font color="#ffa3ef"><font color="#ffa3ef">Algoritmo Epistemológico Social</font></font> representa el séptimo y último algoritmo del <font color="#2f82ff">Ámbito Cultural</font> <font color="#2f82ff">(Nivel 5)</font> que da cierre a los 21 algoritmos totales de la <font color="#00ff00">Civilización Tipo 2 (Consciencia Lunar)</font>. 
