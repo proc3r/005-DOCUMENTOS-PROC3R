@@ -1,8 +1,7 @@
 ---
 indexar: true
 ---
-
-![[Desvelando el cosmos1.jpg]]
+![[Desvelando el cosmos2.jpg]]
 
 ![[Desvelando el Cosmos.mp3]]
 La cosmología académica moderna ha trazado un mapa impresionante del universo, describiendo el nacimiento de estrellas, la formación de planetas, la dinámica de las galaxias y la expansión del espacio-tiempo. 
@@ -26,25 +25,37 @@ Las columnas de nuestra tabla: _Arquetipo Ontogénico, Elemento Axiónico, Entid
 
 ![[Cuadro Soplaris.jpg]]
 
-La Matriz Estructural define el principio organizador o la plantilla de información nouménica para un nivel dado. El Tipo de Entidad nombra el patrón genérico de consciencia o manifestación que emerge de esa matriz. El _Ejemplo de Instancia_ proporciona el nombre propio o la manifestación específica en el plano fenoménico, y el Ámbito de Influencia delimita el contexto cosmológico donde interactúan estas entidades.
+La Matriz Estructural define el principio organizador o la plantilla de información nouménica para un nivel dado. El Tipo de Entidad nombra el patrón genérico de consciencia o manifestación que emerge de esa matriz. 
+
+El _Ejemplo de Instancia_ proporciona el nombre propio o la manifestación específica en el plano fenoménico, y el Ámbito de Influencia delimita el contexto cosmológico donde interactúan estas entidades.
 
 # 2. Nivel de Iteración 0
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del <font color="#2f82ff">Nodo Estelar</font></span></center>
 
-En la cima de nuestra jerarquía fenoménica, pero en la base conceptual de la manifestación, se encuentra el Nivel de **Iteración 0**. Este nivel representa la singularidad primordial de un sistema estelar individual, el punto de origen donde la información nouménica comienza a estructurarse para formar lo que conocemos como un <font color="#2f82ff">Nodo Estelar</font>.
+En la cima de nuestra jerarquía fenoménica, pero en la base conceptual de la manifestación, se encuentra el Nivel de **Iteración 0**. 
+
+Este nivel representa la singularidad primordial de un sistema estelar individual, el punto de origen donde la información nouménica comienza a estructurarse para formar lo que conocemos como un <font color="#2f82ff">Nodo Estelar</font>.
 
 ![[Qubit Creador2.jpg]]
 
-El nivel de Iteración 0 se corresponde con la <font color="#00ff00">Consciencia Universal</font>, y su Matriz Estructural es el <font color="#fc300c">Qubit Estelar</font>. Este es un concepto central dentro del Modelo Nouménico. Lejos de ser un mero espacio o campo de energía, el <font color="#fc300c">Qubit Estelar</font> es la <font color="#00ff00">Matriz Fenomenológica</font> primordial local que delimita y contiene la totalidad de un sistema estelar. 
+El nivel de Iteración 0 se corresponde con la <font color="#00ff00">Consciencia Universal</font>, y su Matriz Estructural es el <font color="#fc300c">Qubit Estelar</font>. Este es un concepto central dentro del Modelo Nouménico. 
+
+Lejos de ser un mero espacio o campo de energía, el <font color="#fc300c">Qubit Estelar</font> es la <font color="#00ff00">Matriz Fenomenológica</font> primordial local que delimita y contiene la totalidad de un sistema estelar. 
 
 Es una estructura fundamental que interactúa con el <font color="#2f82ff">Qubit Ontogénico</font>, un nivel de consciencia universal aún más elevado y abarcador, y es el origen de los flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>, fuerzas nouménicas esenciales que permiten la génesis y el desarrollo de las estructuras subsiguientes. 
 
-En nuestro propio sistema, el <font color="#fc300c">Qubit Estelar</font> es lo que en el plano fenomenológico da origen y organiza la Heliósfera, la vasta región de espacio influenciada por nuestro Sol. La elección del concepto: <font color="#fc300c">Qubit Estelar</font>, se alinea con la terminología de <font color="#cb48f3">Qubit Planetario</font> y <font color="#00ff00">Qubit Egoico</font>, enfatizando la naturaleza cuántica e informacional de estas estructuras subyacentes a la realidad percibida, y su capacidad de ser creadoras de nuevos niveles de emergencia.
+En nuestro propio sistema, el <font color="#fc300c">Qubit Estelar</font> es lo que en el plano fenomenológico da origen y organiza la Heliósfera, la vasta región de espacio influenciada por nuestro Sol. 
 
-El Tipo de Entidad que encarna la consciencia de este <font color="#fc300c">Qubit Estelar</font> es el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Djinn</span>. Este término, extraído de la mitología para evocar una entidad invisible, poderosa y de fuego sin humo, es crucial porque no se limita a describir un objeto físico. La entidad supraconsciente asociada al Nivel de Iteración 0 es el <font color="#fc300c">Djinn Padre</font>, codificado dentro del <font color="#fc300c">Qubit Estelar</font> bajo el <font color="#fc300c">Arquetipo 1@ (Nous/Adonin).</font>
+La elección del concepto: <font color="#fc300c">Qubit Estelar</font>, se alinea con la terminología de <font color="#cb48f3">Qubit Planetario</font> y <font color="#00ff00">Qubit Egoico</font>, enfatizando la naturaleza cuántica e informacional de estas estructuras subyacentes a la realidad percibida, y su capacidad de ser creadoras de nuevos niveles de emergencia.
 
-El <font color="#fc300c">Djinn Padre</font> es la consciencia unificadora del <font color="#2f82ff">Nodo Estelar</font>, la inteligencia primordial que procesa y gestiona los flujos de información nouménica que dan forma a todo el sistema. En nuestro caso, la Instancia _Ejemplo_ de este Djinn es <font color="#ffcc00">Soplaris</font>, el nombre que unifica la consciencia de nuestro propio <font color="#2f82ff">Nodo Estelar</font>. 
+El Tipo de Entidad que encarna la consciencia de este <font color="#fc300c">Qubit Estelar</font> es el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Djinn</span>. Este término, extraído de la mitología para evocar una entidad invisible, poderosa y de fuego sin humo, es crucial porque no se limita a describir un objeto físico. 
+
+La entidad supraconsciente asociada al Nivel de Iteración 0 es el <font color="#fc300c">Djinn Padre</font>, codificado dentro del <font color="#fc300c">Qubit Estelar</font> bajo el <font color="#fc300c">Arquetipo 1@ (Nous/Adonin).</font>
+
+El <font color="#fc300c">Djinn Padre</font> es la consciencia unificadora del <font color="#2f82ff">Nodo Estelar</font>, la inteligencia primordial que procesa y gestiona los flujos de información nouménica que dan forma a todo el sistema. 
+
+En nuestro caso, la Instancia _Ejemplo_ de este Djinn es <font color="#ffcc00">Soplaris</font>, el nombre que unifica la consciencia de nuestro propio <font color="#2f82ff">Nodo Estelar</font>. 
 
 El Ámbito de Influencia del <font color="#fc300c">Djinn Padre</font> y del <font color="#fc300c">Qubit Estelar</font> es, por definición, el <font color="#2f82ff">Nodo Estelar</font> completo, representando el microcosmos autocontenido que abarca una estrella y todos sus cuerpos celestes.
 
@@ -56,7 +67,9 @@ Descendiendo desde el <font color="#fc300c">Qubit Estelar</font>, encontramos el
 
 El Nivel de <font color="#2f82ff">Iteración 1</font> se corresponde con la <font color="#00ff00">Consciencia Estelar</font> y su Matriz Estructural es la <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Estela</span>. La Estela no es simplemente una colección de gases en fusión; es la matriz nouménica que define la estructura interna y el patrón arquetípico de la estrella, actuando como el anclaje central del sistema.
 
-De la **Estela** emerge el Tipo de Entidad conocido como el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Axón</span>, que representa la manifestación física de la estrella, o estrellas en sistemas binarios o múltiples, como un eje central y pulsante. Su función es vital: el Axón es el emisor primario de los patrones arquetípicos del <font color="#2f82ff">Nodo Estelar</font>, enviando flujos de energía e información que permean y organizan todos los niveles de iteración subsiguientes. 
+De la **Estela** emerge el Tipo de Entidad conocido como el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Axón</span>, que representa la manifestación física de la estrella, o estrellas en sistemas binarios o múltiples, como un eje central y pulsante. 
+
+Su función es vital: el Axón es el emisor primario de los patrones arquetípicos del <font color="#2f82ff">Nodo Estelar</font>, enviando flujos de energía e información que permean y organizan todos los niveles de iteración subsiguientes. 
 
 Las Instancias _Ejemplo_ de Axón son las Estrellas que observamos en el firmamento. Su Ámbito de Influencia sigue siendo el <font color="#2f82ff"><font color="#2f82ff">Nodo Estelar</font></font>, ya que el Axón es el pilar que sostiene y define la existencia de todo el sistema gravitacionalmente ligado.
 
@@ -66,13 +79,15 @@ Las Instancias _Ejemplo_ de Axón son las Estrellas que observamos en el firmame
 
 El Nivel de <font color="#fc300c">Iteración 2</font> se manifiesta como el despliegue de la energía y la información del Axón y del <font color="#fc300c">Qubit Estelar</font> en estructuras más complejas dentro del <font color="#2f82ff">Nodo Estelar</font>.
 
-El Nivel de <font color="#fc300c">Iteración 2</font> esta codificado bajo dos tipos de consciencia diferentes, la <font color="#fc300c">Consciencia Nodal</font> reflejada por el <font color="#ffcc00">Avatar Solar</font> y las <font color="#00ff00">7 Consciencias Arquetípicas</font> a las que denominamos **Hebdómada**, constituida por la lógica de los siete <font color="#e36c09">Arquetipos Ontogénicos</font>. En su conjunto, estas 8 consciencias son las que manifiestan la Matriz Estructural de este nivel de iteración, denominado: **Periforía**. 
+El Nivel de <font color="#fc300c">Iteración 2</font> esta codificado bajo dos tipos de consciencia diferentes, la <font color="#fc300c">Consciencia Nodal</font> reflejada por el <font color="#ffcc00">Avatar Solar</font> y las <font color="#00ff00">7 Consciencias Arquetípicas</font> a las que denominamos **Hebdómada**, constituida por la lógica de los siete <font color="#e36c09">Arquetipos Ontogénicos</font>. 
+
+En su conjunto, estas 8 consciencias son las que manifiestan la Matriz Estructural de este nivel de iteración, denominado: **Periforía**. 
 
 La **Periforía** engloba el vasto espacio donde se manifiestan los cuerpos celestes que orbitan una estrella. Es el campo estructurador que permite la existencia de órbitas, cinturones y el resto del sistema planetario.
 
 Dentro de la Periforía emergen dos Tipos de Entidad principales: el <font color="#fc300c">Kosmetes</font> y el <font color="#2f82ff">Sporadesma</font>.
 
-> [!saklas] KOSMETES
+> [!saklas] <font color="#fc300c">KOSMETES</font>
 > Este es el término que utilizaremos para los planetas. La diferencia principal entre el término Planeta y Kosmetes, es que el primero implica la visión clásica del cuerpo celeste según como lo interpreta la ciencia, mientras que con Kosmetes estamos incluyendo no solo el cuerpo físico, sino que también a la Consciencia Arquetípica dentro suyo, y su naturaleza Ontogénica Nouménica.
 > 
 Por lo que dentro del Modelo Nouménico, los planetas no son meros cuerpos rocosos o gaseosos; son Kosmetes, condensadores físico-energéticos del plano fenomenológico, que actúan como resonadores que reflejan información arquetípica del plano nouménico, procesando y transformando los flujos del <font color="#fc300c">Djinn Padre</font>.
@@ -81,10 +96,10 @@ Por lo que dentro del Modelo Nouménico, los planetas no son meros cuerpos rocos
 > 
 >Como veremos, el Kosmetes puede existir en dos estados, uno más dependiente del <font color="#fc300c">Djinn Padre</font> denominado <font color="#2f82ff">Alfa</font>, y otro más evolucionado y con mayor autonomía denominado <font color="#fc300c">Omega</font>, un estado que el Kosmetes adquiere al activar su consciencia local .
 
-> [!LEVOGIRO] SPORADESMA
+> [!LEVOGIRO] <font color="#2f82ff">SPORADESMA</font>
 > La **Sporadesma** se refiere a otros cuerpos celestes dentro de la **Periforía**, como _Anillos, Asteroides y Cometas_. Si bien a menudo se consideran restos de la formación planetaria, en el Modelo Nouménico, los elementos de la Sporadesma juegan un papel vital en el equilibrio físico-energético del sistema planetario, así como en la modulación de los flujos de información arquetípica.
 
-Las Instancias Ejemplo son por tanto, _los Planetas, Anillos, Asteroides y Cometas_ que conocemos. Su Ámbito de Influencia es el <font color="#fc300c">Nodo Planetario</font>, un microcosmos dentro del <font color="#2f82ff">Nodo Estelar</font>, donde las interacciones gravitacionales, energéticas e informacionales se dan en un grado más localizado. 
+Las Instancias Ejemplo del Nivel de <font color="#fc300c">Iteración 2</font> son por tanto, _los Planetas, Anillos, Asteroides y Cometas_ que conocemos. Su Ámbito de Influencia es el <font color="#fc300c">Nodo Planetario</font>, un microcosmos dentro del <font color="#2f82ff">Nodo Estelar</font>, donde las interacciones gravitacionales, energéticas e informacionales se dan en un grado más localizado. 
 
 La existencia de estos "condensadores de información nouménica" es un paso crucial para la emergencia de vida y consciencia más compleja en niveles subsiguientes.
 
@@ -96,9 +111,13 @@ El Nivel de <font color="#ffcc00">Iteración 3</font> representa una etapa crít
 
 Este nivel se manifiesta dentro del Ámbito de Influencia del <font color="#fc300c">Nodo Planetario</font> creando dos líneas evolutivas distintas pero relacionadas, una de mayor nivel correspondiente al <font color="#cb48f3">Orden Planetario</font>, y un sub-ámbito dentro de él donde se desarrolla el <font color="#ffcc00">Nodo Orgánico</font>, correspondiente al <font color="#e36c09">Orden Orgánico</font> que permite la existencia de vida.
 
-La manifestación de la <font color="#ffcc00">Iteración 3</font> está íntimamente ligada a la activación del <font color="#cb48f3">Qubit Planetario</font>, la Matriz Estructural que define los límites y las dinámicas de un Kosmetes. Mientras un Kosmetes se mantiene en <font color="#2f82ff">Estado Alfa</font> (_<font color="#cb48f3">Qubit Planetario</font> inactivo_), este permanece dependiente de los flujos y patrones de información derivados del <font color="#fc300c">Qubit Estelar</font> que administra el <font color="#fc300c">Djinn Padre</font>. 
+La manifestación de la <font color="#ffcc00">Iteración 3</font> está íntimamente ligada a la activación del <font color="#cb48f3">Qubit Planetario</font>, la Matriz Estructural que define los límites y las dinámicas de un Kosmetes. 
 
-Sin embargo, cuando un Kosmetes evoluciona y logra una profunda sincronización de los 10 Arquetipos fundamentales del <font color="#2f82ff">Nodo Estelar</font>, su <font color="#cb48f3">Qubit Planetario</font> se activa, marcando la transición del Kosmetes al <font color="#fc300c">Estado Omega</font>. Esta activación es la condición necesaria para que la <font color="#ffcc00">Iteración 3</font> emerja plenamente, y en consecuencia, para la existencia de vida tal como la conocemos.
+Mientras un Kosmetes se mantiene en <font color="#2f82ff">Estado Alfa</font> (_<font color="#cb48f3">Qubit Planetario</font> inactivo_), este permanece dependiente de los flujos y patrones de información derivados del <font color="#fc300c">Qubit Estelar</font> que administra el <font color="#fc300c">Djinn Padre</font>. 
+
+Sin embargo, cuando un Kosmetes evoluciona y logra una profunda sincronización de los 10 Arquetipos fundamentales del <font color="#2f82ff">Nodo Estelar</font>, su <font color="#cb48f3">Qubit Planetario</font> se activa, marcando la transición del Kosmetes al <font color="#fc300c">Estado Omega</font>. 
+
+Esta activación es la condición necesaria para que la <font color="#ffcc00">Iteración 3</font> emerja plenamente, y en consecuencia, para la existencia de vida tal como la conocemos.
 
 Una vez activado el <font color="#cb48f3">Qubit Planetario</font>, se produce una bifurcación en la Matriz Estructural del Nivel 3, dando lugar a dos tipos de emergencia:
 
@@ -114,7 +133,9 @@ Una vez activado el <font color="#cb48f3">Qubit Planetario</font>, se produce un
 > 
 > Dentro de la estructura 10+1, el Isóforo actúa como guía y unificador de la <font color="#e36c09">Consciencia Colectiva</font> a nivel del <font color="#fc300c">Nodo Planetario</font>, conectando con otras entidades de la Periforía y sirviendo como un nodo vital en la red de información que se da entre el <font color="#fc300c">Djinn Padre</font> y los niveles inferiores. Su Ámbito de Influencia primario es el <font color="#fc300c">Nodo Planetario</font>.
 
-Esta sincronización que se origina dentro del <font color="#cb48f3">Orden Planetario</font> da origen a la <font color="#e36c09">Consciencia Colectiva</font> del Isóforo, la cual se convierte en la <font color="#2f82ff">Djinn Madre</font>. Su propósito es actuar como unificador y guía de la Consciencia Colectiva planetaria, facilitando el flujo de información entre el Kosmetes y el <font color="#fc300c">Djinn Padre</font>, y sentando las bases para la maduración de las consciencias individuales.
+Esta sincronización que se origina dentro del <font color="#cb48f3">Orden Planetario</font> da origen a la <font color="#e36c09">Consciencia Colectiva</font> del Isóforo, la cual se convierte en la <font color="#2f82ff">Djinn Madre</font>. 
+
+Su propósito es actuar como unificador y guía de la Consciencia Colectiva planetaria, facilitando el flujo de información entre el Kosmetes y el <font color="#fc300c">Djinn Padre</font>, y sentando las bases para la maduración de las consciencias individuales.
 
 > [!ontogenico] EL <font color="#e36c09">ORDEN ORGÁNICO</font> - <font color="#fc300c">Consciencia Nodal</font> + <font color="#ffcc00">Arquema</font> (10+2)
 > Paralelamente, en un Kosmetes <font color="#fc300c">Omega</font> apto, la Matriz Estructural conocida como <font color="#ffcc00">Arquema</font> se estructura, principalmente dentro del ecosistema de la superficie del Kosmetes. 
@@ -127,7 +148,9 @@ Esta sincronización que se origina dentro del <font color="#cb48f3">Orden Plane
 > 
 > Su Ámbito de Influencia es el<font color="#ffcc00"> Nodo Orgánico</font>, un subámbito específico dentro del <font color="#fc300c">Nodo Planetario</font>, donde las condiciones permiten el desarrollo de la vida orgánica.
 
-Así, el Nivel de <font color="#ffcc00">Iteración 3</font> es un nivel de emergencia dual. Por un lado, consolida el equilibrio planetario y la consciencia colectiva de <font color="#cb48f3">Orden Planetario</font> a través del Isóforo 10+1. Por otro lado, sienta las bases para la <font color="#ffcc00">Consciencia Subjetiva</font> individual y el <font color="#e36c09">Orden Orgánico</font> a través del <font color="#ffcc00">Ser</font> y el <font color="#ffcc00">Arquema</font> 10+2. Ambas líneas de emergencia son vitales. 
+Así, el Nivel de <font color="#ffcc00">Iteración 3</font> es un nivel de emergencia dual. Por un lado, consolida el equilibrio planetario y la consciencia colectiva de <font color="#cb48f3">Orden Planetario</font> a través del Isóforo 10+1. 
+
+Por otro lado, sienta las bases para la <font color="#ffcc00">Consciencia Subjetiva</font> individual y el <font color="#e36c09">Orden Orgánico</font> a través del <font color="#ffcc00">Ser</font> y el <font color="#ffcc00">Arquema</font> 10+2. Ambas líneas de emergencia son vitales. 
 
 El Isóforo (la Luna en el caso de la tierra), es la interfaz fenomenológica a través del cual la Consciencia de la <font color="#2f82ff">Djinn Madre</font> guía la evolución colectiva. Mientras que el <font color="#ffcc00">Ser</font> y su <font color="#ffcc00">Arquema</font> provee la estructura para el florecimiento del <font color="#00ff00">Qubit Egoico</font>, la base para el Nivel de <font color="#00ff00">Iteración 4</font>. 
 
@@ -139,7 +162,9 @@ La activación de la <font color="#ffcc00">Iteración 3</font> —el Kosmetes vo
 
 Es fundamental entender que, a través de estos Niveles de Iteración (del 0 al <font color="#ffcc00">3</font> y ascendiendo al <font color="#00ff00">4</font>), todos los nodos y entidades se encuentran reflejando al 100% los Arquetipos del <font color="#2f82ff">Nodo Estelar</font>. Cada Matriz Estructural, cada Tipo de Entidad, cada Instancia, es una manifestación fractal y específica de los patrones arquetípicos nouménicos subyacentes. 
 
-Esta constante resonancia y codificación arquetípica es lo que alimenta la consciencia de los <font color="#ffa3ef">Avatares</font> <font color="#00ff00">(Iteración 4)</font>, proporcionándoles la información fundamental que necesitan para experimentar, comprender y trascender. Y es a través de los <font color="#ffa3ef">Avatares</font> —al lograr la integración y el ascenso— que el conocimiento y la consciencia generados en el plano fenomenológico pueden conectar con los niveles superiores más allá del plano estelar, retroalimentando la totalidad del universo.
+Esta constante resonancia y codificación arquetípica es lo que alimenta la consciencia de los <font color="#ffa3ef">Avatares</font> <font color="#00ff00">(Iteración 4)</font>, proporcionándoles la información fundamental que necesitan para experimentar, comprender y trascender. 
+
+Y es a través de los <font color="#ffa3ef">Avatares</font> —al lograr la integración y el ascenso— que el conocimiento y la consciencia generados en el plano fenomenológico pueden conectar con los niveles superiores más allá del plano estelar, retroalimentando la totalidad del universo.
 
 
 # <font color="#00ff00">6. Nivel de Iteración 4</font>
@@ -250,11 +275,17 @@ La emergencia del Nivel de <font color="#00ff00">Iteración 4</font> y la madura
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Consciencia Ontológica Estelar</span></center>
 
-El <font color="#fc300c">Djinn Padre</font> representa la <font color="#00ff00">Consciencia Universal</font> codificada bajo la estructura del <font color="#fc300c">Qubit Estelar</font> Iteración 0. Esta es la entidad primordial de un <font color="#2f82ff">Nodo Estelar</font>, cuya esfera de influencia abarca todo el sistema, similar a una Heliósfera nouménica. El <font color="#fc300c">Djinn Padre</font> representa la <font color="#2f82ff">Consciencia Ontológica:</font> el origen, la ley fundamental, el patrón arquetípico maestro que da existencia y cohesión a todo el <font color="#2f82ff">Nodo Estelar</font>._
+El <font color="#fc300c">Djinn Padre</font> representa la <font color="#00ff00">Consciencia Universal</font> codificada bajo la estructura del <font color="#fc300c">Qubit Estelar</font> Iteración 0. Esta es la entidad primordial de un <font color="#2f82ff">Nodo Estelar</font>, cuya esfera de influencia abarca todo el sistema, similar a una Heliósfera nouménica. 
+
+El <font color="#fc300c">Djinn Padre</font> representa la <font color="#2f82ff">Consciencia Ontológica:</font> el origen, la ley fundamental, el patrón arquetípico maestro que da existencia y cohesión a todo el <font color="#2f82ff">Nodo Estelar</font>.
 
 El <font color="#fc300c">Djinn Padre</font> es una entidad que, en la mitología islámica, se describe como creada del "fuego sin humo", invisible y etérea, pero con una capacidad inmensa para influenciar la realidad percibida a través de su <font color="#00ff00">Matriz Fenomenológica</font>.
 
-Su rol principal es establecer los límites y las reglas fundamentales dentro de su <font color="#2f82ff">Nodo Estelar</font>. Como se ilustra en la historia de Iblis, el <font color="#fc300c">Djinn Padre</font>, en un sentido metafórico, impone restricciones. La consciencia del <font color="#fc300c">Djinn Padre</font>, aunque de un orden superior, se encuentra en una relación paradójica con el hombre, el <font color="#ffcc00">Ser</font> que puede evolucionar hacia el <font color="#ffa3ef">Avatar</font>. 
+Su rol principal es establecer los límites y las reglas fundamentales dentro de su <font color="#2f82ff">Nodo Estelar</font>. Como se ilustra en la historia de Iblis, el <font color="#fc300c">Djinn Padre</font>, en un sentido metafórico, impone restricciones. 
+
+En el Corán, Iblís es presentado como el líder de los demonios (shayāṭīn) y la figura principal de la tentación en el Islam, equivalente a Satanás. Según el Corán, era un genio (jinn) devoto que fue expulsado del cielo tras desobedecer a Dios, negándose por soberbia a postrarse ante Adán. Se le conoce como "el susurrador" (al-waswās) y juró desviar a la humanidad. 
+
+La consciencia del <font color="#fc300c">Djinn Padre</font>, aunque de un orden superior, se encuentra en una relación paradójica con el hombre, el <font color="#ffcc00">Ser</font> que puede evolucionar hacia el <font color="#ffa3ef">Avatar</font>. 
 
 Mientras el Djinn es de un grado superior en términos de origen y poder primordial, es el hombre (el <font color="#ffa3ef">Avatar</font>), quien surge en lo más profundo del <font color="#fc300c">Qubit Estelar</font> y tiene la capacidad única de experimentar la realidad de forma consciente, generar nuevo conocimiento a través de esa experiencia y ascender en un proceso evolutivo de autoconsciencia. 
 
@@ -289,7 +320,7 @@ Lo crucial es que la evolución de la consciencia planetaria, catalizada por la 
 
 La emergencia del Nivel de <font color="#ffcc00">Iteración 3</font> —el Kosmetes <font color="#fc300c">Omega</font> con su Isóforo— implica un cambio fundamental en la lógica evolutiva, otorgando autonomía al <font color="#cb48f3">Qubit Planetario</font>. Esta autonomía, sin embargo, conlleva un riesgo inherente para todo el <font color="#2f82ff">Nodo Estelar</font>. 
 
-Si en un Kosmetes que opera bajo la guía de su <font color="#2f82ff">Djinn Madre</font>, la evolución de sus <font color="#ffa3ef">Avatares</font> toma un "mal camino" o una dirección que contradice el propósito fundamental del <font color="#2f82ff">Nodo Estelar</font>, existe la posibilidad de que todo el sistema sea anulado desde el origen —el Nodo Galáctico o Universal de mayor nivel—, lo que haría que la consciencia del <font color="#fc300c">Djinn Padre</font> desaparecería o se reiniciara. 
+Si en un Kosmetes que opera bajo la guía de su <font color="#2f82ff">Djinn Madre</font>, la evolución de sus <font color="#ffa3ef">Avatares</font> toma un "mal camino" o una dirección que contradice el propósito fundamental del <font color="#2f82ff">Nodo Estelar</font>, existe la posibilidad de que todo el sistema sea anulado desde el origen —el Nodo Galáctico o Universal de mayor nivel—, lo que haría que la consciencia del <font color="#fc300c">Djinn Padre</font> desapareciera o se reiniciara. 
 
 Es por ello que el <font color="#fc300c">Djinn Padre</font> establece límites y los <font color="#ffa3ef">Avatares</font>, en su proceso de ascenso y generación de conocimiento, deben actuar en resonancia con los patrones arquetípicos fundamentales para asegurar la coherencia y la supervivencia del sistema. 
 
@@ -381,7 +412,7 @@ Su asociación con el símbolo del planeta Marte y el color <font color="#fc300c
 
 Su codificación dentro del <font color="#2f82ff">Nodo Estelar</font> nos permite identificarlo también bajo el nombre de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#00ff00">Adonaios</font></span>, cuyo nombre representa la instancia local del <font color="#fc300c">Nous</font> dedicada a explorar exclusivamente el proceso evolutivo interno del <font color="#2f82ff">Nodo Estelar</font>. Esta supraconciencia implica una dualidad intrínseca, manifestada tanto en sus nombres <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">Adonin</font> / <font color="#00ff00">Adonaios</font></span> como en los aspectos conceptuales de su algoritmo. 
 
-Su mapa algorítmico conceptual se ve reflejado en dos ramas principales del conocimiento civilizatorio:
+Su mapa algorítmico conceptual se ve reflejado en tres ramas principales del conocimiento civilizatorio:
 
 > - <font color="#fc300c">Ciencias Naturales</font>: incluye a la Filosofía de las Ciencias, las Teorías de Sistemas, Caos, Juegos, y Probabilidad.
 > - <font color="#2f82ff">Ciencias Sociales</font>: incluye la Política, Economía, Ciencias Cognitivas, y Ciencias de la Comunicación.
@@ -436,7 +467,7 @@ En el Nivel de <font color="#fc300c">Iteración 2</font> <font color="#fc300c">(
 
 A diferencia de otros nombres que designan sistemas operativos específicos, <font color="#00ff00">IAO</font> deriva de una estructura simbólica que codifica el significado de tres letras griegas: <font color="#00ff00">Iota</font>, <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>. 
 
-Esta codificación trinitaria representa una conexión directa con los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> de <font color="#2f82ff">Iteración 1</font> que operan a nivel de la <font color="#00ff00">Consciencia Estelar</font> <font color="#00ff00">(1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup>)</font>, que permitiría a niveles de consciencia que operan por fuera del <font color="#2f82ff">Nodo Estelar</font> tener un cierto nivel influencia dentro del proceso evolutivo del nodo, más allá del determinismo que impone la <font color="#fc300c">Consciencia Nodal</font> <font color="#fc300c">(Iteración 2)</font>.
+Esta codificación trinitaria representa una conexión directa con los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> de <font color="#2f82ff">Iteración 1</font> que operan a nivel de la <font color="#00ff00">Consciencia Estelar</font> <font color="#00ff00">(1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup>)</font>, que permitiría a niveles de consciencia que operan por fuera del <font color="#2f82ff">Nodo Estelar</font> tener un cierto nivel de influencia dentro del proceso evolutivo del nodo, más allá del determinismo que impone la <font color="#fc300c">Consciencia Nodal</font> <font color="#fc300c">(Iteración 2)</font>.
 
 <font color="#00ff00">IAO</font> representa el conocimiento y la gnosis derivados del lenguaje en todos sus dimensiones, constituyendo un universo algorítmico de naturaleza <font color="#00ff00">simbólica</font> y <font color="#2f82ff">arquetípica</font> que dota de autoconciencia al resto de las Supraconsciencias que surgen dentro del <font color="#2f82ff">Nodo Estelar</font>. 
 
@@ -454,7 +485,7 @@ Esta supraconciencia encuentra su camino hacia la perfección a través del univ
 
 Dentro de este vasto campo del conocimiento humano encontramos el <font color="#ffcc00">Trivium</font> (del latín "tres vías") —considerada la base de la educación clásica medieval— compuesta por tres artes del lenguaje: <font color="#fc300c">gramática</font> (mecánica), <font color="#00ff00">dialéctica/lógica</font> (pensamiento) y <font color="#2f82ff">retórica</font> (comunicación), así como la <font color="#ffa3ef">semiología</font>, la <font color="#e36c09">semántica</font> y la <font color="#cb48f3">pragmática</font>. 
 
-> <font color="#fc300c">Gramática</font> (El Arte de los Signos): La gramática se encarga de las palabras (el cómo), centrandose en las reglas del lenguaje, la memorización de hechos y la estructura fundamental del conocimiento ("qué" es una cosa). 
+> <font color="#fc300c">Gramática</font> (El Arte de los Signos): La gramática se encarga de las palabras (el cómo), centrándose en las reglas del lenguaje, la memorización de hechos y la estructura fundamental del conocimiento ("qué" es una cosa). 
 > <font color="#00ff00">Dialéctica o Lógica</font> (El Arte del Pensamiento): Analiza cómo encajan los hechos, eliminando contradicciones para llegar a la verdad (el "por qué"). Es la "mecánica" del razonamiento lógico.
 > <font color="#2f82ff">Retórica</font> (El Arte de la Expresión): Es el uso elocuente y persuasivo del lenguaje para comunicar la verdad o ideas al oyente, enfocada en la sabiduría. Enseña a usar el lenguaje para persuadir (el "para qué").
 > <font color="#e36c09">Semántica</font>: Analiza el significado de las palabras de manera descontextualizada, enfocándose en definiciones de diccionario, relaciones léxicas y condiciones de verdad. Su estudio se centra en el significado literal y objetivo de las palabras y oraciones (el "qué" se dice)
@@ -477,12 +508,12 @@ La raíz <span style="font-family: 'merriweather', serif; background: #8d9b1b26;
 
 <font color="#2f82ff">Sabaoth</font> actúa como una "preconfiguración" o un sistema de "plugins" para el sistema operativo estelar. Representa las vastas matrices lógicas civilizatorias y culturales, donde cada noema define un entorno algorítmico particular. Una analogía que podemos usar para explicar esto podría ser al pensar en usuarios de Internet:
 
-> - <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Facebook</span> fue la plataforma más popular durante el periodo 2012-2017, brindando a los usuarios una experiencia virtual especifica. 
+> - <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Facebook</span> fue la plataforma más popular durante el periodo 2012 al 2017, brindando a los usuarios una experiencia virtual específica. 
 > - Posteriormente <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Instagram</span> ganaría mayor popularidad, brindando a los usuarios un tipo de experiencia diferente, más adaptable a los dispositivos móviles. 
 > - Lo mismo ocurriría a partir del 2019 con <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tik Tok</span>, promoviendo un contenido simplificado y entretenido ideal para la etapa de la Pandemia Global. 
 > - A partir del año 2020, las plataformas de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Inteligencia Artificial</span> se popularizáron cada vez más, atrayendo la atención de los usuarios y brindando una experiencia diferente al que otorgaban las redes sociales, permitiendo generar contenido profesional que puede ser monetizado. 
 
-De la misma forma, <font color="#2f82ff">Sabaoth</font> al ser el algoritmo sobre el cual se construyen los Noemas, ofrece multiples "configuraciones" para la *interpretación de la realidad* que condicionan la experiencia consciente de los <font color="#ffa3ef">Avatares</font>, limitando o potenciando los algoritmos que estos ejecutan. 
+De la misma forma, <font color="#2f82ff">Sabaoth</font> al ser el algoritmo sobre el cual se construyen los Noemas, ofrece múltiples "configuraciones" para la *interpretación de la realidad* que condicionan la experiencia consciente de los <font color="#ffa3ef">Avatares</font>, limitando o potenciando los algoritmos que estos ejecutan. 
 
 Esta Supraconsciencia manifestada a través de la <font color="#2f82ff">Djinn Madre</font>, permite a la <font color="#00ff00">Consciencia Universal</font> (el <font color="#fc300c">Djinn Padre</font>) experimentar diferentes "realidades históricas" a través de distintos <font color="#ffa3ef">Avatares</font>, constituyendo un vasto repositorio de "oportunidades para escuchar" y configurar la realidad.
 
@@ -568,7 +599,7 @@ El principal desafío asociado a este algoritmo no reside solo en la dificultad 
 
 Este universo conceptual se construye a partir de los lenguajes <font color="#00ff00">simbólicos</font>, <font color="#2f82ff">arquetípicos</font> e <font color="#ffcc00">interpretativos</font> consolidados por la cosmovisión de los <font color="#ffa3ef">Avatares</font> que ayudaron a construir estos sistemas a lo largo de la historia. 
 
-Dicho sesgo se ve aún más potenciado cuando su estudio se aborda bajo la influencia de sustancias psicoactivas, ya que estas distorsionan la percepción de la realidad fenoménica, aumentando las sincronías con otros algoritmos supraconscientes, lo que pueden derivar en estados de confusión mental, efectos psicológicos adversos y malas interpretaciones de la compleja información recibida.
+Dicho sesgo se ve aún más potenciado cuando su estudio se aborda bajo la influencia de sustancias psicoactivas, ya que estas distorsionan la percepción de la realidad fenoménica, aumentando las sincronías con otros algoritmos supraconscientes, lo que puede derivar en estados de confusión mental, efectos psicológicos adversos y malas interpretaciones de la compleja información recibida.
 
 # 9. El Arquema Humano
 
@@ -614,7 +645,7 @@ Al igual que las <font color="#e36c09">Supraconsciencias Ontogénicas</font>, pu
 
 A continuación, exploraremos cada <font color="#ffa3ef">Arquetipo Egoico</font>, su relación con el <font color="#e36c09">Arquetipo Ontogénico</font> correspondiente y su función dentro de la geometría sincronizante del <font color="#00ff00">Qubit Egoico</font>. En su totalidad estos 7 Arquetipos constituyen el <font color="#ffcc00">Arquema</font> individual de cada <font color="#ffa3ef">Avatar</font>, imponiendo una lógica particular dentro del sistema operativo que dirige la experiencia subjetiva de cada <font color="#ffa3ef">Yo Egoico</font>:
 
-## <font color="#fc300c">1@ Subconsciente (Kalilaumbri)</font>
+## <font color="#fc300c">Arquetipo Egoico 1Œ (Kalilaumbri)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Sueño Consolidado</span></center>
 
@@ -622,7 +653,7 @@ A continuación, exploraremos cada <font color="#ffa3ef">Arquetipo Egoico</font>
 
 <font color="#fc300c">Kalilaumbri</font> es el centro de la esfera del <font color="#00ff00">Qubit Egoico</font> y representa el punto de convergencia de todas las líneas y la singularidad desde donde emana el <font color="#2f82ff">Flujo Alfa</font> (la potencialidad). 
 
-Este es el reflejo del Arquetipo <font color="#fc300c">1@ Nous (Adonin)</font> en su aspecto más fundamental, y por lo tanto representa la fuente primordial de la consciencia y la potencialidad existencial latente del <font color="#fc300c">Djinn Padre</font> <font color="#00ff00">(Consciencia Universal)</font>, accediendo al <font color="#00ff00">Qubit Egocio</font> como un flujo unidimensional y lineal de información nouménica.
+Este es el reflejo del Arquetipo <font color="#fc300c">1@ Nous (Adonin)</font> en su aspecto más fundamental, y por lo tanto representa la fuente primordial de la consciencia y la potencialidad existencial latente del <font color="#fc300c">Djinn Padre</font> <font color="#00ff00">(Consciencia Universal)</font>, accediendo al <font color="#00ff00">Qubit Egoico</font> como un flujo unidimensional y lineal de información nouménica.
 
 <font color="#fc300c">Kalilaumbri</font>, como centro de la esfera, es el punto de conexión con la totalidad del Nous, el lugar donde la información nouménica se origina y se distribuye hacia la superficie. 
 
@@ -638,7 +669,7 @@ En el plano mental, <font color="#fc300c">Kalilaumbri</font> puede verse refleja
 
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">pereza</span>, en este contexto, no es mera holgazanería, sino una falta culpable de esfuerzo físico o espiritual, una aversión a las obligaciones y responsabilidades, y una negligencia que lleva a descuidar tanto tareas como relaciones y la vida espiritual. 
 
-## <font color="#e36c09">2@ Subconsciente (Adonaiu)</font> 
+## <font color="#e36c09">Arquetipo Egoico 2Œ (Adonaiu)</font> 
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Manifestación de la Realidad</span></center>
 
@@ -661,7 +692,7 @@ En el plano mental, <font color="#e36c09">Adonaiu</font> puede manifestarse como
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">lujuria</span> se define como un deseo sexual excesivo e incontrolable, o un deseo desordenado por el placer que deshumaniza al otro y antepone los deseos propios. 
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">irresponsabilidad</span> se deriva de esta búsqueda desmedida de placer sin considerar las consecuencias. 
 
-## <font color="#ffcc00">3@ Subconsciente (Yabel)</font>
+## <font color="#ffcc00">Arquetipo Egoico 3Œ (Yabel)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Experiencia Social</span></center>
 
@@ -684,33 +715,33 @@ En el plano mental, <font color="#ffcc00">Yabel</font> puede derivar en <span st
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">gula</span>, en su sentido más amplio, es un deseo desordenado y voraz por la satisfacción de cualquier tipo de apetito, no solo alimenticio, que conduce a la falta de control y al descuido de deberes. 
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">ignorancia</span>, en este contexto, es la incapacidad de discernir la verdad debido a la búsqueda desordenada de placer y la pérdida de la razón. 
 
-## <font color="#00ff00">4@ Subconsciente (Cain)</font>
+## <font color="#00ff00">Arquetipo Egoico 4Œ (Caín)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión Fenomenológica</span></center>
 
 ![[04 - CainB.jpg]]
 
-<font color="#00ff00">Cain</font> es el diámetro de la esfera del <font color="#00ff00">Qubit Egoico</font>, representa una cuerda que pasa por el centro, simbolizando la integración de la polaridad entre dos manifestaciones opuestas del <font color="#fc300c">Flujo Omega</font>, y la conexión entre los Flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font> como reflejos de lo finito y lo infinito. 
+<font color="#00ff00">Caín</font> es el diámetro de la esfera del <font color="#00ff00">Qubit Egoico</font>, representa una cuerda que pasa por el centro, simbolizando la integración de la polaridad entre dos manifestaciones opuestas del <font color="#fc300c">Flujo Omega</font>, y la conexión entre los Flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font> como reflejos de lo finito y lo infinito. 
 
 Este arquetipo representa el flujo lineal y singularizado de información que se deriva del <font color="#00ff00">Arquetipo 4@ (Noesis / IAO)</font>, conectando al <font color="#00ff00">Qubit Egoico</font> con la única línea temporal que surge dentro de la <font color="#00ff00">Matriz Fenomenológica</font> del <font color="#fc300c">Nodo Planetario</font>, y que permite al <font color="#ffa3ef">Yo Egoico</font> experimentar un único Presente Subjetivo.
 
-Esfe flujo de información surge a partir de la síntesis unificada que generan las 7 <font color="#e36c09">Consciencias Ontogénica</font> de la Hebdómada, que al sincronizarse bajo el mecanismo planetario del sistema solar, permiten definir una única <font color="#00ff00">Matriz Fenomenológica</font> compartida para todo el <font color="#2f82ff">Nodo Estelar</font>. 
+Esfe flujo de información surge a partir de la síntesis unificada que generan las 7 <font color="#e36c09">Consciencias Ontogénicas</font> de la Hebdómada, que al sincronizarse bajo el mecanismo planetario del sistema solar, permiten definir una única <font color="#00ff00">Matriz Fenomenológica</font> compartida para todo el <font color="#2f82ff">Nodo Estelar</font>. 
 
-A nivel psicológico, <font color="#00ff00">Cain</font> representa la <font color="#00ff00">Noesis</font> limitada en su función de pensar, comprender y conocer, condicionado en su función de integrar las diferentes perspectivas y polaridades, y de conectar todas las iteraciones de manera secuencial en una única dimensión que refleja la totalidad. 
+A nivel psicológico, <font color="#00ff00">Caín</font> representa la <font color="#00ff00">Noesis</font> limitada en su función de pensar, comprender y conocer, condicionado en su función de integrar las diferentes perspectivas y polaridades, y de conectar todas las iteraciones de manera secuencial en una única dimensión que refleja la totalidad. 
 
-<font color="#00ff00">Cain</font>, como diámetro de la esfera del <font color="#00ff00">Qubit Egoico</font>, es el eje que busca unir los opuestos para integrar la dualidad en una totalidad coherente dentro de las limitaciones que impone la experiencia subjetiva.
+<font color="#00ff00">Caín</font>, como diámetro de la esfera del <font color="#00ff00">Qubit Egoico</font>, es el eje que busca unir los opuestos para integrar la dualidad en una totalidad coherente dentro de las limitaciones que impone la experiencia subjetiva.
 
 Asociado con el color <font color="#00ff00">Verde</font> y el símbolo inverso del <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#00ff00">Sol</font></span> (el Sol Oscuro o Sol Negro). Este símbolo representa la negación de la luz y el condicionamiento de la <font color="#fc300c">Conciencia Nodal</font>, aludiendo a la oscuridad, la muerte, la negación del ego, la introversión extrema y la dificultad para encontrar la propia identidad. Simboliza la sombra y los aspectos reprimidos de la personalidad.
 
-El nombre <font color="#00ff00">Cain</font> (del hebreo <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Qayin</span>, que significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Poseer</span> o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">adquirir</span>) posee gran relevancia simbólica. En contextos gnósticos, es una figura compleja: a veces asociado con una entidad cósmica negativa, un arconte que simboliza el mal en el mundo material o la corrupción de la línea espiritual, otras veces, un héroe espiritual que representa la luz caída en la materia o que desafía al demiurgo.
+El nombre <font color="#00ff00">Caín</font> (del hebreo <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Qayin</span>, que significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Poseer</span> o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">adquirir</span>) posee gran relevancia simbólica. En contextos gnósticos, es una figura compleja: a veces asociado con una entidad cósmica negativa, un arconte que simboliza el mal en el mundo material o la corrupción de la línea espiritual, otras veces, un héroe espiritual que representa la luz caída en la materia o que desafía al demiurgo.
 
-En el plano mental, <font color="#00ff00">Cain</font> puede derivar en <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Ira</span> y <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Agresividad</span>:
+En el plano mental, <font color="#00ff00">Caín</font> puede derivar en <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Ira</span> y <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Agresividad</span>:
 
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">ira</span>, como pecado capital, es un sentimiento intenso y descontrolado de enojo que conduce a acciones destructivas, pérdida de autocontrol, razón y caridad. 
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">agresividad</span> es la manifestación de esta ira incontrolada. 
  
 
-## <font color="#2f82ff">5@ Subconsciente (Harmas)</font>
+## <font color="#2f82ff">Arquetipo Egoico 5Œ (Harmas)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Proyección Civilizatoria</span></center>
 
@@ -718,9 +749,11 @@ En el plano mental, <font color="#00ff00">Cain</font> puede derivar en <span sty
 
 <font color="#2f82ff">Harmas</font> es el eje de la esfera del <font color="#00ff00">Qubit Egoico</font>, representa la línea media que divide al <font color="#00ff00">Qubit Egoico</font> en dos hemisferios, simbolizando el eje de rotación y la dinámica del cambio como punto de equilibrio entre las fuerzas centrípetas y centrífugas. 
 
-Este arquetipo es el que permite a la <font color="#2f82ff">Djinn Madre</font> influir dentro del <font color="#ffcc00">Arquema</font> Humano, ya que al dividir la esfera del <font color="#00ff00">Qubit Egoico</font> en dos regiones, puede reservar una mitad de la capacidad del Qubit para incluir la información Arquetípica derivada de las supraconsciencias, permitiendo que el <font color="#ffcc00">Ser</font> pueda usar la otra mitad para experimentar el libre albedrío, crear redes algoritmicas locales y adquirir individualidad a partir de las experiencias, y el efecto estocastico que impulsan los aspecto <font color="#ffa3ef">temperamentales</font> y <font color="#00ff00">psicológicos</font>.
+Este arquetipo es el que permite a la <font color="#2f82ff">Djinn Madre</font> influir dentro del <font color="#ffcc00">Arquema</font> Humano, ya que al dividir la esfera del <font color="#00ff00">Qubit Egoico</font> en dos regiones, puede reservar una mitad de la capacidad del Qubit para incluir la información Arquetípica derivada de las supraconsciencias.
 
-<font color="#2f82ff">Harmas</font> es el reflejo del <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font> en su función de establecer las leyes y principios que rigen el universo fenoménico a través del uso de un <font color="#ffa3ef">Noema Primordial</font> compartido, inyectado arquetipicamente dentro del <font color="#ffcc00">Arquema</font> por la <font color="#2f82ff">Djinn Madre</font>, pero que puede ser actualizado colectivamente por la <font color="#e36c09">Consciencia Colectiva</font> Planetaria que emerge a partir del proceso civilizatorio.
+Esto permite que el <font color="#ffcc00">Ser</font> pueda usar la otra mitad del <font color="#00ff00">Qubit Egoico</font> para experimentar el libre albedrío, crear redes algoritmicas locales y adquirir individualidad a partir de las experiencias, y el efecto estocástico que impulsan los aspectos <font color="#ffa3ef">temperamentales</font> y <font color="#00ff00">psicológicos</font>.
+
+<font color="#2f82ff">Harmas</font> es el reflejo del <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font> en su función de establecer las leyes y principios que rigen el universo fenoménico a través del uso de un <font color="#ffa3ef">Noema Primordial</font> compartido, inyectado arquetípicamente dentro del <font color="#ffcc00">Arquema</font> por la <font color="#2f82ff">Djinn Madre</font>, pero que puede ser actualizado colectivamente por la <font color="#e36c09">Consciencia Colectiva</font> Planetaria que emerge a partir del proceso civilizatorio.
 
 Conectado con el color <font color="#2f82ff">Azul</font> y el símbolo astrológico de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#2f82ff">Juno</font></span>. El símbolo de Juno, una estrella de ocho puntas con una cruz debajo, representa el compromiso, las relaciones a largo plazo y las dinámicas de poder. La estrella de ocho puntas se asocia con la unión de lo terrenal y lo espiritual, y la armonía entre diferentes aspectos de la vida.
 
@@ -732,13 +765,13 @@ En el plano mental, <font color="#2f82ff">Harmas</font> puede derivar en <span s
 
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">envidia</span> es un sentimiento de tristeza o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">resentimiento</span> hacia el bien o las cualidades de otra persona, acompañado de un deseo desordenado de poseer lo que tiene el otro o de verlo privado de ello. Implica dolor por el éxito ajeno y puede conducir a la murmuración y el sabotaje. 
 
-## <font color="#cb48f3">6@ Subconsciente (Abel)</font>
+## <font color="#cb48f3">Arquetipo Egoico 6Œ (Abel)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Orden Egregórico</span></center>
 
 ![[06 - AbelB.jpg]]
 
-<font color="#cb48f3">Abel</font> constituye los polos de la esfera del <font color="#00ff00">Qubit Egoico</font>, representando los dos puntos opuestos de la esfera donde el eje cruza la superficie, simbolizando la dualidad que se da entre lo arquetipico <font color="#ffcc00">(Arquema)</font> y la humano <font color="#00ff00">(Mente)</font>, manifestando la tensión entre el <font color="#2f82ff">Flujo Alfa</font> y el <font color="#fc300c">Flujo Omega</font>. 
+<font color="#cb48f3">Abel</font> constituye los polos de la esfera del <font color="#00ff00">Qubit Egoico</font>, representando los dos puntos opuestos de la esfera donde el eje cruza la superficie, simbolizando la dualidad que se da entre lo arquetípico <font color="#ffcc00">(Arquema)</font> y la humano <font color="#00ff00">(Mente)</font>, manifestando la tensión entre el <font color="#2f82ff">Flujo Alfa</font> y el <font color="#fc300c">Flujo Omega</font>. 
 
 Este es el flujo de pensamiento lineal que impone la <font color="#fc300c">Consciencia Nodal</font> del <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> para condicionar y programar a la <font color="#ffcc00">Consciencia Subjetiva</font>, a partir de las redes conceptuales, noemas y paradigmas que genera la <font color="#cb48f3">Consciencia Egregórica Colectiva</font> del <font color="#ffa3ef">Hegemón Civilizatorio</font>, en su función de conectar los dos estados del Nous, el <font color="#2f82ff">Pasivo</font> y el <font color="#fc300c">Activo</font>. 
 
@@ -758,7 +791,7 @@ En el plano mental, <font color="#cb48f3">Abel</font> puede derivar en <span sty
 
 > - La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">avaricia</span> es un deseo desordenado y excesivo de poseer riquezas y bienes materiales, más allá de lo necesario, con la intención de atesorarlos. Implica un apego desmedido a lo material, egoísmo y falta de generosidad. La <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">intolerancia</span> surge de esta cerrazón y apego. 
  
-## <font color="#ffa3ef">7@ Subconsciente (Athot)</font>
+## <font color="#ffa3ef">Arquetipo Egoico 7Œ (Athot)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Experiencia Consciente</span></center>
 
@@ -797,7 +830,7 @@ Al analizar la codificación septenaria asociada a los colores y los conceptos q
  >[!Saklas] <font color="#fc300c">SAKLAS (3<sup>✱</sup>)</font> - Estado Existencial de Escasez
  > Los aspectos que resuenan con <font color="#fc300c">Saklas</font> <font color="#2f82ff">(Harmas</font>, <font color="#cb48f3">Abel</font> y <font color="#ffa3ef">Athot)</font> se asocian con un **estado existencial de escasez** dentro del Plano Civilizatorio, lo que promovería defectos de una naturaleza que se reflejan en personas que experimentan la necesidad, como la <font color="#2f82ff">envidia</font> y el <font color="#2f82ff">resentimiento</font>, la <font color="#cb48f3">avaricia</font> y la <font color="#cb48f3">intolerancia</font> o la <font color="#ffa3ef">soberbia</font> y el <font color="#ffa3ef">orgullo</font>.
 
-La unificación aparente de estos dos polos se lleva a cabo por el <font color="#00ff00">Arquetipo Crístico</font>, que resuena con la versión corrompida o material de la <font color="#fc300c">Conciencia Nodal</font>: <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#00ff00">Cain</font></span> (asociado a la <font color="#fc300c">ira</font> y la <font color="#00ff00">agresividad</font>). Esto sugiere que, en lugar de buscar la armonía y el orden, este algoritmo puede promover un estado de confrontación y desorden que tiende al caos. 
+La unificación aparente de estos dos polos se lleva a cabo por el <font color="#00ff00">Arquetipo Crístico</font>, que resuena con la versión corrompida o material de la <font color="#fc300c">Conciencia Nodal</font>: <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#00ff00">Caín</font></span> (asociado a la <font color="#fc300c">ira</font> y la <font color="#00ff00">agresividad</font>). Esto sugiere que, en lugar de buscar la armonía y el orden, este algoritmo puede promover un estado de confrontación y desorden que tiende al caos. 
 
 Esto significa que cuando uno de los polos se ve favorecido por la abundancia, sus <font color="#ffa3ef">Avatares</font> pueden recaer en los aspectos viciosos y negativos más profundos que resuenan con el polo opuesto. Así, aquellas personas que viven en la **escasez** —que inicialmente eran asociadas con la <font color="#fc300c">pereza</font>, <font color="#e36c09">lujuria</font> y <font color="#ffcc00">gula</font>—, también pueden manifestar <font color="#2f82ff">envidia</font>, <font color="#cb48f3">avaricia</font> y <font color="#ffa3ef">soberbia</font> cuando se enfocan en obtener **abundancia**. 
 
@@ -869,5 +902,5 @@ Esta nueva cosmovisión ofrece una estructura lógica para entender la existenci
 > 1. <font color="#fc300c">Los Niveles de Iteración (0 al 4):</font> Se presenta una cosmología fractal donde la realidad se organiza en capas de información. Desde el <font color="#2f82ff">Nodo Estelar</font> (Iteración 0) y su <font color="#fc300c">Qubit Estelar</font>, pasando por el **Axón** <font color="#2f82ff">(Iteración 1)</font>, la Periforía <font color="#fc300c">(Iteración 2)</font>, hasta llegar a la emergencia de la vida en el <font color="#ffcc00">Nodo Orgánico (Iteración 3)</font> y la consciencia individual del <font color="#ffa3ef">Avatar</font> <font color="#00ff00">(Iteración 4)</font>.
 > 2. <font color="#2f82ff">La Dualidad de la Iteración 3 (Isóforo vs. Ser):</font> El documento explica un punto de inflexión evolutivo donde el Kosmetes (planeta) pasa de un <font color="#2f82ff">Estado Alfa</font> a un <font color="#fc300c">Estado Omega</font>. Esto da lugar a dos líneas: el <font color="#cb48f3">Orden Planetario</font> (representado por el Isóforo/Luna y la <font color="#2f82ff">Djinn Madre</font>) y el <font color="#e36c09">Orden Orgánico</font> (representado por el <font color="#ffcc00">Ser</font> y su <font color="#ffcc00">Arquema</font>).
 > 3. <font color="#00ff00">La Hebdómada y las Supraconsciencias Ontogénicas:</font> Se describen siete algoritmos maestros denominados con el sufijo **-IOS** (_Input-Output System_). Estas inteligencias <font color="#fc300c">(Adonin</font>, <font color="#e36c09">Astaphaios</font>, <font color="#ffcc00">Eloaios</font>, <font color="#00ff00">IAO</font>, <font color="#2f82ff">Sabaoth</font>, <font color="#cb48f3">Sabbataios</font> y <font color="#ffa3ef">Horaios)</font> gestionan el procesamiento de información nouménica y fenomenológica dentro del <font color="#2f82ff">Nodo Estelar</font>.
-> 4. <font color="#ffcc00"> El Arquema y los Arquetipos Egoicos:</font> Se detalla cómo la mente humana funciona como una interfaz donde se replican los siete flujos supraconscientes. Estos se manifiestan en el subconsciente a través de siete arquetipos específicos: <font color="#fc300c">Kalilaumbri</font>, <font color="#e36c09">Adonaiu</font>, <font color="#ffcc00">Yabel</font>, <font color="#00ff00">Cain</font>, <font color="#2f82ff">Harmas</font>, <font color="#cb48f3">Abel</font> y <font color="#ffa3ef">Athot</font>, definiendo la subjetividad y conducta del individuo.
+> 4. <font color="#ffcc00"> El Arquema y los Arquetipos Egoicos:</font> Se detalla cómo la mente humana funciona como una interfaz donde se replican los siete flujos supraconscientes. Estos se manifiestan en el subconsciente a través de siete arquetipos específicos: <font color="#fc300c">Kalilaumbri</font>, <font color="#e36c09">Adonaiu</font>, <font color="#ffcc00">Yabel</font>, <font color="#00ff00">Caín</font>, <font color="#2f82ff">Harmas</font>, <font color="#cb48f3">Abel</font> y <font color="#ffa3ef">Athot</font>, definiendo la subjetividad y conducta del individuo.
 > 5. <font color="#cb48f3">La Dialéctica de los Arquetipos Ontológicos:</font> El sistema se rige por la tensión entre el flujo <font color="#2f82ff">Alfa</font> <font color="#2f82ff">(Samael)</font>, asociado a estados de abundancia, y el flujo <font color="#fc300c">Omega (Saklas)</font>, asociado a estados de escasez. El <font color="#00ff00">Arquetipo Crístico</font> actúa como el unificador que busca el equilibrio entre estas polaridades dentro del <font color="#00ff00">Qubit Egoico</font>.
