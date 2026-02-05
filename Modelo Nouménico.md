@@ -1,13 +1,5 @@
 ---
-color:
-  - rojo
-tags:
-  - documento
-  - ontología
-fecha: 2025-11-20
-aliases:
-  - 3+1x
-tipo: cosmovision
+soundtrack: MhbbsMPKuS0
 indexar: true
 ---
 
