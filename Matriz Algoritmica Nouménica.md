@@ -1,6 +1,5 @@
 ---
 soundtrack: RDGMEMQ1dJ7wXfLlqCjwV0xfSNbAVMNmEyGiaqm7k
-video: APLjtX7PxJQ
 indexar: true
 ---
 
