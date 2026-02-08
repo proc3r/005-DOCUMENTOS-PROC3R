@@ -121,9 +121,10 @@ Comprendiendo esta jerarquía, podemos ahora sumergirnos en cómo los grupos uni
 
 <center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Planos Estructurales y el Flujo de la Experiencia</span></center>
 
-Para el científico, los <font color="#ffc000">grupos unitarios U(n)</font> son **conjuntos de matrices complejas n×n** cuyas inversas son iguales a sus conjugadas transpuestas (matriz hermitiana conjugada), lo que significa que preservan el producto escalar hermitiano en un espacio vectorial complejo n-dimensional. Formalmente, <span style="font-size: larger; color: ffcc00; font-family: monospace;">U(n)={A∈GL(n,C)∣AA†=I}</span>, donde A† es la transpuesta conjugada de A e I es la matriz identidad. Estas matrices unitarias son fundamentales para describir las transformaciones de estado en la mecánica cuántica.
+Para el científico, los <font color="#ffc000">grupos unitarios U(n)</font> son **conjuntos de matrices complejas n×n** cuyas inversas son iguales a sus conjugadas transpuestas (matriz hermitiana conjugada), lo que significa que preservan el producto escalar hermitiano en un espacio vectorial complejo n-dimensional. Formalmente, <span style="font-size: larger; color: ffcc00; font-family: 'MJXTEX';">U(n)={A∈GL(n,C)∣AA<sup>†</sup>=I}</span>, donde A† es la transpuesta conjugada de A e I es la matriz identidad. Estas matrices unitarias son fundamentales para describir las transformaciones de estado en la mecánica cuántica.
 
-$$U(n) = \{ A \in GL(n, \mathbb{C}) \mid AA^{\dagger} = I \}$$
+
+
 
 Los <font color="#cb48f3">grupos unitarios especiales SU(n)</font> son un subgrupo de <font color="#ffcc00">U(n)</font> que además tienen la restricción de que su determinante es igual a 1. Formalmente, <span style="font-size: larger;  color: cb48f3; font-family: monospace;">SU(n)={A∈U(n)∣det(A)=1}</span>. Esta condición de determinante unitario tiene profundas implicaciones en la física, ya que a menudo está relacionada con la conservación de una "cantidad" o "carga" fundamental.
 
