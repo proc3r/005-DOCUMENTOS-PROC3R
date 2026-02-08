@@ -11,6 +11,10 @@ indexar: true
 
 El progreso de la civilización se ha medido tradicionalmente por su capacidad para dominar y manipular la materia y la energía. Este enfoque, popularizado por la Escala de Kardashev, es invaluable para cuantificar el avance tecnológico, pero ignora la esencia de la existencia: «la consciencia». 
 
+
+$$U(n) = \{ A \in GL(n, \mathbb{C}) \mid AA^{\dagger} = I \}$$
+
+
 Este documento propone una perspectiva que trasciende el paradigma <font color="#fc300c">mecanicista-materialista</font>. Aborda la existencia desde un Modelo Nouménico, que postula que la realidad fenomenológica que experimentamos es la manifestación de una realidad más profunda y fundamental. 
 
 La Escala de Civilizaciones Nouménica clasifica la evolución civilizatoria en función de la madurez de su <font color="#e36c09">Consciencia Colectiva</font>, reflejando su capacidad para trascender la lucha noemática y los dilemas existenciales.
@@ -63,7 +67,7 @@ height: 360
 
 ## El Hardware Fenoménico
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Origen de la Vida</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen de la Vida</span></center>
 
 0.1.1 » El Modelo Nouménico asume que los Nodos Estelares, planetas y lunas emergen de manera aleatoria, siguiendo las reglas de la estocástica cósmica. Es en este caos primordial donde los flujos de información nouménica provenientes de los planos de materia y energía oscura se manifiestan en la materia ordinaria.
 
@@ -79,7 +83,7 @@ height: 360
 
 ## El Paradigma Mecanicista
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Velo de la Realidad Moderna</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Velo de la Realidad Moderna</span></center>
 
 0.2.1 » El paradigma <font color="#fc300c">mecanicista-materialista</font>, que desde el siglo XVII ha dominado la ciencia y la cultura occidental, se fundamenta en la idea de que todos los fenómenos naturales, incluida la vida humana y animal, pueden explicarse como el funcionamiento de una máquina.
 
@@ -117,7 +121,7 @@ height: 360
 
 ## La Granja de Consciencias
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Propósito de la Existencia</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Propósito de la Existencia</span></center>
 
 0.3.1 » Si la consciencia es primordial y la realidad fenomenológica es una interfaz, ¿cuál es el verdadero propósito de la existencia? El Modelo Nouménico sugiere que las civilizaciones planetarias son, en esencia, granjas de consciencia. A través de la experiencia colectiva, cada individuo contribuye a una entidad egregórica superior: la Civilización.
 
@@ -129,7 +133,7 @@ height: 360
 
 ## Hacia la Trascendencia
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Más Allá de la Lucha Noemática</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Más Allá de la Lucha Noemática</span></center>
 
 0.4.1 » El paradigma mecanicista enseña a luchar por la supremacía cultural y el control de los recursos. Esta lucha noemática es el motor de la historia humana, donde naciones, religiones y sistemas económicos son egregores que compiten por imponer su propio Noema Cultural. Los guardianes de estos paradigmas (las élites dominantes) mantienen a la civilización atrapada en un nivel de consciencia inferior, impidiendo su evolución.
 
@@ -235,7 +239,7 @@ height: 360
 
 # <font color="#fc300c">Civilización Tipo 1</font>
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;"><font color="#fc300c">Consciencia Terrestre</font></span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;"><font color="#fc300c">Consciencia Terrestre</font></span></center>
 
 ![[Civilizacion Tipo 1x.jpg]]
 
@@ -564,7 +568,7 @@ height: 360
 
 # <font color="#00ff00">Civilización Tipo 2</font>
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;"><font color="#00ff00">Consciencia Lunar</font></span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;"><font color="#00ff00">Consciencia Lunar</font></span></center>
 
 ![[Civilizacion Tipo 2x.jpg]]
 
@@ -1827,7 +1831,7 @@ Esta nueva tendencia permite a los gobiernos dejar de operar en base a promesas 
 
 # <font color="#2f82ff">Civilización Tipo 3 </font>
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Consciencia Solar</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Consciencia Solar</span></center>
 
 ![[Civilizacion Tipo 3x.jpg]]
 
