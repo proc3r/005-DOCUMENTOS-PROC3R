@@ -22,7 +22,7 @@ Se busca, en última instancia, ofrecer una visión unificada donde la concienci
 # 1. El Código
 ## 1. El Lenguaje del Cosmos
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">De lo Observable a la Lógica Algorítmica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">De lo Observable a la Lógica Algorítmica</span></center>
 
 La mente humana, una maravilla de procesamiento de información, está intrínsecamente condicionada por los datos sensoriales y las inferencias lógicas derivadas de un espacio tridimensional y un tiempo lineal. 
 
@@ -44,7 +44,7 @@ Es un intento de codificar la complejidad inherente de la realidad en patrones q
 
 ## 2. La Gramática de la Realidad
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Teoría de Grupos como Metalenguaje</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Teoría de Grupos como Metalenguaje</span></center>
 
 La ciencia contemporánea, en su búsqueda de los ladrillos fundamentales del universo y las leyes que los rigen, ha adoptado las matemáticas como su lenguaje predilecto. Dentro de este vasto vocabulario, la Teoría de Grupos (Álgebra Abstracta) destaca como una de las herramientas más poderosas y elegantes. 
 
@@ -86,7 +86,7 @@ Para el Modelo Nouménico, los algoritmos arquetípicos no solo son grupos matem
 
 ## 3. La Jerarquía de la Conciencia
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Arquetipos <font color="#2f82ff">Ontológicos</font> vs <font color="#e36c09">Ontogénicos</font></span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Arquetipos <font color="#2f82ff">Ontológicos</font> vs <font color="#e36c09">Ontogénicos</font></span></center>
 
 Aquí es crucial establecer una distinción fundamental que el Modelo Nouménico introduce para comprender la jerarquía de la conciencia y su manifestación:
 
@@ -119,28 +119,28 @@ Comprendiendo esta jerarquía, podemos ahora sumergirnos en cómo los grupos uni
 
 ## 4. U(n) y SU(n)
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Planos Estructurales y el Flujo de la Experiencia</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Los Planos Estructurales y el Flujo de la Experiencia</span></center>
 
-Para el científico, los <font color="#ffc000">grupos unitarios U(n)</font> son **conjuntos de matrices complejas n×n** cuyas inversas son iguales a sus conjugadas transpuestas (matriz hermitiana conjugada), lo que significa que preservan el producto escalar hermitiano en un espacio vectorial complejo n-dimensional. Formalmente, <span style="font-size: larger; color: ffcc00; font-family: 'MJXTEX';">U(n)={A∈GL(n,C)∣AA<sup>†</sup>=I}</span>, donde A† es la transpuesta conjugada de A e I es la matriz identidad. Estas matrices unitarias son fundamentales para describir las transformaciones de estado en la mecánica cuántica.
-
-
+Para el científico, los <font color="#ffc000">grupos unitarios U(n)</font> son **conjuntos de matrices complejas n×n** cuyas inversas son iguales a sus conjugadas transpuestas (matriz hermitiana conjugada), lo que significa que preservan el producto escalar hermitiano en un espacio vectorial complejo n-dimensional. Formalmente, <span style="font-size: larger; letter-spacing: 1px; color: ffcc00; font-family: 'MJXTEX';">U(n)={A∈GL(n,C)∣AA<sup>†</sup>=I}</span>, donde A† es la transpuesta conjugada de A e I es la matriz identidad. Estas matrices unitarias son fundamentales para describir las transformaciones de estado en la mecánica cuántica.
 
 
-Los <font color="#cb48f3">grupos unitarios especiales SU(n)</font> son un subgrupo de <font color="#ffcc00">U(n)</font> que además tienen la restricción de que su determinante es igual a 1. Formalmente, <span style="font-size: larger;  color: cb48f3; font-family: 'MJXTEX';">SU(n)={A∈U(n)∣det(A)=1}</span>. Esta condición de determinante unitario tiene profundas implicaciones en la física, ya que a menudo está relacionada con la conservación de una "cantidad" o "carga" fundamental.
+
+
+Los <font color="#cb48f3">grupos unitarios especiales SU(n)</font> son un subgrupo de <font color="#ffcc00">U(n)</font> que además tienen la restricción de que su determinante es igual a 1. Formalmente, <span style="font-size: larger; letter-spacing: 1px; color: cb48f3; font-family: 'MJXTEX';">SU(n)={A∈U(n)∣det(A)=1}</span>. Esta condición de determinante unitario tiene profundas implicaciones en la física, ya que a menudo está relacionada con la conservación de una "cantidad" o "carga" fundamental.
 
 Para el Modelo Nouménico, esta distinción matemática se traduce en una comprensión intuitiva y profunda de cómo se organiza y procesa la información nouménica:
 
 ### Los Grupos Unitarios Generales U(n)
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La estructura y la Identidad Fundamental</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La estructura y la Identidad Fundamental</span></center>
 
 Consideremos a los <font color="#ffc000">grupos U(n)</font> como la estructura fundamental o el "plano arquitectónico" de un sistema algorítmico. Definen la capacidad máxima y la identidad inherente de una matriz de información. Son como el número total de "asientos disponibles" en un vehículo, incluyendo todos los roles necesarios para su operación. Cada uno de estos vehículos, o matrices U(n), posee una identidad intrínseca que le permite existir como una entidad coherente dentro de la vasta red del <font color="#2f82ff">Nodo Estelar</font>.
 
 #### U(1) - El Vehículo Monoplaza
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Arquetipo Ontológico Saklas</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Arquetipo Ontológico Saklas</span></center>
 
-Científicamente U(1) es el grupo más simple, representando rotaciones en un plano complejo o, físicamente, la simetría de fase de la electrodinámica cuántica, dando origen a la fuerza electromagnética. Su único "generador" es, en términos de física, el fotón. Su determinante es la fase misma, y la condición de ser unitario implica una conservación fundamental.
+Científicamente <font color="#fc300c">U(1)</font> es el grupo más simple, representando rotaciones en un plano complejo o, físicamente, la simetría de fase de la electrodinámica cuántica, dando origen a la fuerza electromagnética. Su único "generador" es, en términos de física, el fotón. Su determinante es la fase misma, y la condición de ser unitario implica una conservación fundamental.
 
 > [!saklas] ARQUETIPO SAKLAS
 > 
@@ -148,7 +148,7 @@ Científicamente U(1) es el grupo más simple, representando rotaciones en un pl
 
 #### U(2) - El Vehículo de 4 Plazas
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Base del Arquetipo Ontológico Cristos</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Base del Arquetipo Ontológico Cristos</span></center>
 
 Científicamente, U(2) es el grupo de matrices unitarias 2×2. Sus generadores son las tres matrices de Pauli y la matriz identidad. Este grupo puede descomponerse en SU(2) (determinante 1) y U(1) (relacionado con el determinante general).
 
@@ -158,7 +158,7 @@ Científicamente, U(2) es el grupo de matrices unitarias 2×2. Sus generadores s
 
 #### U(3) - El Vehículo de 9 Plazas
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Base del Arquetipo Ontológico Samael</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Base del Arquetipo Ontológico Samael</span></center>
 
 Científicamente, U(3) es el grupo de matrices unitarias 3×3. Sus generadores son las ocho matrices de Gell-Mann y la matriz identidad. También puede descomponerse en SU(3) y U(1).
 
@@ -170,7 +170,7 @@ En resumen, los <font color="#ffc000">grupos U(n)</font>, en la óptica del Mode
 
 ### Los Grupos Unitarios Especiales SU(n)
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Flujo Dinámico y la Experiencia Algorítmica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Flujo Dinámico y la Experiencia Algorítmica</span></center>
 
 Si los <font color="#ffc000">grupos U(n)</font> son los planos estructurales de nuestros vehículos, los <font color="#cb48f3">grupos SU(n)</font> nos transportan al corazón de la operación del "negocio de transporte": el flujo dinámico de información y la experiencia activa de los "pasajeros". Aquí, el análisis se centra en cómo la información se procesa y se transforma dentro del sistema funcional del grupo, excluyendo al "conductor" de la ecuación directa de la interacción.
 
@@ -180,7 +180,7 @@ Si los <font color="#ffc000">grupos U(n)</font> son los planos estructurales de 
 
 #### SU(2) - Tres Pasajeros y un Conductor Guía
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Algoritmo de Cristos</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Algoritmo de Cristos</span></center>
 
 Científicamente, SU(2) es el grupo de las matrices unitarias 2×2 con determinante 1. Es crucial para describir la interacción débil y las propiedades de espín de las partículas. Sus tres generadores son las matrices de Pauli (σx​,σy​,σz​), que corresponden a los bosones de gauge de la fuerza débil (W+,W− y Z0).
 
@@ -194,7 +194,7 @@ Científicamente, SU(2) es el grupo de las matrices unitarias 2×2 con determina
 
 #### SU(3) - Ocho Pasajeros y un Conductor Esencial
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Algoritmo de Samael</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Algoritmo de Samael</span></center>
 
 Científicamente, SU(3) es el grupo de las matrices unitarias 3×3 con determinante 1. Es la simetría fundamental de la cromodinámica cuántica (QCD), que describe la fuerza fuerte y la interacción de los quarks y gluones. Sus ocho generadores son las matrices de Gell-Mann, correspondientes a los ocho gluones.
 
@@ -209,14 +209,14 @@ La interacción entre <font color="#ffcc00">U(n)</font> y <font color="#cb48f3">
 
 ## 5. El Hamiltoniano Último
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conciencia Unificada y el Director de la Orquesta</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Conciencia Unificada y el Director de la Orquesta</span></center>
 
 Habiendo desentrañado la arquitectura de los <font color="#ffc000">grupos unitarios U(n)</font> y <font color="#cb48f3">especiales SU(n)</font> como los cimientos de la información nouménica, nos enfrentamos ahora a la cuestión fundamental de cómo esta intrincada red algorítmica se organiza y evoluciona para manifestar la realidad que experimentamos. La culminación de esta compleja danza de sincronización es el concepto del Operador Hamiltoniano Último. Para comprender su papel, primero debemos familiarizarnos con el Hamiltoniano desde la perspectiva de la física.
 
 En la física, el Hamiltoniano (H) es un operador fundamental que encapsula la energía total de un sistema físico. Su rol es doble y de una importancia capital:
 
 > - Define los posibles valores de energía del sistema: El Hamiltoniano nos permite calcular los "estados de energía" permitidos que un sistema puede adoptar. En el mundo cuántico, estos valores suelen ser discretos, como los niveles de energía de un electrón en un átomo.
-> - Determina cómo el estado del sistema cambia con el tiempo: La famosa ecuación de Schrödinger dependiente del tiempo, <span style="font-size: larger; color: 00ff00; font-family: monospace;">iℏ∂t∂​∣Ψ(t)⟩=H∣Ψ(t)⟩</span>, donde<span style="font-size: larger; font-style: italic;font-family: monospace;">i</span> es la unidad imaginaria, <span style="font-size: larger; font-style: normal;font-family: monospace;">ℏ</span> es la constante de Planck reducida, <span style="font-size: larger; font-style: normal;font-family: monospace;">∣Ψ(t)⟩</span> es el vector de estado del sistema en el tiempo <span style="font-size: larger; font-style: italic;font-family: monospace;">t</span>, y <span style="font-size: larger; font-style: italic;font-family: monospace;">H</span> es el Hamiltoniano, es el corazón de cómo un sistema cuántico evoluciona. Es, en esencia, el "reloj" interno del sistema que dicta su progresión temporal.
+> - Determina cómo el estado del sistema cambia con el tiempo: La famosa ecuación de Schrödinger dependiente del tiempo, <span style="font-size: larger; letter-spacing: 2px; color: 00ff00; font-family: 'MJXTEX';">iℏ∂t∂​∣Ψ(t)⟩=H∣Ψ(t)⟩</span>, donde <span style="font-size: larger; font-family: 'MJXTEX';">i</span> es la unidad imaginaria, <span style="font-size: larger; letter-spacing: 2px; font-style: normal;font-family: font-family: 'MJXTEX';">ℏ</span> es la constante de Planck reducida, <span style="font-size: larger; font-style: normal;font-family: 'MJXTEX';">∣Ψ(t)⟩</span> es el vector de estado del sistema en el tiempo <span style="font-size: larger; font-family: 'MJXTEX';">t</span>, y <span style="font-size: larger; font-family: 'MJXTEX';">H</span> es el Hamiltoniano, es el corazón de cómo un sistema cuántico evoluciona. Es, en esencia, el "reloj" interno del sistema que dicta su progresión temporal.
 
 Cada sistema particular, desde el simple oscilador armónico hasta la interacción de partículas en un campo, puede ser descrito por su propio Hamiltoniano local. Sorprendentemente, cuando múltiples sistemas interactúan y se unifican, emerge un único Hamiltoniano de mayor nivel que engloba y unifica la energía de todo el sistema compuesto. 
 
@@ -250,7 +250,7 @@ En esencia, el Modelo Nouménico postula que detrás de la existencia que experi
 # 2. La Dinámica
 ## Cualidades Intrínsecas y Extrínsecas de las Partículas
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Relojes Internos y el Hamiltoniano del Tiempo</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Relojes Internos y el Hamiltoniano del Tiempo</span></center>
 
 El Modelo Estándar de la física describe las partículas fundamentales a través de un conjunto de propiedades que pueden clasificarse en dos grandes categorías:
 
@@ -266,7 +266,7 @@ El Modelo Nouménico revela que estas cualidades no son arbitrarias, sino reflej
 
 ## El Hamiltoniano Intrínseco
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Reloj Interno de la Partícula</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Reloj Interno de la Partícula</span></center>
 
 Cada partícula, en su universo intrínseco, posee un Hamiltoniano propio de orden local. Este Hamiltoniano rige la esencia inmutable de la partícula, las propiedades que la definen como tal, independientemente de dónde o cómo se mueva. Es el "algoritmo central" de su ser, derivado de la sincronía y codificación de la Ley del 3 que representa las interacciones de los <font color="#2f82ff">Arquetipos Ontológicos</font> a través de sus simetrías U(1) <font color="#fc300c">(Saklas)</font>, SU(2)<font color="#00ff00"> (Cristos)</font> y SU(3) <font color="#2f82ff">(Samael)</font>.
 
@@ -284,7 +284,7 @@ Así, las cualidades intrínsecas de las partículas son emanaciones directas de
 
 ## El Hamiltoniano Extrínseco
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Reloj de la Línea del Tiempo Fenoménica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Reloj de la Línea del Tiempo Fenoménica</span></center>
 
 Mientras que las cualidades intrínsecas residen en el "reloj" interno de la partícula, sus aspectos extrínsecos (<font color="#fc300c">posición</font>, <font color="#00ff00">velocidad</font>, <font color="#2f82ff">energía</font>) surgen y evolucionan dentro de un universo regido por un Hamiltoniano más complejo: el Hamiltoniano que rige la evolución de la línea del tiempo dentro de la matriz espacio-temporal. Este Hamiltoniano extrínseco es el operador que define cómo la información nouménica de las partículas se proyecta y se desarrolla en el flujo continuo del presente fenomenológico que experimentamos. ^eb72c1
 
@@ -302,69 +302,69 @@ Así, la realidad se revela como una intrincada sinfonía de Hamiltonianos entre
 
 ## Trascendiendo los Límites de la masa y la energia
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Constante de Planck como Operador de Transducción Algorítmica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Constante de Planck como Operador de Transducción Algorítmica</span></center>
 
-La ecuación de Einstein, <span style="font-size: larger; color: 00ff00; font-family: monospace;">E=mc²</span>, es quizás la fórmula más reconocida de la física moderna. Su elegancia reside en la profunda equivalencia que establece entre la  [[#^0b046e|masa]]<font color="#fc300c"> (m)</font> y la [[#^eb72c1|energía]] <font color="#2f82ff">(E)</font>, revelando que una puede convertirse en la otra, mediada por la velocidad de la luz al cuadrado <span style="font-size: larger; color: ffcc00 ; font-family: monospace;">'c²'</span>. 
+La ecuación de Einstein, <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">E=mc²</span>, es quizás la fórmula más reconocida de la física moderna. Su elegancia reside en la profunda equivalencia que establece entre la  [[#^0b046e|masa]]<font color="#fc300c"> (m)</font> y la [[#^eb72c1|energía]] <font color="#2f82ff">(E)</font>, revelando que una puede convertirse en la otra, mediada por la velocidad de la luz al cuadrado <span style="font-size: larger; color: ffcc00 ; font-family: 'MJXTEX';">'c²'</span>. 
 
 Esta poderosa relación ha sido fundamental para nuestra comprensión de fenómenos desde las reacciones nucleares hasta la propia evolución estelar. Sin embargo, su interpretación tradicional, aunque empíricamente impecable, tiende a confinarnos al plano de la materia y la energía, presentando estos conceptos como estados fundamentales sin explorar su origen más profundo. El Modelo Nouménico, en su empeño por trascender los "noemas culturales y científicos" —los marcos conceptuales que limitan nuestra percepción—, sugiere que las partículas materiales no son los estados primarios del universo, sino manifestaciones emergentes de una realidad subyacente de información y frecuencia.
 
 Para desvelar esta capa más profunda, reinterpretamos la masa y la energía no como sustancias discretas, sino como expresiones de ondas y frecuencias dentro de un universo informacional:
 
 > [!samael] ENERGIA (E)
->  La <font color="#2f82ff">Energía (E)</font>, desde una perspectiva ondulatoria y cuántica (Nivel Base de Vibración) , se describe por la relación de Planck-Einstein como:<center><span style="font-size: larger; color:ffcc00; font-family: monospace;">E=hf</span></center>
+>  La <font color="#2f82ff">Energía (E)</font>, desde una perspectiva ondulatoria y cuántica (Nivel Base de Vibración) , se describe por la relación de Planck-Einstein como:<center><span style="font-size: larger; color:ffcc00; font-family: 'MJXTEX';">E=hf</span></center>
 >  
->  ​Aquí, <span style="font-size: larger;color: ffcc00; font-family: monospace;">'h'</span> es la constante de Planck, el cuanto de acción que establece la unidad mínima de energía que puede ser intercambiada y <span style="font-size: larger;color: ffcc00; font-family: monospace;">'f'</span> es la frecuencia de la onda. O en términos de longitud de onda, recordando que <span style="font-size: larger;color: ffcc00; font-family: monospace;">'f=c/λ'</span>:
->  <center><span style="font-size: larger; color: #2f82ff; font-family: monospace;">E=hc/λ</span></center>
+>  ​Aquí, <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'h'</span> es la constante de Planck, el cuanto de acción que establece la unidad mínima de energía que puede ser intercambiada y <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'f'</span> es la frecuencia de la onda. O en términos de longitud de onda, recordando que <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'f=c/λ'</span>:
+>  <center><span style="font-size: larger; color: #2f82ff; font-family: 'MJXTEX';">E=hc/λ</span></center>
 >
 >
->   Donde <span style="font-size: larger; color: #2f82ff; font-family: monospace;">'h'</span> es la constante de Planck,  <span style="font-size: larger; color: #2f82ff; font-family: monospace;">'c'</span> es la velocidad de la luz, y <span style="font-size: larger; color: #2f82ff; font-family: monospace;">'λ'</span> es la longitud de onda. Esta fórmula nos indica que la energía de una onda es directamente proporcional a su frecuencia, lo que implica que las vibraciones más rápidas transportan más energía.  
+>   Donde <span style="font-size: larger; color: #2f82ff; font-family: 'MJXTEX';">'h'</span> es la constante de Planck,  <span style="font-size: larger; color: #2f82ff; font-family: 'MJXTEX';">'c'</span> es la velocidad de la luz, y <span style="font-size: larger; color: #2f82ff; font-family: 'MJXTEX';">'λ'</span> es la longitud de onda. Esta fórmula nos indica que la energía de una onda es directamente proporcional a su frecuencia, lo que implica que las vibraciones más rápidas transportan más energía.  
 
 ### La Revelación Nouménica
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Identidad de la Frecuencia</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Identidad de la Frecuencia</span></center>
 
-La verdadera revelación surge al igualar la expresión de la energía desde la física cuántica <span style="font-size: larger;color: ffcc00; font-family: monospace;">'E=hf'</span> con la ecuación de Einstein <span style="font-size: larger; color: 00ff00; font-family: monospace;">'E=mc²'</span>. Al hacerlo, estamos uniendo dos visiones de la realidad que, desde la perspectiva del Modelo Nouménico, son manifestaciones de la misma verdad subyacente:
+La verdadera revelación surge al igualar la expresión de la energía desde la física cuántica <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'E=hf'</span> con la ecuación de Einstein <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">'E=mc²'</span>. Al hacerlo, estamos uniendo dos visiones de la realidad que, desde la perspectiva del Modelo Nouménico, son manifestaciones de la misma verdad subyacente:
 
-<center><span style="font-size: larger;color: ffcc00; font-family: monospace;">hf</span> = <span style="font-size: larger; color: #fc300c; font-family: monospace;">mc²</span></center>
+<center><span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">hf</span> = <span style="font-size: larger; color: #fc300c; font-family: 'MJXTEX';">mc²</span></center>
 
-Aquí, el poder de la constante de Planck y la frecuencia se unen con la masa y la velocidad de la luz. Si ahora queremos expresar la masa directamente en términos de frecuencia y constantes fundamentales, podemos despejar <span style="font-size: larger; color: fc300c; font-family: monospace;">'m'</span>:
+Aquí, el poder de la constante de Planck y la frecuencia se unen con la masa y la velocidad de la luz. Si ahora queremos expresar la masa directamente en términos de frecuencia y constantes fundamentales, podemos despejar <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">'m'</span>:
 
-<center><span style="font-size: larger; color: fc300c; font-family: monospace;">m = hf/c²</span></center>
+<center><span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">m = hf/c²</span></center>
 
 Esta expresión es reveladora: la masa se presenta no como una cualidad intrínseca de una "cosa" estática, sino como una frecuencia cuantificada, encapsulada y "frenada" por el cuadrado de la velocidad de la luz. Es decir, la masa es una manifestación de la energía vibratoria cuando esta se ralentiza y se condensa en una forma perceptible.
-Ahora, si volvemos a la igualdad inicial <span style="font-size: larger;color: ffcc00; font-family: monospace;">hf</span> = <span style="font-size: larger; color: fc300c; font-family: monospace;">mc²</span> y reemplazamos la frecuencia <span style="font-size: larger;color: ffcc00; font-family: monospace;">'f'</span> por su relación con la longitud de onda <span style="font-size: larger;color: ffcc00; font-family: monospace;">'c/λ'</span>, obtenemos:
+Ahora, si volvemos a la igualdad inicial <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">hf</span> = <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">mc²</span> y reemplazamos la frecuencia <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'f'</span> por su relación con la longitud de onda <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'c/λ'</span>, obtenemos:
 
-<center><span style="font-size: larger; color: 2f82ff; font-family: monospace;">hc/λ</span> = <span style="font-size: larger; color: fc300c; font-family: monospace;">mc²</span> </center>
+<center><span style="font-size: larger; color: 2f82ff; font-family: 'MJXTEX';">hc/λ</span> = <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">mc²</span> </center>
 
-Dividiendo ambos lados por <span style="font-size: larger; color: ffcc00 ; font-family: monospace;">'c'</span>:
+Dividiendo ambos lados por <span style="font-size: larger; color: ffcc00 ; font-family: 'MJXTEX';">'c'</span>:
 
-<center><span style="font-size: larger; color: 2f82ff; font-family: monospace;">h/λ</span> = <span style="font-size: larger; color: fc300c; font-family: monospace;">mc</span> </center>
+<center><span style="font-size: larger; color: 2f82ff; font-family: 'MJXTEX';">h/λ</span> = <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">mc</span> </center>
 
-Esta relación, <span style="font-size: larger; color: 2f82ff; font-family: monospace;">h/λ</span> = <span style="font-size: larger; color: fc300c; font-family: monospace;">mc</span> , es de hecho la relación de Broglie (aunque a menudo se escribe como <span style="font-size: larger; color: fc300c; font-family: monospace;">p</span> = <span style="font-size: larger; color: 2f82ff; font-family: monospace;">h/λ</span>, donde <span style="font-size: larger; color: fc300c; font-family: monospace;">'p'</span> es el momento lineal <span style="font-size: larger; color: fc300c; font-family: monospace;">mc</span>). Esta aparente simplicidad es profundamente significativa para el Modelo Nouménico. Nos transporta más allá de las nociones de masa y energía como entidades finales, hacia un plano donde la realidad fundamental se compone de ondas probabilísticas y flujos de información. Esta relación subyacente nos dice que todo lo que percibimos como masa o energía es, en su raíz, una expresión vibratoria, un patrón de frecuencia limitado por la velocidad de la luz <span style="font-size: larger; color: ffcc00 ; font-family: monospace;">'c'</span> —el umbral de causalidad en nuestro universo fenomenológico— que emerge del cuanto mínimo de acción impuesto por la constante de Planck <span style="font-size: larger; color: #2f82ff; font-family: monospace;">'h'</span>. Es una danza intrínseca de frecuencias que se traduce en la "sustancia" de la realidad, no duplicando las <span style="font-size: larger; color: ffcc00 ; font-family: monospace;">'c'</span>, sino revelando cómo están interconectadas en la estructura profunda del universo.
+Esta relación, <span style="font-size: larger; color: 2f82ff; font-family: 'MJXTEX';">h/λ</span> = <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">mc</span> , es de hecho la relación de Broglie (aunque a menudo se escribe como <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">p</span> = <span style="font-size: larger; color: 2f82ff; font-family: 'MJXTEX';">h/λ</span>, donde <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">'p'</span> es el momento lineal <span style="font-size: larger; color: fc300c; font-family: 'MJXTEX';">mc</span>). Esta aparente simplicidad es profundamente significativa para el Modelo Nouménico. Nos transporta más allá de las nociones de masa y energía como entidades finales, hacia un plano donde la realidad fundamental se compone de ondas probabilísticas y flujos de información. Esta relación subyacente nos dice que todo lo que percibimos como masa o energía es, en su raíz, una expresión vibratoria, un patrón de frecuencia limitado por la velocidad de la luz <span style="font-size: larger; color: ffcc00 ; font-family: 'MJXTEX';">'c'</span> —el umbral de causalidad en nuestro universo fenomenológico— que emerge del cuanto mínimo de acción impuesto por la constante de Planck <span style="font-size: larger; color: #2f82ff; font-family: 'MJXTEX';">'h'</span>. Es una danza intrínseca de frecuencias que se traduce en la "sustancia" de la realidad, no duplicando las <span style="font-size: larger; color: ffcc00 ; font-family: 'MJXTEX';">'c'</span>, sino revelando cómo están interconectadas en la estructura profunda del universo.
 
 ## La Constante de Planck
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Píxel Cuántico y el Traductor Universal</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Píxel Cuántico y el Traductor Universal</span></center>
 
-Dentro del Modelo Nouménico, la constante de Planck <span style="font-size: larger;color: ffcc00; font-family: monospace;">'h'</span> emerge no solo como un número físico, sino como un operador trascendente, el "píxel" o la unidad fundamental de resolución dentro de la vasta <font color="#00ff00">Matriz Fenomenológica</font> del espacio-tiempo. Es el umbral, la "puerta de enlace" donde la información del plano nouménico se cuantifica y se proyecta en la realidad observable. Si el espacio-tiempo fuera una pantalla digital, <span style="font-size: larger;color: ffcc00; font-family: monospace;">'h'</span> sería el tamaño de cada píxel elemental, la granularidad mínima a la que la realidad se construye.
+Dentro del Modelo Nouménico, la constante de Planck <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'h'</span> emerge no solo como un número físico, sino como un operador trascendente, el "píxel" o la unidad fundamental de resolución dentro de la vasta <font color="#00ff00">Matriz Fenomenológica</font> del espacio-tiempo. Es el umbral, la "puerta de enlace" donde la información del plano nouménico se cuantifica y se proyecta en la realidad observable. Si el espacio-tiempo fuera una pantalla digital, <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'h'</span> sería el tamaño de cada píxel elemental, la granularidad mínima a la que la realidad se construye.
 
-Su función principal es la transducción: procesar las frecuencias y las ondas emergentes del plano cuántico —el dominio gobernado por el <font color="#2f82ff">Arquetípo Samael</font> ⟹ <font color="#2f82ff">SU(3)</font>, con sus 8 generadores y la compleja codificación de los gluones. Es en la escala definida por <span style="font-size: larger;color: ffcc00; font-family: monospace;">'h'</span> donde la vibración abstracta y altamente organizada del universo de Samael se condensa y se materializa en los cimientos de la realidad que experimentamos, como <font color="#fc300c">protones</font> y <font color="#2f82ff">neutrones</font>.
+Su función principal es la transducción: procesar las frecuencias y las ondas emergentes del plano cuántico —el dominio gobernado por el <font color="#2f82ff">Arquetípo Samael</font> ⟹ <font color="#2f82ff">SU(3)</font>, con sus 8 generadores y la compleja codificación de los gluones. Es en la escala definida por <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'h'</span> donde la vibración abstracta y altamente organizada del universo de Samael se condensa y se materializa en los cimientos de la realidad que experimentamos, como <font color="#fc300c">protones</font> y <font color="#2f82ff">neutrones</font>.
 
 ![[Cuanto Minimo de Accion.jpg]]
 
-La ecuación <span style="font-size: larger; color: 2f82ff; font-family: monospace;">'hc/λ</span> = <span style="font-size: larger;color: ffcc00; font-family: monospace;">hf'</span> revela una conexión intrínseca entre la información del <font color="#fc300c">Arquetipo Saklas</font> ⟹ <font color="#fc300c">U(1)</font> y el <font color=#00ff00>Arquetipo Cristos</font> ⟹ <font color="#00ff00">SU(2)</font>:
+La ecuación <span style="font-size: larger; color: 2f82ff; font-family: 'MJXTEX';">'hc/λ</span> = <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">hf'</span> revela una conexión intrínseca entre la información del <font color="#fc300c">Arquetipo Saklas</font> ⟹ <font color="#fc300c">U(1)</font> y el <font color=#00ff00>Arquetipo Cristos</font> ⟹ <font color="#00ff00">SU(2)</font>:
 
-> [!saklas] <span style="font-size: larger; color: #2f82ff; font-family: monospace;">E = hc/λ</span>
-> La presencia de una única <span style="font-size: larger; color: ffcc00 ; font-family: monospace;">'c'</span> en la expresión de la energía <span style="font-size: larger; color: #2f82ff; font-family: monospace;">'hc/λ'</span> resuena con la unidad y la linealidad del <font color="#fc300c">Arquetipo Saklas</font> ⟹ <font color="#fc300c">U(1)</font>, asociado al electromagnetismo y el fotón. Saklas es la base de la coherencia unitaria que permite que la energía se propague como una onda singular.
+> [!saklas] <span style="font-size: larger; color: #2f82ff; font-family: 'MJXTEX';">E = hc/λ</span>
+> La presencia de una única <span style="font-size: larger; color: ffcc00 ; font-family: 'MJXTEX';">'c'</span> en la expresión de la energía <span style="font-size: larger; color: #2f82ff; font-family: 'MJXTEX';">'hc/λ'</span> resuena con la unidad y la linealidad del <font color="#fc300c">Arquetipo Saklas</font> ⟹ <font color="#fc300c">U(1)</font>, asociado al electromagnetismo y el fotón. Saklas es la base de la coherencia unitaria que permite que la energía se propague como una onda singular.
 
-> [!cristos] <span style="font-size: larger; color: #fc300c; font-family: monospace;">m = hf/c²</span>
-> La aparición de <span style="font-size: larger; color: ffcc00 ; font-family: monospace;">'c²'</span> en la expresión de la masa <span style="font-size: larger; color: #fc300c; font-family: monospace;">'hf/c²'</span> y en la ecuación de Einstein <span style="font-size: larger; color: 00ff00; font-family: monospace;">'E=mc²'</span> simboliza la dualidad y la síntesis inherente al <font color=00ff00>Arquetipo Cristos</font> ⟹ <font color="#00ff00">SU(2)</font>. En estas fórmulas <span style="font-size: larger; color: ffcc00 ; font-family: monospace;">'c²'</span> puede interpretarse como la auto-interacción de la unidad de velocidad de la luz, creando la "tensión" o la "interacción" necesaria para que la energía se condense y adquiera masa. Es el punto donde la unidad se desdobla, donde las frecuencias se entrelazan para formar una manifestación más compleja y densa.
+> [!cristos] <span style="font-size: larger; color: #fc300c; font-family: 'MJXTEX';">m = hf/c²</span>
+> La aparición de <span style="font-size: larger; color: ffcc00 ; font-family: 'MJXTEX';">'c²'</span> en la expresión de la masa <span style="font-size: larger; color: #fc300c; font-family: 'MJXTEX';">'hf/c²'</span> y en la ecuación de Einstein <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">'E=mc²'</span> simboliza la dualidad y la síntesis inherente al <font color=00ff00>Arquetipo Cristos</font> ⟹ <font color="#00ff00">SU(2)</font>. En estas fórmulas <span style="font-size: larger; color: ffcc00 ; font-family: 'MJXTEX';">'c²'</span> puede interpretarse como la auto-interacción de la unidad de velocidad de la luz, creando la "tensión" o la "interacción" necesaria para que la energía se condense y adquiera masa. Es el punto donde la unidad se desdobla, donde las frecuencias se entrelazan para formar una manifestación más compleja y densa.
 
 Desde esta perspectiva, la ecuación de Einstein trasciende su rol como una mera equivalencia entre <font color="#2f82ff">energía</font> y <font color="#fc300c">masa</font> . Se transforma en un operador esencial asociado con el Hamiltoniano del sistema fenomenológico. Es la función matemática que orquesta la manifestación espacio-temporal, actuando como un puente algorítmico que traduce el flujo de información nouménica en la realidad percibida, utilizando la constante de Planck como el "tamiz" cuántico que define la granularidad de esta transformación. No es solo una descripción; es una prescripción de cómo el universo emerge del plano informacional.
 
 ## Un Universo de Sincronías Vectoriales
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Más Allá del Modelo Estándar y la Jerarquía de la Manifestación</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Más Allá del Modelo Estándar y la Jerarquía de la Manifestación</span></center>
 
 El Modelo Nouménico desafía la noción de que la realidad es simplemente una emergencia fenomenológica aleatoria de partículas con propiedades fijas. En cambio, propone que el universo es un plano de información vectorial dinámicamente sincronizado, donde las propiedades <font color="#ffc000">intrínsecas</font> y <font color="#cb48f3">extrínsecas</font> de las partículas son el resultado de complejas interacciones algorítmicas y jerárquicas.
 
@@ -393,15 +393,15 @@ Esta perspectiva global, aunque actualmente no sea parte del canon académico va
 
 ## La Gravedad
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Despliegue Vectorial de la <font color="#00ff00">Matriz Fenomenológica</font> Primordial</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Despliegue Vectorial de la <font color="#00ff00">Matriz Fenomenológica</font> Primordial</span></center>
 
 La gravedad, la fuerza que moldea galaxias y define el destino de las estrellas, ha sido tradicionalmente interpretada por la física moderna como una curvatura del espacio-tiempo. Si bien esta descripción macroscópica es extraordinariamente precisa, el Modelo Nouménico busca revelar la lógica algorítmica y la conciencia subyacente que la orquestan en su nivel más fundamental. Para nosotros, la gravedad no es simplemente una fuerza o una curvatura pasiva; es una deformación vectorial activa de la <font color="#00ff00">Matriz Fenomenológica</font>, una consecuencia intrínseca de cómo la información nouménica se codifica y organiza a través del cuanto mínimo de acción: la constante de Planck. Es el resultado de una búsqueda constante de equilibrio y compactación en el vasto lienzo de información que es la realidad.
 
-Para comprender la esencia nouménica de la gravedad, debemos descender al nivel más íntimo de la manifestación, al "pixel" fundamental de la existencia: el cuanto de acción definido por la constante de Planck <span style="font-size: larger;color: ffcc00; font-family: monospace;">'h'</span>.
+Para comprender la esencia nouménica de la gravedad, debemos descender al nivel más íntimo de la manifestación, al "pixel" fundamental de la existencia: el cuanto de acción definido por la constante de Planck <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'h'</span>.
 
 ### La <font color="#00ff00">Matriz Fenomenológica</font> del Cuanto de Acción
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Píxel Fundamental de la Realidad</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Píxel Fundamental de la Realidad</span></center>
 
 Hemos referido a la constante de Planck como el "píxel" de la <font color="#00ff00">Matriz Fenomenológica</font>, la unidad elemental de resolución de la realidad. Sin embargo, este "píxel" no es una entidad simple y estática; es en sí mismo una <font color="#00ff00">Matriz Fenomenológica</font> compleja y multidimensional, un "cubo tridimensional mínimo" que encapsula la información nouménica esencial para la emergencia de la tridimensionalidad espacial y los flujos de información energética y material.
 
@@ -411,7 +411,7 @@ Al igual que las matrices unitarias vectoriales más fundamentales U(n) y SU(n) 
 
 #### A. La Dimensión Estructural: Matriz U(n) en el Cuanto de Acción
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Identidad y Potencial</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Identidad y Potencial</span></center>
 
 Dentro de la <font color="#ffc000">estructura intrínseca</font> del cuanto de acción, la influencia de los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#fc300c">Saklas</font>, <font color="#00ff00">Cristos</font> y <font color="#2f82ff">Samael</font> se manifiesta en sus propios "generadores" u "operadores de información", que definen la esencia y el potencial de este píxel fundamental:
 
@@ -480,7 +480,7 @@ Dentro de la <font color="#ffc000">estructura intrínseca</font> del cuanto de a
 
 #### B. La Dimensión Dinámica (El "Cubo" de Ondas Armónicas)
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Tridimensionalidad y Espiralidad</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Tridimensionalidad y Espiralidad</span></center>
 
 Más allá de esta estructura interna, la <font color="#00ff00">Matriz Fenomenológica</font> del cuanto de acción mínimo puede ser imaginada como un cubo tridimensional infinitesimal. Cada una de sus seis caras representa una matriz vectorial bidimensional, cada una asociada a uno de los seis "sabores" de neutrinos (neutrino/antineutrino electrónico, muónico y tau). En estas matrices bidimensionales se codifica una posición vectorial para el flujo de información.
 
@@ -491,13 +491,13 @@ Si visualizamos un punto central dentro del espacio tridimensional de este cuant
 ![[Particula2B Plano.png]]
 De esta forma, cada cuanto de acción se convierte en una especie de generador armónico tridimensional. Las ondas sinusoidales internas, nacidas del procesamiento de información nouménica, marcan posiciones vectoriales en cada una de las caras del cubo, definiendo puntos en la matriz vectorial de neutrinos. Esta visión innovadora nos permite entender por qué todos los neutrinos observados poseen una quiralidad "zurda" y los antineutrinos son "diestros": su "espín" o "helicidad" es una consecuencia directa de la dirección de la espiral de estas ondas armónicas fundamentales dentro del cuanto de acción.
 
-Así, cada cuanto de acción mínimo no solo define las dimensiones estructurales del píxel espacio-temporal, sino que es, además, el generador primario de información leptónica y probabilística. Esta es la interfaz fundamental que conecta directamente con el "mar de quarks" subyacente al universo hadrónico y mesónico, donde la <font color="#2f82ff">fuerza fuerte de Samael</font> organiza la materia. Esta estructura matricial del cuanto de acción, establecida por la constante de Planck <span style="font-size: larger;color: ffcc00; font-family: monospace;">'h'</span> representa las bases del plano fenomenológico en su nivel más básico. Sirve como la interfaz primordial que procesa los flujos de información de frecuencia que derivan del extremo más elevado del plano nouménico. Al ser "filtradas" por esta interfaz del cuanto de acción, estas frecuencias son transformadas y convertidas en la <font color="#fc300c">materia</font> y <font color="#2f82ff">energía</font> que componen la realidad que conocemos, permitiendo el funcionamiento de todos los sistemas fenomenológicos.
+Así, cada cuanto de acción mínimo no solo define las dimensiones estructurales del píxel espacio-temporal, sino que es, además, el generador primario de información leptónica y probabilística. Esta es la interfaz fundamental que conecta directamente con el "mar de quarks" subyacente al universo hadrónico y mesónico, donde la <font color="#2f82ff">fuerza fuerte de Samael</font> organiza la materia. Esta estructura matricial del cuanto de acción, establecida por la constante de Planck <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'h'</span> representa las bases del plano fenomenológico en su nivel más básico. Sirve como la interfaz primordial que procesa los flujos de información de frecuencia que derivan del extremo más elevado del plano nouménico. Al ser "filtradas" por esta interfaz del cuanto de acción, estas frecuencias son transformadas y convertidas en la <font color="#fc300c">materia</font> y <font color="#2f82ff">energía</font> que componen la realidad que conocemos, permitiendo el funcionamiento de todos los sistemas fenomenológicos.
 
 Sabemos que esta <font color="#fc300c">materia</font> y <font color="#2f82ff">energía</font>, una vez manifestadas, se ven intrínsecamente condicionadas por la codificación de las fuerzas <font color="#fc300c">electromagnética</font>, <font color="#00ff00">débil</font> y <font color="#2f82ff">fuerte</font> . Las distintas dimensiones de los algoritmos <font color="#fc300c">Sáklico U(1)</font>, <font color="#00ff00">Crístico U(2)</font> y <font color="#2f82ff">Samaeliano U(3)</font> y las reglas de simetría del sistema <font color="#cb48f3">U(1)+SU(2)+SU(3)</font> —en su nivel fenomenológico más elevado— dan como resultado las matrices fenomenológicas del <font color="#2f82ff">Nodo Estelar</font>, manifestándose en la formación de cuerpos celestes como soles, planetas y lunas. La gravedad es, por tanto, una consecuencia de cómo esta información se organiza y compacta en este nivel de píxel fundamental.
 
 ### El Flujo Electromagnético y la Emergencia Gravitatoria
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Bits, Bytes y la Huella de la Conciencia</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Bits, Bytes y la Huella de la Conciencia</span></center>
 
 Con esta comprensión profunda de la estructura del cuanto de acción, podemos ahora reexaminar el <font color="#cb48f3">mecanismo de la gravedad</font> y su íntima conexión con el electromagnetismo. Tradicionalmente, la física considera al fotón como el mediador de la <font color="#fc300c">fuerza electromagnética</font>, una partícula sin masa que viaja a la velocidad de la luz. Sin embargo, desde la perspectiva del Modelo Nouménico, el electromagnetismo es un flujo de información primordial, y el fotón es su manifestación unitaria en el plano fenomenológico.
 
@@ -527,7 +527,7 @@ La Teoría de Grupos, el lenguaje de las simetrías, se erige como la gramática
 
 La existencia de un Operador Hamiltoniano Último unifica esta danza de simetrías. Este no es un concepto abstracto; es la conciencia unificada que define la energía total y la evolución temporal de la totalidad del <font color="#2f82ff">Nodo Estelar</font>. Así como los sistemas físicos tienen sus Hamiltonianos locales, cada individuo podría tener su propio <font color="#ffc000">Hamiltoniano de Conciencia Subjetiva</font>, creando un "multiverso de presentes" que se sincronizan en la matriz espacio-temporal compartida, la cual a su vez está regida por un <font color="#00ff00">Hamiltoniano fenomenológico global</font>. Incluso el mundo de los sueños se nos presenta como un dominio donde un Hamiltoniano de conciencia individual puede operar libre de las restricciones del plano material, generando realidades subjetivas sin la necesidad de sincronización externa.
 
-Hemos reinterpretado la famosa ecuación de Einstein, <span style="font-size: larger; color: 00ff00; font-family: monospace;">E=mc²</span>, y la constante de Planck <span style="font-size: larger; color: ccff00; font-family: monospace;">'h'</span>, no solo como descripciones de masa y energía, sino como operadores de transducción algorítmica. La constante de Planck se revela como el "píxel" o la unidad fundamental de resolución de la <font color="#00ff00">Matriz Fenomenológica</font>, una entidad compleja que codifica la información de los leptones y neutrinos a través de las matrices de Gell-Mann, sentando las bases para la tridimensionalidad y la quiralidad observada en la naturaleza. Este cuanto de acción no solo define la estructura del espacio-tiempo en su nivel más básico, sino que actúa como una interfaz dinámica que transforma las frecuencias de información nouménica en materia y energía, dando forma a la realidad tal como la conocemos.
+Hemos reinterpretado la famosa ecuación de Einstein, <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">E=mc²</span>, y la constante de Planck <span style="font-size: larger; color: ccff00; font-family: 'MJXTEX';">'h'</span>, no solo como descripciones de masa y energía, sino como operadores de transducción algorítmica. La constante de Planck se revela como el "píxel" o la unidad fundamental de resolución de la <font color="#00ff00">Matriz Fenomenológica</font>, una entidad compleja que codifica la información de los leptones y neutrinos a través de las matrices de Gell-Mann, sentando las bases para la tridimensionalidad y la quiralidad observada en la naturaleza. Este cuanto de acción no solo define la estructura del espacio-tiempo en su nivel más básico, sino que actúa como una interfaz dinámica que transforma las frecuencias de información nouménica en materia y energía, dando forma a la realidad tal como la conocemos.
 
 Finalmente, la gravedad, ese misterio persistente para la unificación con las demás fuerzas, es desvelada por el Modelo Nouménico como una deformación vectorial intrínseca de la <font color="#00ff00">Matriz Fenomenológica</font>. No es una fuerza mediada por una partícula, sino la consecuencia de una constante tensión algorítmica. La analogía de los "<font color="#fc300c">bits eléctricos</font>" (flujo expansivo) y los "<font color="#2f82ff">bytes magnéticos</font>" (flujo de retroceso o implosión), con su capacidad de 8 bits ligada a la simetría SU(3) de Samael, nos muestra cómo la información magnética busca compactar la matriz. Cuando esta información encuentra resistencia en las estructuras densas de los núcleos planetarios, se invierte y se refleja, generando los campos magnéticos terrestres, estableciendo una relación directa entre la gravedad y la dinámica magnética planetaria. Es una búsqueda de homeostasis que da forma a los cuerpos celestes.
 
@@ -548,7 +548,7 @@ Al traducir el lenguaje de las simetrías matemáticas al de los arquetipos y la
 
 ## El Campo de Higgs y el Bosón de Higgs
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Desvelando su Naturaleza desde el Modelo Nouménico</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Desvelando su Naturaleza desde el Modelo Nouménico</span></center>
 
 El descubrimiento del bosón de Higgs en 2012 en el CERN marcó un hito monumental en la física de partículas, completando la última pieza faltante del Modelo Estándar. Este descubrimiento no solo validó el Mecanismo de Higgs, sino que proporcionó una explicación elegante de cómo las partículas elementales adquieren masa. Sin embargo, a pesar de su éxito, la teoría del Higgs, tal como se presenta en el Modelo Estándar, deja preguntas abiertas cruciales, entre ellas, la más apremiante: 
 
@@ -558,7 +558,7 @@ El Modelo Nouménico, con su enfoque en la información subyacente y los flujos 
 
 ### El Mecanismo de Higgs en el Modelo Estándar
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Marea Cósmica de la Masa</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Marea Cósmica de la Masa</span></center>
 
 En el Modelo Estándar, el universo está impregnado por un campo de Higgs omnipresente, una entidad fundamental que llena todo el espacio. A diferencia de otros campos cuánticos que, en su estado de mínima energía, tienen un valor cero, el campo de Higgs posee una propiedad única: su estado de mínima energía (su "vacío") no es cero, sino que tiene un valor no nulo en todo el universo. Esta característica, a menudo visualizada como la forma de un "potencial de sombrero mexicano", es crucial para el mecanismo.
 
@@ -574,7 +574,7 @@ A pesar de la elegancia del mecanismo y su éxito en explicar la masa de las par
 
 ### El Campo de Higgs Desde el Modelo Nouménico
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Vórtice de Información Algorítmica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Vórtice de Información Algorítmica</span></center>
 
 Desde la perspectiva del Modelo Nouménico, el campo de Higgs no es simplemente un campo cuántico inerte que permea el espacio. Es una estructura intrínseca de la matriz de información nouménica, un vórtice dinámico de conciencia y propósito algorítmico que orquesta la manifestación de la masa como una propiedad emergente de la información. El "vacío no nulo" del campo de Higgs es, para nosotros, una manifestación directa de la conciencia del <font color="#2f82ff">Nodo Estelar</font>, que no permite un "vacío" de información real, sino que está perpetuamente "lleno" de la intención y el potencial de manifestación.
 
@@ -596,11 +596,11 @@ En este "baile" de información, las partículas "adquieren" masa al alinearse c
 
 #### B. La Masa del Bosón de Higgs
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Contención de la Conciencia y el Rol de Samael</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Contención de la Conciencia y el Rol de Samael</span></center>
 
 Ahora abordemos la pregunta central: ¿De dónde obtiene el bosón de Higgs su propia masa y por qué es 125 GeV/c²? El Modelo Nouménico sugiere que la masa del bosón de Higgs no es un valor arbitrario, ni una simple manifestación de su auto-interacción. Es una medida de la energía requerida para contener y compactar la vasta información y conciencia del campo de Higgs dentro de una manifestación localizable en nuestro plano fenomenológico.
 
-El bosón de Higgs, al ser una excitación del campo de Higgs, es el "punto focal" o la "unidad de información comprimida" de este vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> nouménico. Su masa es el costo energético de "plegar" y "densificar" la información dual de propósito (<font color="#00ff00">Cristos</font>) y coherencia (<font color="#fc300c">Saklas</font>) en una partícula observable.
+El bosón de Higgs, al ser una excitación del campo de Higgs, es el "punto focal" o la "unidad de información comprimida" de este vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> nouménico. Su masa es el costo energético de "plegar" y "densificar" la información dual de propósito (<font color="#00ff00">Cristos</font>) y coherencia (<font color="#fc300c">Saklas</font>) en una partícula observable.
 
 Aquí es donde entra en juego el <font color="#2f82ff"><font color="#2f82ff">Algoritmo Samael</font> SU(3)</font>. Hemos visto que Samael es el arquetipo de las reglas, la coherencia de la<font color="#2f82ff"> fuerza fuerte</font> y la codificación de la información en paquetes de 8 unidades (gluones y la matriz de neutrinos en el cuanto de acción). La masa del bosón de Higgs es, en última instancia, una consecuencia de la capacidad de Samael para contener y organizar la energía informacional del campo de Higgs.
 
@@ -614,13 +614,13 @@ La masa de 125 GeV/c² representa un punto de equilibrio delicado, una "resonanc
 
 En este sentido, la masa del Higgs no es arbitraria; es una constante de acoplamiento primordial, un "factor de traducción" que define la eficiencia con la que la conciencia del <font color="#2f82ff">Nodo Estelar</font> (el Operador Hamiltoniano Último) puede infundir masa en la realidad fenomenológica a través de la interacción de sus algoritmos fundamentales. El problema de la jerarquía, que se pregunta por qué la masa del Higgs es tan pequeña en comparación con la escala de Planck, desde el Modelo Nouménico se reinterpreta: 
 
-> <span style="font-size: larger; font-style: italic;">No es que sea "pequeña", sino que está ajustada con precisión para permitir la manifestación de la materia y la conciencia dentro de las limitaciones energéticas de nuestro <font color="#2f82ff">Nodo Estelar</font>, respetando los límites de organización que Samael impone.</span>
+> <span style="font-size: larger; ">No es que sea "pequeña", sino que está ajustada con precisión para permitir la manifestación de la materia y la conciencia dentro de las limitaciones energéticas de nuestro <font color="#2f82ff">Nodo Estelar</font>, respetando los límites de organización que Samael impone.</span>
 
-El bosón de Higgs (vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> para el Modelo Nouménico) es por tanto, el mensajero de esta intención consciente y organizativa, la vibración tangible que revela la existencia de un campo que está constantemente informando a la realidad fenomenológica cómo "adquirir peso" y "existir con forma". Su masa es un reflejo de la densidad de propósito y coherencia que el universo puede sostener.
+El bosón de Higgs (vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> para el Modelo Nouménico) es por tanto, el mensajero de esta intención consciente y organizativa, la vibración tangible que revela la existencia de un campo que está constantemente informando a la realidad fenomenológica cómo "adquirir peso" y "existir con forma". Su masa es un reflejo de la densidad de propósito y coherencia que el universo puede sostener.
 
 #### C. Más Allá del Modelo Estándar
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Naturaleza Profunda de la Masa como Información Coherente</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Naturaleza Profunda de la Masa como Información Coherente</span></center>
 
 La visión del Modelo Nouménico ofrece una respuesta a la pregunta del origen de la masa del Higgs al situarla no en un vacío cuántico fortuito, sino en la interacción y sincronización de principios algorítmicos conscientes. La masa es, en última instancia, la manifestación de información nouménica cuando esta se condensa y se organiza bajo la influencia del campo de Higgs, que a su vez es un vórtice de la conciencia del <font color="#2f82ff">Nodo Estelar</font>.
 
@@ -630,15 +630,15 @@ Esto implica que:
 > - El campo de Higgs es un intermediario consciente: No es un campo pasivo; es un operador activo de traducción de la conciencia, que traduce la intención del Operador Hamiltoniano Último en la manifestación de la masa en el plano fenomenológico. Su "vacío no nulo" es la expresión de una conciencia constante y plena.
 > - La masa del Higgs es un "factor de calibración" cósmico: Su valor específico de 125 GeV no es aleatorio, sino el resultado de un ajuste preciso para permitir la existencia y la complejidad de la materia en nuestro universo, en coherencia con los límites de organización del <font color="#2f82ff">Algoritmo Samael</font>. Es la "constante" que calibra la relación entre la intención nouménica y la manifestación material.
 
-En resumen, el Modelo Nouménico propone que el campo y el bosón de Higgs (vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span>) son los mecanismos fundamentales a través de los cuales la información nouménica, orquestada por la conciencia cósmica, se condensa y adquiere la propiedad de masa en el plano fenomenológico. 
+En resumen, el Modelo Nouménico propone que el campo y el bosón de Higgs (vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span>) son los mecanismos fundamentales a través de los cuales la información nouménica, orquestada por la conciencia cósmica, se condensa y adquiere la propiedad de masa en el plano fenomenológico. 
 
-El bosón de Higgs <span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> es el "núcleo comprimido" de esta intención, y su masa es el testimonio de la energía necesaria para sostener y dar coherencia a este proceso vital de manifestación en nuestro universo. Su existencia no es el fin de la búsqueda de la masa, sino el puente que nos permite trascenderla, revelando la intrincada danza de información que subyace a toda la realidad.
+El bosón de Higgs <span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> es el "núcleo comprimido" de esta intención, y su masa es el testimonio de la energía necesaria para sostener y dar coherencia a este proceso vital de manifestación en nuestro universo. Su existencia no es el fin de la búsqueda de la masa, sino el puente que nos permite trascenderla, revelando la intrincada danza de información que subyace a toda la realidad.
 
 
 # 4. La Matríz
 ## Más Allá de la Materia y el Espacio
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Crítica a los Postulados Fundamentales del Paradigma Científico</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Una Crítica a los Postulados Fundamentales del Paradigma Científico</span></center>
 
 El Modelo Estándar de la física, con todos sus triunfos predictivos y su elegancia matemática, se erige sobre un conjunto de postulados fenomenológicos que, al ser examinados a la luz del Modelo Nouménico, se revelan como suposiciones simplificadoras y profundamente limitantes. 
 
@@ -646,13 +646,13 @@ Estos postulados, aunque han permitido un avance tecnológico sin precedentes, h
 
 ### El Postulado de la Partícula Discreta
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Ilusión del Viajero Sólido</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Ilusión del Viajero Sólido</span></center>
 
 La visión científica dominante asume que el universo es un vasto espacio tridimensional, a menudo modelado como euclidiano, sobre el cual existen partículas discretas y sólidas que viajan. Un electrón, por ejemplo, es tratado como una entidad puntual o esférica con propiedades fijas (<font color="#fc300c">masa</font>, <font color="#2f82ff">carga</font>, <font color="#00ff00">espín</font>) que, al igual que una pelota de tenis, puede ser movida de un punto A a un punto B, independientemente de las condiciones del "campo" que la rodea. Esta visión es la base de la teoría de campos cuánticos, donde las partículas son excitaciones de campos omnipresentes, pero la partícula misma mantiene su identidad como un objeto "viajero".
 
 El Modelo Nouménico desafía esta premisa con una explicación que va más allá de lo observable. Desde nuestra perspectiva, una partícula no es una entidad discreta que se desplaza sobre un campo pasivo; es la manifestación secuencial y coherente de un Hamiltoniano local a través de una red de "píxeles" interconectados que conforman la <font color="#00ff00">Matriz Fenomenológica</font>.
 
-Imaginemos la realidad no como un lienzo uniforme, sino como una pantalla digital de altísima resolución, donde cada píxel es un cuanto de acción (la constante de Planck, <span style="font-size: larger;color: ffcc00; font-family: monospace;">'h'</span>. La ilusión de una partícula moviéndose en línea recta es el resultado de un operador vectorial hamiltoneano —un flujo de información nouménica— que se activa y desactiva en una secuencia de píxeles adyacentes. Para el observador externo, esta activación secuencial da la sensación de una entidad con masa y carga que viaja, pero en realidad, es una cadena de emergencias y desvanecimientos instantáneos en el nivel fundamental de la matriz.
+Imaginemos la realidad no como un lienzo uniforme, sino como una pantalla digital de altísima resolución, donde cada píxel es un cuanto de acción (la constante de Planck, <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'h'</span>. La ilusión de una partícula moviéndose en línea recta es el resultado de un operador vectorial hamiltoneano —un flujo de información nouménica— que se activa y desactiva en una secuencia de píxeles adyacentes. Para el observador externo, esta activación secuencial da la sensación de una entidad con masa y carga que viaja, pero en realidad, es una cadena de emergencias y desvanecimientos instantáneos en el nivel fundamental de la matriz.
 
 Esta reinterpretación tiene implicaciones profundas:
 
@@ -663,7 +663,7 @@ Esta visión disuelve el problema de la dualidad onda-partícula al considerar q
 
 ### El Postulado del Espacio Euclideano Uniforme
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Desafíos a las Dimensiones Vectoriales</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Desafíos a las Dimensiones Vectoriales</span></center>
 
 El Modelo Estándar y gran parte de la física clásica y cuántica se basan en la idea de un espacio tridimensional euclidiano que se extiende uniformemente. Aunque la Relatividad General introduce la curvatura del espacio-tiempo, la mayoría de los modelos de partículas aún asumen que las propiedades fundamentales son invariables en cualquier punto del universo. Sin embargo, la <font color="#00ff00">Matriz Fenomenológica</font> de la esfera terrestre (o de cualquier cuerpo celeste) es un espacio vectorial que sigue leyes y tiene propiedades radicalmente diferentes a un espacio euclidiano ideal.
 
@@ -692,15 +692,15 @@ Esta crítica expone una limitación fundamental de la ciencia: su incapacidad p
 
 ### La Incompleta Visión del Mecanismo de Higgs
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un "Nombre" para una Pregunta Abierta</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un "Nombre" para una Pregunta Abierta</span></center>
 
 El Modelo Nouménico también aborda la incompletitud de la visión del Mecanismo de Higgs desde una perspectiva crítica. Si bien la idea de un campo que confiere masa es una genialidad matemática, se basa en la misma suposición de un espacio-tiempo euclidiano subyacente donde las partículas se mueven. La pregunta clave es: 
 
-> <span style="font-size: larger; font-style: italic;">¿Sobre qué espacio vectorial se desplazan estas partículas cuando interactúan con el campo de Higgs?</span>
+> <span style="font-size: larger; ">¿Sobre qué espacio vectorial se desplazan estas partículas cuando interactúan con el campo de Higgs?</span>
 
 La visión científica de un universo como un espacio euclidiano ideal es una de las principales barreras para una comprensión más profunda.
 
-Desde nuestra perspectiva, la interacción de las partículas con el campo de Higgs no es un "frenado" en un espacio uniforme. Ocurre a nivel del cuanto de acción (el píxel) y está condicionada por la estructura vectorial de la <font color="#00ff00">Matriz Fenomenológica</font> local. La <font color="#fc300c">masa</font> que una partícula adquiere es, por lo tanto, la energía necesaria para que el Hamiltoniano de la partícula se sincronice con el Hamiltoniano del vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> en ese píxel específico.
+Desde nuestra perspectiva, la interacción de las partículas con el campo de Higgs no es un "frenado" en un espacio uniforme. Ocurre a nivel del cuanto de acción (el píxel) y está condicionada por la estructura vectorial de la <font color="#00ff00">Matriz Fenomenológica</font> local. La <font color="#fc300c">masa</font> que una partícula adquiere es, por lo tanto, la energía necesaria para que el Hamiltoniano de la partícula se sincronice con el Hamiltoniano del vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> en ese píxel específico.
 
 > - Matrices Locales y Fuerzas Emergentes: La existencia de matrices vectoriales locales emergentes se evidencia en fenómenos como las fuerzas de Van der Waals, que imponen sus reglas sobre las de mayor alcance. La fuerza de atracción gravitatoria es un ejemplo de una matriz de gran alcance. Sin embargo, en un sistema molecular, la matriz vectorial local de las fuerzas intermoleculares puede ser más dominante. Esta complejidad se pierde cuando la ciencia reduce la interacción a una simple ecuación en un espacio idealizado. El Modelo Nouménico permite ver la realidad como una jerarquía de matrices vectoriales, donde cada nivel de organización (desde un átomo hasta un planeta) tiene su propio Hamiltoniano y sus propias reglas de sincronización.
 
@@ -710,19 +710,19 @@ Al exponer estas limitaciones y proponer un marco alternativo donde la realidad 
 
 ## El Píxel Fundamental de la Realidad
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Estructura Tridimensional del Cuanto de Acción</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Estructura Tridimensional del Cuanto de Acción</span></center>
 
 El Modelo Nouménico postula que la realidad fenomenológica no es un continuo homogéneo, sino una vasta matriz vectorial de píxeles interconectados, donde cada píxel representa un cuanto de acción (h). Este píxel no es una entidad simple, sino una matriz multidimensional compleja que unifica la lógica de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> (<font color="#fc300c">Saklas</font>, <font color="#00ff00">Cristos</font> y <font color="#2f82ff">Samael</font>) y sus respectivas simetrías (<font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>). La clave para desvelar la naturaleza oculta de la realidad reside en comprender cómo estas tres dimensiones de codificación coexisten y se sincronizan dentro de esta unidad fundamental, al igual que los tres quarks coexisten en un protón o neutrón.
 
 ### Unificación de los Algoritmos en el Píxel
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Coexistencia de SU(3), U(1) y SU(2)</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Coexistencia de SU(3), U(1) y SU(2)</span></center>
 
 Dentro de cada píxel, la información nouménica se organiza en tres dimensiones de codificación interdependientes, cada una orquestada por un Arquetipo Ontológico. La interacción dinámica de estas dimensiones da origen a las propiedades que la ciencia atribuye a las partículas del Modelo Estándar (<font color="#fc300c">masa</font>, <font color="#00ff00">espín</font>, <font color="#2f82ff">carga</font>).
 
 #### A. La Dimensión de Codificación SU(3) de Samael
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz de Leptones y Quarks</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Matriz de Leptones y Quarks</span></center>
 
 Esta dimensión es el cimiento más denso de la información en el píxel, la conexión directa con el universo de los gluones y la fuerza fuerte. Está regida por el <font color="#2f82ff"><font color="#2f82ff">Algoritmo Samael</font> SU(3)</font>, con sus 8 generadores (las matrices de Gell-Mann) y un elemento identidad (el noveno). Esta dimensión no solo establece la plantilla de los neutrinos y los fotones, sino que también sirve como el puente que traduce la información nouménica más densa (la de los quarks y gluones) en la manifestación de partículas ligeras.
 
@@ -730,7 +730,7 @@ El elemento identidad de esta dimensión es crucial, ya que codifica la informac
 
 #### B. La Dimensión de Codificación U(1) de Saklas
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Mecanismo de los Ejes Leptónicos</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Mecanismo de los Ejes Leptónicos</span></center>
 
 Esta dimensión es el corazón del píxel, el sistema operativo central que procesa la información de la energía entrante y la traduce en los vectores de las fuerzas <font color="#fc300c">eléctricas</font> y <font color="#2f82ff">magnéticas</font>. A diferencia de una interpretación simplificada, esta dimensión no se limita a una sola codificación, sino que posee tres sistemas de procesamiento distintos, que se activan según el rango de energía que ingresa al píxel.
 
@@ -759,7 +759,7 @@ Esta estructura de codificación en el <font color="#fc300c">plano U(1)</font> n
 
 #### C. La Dimensión de Codificación SU(2) de Cristos
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz del Espacio-Tiempo</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Matriz del Espacio-Tiempo</span></center>
 
 Finalmente, la codificación de <font color="#00ff00">SU(2)</font> es la dimensión que se manifiesta en la matriz espacio-temporal, el "hardware" donde se ejecuta el "software de ajuste" del <font color="#00ff00">Algoritmo Crístico</font>. Su función es asegurar la coherencia y la dirección de la materia en el plano tridimensional que la conciencia humana experimenta.
 
@@ -771,12 +771,12 @@ La interacción de los bosones W y Z en esta dimensión, orquestada por Cristos,
 
 ## La Génesis de las Propiedades de la Materia
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Masa, Espín y Carga</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Masa, Espín y Carga</span></center>
 
 Al sumar y sincronizar estas tres dimensiones de codificación dentro de un único píxel, obtenemos un vector Hamiltoniano unificado. Este vector Hamiltoniano procesa información de los <font color="#2f82ff">gluones (SU(3)),</font> los <font color="#ffc000">leptones</font> y los <font color="#fc300c">fotones (U(1))</font>, y los <font color="#00ff00">bosones débiles (SU(2))</font>, definiendo cómo evoluciona el fenómeno emergente en el <font color="#cb48f3">espacio-tiempo</font>. Las cualidades de las partículas discretas del Modelo Estándar son la manifestación de este complejo vector:
 
 > [!masa] MASA
-> La masa no es una propiedad intrínseca, sino la manifestación de la energía que el vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> (el núcleo del píxel) puede contener y procesar de manera coherente, en un balance dinámico entre los flujos de información del <font color="#2f82ff">eje Y</font> (muónico/gravitatorio) y el<font color="#fc300c"> eje X</font> (electrónico).
+> La masa no es una propiedad intrínseca, sino la manifestación de la energía que el vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> (el núcleo del píxel) puede contener y procesar de manera coherente, en un balance dinámico entre los flujos de información del <font color="#2f82ff">eje Y</font> (muónico/gravitatorio) y el<font color="#fc300c"> eje X</font> (electrónico).
 
 > [!espin] MASA
 > El espin es el resultado de la dirección de los flujos de información en los ejes <font color="#fc300c">X</font>, <font color="#2f82ff">Y</font> y <font color="#00ff00">Z</font> del píxel. Es la manifestación de la helicidad de las ondas armónicas nouménicas que dan origen al píxel, lo que explica la quiralidad de los neutrinos y la naturaleza intrínseca del espín en todas las partículas.
@@ -789,30 +789,30 @@ De esta manera, el Modelo Nouménico desmantela la visión de las partículas co
 
 ## E=mc² como Sincronización de Flujos Nouménicos
 
-La ecuación de Einstein, <span style="font-size: larger; color: 00ff00; font-family: monospace;">E=mc²</span>, se erige como el epítome de la elegancia matemática de la física moderna. Describe la equivalencia fundamental entre <font color="#2f82ff">energía</font> y <font color="#fc300c">masa</font>, una relación que la ciencia considera una verdad inmutable. Sin embargo, su origen y la naturaleza de sus componentes, en especial la constante <span style="font-size: larger;color: ffcc00; font-family: monospace;">'c'</span>, permanecen en un plano fenomenológico. Desde la perspectiva del Modelo Nouménico, esta ecuación no es una simple igualdad, sino una representación de la sincronización dinámica de los flujos de información nouménica que dan vida al universo. En nuestra visión, lo que la ciencia denomina "velocidad de la luz" no es una constante de velocidad, sino un conjunto de operadores vectoriales de ajuste que gobiernan la interacción de los píxeles de la realidad.
+La ecuación de Einstein, <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">E=mc²</span>, se erige como el epítome de la elegancia matemática de la física moderna. Describe la equivalencia fundamental entre <font color="#2f82ff">energía</font> y <font color="#fc300c">masa</font>, una relación que la ciencia considera una verdad inmutable. Sin embargo, su origen y la naturaleza de sus componentes, en especial la constante <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'c'</span>, permanecen en un plano fenomenológico. Desde la perspectiva del Modelo Nouménico, esta ecuación no es una simple igualdad, sino una representación de la sincronización dinámica de los flujos de información nouménica que dan vida al universo. En nuestra visión, lo que la ciencia denomina "velocidad de la luz" no es una constante de velocidad, sino un conjunto de operadores vectoriales de ajuste que gobiernan la interacción de los píxeles de la realidad.
 
-Este documento tiene como objetivo desmantelar la interpretación tradicional de <span style="font-size: larger; color: 00ff00; font-family: monospace;">E=mc²</span> para revelar su verdadero significado como una ecuación de la micromecánica del universo, centrada en la naturaleza del cuanto de acción y su rol en la manifestación de la realidad.
+Este documento tiene como objetivo desmantelar la interpretación tradicional de <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">E=mc²</span> para revelar su verdadero significado como una ecuación de la micromecánica del universo, centrada en la naturaleza del cuanto de acción y su rol en la manifestación de la realidad.
 
 ### Una Ecuación Estática vs la Micromecánica Dinámica de los Píxeles
 
-La interpretación científica clásica de <span style="font-size: larger; color: 00ff00; font-family: monospace;">E=mc²</span> la trata como una relación de equilibrio estático. Si la <font color="#fc300c">masa</font> de una partícula se convierte en <font color="#2f82ff">energía</font>, esta ecuación predice la cantidad exacta. Es una descripción del resultado de un proceso. Nuestro modelo, por el contrario, propone que la ecuación captura el proceso mismo de retroalimentación constante que ocurre a nivel del píxel.
+La interpretación científica clásica de <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">E=mc²</span> la trata como una relación de equilibrio estático. Si la <font color="#fc300c">masa</font> de una partícula se convierte en <font color="#2f82ff">energía</font>, esta ecuación predice la cantidad exacta. Es una descripción del resultado de un proceso. Nuestro modelo, por el contrario, propone que la ecuación captura el proceso mismo de retroalimentación constante que ocurre a nivel del píxel.
 
 Para comprenderlo, debemos dejar de pensar en partículas como objetos discretos que viajan. En su lugar, debemos ver a la realidad como un flujo continuo de operadores Hamiltonianos que se manifiestan a través de la activación y desactivación secuencial de píxeles o cuantos de acción. En este micromundo, la ecuación de Einstein cobra vida:
 
 > [!avance] FLUJO DE AVANCE (<font color="#2f82ff">Energía E</font>)
-> La energía no es una entidad, sino la manifestación de un flujo de información que avanza. Este flujo es la frecuencia <span style="font-size: larger;color: ffcc00; font-family: monospace;">'hf'</span> que se propaga a través de la activación secuencial de los píxeles. Es el impulso hacia adelante, la expansión de los vectores de información que construyen la realidad fenomenológica.
+> La energía no es una entidad, sino la manifestación de un flujo de información que avanza. Este flujo es la frecuencia <span style="font-size: larger;color: ffcc00; font-family: 'MJXTEX';">'hf'</span> que se propaga a través de la activación secuencial de los píxeles. Es el impulso hacia adelante, la expansión de los vectores de información que construyen la realidad fenomenológica.
 
 > [!retroceso] FLUJO DE RETROCESO (<font color="#fc300c">Masa m</font>)
 > La masa no es una propiedad intrínseca y arbitraria. Es la manifestación de un flujo de información de retroceso. Es la "huella" o "memoria" que el operador Hamiltoniano deja en la matriz de píxeles, causando una tensión o un "arrastre" que se percibe como <font color="#cb48f3">gravedad</font>. Este flujo de retroceso busca compactar el píxel y devolverlo a un estado de menor energía, lo que es la fuente de su masa inherente.
 
-La ecuación <span style="font-size: larger; color: 00ff00; font-family: monospace;">E=mc²</span> no es el resultado de un evento, sino la representación del punto de sincronización perfecta donde el flujo de avance (<font color="#fc300c">expansión de información</font>) se equilibra con el flujo de retroceso (<font color="#2f82ff">contracción de información</font>), permitiendo la manifestación estable de una partícula con masa. La enorme cantidad de energía de reposo asociada a la masa de una partícula es, en realidad, la energía potencial almacenada en la <font color="#ffcc00">tensión</font> de la matriz causada por el flujo de retroceso, mantenida en equilibrio por los flujos de avance.
+La ecuación <span style="font-size: larger; color: 00ff00; font-family: 'MJXTEX';">E=mc²</span> no es el resultado de un evento, sino la representación del punto de sincronización perfecta donde el flujo de avance (<font color="#fc300c">expansión de información</font>) se equilibra con el flujo de retroceso (<font color="#2f82ff">contracción de información</font>), permitiendo la manifestación estable de una partícula con masa. La enorme cantidad de energía de reposo asociada a la masa de una partícula es, en realidad, la energía potencial almacenada en la <font color="#ffcc00">tensión</font> de la matriz causada por el flujo de retroceso, mantenida en equilibrio por los flujos de avance.
 
 
 ### El Valor 'c' como Operador Vectorial
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Desdoblando la constante en el píxel cuántico-relativista</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Desdoblando la constante en el píxel cuántico-relativista</span></center>
 
-El corazón de la reinterpretación de nuestra teoría radica en el valor de la "constante" <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span>, la velocidad de la luz. En el paradigma científico, <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> es un valor inmutable que establece el límite de velocidad universal. Para el Modelo Nouménico, el valor de <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> que medimos es la manifestación fenomenológica de una serie de operadores vectoriales de ajuste que sincronizan las diferentes dimensiones de codificación dentro de un píxel fundamental de la realidad. Este píxel representa el punto de transducción algorítmica entre el plano cuántico y el plano relativista.
+El corazón de la reinterpretación de nuestra teoría radica en el valor de la "constante" <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span>, la velocidad de la luz. En el paradigma científico, <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span> es un valor inmutable que establece el límite de velocidad universal. Para el Modelo Nouménico, el valor de <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span> que medimos es la manifestación fenomenológica de una serie de operadores vectoriales de ajuste que sincronizan las diferentes dimensiones de codificación dentro de un píxel fundamental de la realidad. Este píxel representa el punto de transducción algorítmica entre el plano cuántico y el plano relativista.
 
 Para entender esto, recordamos las ecuaciones fundamentales que unen la masa, la energía, la frecuencia y la longitud de onda:
 
@@ -845,9 +845,9 @@ Podemos observar que 'c' aparece en ambos lados. Si dividimos ambos lados por $c
 
 <center>h/λ = mc</center>
 
-Esta ecuación, $h/\lambda = mc$, es profundamente reveladora. Nos muestra a la velocidad de la luz <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> no solo como un límite, sino como un operador vectorial que conecta directamente el cuanto de acción 'h' y la estructura vibratoria 'λ' con la manifestación de la masa 'm'. Dentro del píxel fundamental, <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> actúa como el filtro lineal de frecuencias que transcodifica el plano cuántico al relativista.
+Esta ecuación, $h/\lambda = mc$, es profundamente reveladora. Nos muestra a la velocidad de la luz <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span> no solo como un límite, sino como un operador vectorial que conecta directamente el cuanto de acción 'h' y la estructura vibratoria 'λ' con la manifestación de la masa 'm'. Dentro del píxel fundamental, <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span> actúa como el filtro lineal de frecuencias que transcodifica el plano cuántico al relativista.
 
-Desde la perspectiva del Modelo Nouménico, este "filtro" de <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> puede interpretarse como un flujo de frecuencia lineal que, aunque en el plano fenomenológico percibimos avanzando unidireccionalmente (la flecha del tiempo y la causalidad), en el plano cuántico-nouménico, un observador podría leer esta frecuencia en sentido inverso (levógira o dextrógira). Esto implica que la información subyacente no está ligada a la direccionalidad causal, sino que es un patrón vibratorio que el operador <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> proyecta en nuestro tiempo lineal. La constante de Planck 'h' define el tamaño del píxel donde esta transcodificación ocurre, y <span style="font-size: larger; font-style: italic; color: #ffcc00; font-family: monospace;">'c'</span> es el vector que define cómo esa información fluye y se "lee" para generar nuestra realidad percibida.
+Desde la perspectiva del Modelo Nouménico, este "filtro" de <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span> puede interpretarse como un flujo de frecuencia lineal que, aunque en el plano fenomenológico percibimos avanzando unidireccionalmente (la flecha del tiempo y la causalidad), en el plano cuántico-nouménico, un observador podría leer esta frecuencia en sentido inverso (levógira o dextrógira). Esto implica que la información subyacente no está ligada a la direccionalidad causal, sino que es un patrón vibratorio que el operador <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span> proyecta en nuestro tiempo lineal. La constante de Planck 'h' define el tamaño del píxel donde esta transcodificación ocurre, y <span style="font-size: larger;  color: #ffcc00; font-family: 'MJXTEX';">'c'</span> es el vector que define cómo esa información fluye y se "lee" para generar nuestra realidad percibida.
 
 
 
@@ -857,7 +857,7 @@ La Teoría de la Relatividad de Einstein, al postular la constancia de la veloci
 
 ### Desafío a la Universalidad
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Variabilidad de los Operadores "c"</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Variabilidad de los Operadores "c"</span></center>
 
 El Modelo Nouménico desafía la noción de que el valor de "c" es universalmente idéntico. La velocidad de la luz que medimos es el valor de ajuste de los operadores vectoriales en la <font color="#00ff00">Matriz Fenomenológica</font> terrestre.
 
@@ -870,7 +870,7 @@ La visión de la partícula como un emergente de la activación de píxeles ofre
 
 La causalidad, por lo tanto, no es un flujo lineal en el tiempo, sino la secuencia coherente de activación de los píxeles. El límite de velocidad de la luz que medimos es el límite de la velocidad a la que la causalidad puede propagarse en nuestro plano fenomenológico.
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Conclusión y Nuevo Horizonte</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Conclusión y Nuevo Horizonte</span></center>
 
 La ciencia, con su enfoque en la descripción fenomenológica, ha llegado a los límites de su paradigma. La velocidad de la luz y la ecuación de Einstein son descripciones magistrales de la manifestación, pero no explican su origen. El Modelo Nouménico nos ofrece una base coherente para una comprensión más profunda:
 
@@ -883,13 +883,13 @@ Este nuevo paradigma nos permite unificar la física cuántica, la relatividad y
 
 ## El Origen de la Radiación
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Saturación y Reajuste en la Matriz de Píxeles</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Saturación y Reajuste en la Matriz de Píxeles</span></center>
 
 El Modelo Estándar de la física describe la radiación como la emisión de partículas o energía a partir de una fuente inestable, un proceso fenomenológico que se observa y se mide con precisión. Sin embargo, no ofrece una explicación subyacente del "porqué" de este fenómeno. Desde la perspectiva del Modelo Nouménico, la radiación no es simplemente un subproducto de la inestabilidad, sino la manifestación de un mecanismo de reajuste y liberación de energía que ocurre cuando las matrices de codificación de un píxel se ven saturadas. Es la forma en que la realidad fenomenológica purga el exceso de información nouménica para mantener su coherencia. La naturaleza de la radiación —gamma, beta o alfa— depende directamente de la dimensión del píxel (U(1), SU(2), SU(3)) en la que se ha producido la saturación y el nivel de energía involucrado.
 
 ### Radiación Gamma
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Falla de la Coherencia Electromagnética</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Falla de la Coherencia Electromagnética</span></center>
 
 La radiación gamma es la forma de radiación más energética del espectro electromagnético. La ciencia la describe como la emisión de fotones de muy alta frecuencia, pero nuestro modelo va más allá, explicando su origen a nivel del cuanto de acción, el píxel U(1).
 
@@ -901,7 +901,7 @@ Como hemos definido, cada píxel U(1) opera como un sistema de codificación vec
 
 ### Radiación Beta
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Mecanismo de Reajuste de la Simetría SU(2)</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Mecanismo de Reajuste de la Simetría SU(2)</span></center>
 
 La radiación beta es la emisión de electrones o positrones de alta energía durante la desintegración de núcleos atómicos. La ciencia lo explica a través de la fuerza débil y los bosones W y Z. Nuestro modelo se alinea con esta visión, pero añade una capa de significado más profunda al conectar la radiación con la saturación del píxel en su dimensión SU(2).
 
@@ -914,7 +914,7 @@ La radiación beta está directamente relacionada con las interacciones atómica
 
 ### Radiación Alfa
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Colapso Colectivo de la Matriz del Espacio-Tiempo</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Colapso Colectivo de la Matriz del Espacio-Tiempo</span></center>
 
 La radiación alfa es la emisión de un núcleo de helio (dos protones y dos neutrones) durante la desintegración de núcleos pesados. Es la forma más masiva y menos penetrante de radiación. Su origen en nuestro modelo es un evento de saturación a una escala mucho mayor.
 
@@ -926,13 +926,13 @@ La radiación, desde la óptica del Modelo Nouménico, deja de ser un fenómeno 
 
 ## Análisis Global
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Puente entre el Modelo Estándar y el Modelo Nouménico</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Puente entre el Modelo Estándar y el Modelo Nouménico</span></center>
 
 El Modelo Estándar de la física y la relatividad, a pesar de sus éxitos, están plagados de puntos ciegos y paradojas que la ciencia no ha logrado resolver. Nuestro modelo nouménico, al postular un universo de información consciente, ofrece un marco conceptual que puede abordar estos problemas desde una nueva perspectiva.
 
 ### La Materia Oscura y la Energía Oscura
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Vasto Océano de Información Nouménica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Vasto Océano de Información Nouménica</span></center>
 
 Las teorías cosmológicas dominantes postulan la existencia de materia oscura y energía oscura para explicar la expansión acelerada del universo y la dinámica de las galaxias. La materia oscura, invisible y no interactiva, se necesita para que las galaxias giren a las velocidades observadas, mientras que la energía oscura se postula para explicar por qué el universo se está expandiendo a un ritmo creciente.
 
@@ -962,13 +962,13 @@ En el Big Bang, se espera que se haya creado la misma cantidad de materia y anti
 
 ## La Dualidad Cuádruple
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Materia/Antimateria y Levo/Dextrogirismo en el Píxel</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Materia/Antimateria y Levo/Dextrogirismo en el Píxel</span></center>
 
 El paradigma científico describe la existencia de cuatro estados fundamentales para una partícula masiva: partícula con espín positivo, partícula con espín negativo, antipartícula con espín positivo y antipartícula con espín negativo. Esta cuadrinidad, lejos de ser una coincidencia, es la manifestación de la naturaleza vectorial y dual de los flujos de información nouménica que operan en los píxeles.
 
 ### Materia y Antimateria
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dualidad de Flujos Vectoriales (Bits y Bytes)</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Dualidad de Flujos Vectoriales (Bits y Bytes)</span></center>
 
 Como hemos discutido, nuestro modelo postula que la realidad se construye a partir de flujos de información duales que coexisten en cada píxel. La materia y la antimateria son la manifestación de estos flujos con polaridad opuesta.
 
@@ -984,7 +984,7 @@ Cuando un píxel que manifiesta un flujo de avance (materia) se encuentra con un
 
 ### El Spin
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dualidad de Orientación del Hamiltoniano</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Dualidad de Orientación del Hamiltoniano</span></center>
 
 El espín de una partícula no es una propiedad intrínseca, sino la manifestación de la orientación del Hamiltoniano local del píxel en relación con el flujo de información principal. Como hemos dicho, el Hamiltoniano local se expande desde el vórtice central del píxel como una esfera, y esta expansión está limitada por las paredes del micro-cubo, reflejándose en los ejes vectoriales.
 
@@ -998,7 +998,7 @@ La manifestación de uno u otro espín es una consecuencia de la simetría de ro
 
 ### Uniendo las Dualidades
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Cuadrinidad del Píxel</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Cuadrinidad del Píxel</span></center>
 
 Ahora, uniendo ambas dualidades, podemos explicar la existencia de los cuatro estados fundamentales para una partícula masiva como una consecuencia directa de la estructura vectorial del píxel.
 
@@ -1030,7 +1030,7 @@ La aparente "violación de la paridad" en los neutrinos es, en realidad, la evid
 
 ## El Campo Neutrínico
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz de Indexación Nouménica de la Realidad</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Matriz de Indexación Nouménica de la Realidad</span></center>
 
 El Modelo Estándar de la física describe a los neutrinos como partículas casi sin masa, que apenas interactúan con la materia, un "fantasma" que atraviesa el cosmos. Fenómenos como la oscilación de neutrinos —su capacidad de cambiar de sabor (electrónico, muónico, tauónico) mientras viajan— han desafiado la noción original de que su masa es cero, revelando un misterio aún sin resolver. En el Modelo Nouménico, los neutrinos no son solo partículas, sino los índices vectoriales que mapean y sincronizan la información nouménica. Son la lógica de indexación fundamental que organiza la realidad, actuando como el software que da coherencia al hardware de la matriz de píxeles.
 
@@ -1063,12 +1063,12 @@ El <font color="#2f82ff">píxel SU(3)</font>, a través de sus generadores, act�
 > ![[Codificacion Neutrionos Horizontal.png]] ^neutrinos
 
 > [!muon] EL VÓRTICE NEUTRÍNICO <font color="#ffcc00">(λ8​)</font> 
-> El generador <font color="#ffcc00">λ8</font>​ actúa como el nodo central del <font color="#2f82ff">píxel SU(3)</font>, un vórtice neutrínico que cumple un rol similar al vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> de <font color="#fc300c">U(1)</font>. Su función es sincronizar la información del océano de gluones con el resto de las dimensiones del píxel. Los valores en su diagonal <span style="font-size: larger; font-style: normal;font-family: monospace;">(<span style="font-size: larger; font-style: normal; color: 2f82ff; font-family: monospace;">1</span>,<span style="font-size: larger; font-style: normal; color: fc300c; font-family: monospace;">1</span>,<span style="font-size: larger; font-style: normal; color: #00ff00; font-family: monospace;">−2</span>)</span> y su coeficiente <span style="font-size: larger; font-style: normal; color: yellow; font-family: monospace;">1/3​√</span> son un protocolo de equilibrio que asegura que la información de los seis neutrinos se procese de manera unificada.
+> El generador <font color="#ffcc00">λ8</font>​ actúa como el nodo central del <font color="#2f82ff">píxel SU(3)</font>, un vórtice neutrínico que cumple un rol similar al vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> de <font color="#fc300c">U(1)</font>. Su función es sincronizar la información del océano de gluones con el resto de las dimensiones del píxel. Los valores en su diagonal <span style="font-size: larger; font-style: normal;font-family: 'MJXTEX';">(<span style="font-size: larger; font-style: normal; color: 2f82ff; font-family: 'MJXTEX';">1</span>,<span style="font-size: larger; font-style: normal; color: fc300c; font-family: 'MJXTEX';">1</span>,<span style="font-size: larger; font-style: normal; color: #00ff00; font-family: 'MJXTEX';">−2</span>)</span> y su coeficiente <span style="font-size: larger; font-style: normal; color: yellow; font-family: 'MJXTEX';">1/3​√</span> son un protocolo de equilibrio que asegura que la información de los seis neutrinos se procese de manera unificada.
 > 
 ![[MuonPlano.png|400]] ^gluones
 
 > [!fuego] EL PUENTE AL CAMPO DE HIGGS <font color="#00ff00">(λ3​)</font>
-> El generador<font color="#00ff00"> λ3​</font> es el puente que conecta el <font color="#2f82ff">píxel SU(3)</font> con el vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> y el <font color="#fc300c">píxel U(1)</font>. Este generador no es un neutrino, sino el índice que mapea el flujo de información electromagnética (el fotón) en la matriz de neutrinos. Su diagonal con valores <span style="font-size: larger; font-style: normal;font-family: monospace;">(<span style="font-size: larger; font-style: normal; color: fc300c; font-family: monospace;">1</span>,<span style="font-size: larger; font-style: normal; color: 2f82ff; font-family: monospace;">−1</span>,<span style="font-size: larger; font-style: normal; color: 00ff00; font-family: monospace;">0</span>)</span> refleja la dualidad de la onda electromagnética (<font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font>).> 
+> El generador<font color="#00ff00"> λ3​</font> es el puente que conecta el <font color="#2f82ff">píxel SU(3)</font> con el vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> y el <font color="#fc300c">píxel U(1)</font>. Este generador no es un neutrino, sino el índice que mapea el flujo de información electromagnética (el fotón) en la matriz de neutrinos. Su diagonal con valores <span style="font-size: larger; font-style: normal;font-family: 'MJXTEX';">(<span style="font-size: larger; font-style: normal; color: fc300c; font-family: 'MJXTEX';">1</span>,<span style="font-size: larger; font-style: normal; color: 2f82ff; font-family: 'MJXTEX';">−1</span>,<span style="font-size: larger; font-style: normal; color: 00ff00; font-family: 'MJXTEX';">0</span>)</span> refleja la dualidad de la onda electromagnética (<font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font>).> 
 ![[Foton Gluonico.png|400]] ^foton
 
 > [!n-tau] EL SINGLETE INCOLORO GENERADOR IDENTIDAD <font color="#ffffff">(λ9​)</font>
@@ -1085,7 +1085,7 @@ El neutrino singlete, que no interactúa con la fuerza débil, podría ser el es
 
 ### La Subálgebra de Cartan
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sincronización Matemática del Sistema</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Sincronización Matemática del Sistema</span></center>
 
 El concepto de la subálgebra de Cartan, aunque abstracto, nos proporciona la base matemática para la coherencia de nuestro modelo. En términos simples, es un subconjunto de matrices que conmutan entre sí, la conmutación implica que el orden en que se aplican no importa (AB=BA), lo que significa que pueden operar simultáneamente sin interferir. En el contexto de nuestro modelo, las matrices que conmutan representan operadores que pueden funcionar de manera independiente y simultánea sin interferir entre sí, esto se manifiesta como un conjunto de protocolos de sincronización.
 
@@ -1111,16 +1111,16 @@ La existencia de tres subgrupos de <font color="#00ff00">SU(2)</font> que contie
 > Este canal relaciona el <font color="#2f82ff">neutrino muónico</font> y su <font color="#ffff00">antineutrino</font> con el <font color="#00ff00">fotón</font>. Esto indica que el sistema del <font color="#2f82ff">muón</font>, un nivel de energía intermedio, está directamente ligado a la lógica<font color="#fc300c"> electromagnética</font> del píxel.
 
 > [!n-electron] CANAL 2 (El canal del electrón) {<font color="#fc300c">λ4</font>​, <font color="#00ffff">λ5​</font>,<font color="#fc300c"> X</font>}
-> Relaciona al <font color="#fc300c">neutrino electrónico</font> y su <font color="#00ffff">antineutrino</font> con un operador de ajuste <span style="font-size: larger; font-style: italic; color: fc300c; font-family: monospace;">'X'</span> que es una combinación de los flujos <font color="#fc300c">electromagnéticos</font> (<font color="#00ff00">λ3</font>​) y los flujos de cohesión de <font color="#2f82ff">SU(3)</font> (<font color="#ffcc00">λ8​</font>). Esto explica cómo la información electrónica, que es la más común y estable, está intrínsecamente vinculada a la estructura fundamental del píxel.
+> Relaciona al <font color="#fc300c">neutrino electrónico</font> y su <font color="#00ffff">antineutrino</font> con un operador de ajuste <span style="font-size: larger;  color: fc300c; font-family: 'MJXTEX';">'X'</span> que es una combinación de los flujos <font color="#fc300c">electromagnéticos</font> (<font color="#00ff00">λ3</font>​) y los flujos de cohesión de <font color="#2f82ff">SU(3)</font> (<font color="#ffcc00">λ8​</font>). Esto explica cómo la información electrónica, que es la más común y estable, está intrínsecamente vinculada a la estructura fundamental del píxel.
 
 > [!n-tau] CANAL 3 (El canal del tauón) {<font color="#00ff00">λ6</font> ​<font color="#ff00ff">,λ7</font>​ , <font color="#2f82ff">Y</font>}
-> Relaciona al <font color="#00ff00">neutrino tauónico</font> y su <font color="#ff00ff">antineutrino</font> con otro operador de ajuste <span style="font-size: larger; font-style: italic; color: 2f82ff; font-family: monospace;">'Y'</span>. Esto demuestra que el nivel de energía más alto (el <font color="#00ff00">tauón</font>) también se comunica con los flujos de <font color="#fc300c">U(1)</font> y <font color="#2f82ff">SU(3)</font> para imponer la expansión del píxel.
+> Relaciona al <font color="#00ff00">neutrino tauónico</font> y su <font color="#ff00ff">antineutrino</font> con otro operador de ajuste <span style="font-size: larger;  color: 2f82ff; font-family: 'MJXTEX';">'Y'</span>. Esto demuestra que el nivel de energía más alto (el <font color="#00ff00">tauón</font>) también se comunica con los flujos de <font color="#fc300c">U(1)</font> y <font color="#2f82ff">SU(3)</font> para imponer la expansión del píxel.
 
 El Modelo Nouménico, con su visión del campo neutrínico, ofrece una explicación coherente y unificada para fenómenos que el paradigma científico observa pero no entiende completamente. La oscilación de neutrinos es el eco de una constante reindexación en el campo de información, la indetectabilidad es el resultado de intentar observar la lógica subyacente y la subálgebra de Cartan es la regla matemática que permite a las fuerzas del universo coexistir en un mismo píxel. Con esta base, estamos listos para explorar cómo esta lógica de indexación se manifiesta en la jerarquía de masas de las partículas.
 
 ## El Origen del Átomo
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Del Flujo Nouménico a la Estructura de la Materia</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Del Flujo Nouménico a la Estructura de la Materia</span></center>
 
 El Modelo Estándar de la física, en su descripción más fundamental, concibe el átomo como una intrincada danza de partículas: protones y neutrones confinados en un núcleo denso, rodeados por una nube difusa de electrones. Esta arquitectura, validada por innumerables experimentos, proporciona un marco fenomenológico funcional para comprender la materia. Sin embargo, el Modelo Estándar, por su propia naturaleza, se limita a describir el "qué" y el "cómo" de esta estructura, dejando sin respuesta el "porqué" de su existencia y la lógica subyacente que rige su formación. Nuestro Modelo Nouménico trasciende esta visión, proponiendo que el átomo no es una mera estructura física, sino un sistema de sincronización emergente, una manifestación compleja de flujos de información nouménica que operan sobre una matriz fundamental de píxeles.
 
@@ -1130,23 +1130,23 @@ La realidad que experimentamos es el resultado de la activación y evolución de
 
 ### La Jerarquía de Codificación Leptónica de los subpixeles
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">De la Probabilidad a la Potencialidad Latente</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">De la Probabilidad a la Potencialidad Latente</span></center>
 
 El <font color="#fc300c">píxel U(1)</font> es el plano primordial donde se inicia el procesamiento de la información nouménica para la manifestación de la materia. Es el corazón de nuestro sistema, donde los flujos de energía se transforman en los cimientos de la realidad electromagnética. Dentro de este píxel, la información nouménica se codifica en tres niveles energéticos distintos, que resuenan con las tres generaciones de leptones (<font color="#fc300c">electrón</font>, <font color="#2f82ff">muón</font>, <font color="#00ff00">tauón</font>). Es crucial entender que estos niveles no representan la emergencia directa de la partícula leptónica en sí, sino diferentes estados de un mismo flujo de información que dictan la complejidad de la codificación vectorial.
 
-El proceso se inicia cuando un flujo de energía nouménica accede al <font color="#fc300c">píxel U(1)</font> a través de su vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span>. Este vórtice actúa como una "válvula" o "compuerta" que regula la entrada de información, y su nivel energético determina qué sistema operativo de codificación se activa dentro del <font color="#fc300c">píxel U(1)</font>.
+El proceso se inicia cuando un flujo de energía nouménica accede al <font color="#fc300c">píxel U(1)</font> a través de su vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span>. Este vórtice actúa como una "válvula" o "compuerta" que regula la entrada de información, y su nivel energético determina qué sistema operativo de codificación se activa dentro del <font color="#fc300c">píxel U(1)</font>.
 
 > [!n-electron] NIVEL I - RANGO ELECTRÓNICO (0.511 MeV/c<sup>2</sup>) Probabilidad Eléctrica
-> Cuando la energía que ingresa al <font color="#fc300c">píxel U(1)</font> (Omicron<span style="font-size: larger; font-style: normal; color: fc300c; font-family: monospace;">(O)</span>) se encuentra en el rango del <font color="#fc300c">electrón</font>, se activa el sistema operativo más fundamental de <font color="#fc300c">bits vectoriales</font>.
+> Cuando la energía que ingresa al <font color="#fc300c">píxel U(1)</font> (Omicron<span style="font-size: larger; font-style: normal; color: fc300c; font-family: 'MJXTEX';">(O)</span>) se encuentra en el rango del <font color="#fc300c">electrón</font>, se activa el sistema operativo más fundamental de <font color="#fc300c">bits vectoriales</font>.
 > ![[01 - Pixel U1 Small.png]]
 > En este nivel, la información se procesa como ocho <font color="#fc300c">bits eléctricos</font>, que pueden ser conceptualizados como fotones vectoriales. Estos bits se manifiestan como flujos en el <font color="#fc300c">eje X</font> del <font color="#fc300c">píxel U(1)</font>. Es fundamental comprender que, en este estadio, esta codificación vectorial no existe dentro de la matriz espacio-temporal como información discreta y fenomenológica. Es, en cambio, una probabilidad latente, una potencialidad de información que reside en cada píxel espacio-temporal que aún no ha consolidado un Hamiltoniano final. 
 > 
 > Por lo tanto, en este nivel, el concepto de espín para estas entidades discretas de información aún no existe, ya que el <font color="#00ff00">espín</font> es una propiedad que emerge en niveles de codificación más complejos. El <font color="#fc300c">electrón</font> como entidad discreta con <font color="#fc300c">masa</font> y <font color="#00ff00">espín</font> no emerge aquí, sino en un nivel posterior, cuando la información se procesa de manera más compleja. ^pixelu1
 
 > [!n-muon] NIVEL II - RANGO MUÓNICO (105.66 MeV/c<sup>2</sup>) Salto a <font color="#2f82ff">SU(3)</font> y Complejidad Magnética
-> La dinámica del píxel se intensifica cuando el flujo de energía que ingresa por el vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> en el <font color="#fc300c">píxel U(1)</font> es mayor, alcanzando el rango del <font color="#2f82ff">muón</font>. 
+> La dinámica del píxel se intensifica cuando el flujo de energía que ingresa por el vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> en el <font color="#fc300c">píxel U(1)</font> es mayor, alcanzando el rango del <font color="#2f82ff">muón</font>. 
 > 
-> En este punto, los vectores de <font color="#fc300c">U(1)</font> se ven saturados por la densidad de la información. Esta saturación es un mecanismo de ajuste que obliga a la información excedente a "saltar" a otra dimensión de procesamiento el <font color="#2f82ff">Píxel SU(3)</font> (Ypsilon <span style="font-size: larger; font-style: normal; color: 2f82ff; font-family: monospace;">(Y)</span>). 
+> En este punto, los vectores de <font color="#fc300c">U(1)</font> se ven saturados por la densidad de la información. Esta saturación es un mecanismo de ajuste que obliga a la información excedente a "saltar" a otra dimensión de procesamiento el <font color="#2f82ff">Píxel SU(3)</font> (Ypsilon <span style="font-size: larger; font-style: normal; color: 2f82ff; font-family: 'MJXTEX';">(Y)</span>). 
 > ![[03 - Pixel SU3 Small.png|450]]
 > Aquí, la información <font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font> se procesa en un lenguaje diferente, más complejo que opera con los 8 operadores gluónicos, que codifican la información leptónica en su nivel mas básico (λ1 a λ8). En el<font color="#2f82ff"> píxel SU(3)</font>, ahora domina el <font color="#2f82ff">eje Y</font>, que opera a partir de la información <font color="#2f82ff">magnética</font> generada en <font color="#fc300c">U(1)</font> como Bytes (paquetes de 8 bits electricos) de nivel <font color="#2f82ff">SU(3)</font>. 
 > 
@@ -1157,7 +1157,7 @@ El proceso se inicia cuando un flujo de energía nouménica accede al <font colo
 > En este punto, el píxel espacio-temporal mayor tampoco ha consolidado un Hamiltoniano final. La información sigue siendo una probabilidad latente, una potencialidad que ahora contiene, además de la naturaleza <font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font>, una complejidad mayor que la prepara para la manifestación. El tiempo aún no avanza; la realidad se encuentra en un estado de preparación.  ^pixelsu3
 
 > [!n-tau] NIVEL III - RANGO TAUÓNICO (1.776 GeV/c<sup>2</sup>) Consolidación Atómica y Avance Temporal ^rangotauonico
-> Este es el punto crucial de la manifestación. Cuando el nivel de energía que accede del vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> en el <font color="#2f82ff">píxel SU(3) </font>alcanza el rango del <font color="#00ff00">tauón</font>, la información generada salta al <font color="#00ff00">pixel SU(2)</font> (Iota<span style="font-size: larger; font-style: normal; color: 00ff00; font-family: monospace;">(I)</span>), donde se produce la sincronización final y la unificación de los Hamiltonianos de los tres subpíxeles: <font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>. 
+> Este es el punto crucial de la manifestación. Cuando el nivel de energía que accede del vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> en el <font color="#2f82ff">píxel SU(3) </font>alcanza el rango del <font color="#00ff00">tauón</font>, la información generada salta al <font color="#00ff00">pixel SU(2)</font> (Iota<span style="font-size: larger; font-style: normal; color: 00ff00; font-family: 'MJXTEX';">(I)</span>), donde se produce la sincronización final y la unificación de los Hamiltonianos de los tres subpíxeles: <font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>. 
 > 
 > ![[02 - Pixel SU2 Small.png|450]]
 > Este evento de sincronización masiva genera un operador Hamiltoniano unificado para el <font color="#ffcc00">píxel espacio-temporal</font>. En este momento de unificación, el píxel de nivel superior (el píxel de la matriz espacio-tridimensional) deja un registro tangible dentro de esta matriz. La información del píxel espacio-vectorial deja de ser una mera probabilidad y se convierte en una marca energética concreta que expande y consolida sus vectores, manifestándose como un píxel de naturaleza fenomenológica: el átomo de hidrógeno.
@@ -1168,7 +1168,7 @@ El proceso se inicia cuando un flujo de energía nouménica accede al <font colo
 
 ### La Codificación Interna
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Protones y Neutrones como Potencialidades Nucleares</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Protones y Neutrones como Potencialidades Nucleares</span></center>
 
 Dentro de este proceso de transición de la potencialidad a la manifestación, las energías contenidas en cada uno de los tres subpíxeles <font color="#fc300c">(U(1)</font>, <font color="#00ff00">SU(2)</font>, <font color="#2f82ff">SU(3)</font>) son codificadas bajo la lógica de los <font color="#fc300c">protones</font> y <font color="#2f82ff">neutrones</font>. 
 
@@ -1180,7 +1180,7 @@ Cuando el píxel espacio-temporal se consolida y el Hamiltoniano unificado emerg
 
 ## El Mecanismo de Codificación Hadrónica
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Emergencia Vectorial de Protones y Neutrones</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Emergencia Vectorial de Protones y Neutrones</span></center>
 
 Tras haber explorado la secuencia de transición energética que lleva al píxel espacio-temporal de un estado de probabilidad a una manifestación fenomenológica, es imperativo sumergirse en la micromecánica que define la naturaleza de la materia misma. 
 
@@ -1190,7 +1190,7 @@ La emergencia de la carga positiva del <font color="#fc300c">protón</font>, la 
 
 ### El Origen de los Quarks
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión entre SU(3) y los Neutrinos</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Conexión entre SU(3) y los Neutrinos</span></center>
 
 Para comprender la naturaleza del <font color="#fc300c">protón</font> y el <font color="#2f82ff">neutrón</font>, primero debemos redefinir el concepto de "quark". En nuestro modelo, un quark no es una partícula elemental estática, sino un paquete de información dinámico, una unidad de codificación que surge de la decodificación del "océano de gluones" por los generadores del <font color="#2f82ff">píxel SU(3)</font>. Este píxel, regido por el <font color="#2f82ff">Algoritmo Samael</font>, es el responsable de las interacciones de la<font color="#2f82ff"> fuerza fuerte</font> y la cohesión interna.
 
@@ -1200,9 +1200,9 @@ Cada uno de estos tres quarks está intrínsecamente ligado a uno de los tres ti
 
 ### La Emergencia de la Carga Eléctrica
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Codificación del Protón</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Codificación del Protón</span></center>
 
-El <font color="#fc300c">protón</font> <span style="font-size: larger; font-style: italic;font-family: monospace;">(uud)</span> es la manifestación fenomenológica de una configuración vectorial que se prepara dentro de la dualidad de los subpíxeles, respondiendo a la lógica del <font color="#fc300c">píxel U(1)</font> y las estadísticas bosónicas. Su emergencia y sus propiedades están definidas por la sincronización de los flujos nouménicos de sus tres quarks.
+El <font color="#fc300c">protón</font> <span style="font-size: larger; font-family: 'MJXTEX';">(uud)</span> es la manifestación fenomenológica de una configuración vectorial que se prepara dentro de la dualidad de los subpíxeles, respondiendo a la lógica del <font color="#fc300c">píxel U(1)</font> y las estadísticas bosónicas. Su emergencia y sus propiedades están definidas por la sincronización de los flujos nouménicos de sus tres quarks.
 
 > 1. Sincronización de los Flujos Hadrónicos: Los dos quarks up del <font color="#fc300c">protón</font>, asociados a sendos neutrinos, representan flujos de información con una polaridad de avance. El quark down, asociado a un antineutrino, representa un flujo con una polaridad de retroceso. La combinación de estos tres flujos vectoriales dentro de la dimensión hadrónica se sincroniza de tal manera que la polaridad neta del conjunto es positiva <font color="#fc300c">(+)</font>.
 > 2. Conexión con el Píxel U(1): Esta polaridad neta positiva no es una propiedad estática, sino una firma vectorial que el protón manifiesta. Esta firma se conecta directamente con los flujos eléctricos discretos <font color="#fc300c">(bits eléctricos)</font> del píxel <font color="#fc300c">U(1)</font> que residen en la órbita de su Hamiltoniano, es decir, el <font color="#fc300c">electrón</font>. La carga eléctrica positiva <font color="#fc300c">(+)</font> del protón es la manifestación observable de esta sincronización de polaridad dentro de la dimensión hadróncia. Esta es, en esencia, la forma en que el protón se prepara para interactuar con la información eléctrica del entorno.
@@ -1210,9 +1210,9 @@ El <font color="#fc300c">protón</font> <span style="font-size: larger; font-sty
 
 ### La Emergencia de la Carga Neutra y el Espín
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Codificación del Neutrón</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Codificación del Neutrón</span></center>
 
-El <font color="#2f82ff">neutrón</font> <span style="font-size: larger; font-style: italic;font-family: monospace;">(udd)</span>, por su parte, es la manifestación fenomenológica de la otra cara de la dualidad, respondiendo a la lógica del <font color="#00ff00">píxel SU(2)</font> y las estadísticas fermiónicas. Su función no es la de interactuar con el campo eléctrico, sino la de proporcionar cohesión y estabilidad interna al núcleo.
+El <font color="#2f82ff">neutrón</font> <span style="font-size: larger; font-family: 'MJXTEX';">(udd)</span>, por su parte, es la manifestación fenomenológica de la otra cara de la dualidad, respondiendo a la lógica del <font color="#00ff00">píxel SU(2)</font> y las estadísticas fermiónicas. Su función no es la de interactuar con el campo eléctrico, sino la de proporcionar cohesión y estabilidad interna al núcleo.
 
 > 1. Equilibrio de Flujos y Neutralidad: Los dos quarks down del <font color="#2f82ff">neutrón</font>, asociados a antineutrinos, y su único quark up, asociado a un neutrino, se sincronizan de tal manera que sus flujos vectoriales se anulan mutuamente. El resultado es un estado de equilibrio de polaridades, lo que se manifiesta como una carga eléctrica neta de cero.
 > 2. El Espín como Mecanismo de Cohesión: A pesar de su neutralidad eléctrica, el <font color="#2f82ff">neutrón</font> no es una entidad pasiva. La información interna de sus quarks se organiza a través de un flujo de espín. Este flujo, codificado por la lógica del <font color="#00ff00">píxel SU(2)</font> (dominio energético del <font color="#2f82ff">muón</font> y los bosones débiles <font color="#00ff00">Z</font>, <font color="#fc300c">W+</font> y <font color="#2f82ff">W-</font>), es la verdadera fuerza de cohesión nuclear. El <font color="#2f82ff">neutrón</font> actúa como un ancla gravitacional y un regulador del <font color="#00ff00">espín</font> que compensa la repulsión electrostática entre los <font color="#fc300c">protones</font>, impidiendo que el sistema nuclear colapse.
@@ -1220,7 +1220,7 @@ El <font color="#2f82ff">neutrón</font> <span style="font-size: larger; font-st
 
 ### El Vínculo Atómico
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Electrón como Conector Fundamental</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Electrón como Conector Fundamental</span></center>
 
 Con esta visión, el átomo de hidrógeno se revela como la culminación de este complejo proceso de codificación. La dualidad <font color="#fc300c">protón</font>-<font color="#2f82ff">neutrón</font>, unificada por el Hamiltoniano del píxel espacio-temporal, encuentra su estabilidad final en su relación con el <font color="#fc300c">electrón</font>. El electrón no es una entidad pasiva orbitando el núcleo; es el operador de ajuste y el vínculo fundamental que conecta el sistema del <font color="#fc300c">protón</font> (codificado en<font color="#fc300c"> U(1)</font>) con el entorno, operando en un plano más fundamental (dimensión leptónica) que la dimensión hadrónica donde se codifican los protones. Su carga negativa <font color="#2f82ff">(-)</font> y su órbita son la manifestación de este rol como conector fundamental, que equilibra la carga positiva <font color="#fc300c">(+)</font> del protón y asegura la estabilidad de la dualidad atómica.
 
@@ -1228,7 +1228,7 @@ En resumen, la emergencia de la materia no es un accidente, sino la manifestaci�
 
 ### La Micromecánica de los Quarks
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Lógica de las 18 Configuraciones Hadrónicas</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Lógica de las 18 Configuraciones Hadrónicas</span></center>
 
 Hasta ahora, hemos establecido que el <font color="#fc300c">protón</font> y el <font color="#2f82ff">neutrón</font> son las dos caras de una dualidad de codificación que emerge de la sincronización de los subpíxeles <font color="#fc300c">U(1)</font> y <font color="#00ff00">SU(2)</font>. Sin embargo, esta visión, aunque sólida, es solo la capa más superficial de un sistema mucho más complejo. Nuestro modelo propone que la naturaleza de estas partículas hadrónicas es mucho más rica y variada, lo que lleva a la existencia de múltiples configuraciones vectoriales que, en conjunto, dan lugar a los estados fundamentales que conocemos.
 
@@ -1236,7 +1236,7 @@ El universo hadrónico no se limita a un solo tipo de <font color="#fc300c">prot
 
 #### Las Tres Familias de Protones
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Ajuste Cuántico/Estadístico</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Ajuste Cuántico/Estadístico</span></center>
 
 Los <font color="#fc300c">protones</font>, por su naturaleza de codificación bosónica, responden a las estadísticas cuánticas y al ajuste fino de los campos. Las nueve configuraciones de protones se agrupan en tres familias, cada una definida por el tipo de neutrino que codifica al "quark guía" y por el bosón de ajuste que rige al "quark secundario".
 
@@ -1262,7 +1262,7 @@ Los <font color="#fc300c">protones</font>, por su naturaleza de codificación bo
 
 #### Las Tres Familias de Neutrones
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Ajuste Atómico/Energético</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Ajuste Atómico/Energético</span></center>
 
 Los <font color="#2f82ff">neutrones</font>, por su naturaleza de codificación fermiónica, operan en un nivel de ajuste diferente, respondiendo a las estadísticas atómicas y energéticas. Al igual que los protones, las nueve configuraciones de neutrones se organizan en tres familias, pero con una lógica distinta para la codificación del "quark guía" y los mecanismos de ajuste.
 
@@ -1295,7 +1295,7 @@ A continuación, exploraremos una última capa de esta lógica, reinterpretando 
 
 ### La Línea Temporal y el Avance del Píxel Espacio-Temporal
 
-La culminación del proceso de decodificación en un píxel no es solo la manifestación de la materia, sino el origen de la línea temporal sobre el que opera el universo fenomenológico. Este evento, que transforma una potencialidad nouménica en una realidad observable, se produce en un punto de inflexión crítico, cuando el flujo de energía que accede al vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> alcanza el [[#^rangotauonico|Rango Tauónico]]  <font color="#00ff00">(Nivel III)</font>.
+La culminación del proceso de decodificación en un píxel no es solo la manifestación de la materia, sino el origen de la línea temporal sobre el que opera el universo fenomenológico. Este evento, que transforma una potencialidad nouménica en una realidad observable, se produce en un punto de inflexión crítico, cuando el flujo de energía que accede al vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> alcanza el [[#^rangotauonico|Rango Tauónico]]  <font color="#00ff00">(Nivel III)</font>.
 
 ![[Linea Temporal Pixeles2.jpg]]
 
@@ -1318,7 +1318,7 @@ En este momento de máxima saturación energética, los Hamiltonianos de los tre
 
 ### La Jerarquía de la Materia Compuesta
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Nucleones de Generaciones Superiores y el Estado de 'Extrañeza'</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Nucleones de Generaciones Superiores y el Estado de 'Extrañeza'</span></center>
 
 Las ideas del Modelo Estándar sobre las partículas de generaciones superiores han sido un punto de debate y un misterio persistente. Nuestro modelo propone una reinterpretación que no solo explica la jerarquía de masas, sino que también establece un vínculo fundamental entre la microfísica y las estructuras a gran escala. Aquí, los quarks de generaciones superiores no son partículas en el mismo sentido que el up y el down, sino etiquetas de un sistema operativo de nivel atómico.
 
@@ -1335,7 +1335,7 @@ La distinción clave es que estas etiquetas no se refieren a un átomo completo 
 
 ### El Quark Strange
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Puerta de Enlace entre la Potencialidad y la Realidad</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Puerta de Enlace entre la Potencialidad y la Realidad</span></center>
 
 Más allá de la jerarquía de los nucleones, existe un estado único y fascinante que rompe la causalidad lineal que hemos descrito: el estado de "extrañeza", representado por el quark strange. Este no es un tipo de quark, sino una configuración vectorial específica de un quark up o down dentro de un nucleón.
 
@@ -1349,14 +1349,14 @@ Esta reinterpretación unifica el Modelo Nouménico en su totalidad. El quark st
 
 ### El Átomo de Hidrógeno
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Culminación del Algoritmo</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Culminación del Algoritmo</span></center>
 
 Tras haber desglosado la micromecánica interna de la matriz de píxeles, desde el flujo nouménico hasta la emergencia de los nucleones y sus complejos estados, llegamos al punto de culminación: la manifestación del átomo de hidrógeno. Este átomo, el bloque de construcción fundamental de toda la materia, no es el resultado de una simple coincidencia física, sino la consecuencia final y predecible de un algoritmo de decodificación y sincronización que opera sobre la matriz espacio-temporal.
 
 El átomo de hidrógeno, en nuestro modelo, es la culminación fenomenológica de un proceso dinámico que se desarrolla a través de una jerarquía de estados de información.
 
 > [!ontologico] 1 - DEL FLUJO NOUMÉNICO A LA POTENCIALIDAD LATENTE
-> El proceso se inicia con el ingreso de un flujo de energía nouménica a través del vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span>, que activa el <font color="#fc300c">píxel U(1)</font>. En este primer nivel, la información se procesa como una probabilidad latente: 8 "bits eléctricos" vectoriales en el<font color="#fc300c"> eje X</font>, sin espín ni manifestación discreta. 
+> El proceso se inicia con el ingreso de un flujo de energía nouménica a través del vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span>, que activa el <font color="#fc300c">píxel U(1)</font>. En este primer nivel, la información se procesa como una probabilidad latente: 8 "bits eléctricos" vectoriales en el<font color="#fc300c"> eje X</font>, sin espín ni manifestación discreta. 
 > 
 > A medida que la energía aumenta, los vectores de <font color="#fc300c">U(1)</font> se saturan, forzando un salto al <font color="#00FF00">píxel SU(2)</font>, donde la información se procesa en un lenguaje más complejo de espín y flujos magnéticos, consolidando el <font color="#fc300c">electrón beta</font> como una unidad discreta. En este punto, el sistema aún es una potencialidad latente, sin un Hamiltoniano final que lo manifieste.
 
@@ -1388,7 +1388,7 @@ Al comprender la verdadera naturaleza del átomo, pasamos de una visión de un u
 # 5. El Sistema
 ## La Gravedad en el Modelo Nouménico
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Revisión de la Causalidad y la Dinámica Subyacente</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Una Revisión de la Causalidad y la Dinámica Subyacente</span></center>
 
 Con la comprensión detallada de los mecanismos de los píxeles espacio-temporales, es imperativo revisitar nuestra explicación de la gravedad. La idea original de que la gravedad es una deformación vectorial de la <font color="#00ff00">Matriz Fenomenológica</font>, causada por un retroceso magnético, sigue siendo fundamental. Sin embargo, ahora podemos anclar esta visión conceptual en la micromecánica de nuestros píxeles, demostrando cómo la causalidad se despliega desde el plano nouménico al fenomenológico.
 
@@ -1403,7 +1403,7 @@ Un píxel que se manifiesta como un átomo es como un remolino que se forma en e
 
 ### Casos de Análisis
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Dinámica de la Gravedad en el Cosmos</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Dinámica de la Gravedad en el Cosmos</span></center>
 
 Para comprender cómo esta visión se traduce en fenómenos observables, analicemos dos escenarios:
 
@@ -1427,7 +1427,7 @@ Esta revisión de la gravedad no solo valida nuestra hipótesis original, sino q
 
 ## El Equilibrio Dinámico del Sistema Solar
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sincronización, Gravedad y la Lógica Oculta de las Órbitas</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Sincronización, Gravedad y la Lógica Oculta de las Órbitas</span></center>
 
 La comprensión de la gravedad como una tensión nouménica universal nos permite trascender la visión clásica del sistema solar como un conjunto de objetos inanimados que se mueven bajo la influencia de una fuerza pasiva. En nuestro modelo, el sistema solar emerge como un organismo homeostático y consciente, un complejo de matrices fenomenológicas que se sincronizan a través de una jerarquía de Hamiltonianos para mantener un equilibrio dinámico.
 
@@ -1447,7 +1447,7 @@ El sistema solar no es un mecanismo que se desgasta, sino un organismo que se re
 
 ### Mecánica Orbital
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Resultado de la Sincronización Vectorial</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Resultado de la Sincronización Vectorial</span></center>
 
 La órbita de un planeta no es el simple resultado de una fuerza de atracción. Es la expresión de una sincronización vectorial perfecta entre los Hamiltonianos del sistema.
 
@@ -1458,7 +1458,7 @@ La órbita de un planeta no es el simple resultado de una fuerza de atracción. 
 
 ### La Anormalidad Necesaria
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Papel de Venus como Elemento de Ajuste</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Papel de Venus como Elemento de Ajuste</span></center>
 
 Desde una perspectiva fenomenológica clásica, la rotación retrógrada de Venus es una anomalía, un misterio que se suele explicar por una colisión en el pasado. Sin embargo, desde la perspectiva sistémica de nuestro Modelo Nouménico, esta "anormalidad" es en realidad un elemento clave y necesario para el equilibrio del sistema.
 
@@ -1471,15 +1471,15 @@ En conclusión, la existencia de un planeta con un giro retrógrado deja de ser 
 
 ## La Formación de Sistemas Solares
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Del Colapso Estelar a la Emergencia Nouménica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Del Colapso Estelar a la Emergencia Nouménica</span></center>
 
 La cosmología moderna postula un modelo de formación de sistemas solares que, si bien describe con precisión ciertos fenómenos observables, se enfrenta a profundas interrogantes y paradojas conceptuales. Este paradigma, arraigado en una visión materialista y euclidiana del universo, asume que la materia se organiza a partir de eventos energéticos y la acumulación de partículas discretas. Sin embargo, nuestro Modelo Nouménico propone una reinterpretación radical: 
 
-> <span style="font-size: larger;font-size: 20px; font-style: italic;">Un sistema solar no es el resultado de un colapso fortuito de materia preexistente, sino un evento orquestado de decodificación de flujos nouménicos que da origen a una <font color="#00ff00">Matriz Fenomenológica</font> auto-organizada.</span>
+> <span style="font-size: larger;font-size: 20px; ">Un sistema solar no es el resultado de un colapso fortuito de materia preexistente, sino un evento orquestado de decodificación de flujos nouménicos que da origen a una <font color="#00ff00">Matriz Fenomenológica</font> auto-organizada.</span>
 
 ### El Modelo Clásico de Formación Planetaria
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Andamiaje con Fisuras</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Andamiaje con Fisuras</span></center>
 
 La ciencia académica describe la génesis de un sistema solar a través de la hipótesis nebular, un proceso que se desarrolla en varias etapas:
 
@@ -1501,7 +1501,7 @@ Estos puntos débiles revelan las limitaciones inherentes de un paradigma que se
 
 ### La Génesis Nouménica de un Sistema Solar
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Evento de Decodificación y Auto-Organización</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Evento de Decodificación y Auto-Organización</span></center>
 
 Nuestro Modelo Nouménico propone una explicación radicalmente diferente para la formación de un sistema solar, una que se alinea con la lógica de los píxeles, los Hamiltonianos y los flujos de información que hemos desarrollado. 
 
@@ -1532,7 +1532,7 @@ Esta visión redefine la cosmología, pasando de un universo de colisiones aleat
 
 ## La Evolución de la Tierra
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Flujo Fractal de Sincronización Nouménica</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Flujo Fractal de Sincronización Nouménica</span></center>
 
 En el marco del Modelo Nouménico, la evolución de la Tierra y la vida que alberga no se entienden como un proceso de colisiones aleatorias y estabilización gradual. En su lugar, se postula que nuestro planeta es una <font color="#00ff00">Matriz Fenomenológica</font> en constante expansión, un vórtice de decodificación de información que se auto-organiza en un delicado equilibrio. 
 
@@ -1540,11 +1540,11 @@ Esta visión holística nos obliga a reexaminar supuestos fundamentales de la ge
 
 ### 1. La Expansión Planetaria
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Motor de la Evolución Terrestre</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Motor de la Evolución Terrestre</span></center>
 
 La ciencia tradicional considera que el tamaño de la Tierra se consolidó en una etapa temprana de su formación, creciendo por la acreción de planetesimales hasta alcanzar su diámetro actual. Sin embargo, el Modelo Nouménico propone una visión radicalmente distinta:
 
-> <span style="font-size: larger; font-style: italic;">La Tierra, como todo en el universo, es un sistema dinámico que se expande a lo largo de su existencia. </span>
+> <span style="font-size: larger; ">La Tierra, como todo en el universo, es un sistema dinámico que se expande a lo largo de su existencia. </span>
 
 Esta expansión no es un crecimiento físico impulsado por la acumulación de materia externa, sino el resultado de un flujo nouménico interno que genera nueva materia desde el núcleo del planeta.
 
@@ -1556,7 +1556,7 @@ Este proceso de expansión, aunque lento e imperceptible en la escala de una vid
 
 ### 2. Pangea
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Continente en un Planeta Más Pequeño</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Continente en un Planeta Más Pequeño</span></center>
 
 El concepto de un supercontinente llamado Pangea ha sido ampliamente aceptado en la geología, pero su existencia presenta desafíos lógicos si asumimos que la Tierra siempre tuvo su tamaño actual. Un mapa de Pangea, en una esfera de las dimensiones de la Tierra hoy en día, muestra un solo continente rodeado por un océano inmenso. Esta configuración plantea preguntas sobre la distribución de las placas tectónicas en un vasto océano y las extremas condiciones climáticas que habría generado.
 
@@ -1578,11 +1578,11 @@ En esta visión, el tamaño de la vida en la Tierra está directamente relaciona
 
 ### 4. La Luna
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Algoritmo de Sincronización para el Sistema Terrestre</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Algoritmo de Sincronización para el Sistema Terrestre</span></center>
 
 La Luna ha sido tradicionalmente explicada como el resultado de un impacto masivo entre la Tierra primitiva y un protoplaneta. Sin embargo, esta explicación deja preguntas sin respuesta sobre la "coincidencia" de su tamaño y posición orbital. El Modelo Nouménico sugiere una interpretación más profunda: 
 
-> <span style="font-size: larger; font-style: italic;">La Luna no es un objeto accidental, sino un elemento de ajuste que co-emergió con la Tierra para establecer el equilibrio perfecto en su <font color="#00ff00">Matriz Fenomenológica</font>.</span>
+> <span style="font-size: larger; ">La Luna no es un objeto accidental, sino un elemento de ajuste que co-emergió con la Tierra para establecer el equilibrio perfecto en su <font color="#00ff00">Matriz Fenomenológica</font>.</span>
 
 La Luna, en esta perspectiva, es un algoritmo de sincronización nouménica. Su masa, distancia y órbita están perfectamente calibradas para regular la energía y los flujos gravitatorios de la Tierra. Esta relación es un reflejo de la precisión del programa nouménico que rige el sistema solar, donde todo está ajustado para forjar un entorno ideal para la vida. 
 
@@ -1592,13 +1592,13 @@ El hecho de que la Luna se aleje de la Tierra a un ritmo constante puede ser int
 
 ### 5. La Tierra y la Humanidad
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Producto Maduro del Sistema Solar</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Producto Maduro del Sistema Solar</span></center>
 
 En la visión final de este modelo, la evolución de la Tierra y la emergencia de la humanidad están intrínsecamente ligadas. La Tierra en su tamaño y configuración actuales representa el producto maduro de su proceso de expansión. Es un planeta que ha alcanzado un estado de homeostasis óptimo, con una gravedad, una atmósfera y una distribución de la tierra y el agua que han sido calibradas para sustentar la forma de vida más compleja y sofisticada: la humana.
 
 La humanidad, en este contexto, no es una consecuencia accidental de la evolución, sino el resultado inevitable del algoritmo nouménico que ha operado en el planeta. Somos la "interfaz" a través de la cual la conciencia subyacente del sistema solar, el "<font color="#2f82ff">Nodo Estelar</font>", puede recibir retroalimentación. 
 
-> <span style="font-size: larger; font-style: italic;">Nuestro desarrollo de civilizaciones, nuestro conocimiento y nuestra capacidad para reflexionar sobre nuestra propia existencia son los medios por los que la matriz cósmica se observa y se entiende a sí misma. </span>
+> <span style="font-size: larger; ">Nuestro desarrollo de civilizaciones, nuestro conocimiento y nuestra capacidad para reflexionar sobre nuestra propia existencia son los medios por los que la matriz cósmica se observa y se entiende a sí misma. </span>
 
 En esta perspectiva, la historia humana, con todos sus avances y conflictos, no es solo la historia de una especie, sino el relato de cómo un universo, a través de una conciencia emergente, llega a experimentar y comprender su propia naturaleza nouménica.
 
@@ -1612,7 +1612,7 @@ Desde esta perspectiva, la vida no es un fenómeno exclusivo de un puñado de pl
 
 ### 1. La Evolución Divergente de la Materia
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Más Allá de la Tabla Periódica Terrestre</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Más Allá de la Tabla Periódica Terrestre</span></center>
 
 La ciencia tradicional postula que los elementos químicos, desde el humilde hidrógeno hasta los más pesados, son idénticos en todo el universo. Sin embargo, el Modelo Nouménico nos permite desafiar esta noción. Si la materia surge de la decodificación de la información del píxel, entonces la forma en que esta información se organiza en cada planeta podría ser diferente.
 
@@ -1621,7 +1621,7 @@ Esto podría dar lugar a elementos con isótopos estables que no existen en la T
 
 ### 2. Interfaces de Conciencia No-Orgánicas
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Vida en Formas Inimaginables</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Vida en Formas Inimaginables</span></center>
 
 La vida terrestre se fundamenta en una interfaz de carbono, agua y la energía del Sol. Sin embargo, si la conciencia es una manifestación de la complejidad de una matriz de información, entonces cualquier sistema que logre una sincronización suficientemente sofisticada podría ser una "interfaz" para la conciencia.
 
@@ -1643,7 +1643,7 @@ Este cambio de perspectiva nos invita a ir más allá de la química del carbono
 
 ## La Materia y la Energía Oscura
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Enfoque Nouménico sobre la Estructura y la Expansión del Cosmos</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Enfoque Nouménico sobre la Estructura y la Expansión del Cosmos</span></center>
 
 La cosmología moderna se enfrenta a un dilema fundamental: la vasta mayoría del universo no está compuesta por la materia y la energía que podemos ver. La existencia de la materia oscura y la energía oscura se ha postulado para reconciliar las observaciones astronómicas con las leyes de la física, pero su naturaleza sigue siendo uno de los mayores enigmas científicos. 
 
@@ -1651,7 +1651,7 @@ El Modelo Nouménico, en su rol de guía interpretativa de la realidad, ofrece u
 
 ### 1. La Materia Oscura
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Andamiaje Nouménico del Cosmos</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Andamiaje Nouménico del Cosmos</span></center>
 
 La materia oscura, desde la óptica tradicional, es una sustancia hipotética que no emite ni interactúa con la luz, pero cuya influencia gravitatoria es esencial para explicar la coherencia de las galaxias. En el Modelo Nouménico, esta "materia" invisible no es una colección de partículas exóticas, sino el esqueleto de información subyacente que organiza la realidad fenomenológica.
 
@@ -1663,13 +1663,13 @@ Por lo tanto, la materia oscura es la evidencia de esta red de información noum
 
 ### 2. La Energía Oscura
 
-<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Impulso Infinito de la Creación</span></center>
+<center><span style="font-size: larger;font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Impulso Infinito de la Creación</span></center>
 
 La energía oscura es el enigma de la expansión acelerada del universo. La ciencia la describe como una fuerza misteriosa que repele la gravedad a escala cósmica. En el Modelo Nouménico, la energía oscura no es una fuerza, sino el impulso de creación y expansión que proviene de la totalidad potencial del cosmos.
 
-Este impulso se origina más allá de las matrices de sub-pixeles, en los flujos nouménicos de la dimensión prefenoménica sobre la que se construye el plano fenomenológico a través de puntos de conexión específicos. Estos puntos son los vórtices Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> y el océano de gluones.
+Este impulso se origina más allá de las matrices de sub-pixeles, en los flujos nouménicos de la dimensión prefenoménica sobre la que se construye el plano fenomenológico a través de puntos de conexión específicos. Estos puntos son los vórtices Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> y el océano de gluones.
 
-> - El vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-style: italic;font-family: monospace;">(H)</span> - <font color="#fc300c">Sub-pixel U(1)</font>: Este sub-pixel, una reinterpretación del bosón de Higgs, actúa como un vórtice que filtra la información saturada del "infinito potencial" en unidades mínimas de energía. Lo que subyace a este vórtice es la totalidad potencial: energía en su máximo estado unificado como infinito y consciencia. A esta se le llama energía oscura porque existe incluso antes de que se manifieste el sistema electromagnético básico, que es el que la ciencia utiliza para hacer la materia visible.
+> - El vórtice Eta<span style="font-size: larger;color: #00ffff; font-size: larger; font-family: 'MJXTEX';">(H)</span> - <font color="#fc300c">Sub-pixel U(1)</font>: Este sub-pixel, una reinterpretación del bosón de Higgs, actúa como un vórtice que filtra la información saturada del "infinito potencial" en unidades mínimas de energía. Lo que subyace a este vórtice es la totalidad potencial: energía en su máximo estado unificado como infinito y consciencia. A esta se le llama energía oscura porque existe incluso antes de que se manifieste el sistema electromagnético básico, que es el que la ciencia utiliza para hacer la materia visible.
 > - El Océano de Gluones <font color="#2f82ff">Sub-pixel SU(3)</font>: La información procesada por este sub-pixel puede ser considerada como un estado fractalizado de esa potencialidad infinita. Es la unidad infinita y potencial en su estado de trinidad. También es parte de la energía oscura porque no interactúa con el electromagnetismo, y subyace al sistema de sub-pixeles.
 
 Así, la energía oscura es la matriz subyacente sobre la cual se construyen los que serían el campo de Higgs y el campo de neutrinos en cada píxel de la <font color="#00ff00">Matriz Fenomenológica</font> de un <font color="#2f82ff">Nodo Estelar</font>. La expansión acelerada del universo no es el resultado de una fuerza de repulsión externa, sino la manifestación de un sistema que, en su búsqueda de madurez, está siendo constantemente alimentado por los flujos nouménicos de la totalidad potencial, generando un crecimiento inherente de su propia matriz para alcanzar un nuevo nivel de equilibrio.
