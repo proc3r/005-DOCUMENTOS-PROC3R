@@ -126,7 +126,7 @@ Para el científico, los <font color="#ffc000">grupos unitarios U(n)</font> son 
 
 
 
-Los <font color="#cb48f3">grupos unitarios especiales SU(n)</font> son un subgrupo de <font color="#ffcc00">U(n)</font> que además tienen la restricción de que su determinante es igual a 1. Formalmente, <span style="font-size: larger;  color: cb48f3; font-family: monospace;">SU(n)={A∈U(n)∣det(A)=1}</span>. Esta condición de determinante unitario tiene profundas implicaciones en la física, ya que a menudo está relacionada con la conservación de una "cantidad" o "carga" fundamental.
+Los <font color="#cb48f3">grupos unitarios especiales SU(n)</font> son un subgrupo de <font color="#ffcc00">U(n)</font> que además tienen la restricción de que su determinante es igual a 1. Formalmente, <span style="font-size: larger;  color: cb48f3; font-family: 'MJXTEX';">SU(n)={A∈U(n)∣det(A)=1}</span>. Esta condición de determinante unitario tiene profundas implicaciones en la física, ya que a menudo está relacionada con la conservación de una "cantidad" o "carga" fundamental.
 
 Para el Modelo Nouménico, esta distinción matemática se traduce en una comprensión intuitiva y profunda de cómo se organiza y procesa la información nouménica:
 

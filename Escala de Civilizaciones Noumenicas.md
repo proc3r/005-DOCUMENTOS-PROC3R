@@ -11,8 +11,6 @@ indexar: true
 
 El progreso de la civilización se ha medido tradicionalmente por su capacidad para dominar y manipular la materia y la energía. Este enfoque, popularizado por la Escala de Kardashev, es invaluable para cuantificar el avance tecnológico, pero ignora la esencia de la existencia: «la consciencia». 
 
-<span style="font-size: larger; color: ffcc00; font-family: 'MJXTEX';">U(n)={A∈GL(n,C)∣AA<sup>†</sup>=I}</span>
-
 Este documento propone una perspectiva que trasciende el paradigma <font color="#fc300c">mecanicista-materialista</font>. Aborda la existencia desde un Modelo Nouménico, que postula que la realidad fenomenológica que experimentamos es la manifestación de una realidad más profunda y fundamental. 
 
 La Escala de Civilizaciones Nouménica clasifica la evolución civilizatoria en función de la madurez de su <font color="#e36c09">Consciencia Colectiva</font>, reflejando su capacidad para trascender la lucha noemática y los dilemas existenciales.
