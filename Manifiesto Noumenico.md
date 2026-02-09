@@ -630,7 +630,7 @@ _9.1.3_ » Su tecnología no consistiría en construir máquinas del tiempo, sin
 
 <center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Vínculo con el Plano Nouménico</span></center>
 
-_9.2.1_ » Si el universo es un vasto océano de información, _¿cuál es el papel de la consciencia humana en este sistema?_ El ***noema científico y filosófico*** de nuestra civilización ha luchado por definir la consciencia, viéndola como un subproducto del cerebro o una propiedad misteriosa que emerge de la materia. Sin embargo, *el Modelo Nouménico propone que la consciencia no es un resultado de la materia*, sino una [[Soplaris - La Consciencia del Nodo Estelar#6. El Arquema:|interfaz activa]] con el plano nouménico.
+_9.2.1_ » Si el universo es un vasto océano de información, _¿cuál es el papel de la consciencia humana en este sistema?_ El ***noema científico y filosófico*** de nuestra civilización ha luchado por definir la consciencia, viéndola como un subproducto del cerebro o una propiedad misteriosa que emerge de la materia. Sin embargo, *el Modelo Nouménico propone que la consciencia no es un resultado de la materia*, sino una [[X Soplaris - La Consciencia del Nodo Estelar#6. El Arquema:|interfaz activa]] con el plano nouménico.
 
 _9.2.2_ » Nuestro cerebro no es el creador de la consciencia, sino un _receptor_ y un _decodificador_, una antena biológica sintonizada con el _océano de la materia oscura_. Los pensamientos, las emociones y la intuición no son simplemente impulsos eléctricos, sino _flujos de información nouménica_ que se traducen en el plano fenomenológico a través de la sincronización de nuestros _píxeles neuronales_.
 
