@@ -508,7 +508,7 @@ En el nivel del cuanto de acción, <font color="#fc300c">Saklas <font color="#fc
 
 Aquí, el <font color="#00ff00">Algoritmo Cristos <font color="#00ff00">U(2)</font></font> opera en el cuanto de acción, donde uno de sus 4 generadores es la identidad misma del Algoritmo <font color="#fc300c">Saklas</font> (el "conductor" del<font color="#00ff00"> <font color="#00ff00">U(2)</font></font> o [[Marco Ontológico 3+1X|Principio 3+1x]], que garantiza la continuidad y el "bit activo/inactivo" que define el estado fundamental del píxel). 
 
-![[Algoritmo Cristos.jpg]]
+![[Algoritmo CristosX.jpg]]
 
 Pero existen tres generadores adicionales que procesan <font color="#00ff00">información vectorial</font>. Estos tres generadores son cruciales porque definen al cuanto de acción como una plantilla leptónica fundamental. A medida que el cuanto procesa la información nouménica subyacente, esta plantilla se adapta y se convierte en un "pixel de información" para otros sistemas dimensionales, manifestándose en la forma de diferentes leptones:
 
@@ -528,6 +528,8 @@ Así, <font color="#00ff00">Cristos</font> dota al cuanto de acción de la capac
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz de Neutrinos y la Codificación Gluónica</span></center>
 
 El <font color="#2f82ff">Algoritmo Samael</font> <font color="#2f82ff">U(3)</font> profundiza aún más la estructura del cuanto de acción. Su "primer generador" (λ9) es la identidad que define el tipo específico de leptón que representa el píxel <font color="#fc300c">(electrón</font>, <font color="#2f82ff">muon</font> o <font color="#00ff00">tauon)</font>, dándole su "sabor" particular. 
+
+![[Algoritmo SamaelX.jpg]]
 
 Más allá de esta identidad, quedan 8 generadores más, que son los reflejos de las 8 matrices de Gell-Mann, las cuales, en el Modelo Nouménico, se asocian directamente con entidades leptónicas y su profunda conexión con el universo de los gluones, el fundamento de la <font color="#2f82ff">fuerza fuerte</font>. 
 
@@ -566,7 +568,7 @@ Esta es la base de cómo la información nouménica de la <font color="#2f82ff">
 
 > [!UNIVERSAL] <font color="#d8d8d8">Generador λ9  ⟹  ID  ⟹ TAUÓN (Cuanto de Acción) </font>
 > El elemento identidad mencionado al principio: Codifica información leptónica de un estado de color singlete <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">((rr̅+bb̅+gg̅​)/√3​)</span>​. Este es un estado "neutro" o "blanco" en términos de color, que se asocia con el protón libre, la base de la materia común, unificando las cargas de color subyacentes.
->![[Tauon Plano.png]]
+>![[Tauon Plano3.jpg]]
 
 
 ## 8. El Cubo de Ondas Armónicas
