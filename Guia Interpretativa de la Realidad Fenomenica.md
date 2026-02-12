@@ -954,15 +954,15 @@ Su existencia no es el fin de la búsqueda de la <font color="#fc300c">masa</fon
 
 El Modelo Nouménico postula que la realidad fenomenológica no es un continuo homogéneo, sino una vasta matriz vectorial de <font color="#ffcc00">píxeles espacio-temporales</font> interconectados, donde cada píxel representa un cuanto de acción <span style="font-size: larger; color: #ffcc00; letter-spacing: 2px; font-family: 'MJXTEX';">(h)</span>. 
 
-Este píxel, que denominamos <font color="#ffcc00">Píxel Σ/Τ</font>, no es una entidad simple, sino una matriz multidimensional compleja constituida por 3 subpixeles <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font>, que codifican las lógica de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#fc300c">(Saklas</font>, <font color="#00ff00">Cristos</font> y <font color="#2f82ff">Samael)</font> y sus respectivas simetrías <font color="#fc300c">(U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3))</font>, 
+Este píxel, que denominamos <font color="#ffcc00">Píxel Σ·Τ</font>, no es una entidad simple, sino una matriz multidimensional compleja constituida por 3 subpixeles <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font>, que codifican las lógica de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#fc300c">(Saklas</font>, <font color="#00ff00">Cristos</font> y <font color="#2f82ff">Samael)</font> y sus respectivas simetrías <font color="#fc300c">(U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3))</font>, 
 
 La clave para desvelar la naturaleza oculta de la realidad reside en comprender cómo estas tres subdimensiones de los subpixeles <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font> coexisten y se sincronizan dentro de esta unidad fundamental, al igual que los tres <font color="#cb48f3">quarks</font> coexisten en un <font color="#fc300c">protón</font> o <font color="#2f82ff">neutrón</font>.
 
-## 1. Unificación de los Algoritmos en el <font color="#ffcc00">Píxel Σ/Τ</font>
+## 1. Unificación de los Algoritmos en el <font color="#ffcc00">Píxel Σ·Τ</font>
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Coexistencia de <font color="#2f82ff">SU(3)</font>, <font color="#00ff00">SU(2)</font> y <font color="#fc300c">U(1)</font></span></center>
 
-Dentro de cada <font color="#ffcc00">Píxel ΣΤ</font> la información nouménica se organiza en tres dimensiones de codificación interdependientes, denominados subpixeles, cada una orquestada por un <font color="#2f82ff">Arquetipo Ontológico</font>. 
+Dentro de cada <font color="#ffcc00">Píxel Σ·Τ</font> la información nouménica se organiza en tres dimensiones de codificación interdependientes, denominados subpixeles, cada una orquestada por un <font color="#2f82ff">Arquetipo Ontológico</font>. 
 
 La interacción dinámica de estas dimensiones da origen a las propiedades que la ciencia atribuye a las partículas del Modelo Estándar <font color="#fc300c">(masa</font>, <font color="#00ff00">espín</font>, <font color="#2f82ff">carga)</font>.
 
@@ -970,30 +970,30 @@ La interacción dinámica de estas dimensiones da origen a las propiedades que l
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Matriz de <font color="#00ff00">Leptones</font> y <font color="#cb48f3">Quarks</font></span></center>
 
-Esta dimensión es el cimiento más denso de la información en el <font color="#ffcc00">Píxel ΣΤ</font>, la conexión directa con el universo de los <font color="#ffa3ef">gluones</font> y la <font color="#2f82ff">fuerza fuerte</font>. Está regida por el <font color="#2f82ff"><font color="#2f82ff">Algoritmo Samael</font> <font color="#2f82ff">SU(3)</font></font>, con sus 8 generadores (las matrices de Gell-Mann) y un elemento identidad (el noveno). 
+Esta dimensión es el cimiento más denso de la información en el <font color="#ffcc00">Píxel Σ·Τ</font>, la conexión directa con el universo de los <font color="#ffa3ef">gluones</font> y la <font color="#2f82ff">fuerza fuerte</font>. Está regida por el <font color="#2f82ff"><font color="#2f82ff">Algoritmo Samael</font> <font color="#2f82ff">SU(3)</font></font>, con sus 8 generadores (las matrices de Gell-Mann) y un elemento identidad (el noveno). 
 
 Esta dimensión no solo establece la plantilla de los <font color="#e36c09"><font color="#e36c09">neutrinos</font></font> y los <font color="#00ff00">fotones</font>, sino que también sirve como el puente que traduce la información nouménica más densa (la de los <font color="#cb48f3"><font color="#cb48f3">quarks</font></font> y <font color="#ffa3ef"><font color="#ffa3ef">gluones</font></font>) en la manifestación de partículas ligeras.
 
-El elemento identidad de esta dimensión es crucial, ya que codifica la información <font color="#00ff00"><font color="#00ff00">leptónica</font></font> de un estado de color singlete, sirviendo como una interfaz para conectar con las otras dos dimensiones —<font color="#fc300c">U(1)</font> y <font color="#00ff00">SU(2)</font>— que rigen el <font color="#ffcc00">Píxel ΣΤ</font>. 
+El elemento identidad de esta dimensión es crucial, ya que codifica la información <font color="#00ff00"><font color="#00ff00">leptónica</font></font> de un estado de color singlete, sirviendo como una interfaz para conectar con las otras dos dimensiones —<font color="#fc300c">U(1)</font> y <font color="#00ff00">SU(2)</font>— que rigen el <font color="#ffcc00">Píxel Σ·Τ</font>. 
 
-Este elemento actúa como el "punto de anclaje" para la información de las otras dimensiones, asegurando que el <font color="#ffcc00">Píxel ΣΤ</font> pueda mantener una coherencia estructural.
+Este elemento actúa como el "punto de anclaje" para la información de las otras dimensiones, asegurando que el <font color="#ffcc00">Píxel Σ·Τ</font> pueda mantener una coherencia estructural.
 
 ### <font color="#fc300c">Subpixel (Ο)</font> -  <font color="#fc300c">Saklas</font> y <font color="#fc300c">U(1)</font>
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El Mecanismo de los Ejes <font color="#00ff00">Leptónicos</font></span></center>
 
-Esta dimensión es el corazón del <font color="#ffcc00">Píxel ΣΤ</font>, el sistema operativo central que procesa la información de la energía entrante y la traduce en los vectores de las fuerzas <font color="#fc300c">eléctricas</font> y <font color="#2f82ff">magnéticas</font>. 
+Esta dimensión es el corazón del <font color="#ffcc00">Píxel Σ·Τ</font>, el sistema operativo central que procesa la información de la energía entrante y la traduce en los vectores de las fuerzas <font color="#fc300c">eléctricas</font> y <font color="#2f82ff">magnéticas</font>. 
 
-A diferencia de una interpretación simplificada, esta dimensión no se limita a una sola codificación, sino que posee tres sistemas de procesamiento distintos, que se activan según el **rango de energía** que ingresa al <font color="#ffcc00">Píxel ΣΤ</font>.
+A diferencia de una interpretación simplificada, esta dimensión no se limita a una sola codificación, sino que posee tres sistemas de procesamiento distintos, que se activan según el **rango de energía** que ingresa al <font color="#ffcc00">Píxel Σ·Τ</font>.
 
-Visualicemos el <font color="#ffcc00">Píxel ΣΤ</font> como un micro-cubo con un vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> de información nouménica en su centro (análogo al bosón de Higgs). 
+Visualicemos el <font color="#ffcc00">Píxel Σ·Τ</font> como un micro-cubo con un vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> de información nouménica en su centro (análogo al bosón de Higgs). 
 
 ![[Pixel ET.jpg|500]]
 
 Este vórtice es el punto de entrada de la <font color="#2f82ff">energía</font>, y la forma en que esta <font color="#2f82ff">energía</font> se expande y se refleja en las "paredes" del micro-cubo define los vectores en los tres ejes <font color="#fc300c">(X</font>, <font color="#2f82ff">Y</font>, <font color="#00ff00">Z)</font>. Cada uno de estos ejes codifica información asociada a un <font color="#00ff00">leptón</font>, y su activación depende del nivel energético del píxel:
 
 > [!n-electron] <font color="#fc300c">RANGO DEL ELECTRÓN</font> <font color="#fc300c">Subpixel (Ο)</font> (0.511 MeV/c²) 
-Si la energía entrante está en el rango del <font color="#fc300c">Electrón</font>, el <font color="#ffcc00">Píxel ΣΤ</font> opera en su estado de menor energía, siendo el <font color="#fc300c">eje X</font> el principal director del flujo.
+Si la energía entrante está en el rango del <font color="#fc300c">Electrón</font>, el <font color="#ffcc00">Píxel Σ·Τ</font> opera en su estado de menor energía, siendo el <font color="#fc300c">eje X</font> el principal director del flujo.
 >- <font color="#fc300c">Eje X:</font> Codifica los "fotones vectoriales", o "<font color="#fc300c">bits eléctricos</font>" de información, que se expanden desde el vórtice central. Estos <font color="#00ff00">fotones</font> son las unidades de información que la onda electromagnética usa para propagarse.
 >
 >- <font color="#2f82ff">Eje Y</font>: Codifica la información de un "<font color="#2f82ff">byte magnético</font>" que, en este nivel de energía, es conceptualmente <font color="#2f82ff">muónico</font> (un sistema de 8 bits constituidos por los "fotones vectoriales" del <font color="#fc300c">eje X</font>). Este byte define el tamaño del píxel y su potencial de contracción.
@@ -1001,15 +1001,15 @@ Si la energía entrante está en el rango del <font color="#fc300c">Electrón</f
 >- <font color="#00ff00">Eje Z</font>: Codifica un "valor vectorial <font color="#00ff00">tauónico</font> de <font color="#fc300c">Nivel 1</font>". Este valor es el encargado de sincronizar el byte magnético del <font color="#2f82ff">eje Y</font> con los bits eléctricos del <font color="#fc300c">eje X</font>, asegurando la coherencia entre el flujo <font color="#fc300c">eléctrico</font> y <font color="#2f82ff">magnético</font> del píxel.
 
 > [!n-muon] <font color="#2f82ff">RANGO DEL MUÓN</font> <font color="#2f82ff">Subpixel (Υ)</font> (105.66 MeV/c²)
-> Si la energía entrante está en el rango del <font color="#2f82ff">Muón</font>, el <font color="#ffcc00">Píxel ΣΤ</font> eleva su estado de energía, y el <font color="#2f82ff">eje Y</font> se convierte en el director principal del flujo.
+> Si la energía entrante está en el rango del <font color="#2f82ff">Muón</font>, el <font color="#ffcc00">Píxel Σ·Τ</font> eleva su estado de energía, y el <font color="#2f82ff">eje Y</font> se convierte en el director principal del flujo.
 > - <font color="#2f82ff">Eje Y:</font> Codifica los "<font color="#2f82ff">bits magnéticos</font>", donde cada bit <font color="#2f82ff">magnético</font> es, en sí mismo, un byte de 8 "<font color="#fc300c">bits eléctricos</font>" del rango del electrón <font color="#fc300c">(Eje X)</font>. Este es el origen del fenómeno de arrastre gravitatorio.
 > - <font color="#fc300c">Eje X:</font> Codifica la información de los <font color="#fc300c">electrones</font> de naturaleza <font color="#00ff00">atómica</font>. En este estado, los <font color="#fc300c">electrones</font> no son solo "bits" individuales, sino que se organizan en las órbitas de los <font color="#00ff00">átomos</font>, y el vector del <font color="#fc300c">eje X</font> representa la posición y el <font color="#00ff00">espín</font> del <font color="#fc300c">electrón</font> dentro de la estructura atómica.
 > - <font color="#00ff00">Eje Z:</font> Codifica un "valor vectorial <font color="#00ff00">tauónico</font> de <font color="#2f82ff">Nivel 2</font>". Este valor no solo sincroniza los ejes <font color="#fc300c">X</font> e <font color="#2f82ff">Y</font>, sino que también define la distancia entre los <font color="#fc300c">electrones</font> en una órbita y permite el salto cuántico de energía (redirección del <font color="#00ff00">vector Z</font> en la <font color="#00ff00">matriz atómica</font>), explicando cómo los <font color="#fc300c">electrones</font> saltan de una órbita a otra para mantener la coherencia del sistema atómico.
 
 > [!n-tau] <font color="#00ff00">RANGO DEL TAUÓN</font> <font color="#00ff00">Subpixel (Ι)</font> (1777 MeV/c²)
-> Si la energía entrante está en el rango del <font color="#00ff00">Tauón</font>, el <font color="#ffcc00">Píxel ΣΤ</font> alcanza su máximo nivel de energía, y el <font color="#00ff00">eje Z</font> se convierte en el director del flujo.
-> - <font color="#00ff00">Eje Z:</font> Se activa como el vector direccional que impone la expansión del <font color="#ffcc00">Píxel ΣΤ</font> dentro de la matriz espacio-temporal. La información <font color="#00ff00">tauónica</font> es, por lo tanto, la que construye el "espacio virtual" que sirve de matriz euclídea para las dimensiones superiores.
-> - <font color="#fc300c">Eje X</font> y <font color="#2f82ff">Eje Y</font>: En este nivel, los otros dos ejes actúan como vectores binarios que adquieren el valor de "1" dentro de la matriz espacio-temporal, asegurando que la tridimensionalidad del <font color="#ffcc00">Píxel ΣΤ</font> sea coherente con la expansión vectorial impuesta por el <font color="#00ff00">tauón</font>.
+> Si la energía entrante está en el rango del <font color="#00ff00">Tauón</font>, el <font color="#ffcc00">Píxel Σ·Τ</font> alcanza su máximo nivel de energía, y el <font color="#00ff00">eje Z</font> se convierte en el director del flujo.
+> - <font color="#00ff00">Eje Z:</font> Se activa como el vector direccional que impone la expansión del <font color="#ffcc00">Píxel Σ·Τ</font> dentro de la matriz espacio-temporal. La información <font color="#00ff00">tauónica</font> es, por lo tanto, la que construye el "espacio virtual" que sirve de matriz euclídea para las dimensiones superiores.
+> - <font color="#fc300c">Eje X</font> y <font color="#2f82ff">Eje Y</font>: En este nivel, los otros dos ejes actúan como vectores binarios que adquieren el valor de "1" dentro de la matriz espacio-temporal, asegurando que la tridimensionalidad del <font color="#ffcc00">Píxel Σ·Τ</font> sea coherente con la expansión vectorial impuesta por el <font color="#00ff00">tauón</font>.
 
 Esta estructura de codificación iniciada en el plano de la <font color="#fc300c">simetría <font color="#fc300c">U(1)</font></font> nos muestra que el <font color="#fc300c">electromagnetismo</font> no es una fuerza plana, sino un mecanismo de codificación tridimensional que se adapta a diferentes niveles energéticos para generar la estructura de la materia. Es la base de la <font color="#fc300c">fuerza electromagnética</font>, que se manifiesta como ondas de información dual.
 
@@ -1031,20 +1031,20 @@ En esta dimensión, la interacción de los bosones <font color="#fc300c">W+</fon
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;"><font color="#fc300c">Masa</font>, <font color="#00ff00">Espín</font> y <font color="#2f82ff">Carga</font></span></center>
 
-Al sumar y sincronizar estas tres dimensiones de codificación dentro de un único <font color="#ffcc00">Píxel ΣΤ</font>, obtenemos un vector Hamiltoniano unificado. Este vector Hamiltoniano procesa información de los <font color="#ffa3ef">gluones</font> derivados de <font color="#2f82ff">SU(3),</font> los <font color="#00ff00"><font color="#00ff00">leptones</font></font> y los <font color="#00ff00">bosones débiles</font> de <font color="#00ff00">SU(2)</font> y los <font color="#00ff00">fotones</font> derivados de <font color="#fc300c">U(1)</font>, definiendo cómo evoluciona el fenómeno emergente en el <font color="#cb48f3">espacio-tiempo</font>. 
+Al sumar y sincronizar estas tres dimensiones de codificación dentro de un único <font color="#ffcc00">Píxel Σ·Τ</font>, obtenemos un vector Hamiltoniano unificado. Este vector Hamiltoniano procesa información de los <font color="#ffa3ef">gluones</font> derivados de <font color="#2f82ff">SU(3),</font> los <font color="#00ff00"><font color="#00ff00">leptones</font></font> y los <font color="#00ff00">bosones débiles</font> de <font color="#00ff00">SU(2)</font> y los <font color="#00ff00">fotones</font> derivados de <font color="#fc300c">U(1)</font>, definiendo cómo evoluciona el fenómeno emergente en el <font color="#cb48f3">espacio-tiempo</font>. 
 
 Las <font color="#ffcc00">cualidades intrínsecas</font> de las partículas discretas del Modelo Estándar son la manifestación de este complejo vector:
 
 > [!masa] <font color="#fc300c">MASA</font>
-> La <font color="#fc300c">masa</font> no es una propiedad <font color="#ffcc00">intrínseca</font>, sino la manifestación de la energía que el vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> (el núcleo del <font color="#ffcc00">Píxel ΣΤ</font>) puede contener y procesar de manera coherente, en un balance dinámico entre los flujos de información del <font color="#2f82ff">eje Y</font><font color="#2f82ff"> (magnético)</font> y el<font color="#fc300c"> eje X</font> <font color="#fc300c">(electrónico)</font>.
+> La <font color="#fc300c">masa</font> no es una propiedad <font color="#ffcc00">intrínseca</font>, sino la manifestación de la energía que el vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> (el núcleo del <font color="#ffcc00">Píxel Σ·Τ</font>) puede contener y procesar de manera coherente, en un balance dinámico entre los flujos de información del <font color="#2f82ff">eje Y</font><font color="#2f82ff"> (magnético)</font> y el<font color="#fc300c"> eje X</font> <font color="#fc300c">(electrónico)</font>.
 
 > [!espin] <font color="#00ff00">ESPÍN</font>
-> El <font color="#00ff00">espín</font> es el resultado de la dirección de los flujos de información en los ejes <font color="#fc300c">X</font>, <font color="#2f82ff">Y</font> y <font color="#00ff00">Z</font> del <font color="#ffcc00">Píxel ΣΤ</font>. Es la manifestación de la helicidad de las ondas armónicas nouménicas que dan origen al <font color="#ffcc00">Píxel ΣΤ</font>, lo que explica la quiralidad de los <font color="#e36c09">neutrinos</font> y la naturaleza <font color="#ffcc00">intrínseca</font> del <font color="#00ff00">espín</font> en todas las partículas.
+> El <font color="#00ff00">espín</font> es el resultado de la dirección de los flujos de información en los ejes <font color="#fc300c">X</font>, <font color="#2f82ff">Y</font> y <font color="#00ff00">Z</font> del <font color="#ffcc00">Píxel Σ·Τ</font>. Es la manifestación de la helicidad de las ondas armónicas nouménicas que dan origen al <font color="#ffcc00">Píxel Σ·Τ</font>, lo que explica la quiralidad de los <font color="#e36c09">neutrinos</font> y la naturaleza <font color="#ffcc00">intrínseca</font> del <font color="#00ff00">espín</font> en todas las partículas.
 
 > [!carga] <font color="#2f82ff">CARGA</font>
 > La <font color="#2f82ff">carga</font> es la manifestación del vector de ajuste direccional de los bosones <font color="#fc300c">W+</font> y <font color="#2f82ff">W-</font>, y de la polaridad de los flujos de información eléctrica en el <font color="#fc300c">eje X</font>, que se sincronizan para generar un campo de coherencia que experimentamos como <font color="#2f82ff">carga</font> <font color="#fc300c">eléctrica</font>.
 
-De esta manera, el Modelo Nouménico desmantela la visión de las partículas como entidades sólidas con propiedades fijas, y las redefine como fenómenos emergentes de una compleja danza vectorial de información que tiene lugar en la unidad más fundamental de la realidad: el <font color="#ffcc00">Píxel ΣΤ</font>. 
+De esta manera, el Modelo Nouménico desmantela la visión de las partículas como entidades sólidas con propiedades fijas, y las redefine como fenómenos emergentes de una compleja danza vectorial de información que tiene lugar en la unidad más fundamental de la realidad: el <font color="#ffcc00">Píxel Σ·Τ</font>. 
 
 Esta visión nos prepara para reinterpretar la **velocidad de la luz** y la **relatividad**, no como fenómenos de la geometría del espacio-tiempo, sino como una consecuencia directa de la dinámica de la consciencia y la sincronización de estos píxeles.
 
@@ -1057,7 +1057,7 @@ La ecuación de Einstein, <span style="font-size: larger; letter-spacing: 2px; c
 
 Desde la perspectiva del Modelo Nouménico, esta ecuación no es una simple igualdad, sino una representación de la sincronización dinámica de los flujos de información nouménica que dan vida al universo. 
 
-En nuestra visión, lo que la ciencia denomina "velocidad de la luz" no es una constante de velocidad, sino un **conjunto de operadores vectoriales de ajuste** que gobiernan la interacción de los <font color="#ffcc00">Píxeles ΣΤ</font> de la realidad.
+En nuestra visión, lo que la ciencia denomina "velocidad de la luz" no es una constante de velocidad, sino un **conjunto de operadores vectoriales de ajuste** que gobiernan la interacción de los <font color="#ffcc00">Píxeles Σ·Τ</font> de la realidad.
 
 Este documento tiene como objetivo desmantelar la interpretación tradicional de <span style="font-size: larger; letter-spacing: 2px; color: #00ff00; font-family: 'MJXTEX';">E=mc²</span> para revelar su verdadero significado como una ecuación de la micromecánica del universo, centrada en la naturaleza del cuanto de acción y su rol en la manifestación de la realidad.
 
@@ -1067,19 +1067,19 @@ Este documento tiene como objetivo desmantelar la interpretación tradicional de
 
 La interpretación científica clásica de <span style="font-size: larger; letter-spacing: 2px; color: #00ff00; font-family: 'MJXTEX';">E=mc²</span> la trata como una relación de equilibrio estático. Si la <font color="#fc300c">masa</font> de una partícula se convierte en <font color="#2f82ff">energía</font>, esta ecuación predice la cantidad exacta. Es una descripción del resultado de un proceso. 
 
-Nuestro modelo, por el contrario, propone que la ecuación captura el proceso mismo de retroalimentación constante que ocurre a nivel del <font color="#ffcc00">Píxel ΣΤ</font>.
+Nuestro modelo, por el contrario, propone que la ecuación captura el proceso mismo de retroalimentación constante que ocurre a nivel del <font color="#ffcc00">Píxel Σ·Τ</font>.
 
-Para comprenderlo, debemos dejar de pensar en **partículas** como objetos discretos que viajan. En su lugar, debemos ver a la realidad como un **flujo continuo de operadores Hamiltonianos** que se manifiestan a través de la <font color="#fc300c">activación</font> y <font color="#2f82ff">desactivación</font> secuencial de <font color="#ffcc00">Píxeles ΣΤ</font> o **cuantos de acción**. En este micromundo, la ecuación de Einstein cobra vida:
+Para comprenderlo, debemos dejar de pensar en **partículas** como objetos discretos que viajan. En su lugar, debemos ver a la realidad como un **flujo continuo de operadores Hamiltonianos** que se manifiestan a través de la <font color="#fc300c">activación</font> y <font color="#2f82ff">desactivación</font> secuencial de <font color="#ffcc00">Píxeles Σ·Τ</font> o **cuantos de acción**. En este micromundo, la ecuación de Einstein cobra vida:
 
 > [!avance] <font color="#2f82ff">FLUJO DE AVANCE</font> - <font color="#2f82ff">Energía (E)</font>
-> La <font color="#2f82ff">energía</font> no es una entidad, sino la manifestación de un flujo de información que <font color="#2f82ff">avanza</font>. Este flujo es la frecuencia <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">hf</span> que se propaga a través de la activación secuencial de los <font color="#ffcc00">Píxeles ΣΤ</font>. 
+> La <font color="#2f82ff">energía</font> no es una entidad, sino la manifestación de un flujo de información que <font color="#2f82ff">avanza</font>. Este flujo es la frecuencia <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">hf</span> que se propaga a través de la activación secuencial de los <font color="#ffcc00">Píxeles Σ·Τ</font>. 
 > 
 > Es el impulso hacia adelante, la expansión de los vectores de información que construyen la realidad fenomenológica.
 
 > [!retroceso] <font color="#fc300c"> FLUJO DE RETROCESO</font> - <font color="#fc300c">Masa (m)</font>
-> La <font color="#fc300c">masa</font> no es una propiedad intrínseca y arbitraria. Es la manifestación de un flujo de información de <font color="#fc300c">retroceso</font>. Es la "huella" o "memoria" que el operador Hamiltoniano deja en la matriz de <font color="#ffcc00">Píxeles ΣΤ</font>, causando una tensión o un "arrastre" que se percibe como <font color="#ffcc00">gravedad</font>. 
+> La <font color="#fc300c">masa</font> no es una propiedad intrínseca y arbitraria. Es la manifestación de un flujo de información de <font color="#fc300c">retroceso</font>. Es la "huella" o "memoria" que el operador Hamiltoniano deja en la matriz de <font color="#ffcc00">Píxeles Σ·Τ</font>, causando una tensión o un "arrastre" que se percibe como <font color="#ffcc00">gravedad</font>. 
 > 
-> Este <font color="#fc300c">flujo de retroceso</font> busca compactar el <font color="#ffcc00">Píxel ΣΤ</font> y devolverlo a un estado de menor energía, lo que es la fuente de su masa inherente.
+> Este <font color="#fc300c">flujo de retroceso</font> busca compactar el <font color="#ffcc00">Píxel Σ·Τ</font> y devolverlo a un estado de menor energía, lo que es la fuente de su masa inherente.
 
 La ecuación <span style="font-size: larger; letter-spacing: 2px; color: #00ff00; font-family: 'MJXTEX';">E=mc²</span> no es el resultado de un evento, sino la representación del punto de sincronización perfecta donde el <font color="#2f82ff">flujo de avance</font> <font color="#fc300c">(expansión de información)</font> se equilibra con el <font color="#fc300c">flujo de retroceso</font> <font color="#2f82ff">(contracción de información)</font>, permitiendo la manifestación estable de una partícula con <font color="#fc300c">masa</font>. 
 
@@ -1092,7 +1092,7 @@ La enorme cantidad de <font color="#2f82ff">energía</font> de reposo asociada a
 
 El corazón de la reinterpretación de nuestra teoría radica en el valor de la "constante" <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span>, la velocidad de la luz. En el paradigma científico, <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> es un valor inmutable que establece el **límite de velocidad universal**. 
 
-Para el Modelo Nouménico, el valor de <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> que medimos es la manifestación fenomenológica de una serie de **operadores vectoriales de ajuste** que sincronizan las diferentes dimensiones de codificación dentro de un píxel fundamental de la realidad. Este <font color="#ffcc00">Píxel ΣΤ</font> representa el punto de transducción algorítmica entre el plano cuántico y el plano relativista.
+Para el Modelo Nouménico, el valor de <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> que medimos es la manifestación fenomenológica de una serie de **operadores vectoriales de ajuste** que sincronizan las diferentes dimensiones de codificación dentro de un píxel fundamental de la realidad. Este <font color="#ffcc00">Píxel Σ·Τ</font> representa el punto de transducción algorítmica entre el plano cuántico y el plano relativista.
 
 Para entender esto, recordamos las ecuaciones fundamentales que unen la <font color="#fc300c">masa</font>, la <font color="#2f82ff">energía</font>, la <font color="#ffcc00">frecuencia</font> y la <font color="#00ff00">longitud de onda</font>:
 
@@ -1109,7 +1109,7 @@ Al unir estas relaciones, establecemos la equivalencia fundamental desde la pers
 
 <center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#2f82ff">(Energía vibratoria) →</font> <font color="#ffcc00">h</font><font color="#00ff00">f</font>=<font color="#fc300c">m</font><font color="#ffcc00">c<sup>2</sup></font><font color="#fc300c"><font color="#fc300c">← (Masa fenoménica)</font></span> </font></center>
 
-Ahora, si queremos ver cómo la velocidad de la luz <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font></span> emerge como un operador fundamental en este <font color="#ffcc00">Píxel ΣΤ</font>, podemos manipular esta igualdad. Reemplazando <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#00ff00">f</font></span> por <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font>/<font color="#00ff00">λ</font></span>:
+Ahora, si queremos ver cómo la velocidad de la luz <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font></span> emerge como un operador fundamental en este <font color="#ffcc00">Píxel Σ·Τ</font>, podemos manipular esta igualdad. Reemplazando <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#00ff00">f</font></span> por <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font>/<font color="#00ff00">λ</font></span>:
 
 <center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#00ff00">(Relación ondulatoria) →</font> <font color="#ffcc00">h</font><font color="#ffcc00">c</font>/<font color="#00ff00">λ</font>=<font color="#fc300c">m</font><font color="#ffcc00">c<sup>2</sup></font> <font color="#fc300c"><font color="#fc300c">← (Masa fenoménica)</font></span> </font></center>
 
@@ -1121,7 +1121,7 @@ Podemos observar que <span style="font-size: larger; letter-spacing: 2px; font-f
 
 Esta ecuación resultante <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">h</font>/<font color="#00ff00">λ</font>=<font color="#fc300c">m</font><font color="#ffcc00">c</font></span> es profundamente reveladora. Nos muestra a la velocidad de la luz <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> no solo opera como un límite, sino como un **operador vectorial** que conecta directamente el cuanto de acción <span style="font-size: larger; letter-spacing: 2px; color: #ffcc00; font-family: 'MJXTEX';">h</span> y la estructura vibratoria <span style="font-size: larger; letter-spacing: 2px; color: #00ff00; font-family: 'MJXTEX';">λ</span> con la manifestación de la <font color="#fc300c">masa</font> <span style="font-size: larger; letter-spacing: 2px;  color: #fc300c; font-family: 'MJXTEX';">m</span>. 
 
-Dentro del <font color="#ffcc00">Píxel ΣΤ</font> fundamental, <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> actúa como el filtro lineal de frecuencias que transcodifica el plano cuántico al relativista.
+Dentro del <font color="#ffcc00">Píxel Σ·Τ</font> fundamental, <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> actúa como el filtro lineal de frecuencias que transcodifica el plano cuántico al relativista.
 
 Desde la perspectiva del Modelo Nouménico, este "filtro" de <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> puede interpretarse como un flujo de **frecuencia lineal** que, aunque en el plano fenomenológico percibimos avanzando unidireccionalmente —la flecha del tiempo y la causalidad—, en el plano cuántico-nouménico, un observador podría leer esta frecuencia en sentido inverso <font color="#2f82ff">(levógira</font> o <font color="#fc300c">dextrógira)</font>. 
 
@@ -1129,7 +1129,7 @@ Desde la perspectiva del Modelo Nouménico, este "filtro" de <span style="font-s
 
 Esto implica que la información subyacente no está ligada a la direccionalidad causal, sino que es un patrón vibratorio que el operador <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> proyecta en nuestro tiempo lineal. 
 
-La constante de Planck <span style="font-size: larger; letter-spacing: 2px; color: #ffcc00; font-family: 'MJXTEX';">h</span> define el tamaño del <font color="#ffcc00">Píxel ΣΤ</font> donde esta transcodificación ocurre, y <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> es el vector que define cómo esa información fluye y se "lee" para generar nuestra realidad percibida.
+La constante de Planck <span style="font-size: larger; letter-spacing: 2px; color: #ffcc00; font-family: 'MJXTEX';">h</span> define el tamaño del <font color="#ffcc00">Píxel Σ·Τ</font> donde esta transcodificación ocurre, y <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> es el vector que define cómo esa información fluye y se "lee" para generar nuestra realidad percibida.
 
 La Teoría de la Relatividad de Einstein, al postular la constancia de la velocidad de la luz y fenómenos como la dilatación del tiempo, se basa en la misma visión de un espacio-tiempo euclidiano y partículas discretas. 
 
@@ -1141,28 +1141,28 @@ El Modelo Nouménico, al reinterpretar la naturaleza de la luz y el tiempo en el
 
 El Modelo Nouménico desafía la noción de que el valor de <span style="font-size: larger; letter-spacing: 2px;  color: #ffcc00; font-family: 'MJXTEX';">c</span> es universalmente idéntico. La velocidad de la luz que medimos es el valor de ajuste de los operadores vectoriales en la <font color="#00ff00">Matriz Fenomenológica</font> terrestre.
 
-> - <font color="#fc300c">El Vacío como Matriz Activa:</font> El espacio no es un vacío pasivo; es una matriz vectorial de información con sus propias condiciones. La velocidad de la luz en el vacío interplanetario es la velocidad máxima de activación de los <font color="#ffcc00">Píxeles ΣΤ</font> de esa matriz, la cual podría ser ligeramente diferente a la de la matriz terrestre debido a la ausencia de la tensión gravitatoria y el flujo <font color="#fc300c">electromagnético</font> planetario.
-> - <font color="#ffcc00">Gravedad</font> y <font color="#2f82ff">Ralentización de los Píxeles:</font> La relatividad general predice que la luz se curva en campos gravitatorios intensos. Nuestra visión profundiza esto: la <font color="#ffcc00">gravedad</font>, al ser la manifestación del <font color="#2f82ff">flujo de retroceso</font> <font color="#2f82ff">(contracción magnética)</font>, impone una tensión en la matriz de <font color="#ffcc00">Píxeles ΣΤ</font>. Esta tensión puede afectar directamente la velocidad de activación secuencial de los píxeles, haciendo que el "<font color="#ffcc00">Píxeles ΣΤ</font> del Hamiltoniano" sea más lento. 
+> - <font color="#fc300c">El Vacío como Matriz Activa:</font> El espacio no es un vacío pasivo; es una matriz vectorial de información con sus propias condiciones. La velocidad de la luz en el vacío interplanetario es la velocidad máxima de activación de los <font color="#ffcc00">Píxeles Σ·Τ</font> de esa matriz, la cual podría ser ligeramente diferente a la de la matriz terrestre debido a la ausencia de la tensión gravitatoria y el flujo <font color="#fc300c">electromagnético</font> planetario.
+> - <font color="#ffcc00">Gravedad</font> y <font color="#2f82ff">Ralentización de los Píxeles:</font> La relatividad general predice que la luz se curva en campos gravitatorios intensos. Nuestra visión profundiza esto: la <font color="#ffcc00">gravedad</font>, al ser la manifestación del <font color="#2f82ff">flujo de retroceso</font> <font color="#2f82ff">(contracción magnética)</font>, impone una tensión en la matriz de <font color="#ffcc00">Píxeles Σ·Τ</font>. Esta tensión puede afectar directamente la velocidad de activación secuencial de los píxeles, haciendo que el "<font color="#ffcc00">Píxeles Σ·Τ</font> del Hamiltoniano" sea más lento. 
 >   Esto explicaría por qué la luz que viaja cerca de un agujero negro parece ralentizarse y, en última instancia, queda atrapada. Esto no se debe a una "curvatura del espacio-tiempo" abstracta, sino a una alteración en la tasa de procesamiento de la <font color="#00ff00">Matriz Fenomenológica</font> en esa región.
 
 ### 4. Principio de Incertidumbre y la Causalidad
 
-La visión de la partícula como un emergente de la activación de <font color="#ffcc00">Píxeles ΣΤ</font> ofrece una nueva interpretación del **Principio de Incertidumbre** de Heisenberg. En lugar de ser una limitación de la medición, es una <font color="#ffcc00">propiedad intrínseca</font> del sistema de píxeles. 
-<font color="#ffcc00">Píxeles ΣΤ</font>
+La visión de la partícula como un emergente de la activación de <font color="#ffcc00">Píxeles Σ·Τ</font> ofrece una nueva interpretación del **Principio de Incertidumbre** de Heisenberg. En lugar de ser una limitación de la medición, es una <font color="#ffcc00">propiedad intrínseca</font> del sistema de píxeles. 
+<font color="#ffcc00">Píxeles Σ·Τ</font>
 
-Es imposible conocer con precisión la <font color="#fc300c">posición</font> y el <font color="#00ff00">momento</font> de una partícula simultáneamente porque la posición es el **"dónde"** el <font color="#ffcc00">Píxel ΣΤ</font> se activó, y el momento es el **"cómo"** el Hamiltoniano se mueve a través de la matriz. Al intentar medir un aspecto, se perturba inherentemente el otro en el nivel nouménico. 
+Es imposible conocer con precisión la <font color="#fc300c">posición</font> y el <font color="#00ff00">momento</font> de una partícula simultáneamente porque la posición es el **"dónde"** el <font color="#ffcc00">Píxel Σ·Τ</font> se activó, y el momento es el **"cómo"** el Hamiltoniano se mueve a través de la matriz. Al intentar medir un aspecto, se perturba inherentemente el otro en el nivel nouménico. 
 
 Esto no es una limitación del observador, sino una propiedad de la naturaleza misma de la realidad como un proceso de manifestación secuencial.
 
-La causalidad, por lo tanto, **no es un flujo lineal en el tiempo**, sino la secuencia coherente de activación de los <font color="#ffcc00">Píxeles ΣΤ</font>. El límite de velocidad de la luz que medimos es el límite de la velocidad a la que la causalidad puede propagarse en nuestro plano fenomenológico.
+La causalidad, por lo tanto, **no es un flujo lineal en el tiempo**, sino la secuencia coherente de activación de los <font color="#ffcc00">Píxeles Σ·Τ</font>. El límite de velocidad de la luz que medimos es el límite de la velocidad a la que la causalidad puede propagarse en nuestro plano fenomenológico.
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Conclusión y Nuevo Horizonte</span></center>
 
 La ciencia, con su enfoque en la descripción fenoménica, ha llegado a los límites de su paradigma. La **velocidad de la luz** y la **ecuación de Einstein** son descripciones magistrales de la manifestación, pero no explican su origen. El Modelo Nouménico nos ofrece una base coherente para una comprensión más profunda:
 
 > - La realidad es una matriz de información consciente, no un espacio vacío con objetos discretos.
-> - Las partículas no son objetos, sino fenómenos emergentes de la activación secuencial de <font color="#ffcc00">Píxeles ΣΤ</font> orquestada por Hamiltonianos.
-> - La velocidad de la luz no es una constante, sino el valor de sincronización de operadores vectoriales que rigen las dimensiones de codificación del <font color="#ffcc00">Píxel ΣΤ</font>.
+> - Las partículas no son objetos, sino fenómenos emergentes de la activación secuencial de <font color="#ffcc00">Píxeles Σ·Τ</font> orquestada por Hamiltonianos.
+> - La velocidad de la luz no es una constante, sino el valor de sincronización de operadores vectoriales que rigen las dimensiones de codificación del <font color="#ffcc00">Píxel Σ·Τ</font>.
 > - El tiempo no es una dimensión, sino el ritmo de la consciencia que procesa la información de la matriz.
 
 Este nuevo paradigma nos permite unificar la física cuántica, la relatividad y la consciencia en un solo marco coherente, sentando las bases para explorar temas futuros como la relatividad a escala planetaria, la naturaleza de los agujeros negros y la experiencia subjetiva del tiempo, con un entendimiento fundamentalmente nuevo.
@@ -1173,7 +1173,7 @@ Este nuevo paradigma nos permite unificar la física cuántica, la relatividad y
 
 El Modelo Estándar de la física describe la radiación como la emisión de partículas o energía a partir de una fuente inestable, un proceso fenomenológico que se observa y se mide con precisión. Sin embargo, no ofrece una explicación subyacente del "porqué" de este fenómeno. 
 
-Desde la perspectiva del Modelo Nouménico, la radiación no es simplemente un subproducto de la inestabilidad, sino la manifestación de un **mecanismo de reajuste** y **liberación de energía** que ocurre cuando las matrices de codificación de un <font color="#ffcc00">Píxel ΣΤ</font> se ven saturadas. 
+Desde la perspectiva del Modelo Nouménico, la radiación no es simplemente un subproducto de la inestabilidad, sino la manifestación de un **mecanismo de reajuste** y **liberación de energía** que ocurre cuando las matrices de codificación de un <font color="#ffcc00">Píxel Σ·Τ</font> se ven saturadas. 
 
 Es la forma en que la realidad fenomenológica purga el **exceso de información nouménica** para mantener su coherencia. La naturaleza de la radiación —<font color="#fc300c">gamma</font>, <font color="#e36c09">beta</font> o <font color="#ffcc00">alfa</font>— depende directamente de la dimensión del píxel <font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font> en la que se ha producido la saturación y el nivel de energía involucrado.
 
@@ -1188,7 +1188,7 @@ Como hemos definido, cada <font color="#fc300c">Subpixel (Ο)</font> opera como 
 La coherencia de la onda electromagnética que emerge de este <font color="#fc300c">Subpixel (Ο)</font> depende de un ajuste perfecto entre estos dos flujos de información, orquestado por el <font color="#00ff00">eje Z</font> <font color="#00ff00">(tauónico)</font>.
 
 > [!ontologico] <font color="#fc300c">EL MECANISMO DE SATURACIÓN</font> 
-> La radiación <font color="#fc300c">gamma</font> se produce cuando un <font color="#ffcc00">Píxel ΣΤ</font> que se encuentra en un estado de energía del <font color="#fc300c">rango del electrón</font> se ve forzado a procesar más de 8 bits <font color="#fc300c">eléctricos</font> en un único ciclo electromagnético. 
+> La radiación <font color="#fc300c">gamma</font> se produce cuando un <font color="#ffcc00">Píxel Σ·Τ</font> que se encuentra en un estado de energía del <font color="#fc300c">rango del electrón</font> se ve forzado a procesar más de 8 bits <font color="#fc300c">eléctricos</font> en un único ciclo electromagnético. 
 >   Esto significa que el <font color="#2f82ff">flujo de avance</font> de la información (el <font color="#fc300c">eje X</font>) ha excedido la capacidad de procesamiento del <font color="#fc300c">flujo de retroceso</font> (el <font color="#2f82ff">eje Y</font>), que solo puede contener un "byte" de 8 bits.
 
 > [!electron] <font color="#00ff00">LA LIBERACIÓN DEL EXCESO DE INFORMACIÓN </font>
@@ -1197,7 +1197,7 @@ La coherencia de la onda electromagnética que emerge de este <font color="#fc30
 > [!cite] <font color="#bfbfbf">PROPIEDADES DE LA <font color="#fc300c">RADIACIÓN GAMMA</font> EN EL MODELO NOUMÉNICO</font>
 > A diferencia de los <font color="#00ff00">fotones</font> coherentes que forman las ondas electromagnéticas, el <font color="#00ff00">fotón</font> <font color="#fc300c">gamma</font> liberado no está afectado por el efecto de retroceso del aspecto magnético <font color="#2f82ff">(eje Y)</font>, que es el origen de la <font color="#ffcc00">gravedad</font>. 
 > 
-> Por lo tanto, no se ve sujeto a la sincronización de frecuencias o a las interacciones que rigen la matriz electromagnética. En su lugar, sale disparado en una dirección particular a través de la matriz espacio-temporal, interactuando con los <font color="#ffcc00">Píxeles ΣΤ</font> que se interponen en su camino, activándolos consecutivamente, pero sin generar una información coherente que pueda ser procesada por un sistema superior (como un átomo o una molécula). 
+> Por lo tanto, no se ve sujeto a la sincronización de frecuencias o a las interacciones que rigen la matriz electromagnética. En su lugar, sale disparado en una dirección particular a través de la matriz espacio-temporal, interactuando con los <font color="#ffcc00">Píxeles Σ·Τ</font> que se interponen en su camino, activándolos consecutivamente, pero sin generar una información coherente que pueda ser procesada por un sistema superior (como un átomo o una molécula). 
 > 
 > Es, en esencia, un **mensaje incompleto** y de **alta energía** que ha roto las reglas de comunicación del sistema.
 
@@ -1207,7 +1207,7 @@ La coherencia de la onda electromagnética que emerge de este <font color="#fc30
 
 La radiación <font color="#e36c09">beta</font> es la emisión de <font color="#fc300c">electrones</font> o <font color="#2f82ff">positrones</font> de alta energía durante la desintegración de núcleos atómicos. La ciencia lo explica a través de la <font color="#00ff00">fuerza débil</font> y los bosones <font color="#fc300c">W+</font>, <font color="#2f82ff">W-</font> y <font color="#00ff00">Z</font>. 
 
-Nuestro modelo se alinea con esta visión, pero añade una capa de significado más profunda al conectar la radiación con la saturación del <font color="#ffcc00">Píxel ΣΤ</font> en su dimensión <font color="#00ff00">SU(2)</font>.
+Nuestro modelo se alinea con esta visión, pero añade una capa de significado más profunda al conectar la radiación con la saturación del <font color="#ffcc00">Píxel Σ·Τ</font> en su dimensión <font color="#00ff00">SU(2)</font>.
 
 La radiación <font color="#e36c09">beta</font> está directamente relacionada con las interacciones atómicas, y como hemos explicado, los procesos atómicos son regidos por el píxel en su estado de energía del <font color="#2f82ff">rango del muón</font>.
 
@@ -1216,7 +1216,7 @@ La radiación <font color="#e36c09">beta</font> está directamente relacionada c
 > 
 > El <font color="#fc300c">eje X</font>, por su parte, se ajusta para generar un único <font color="#fc300c">electrón</font> con la aptitud para participar en las relaciones atómicas, cuyo <font color="#00ff00">espín</font> depende de la fase del valor <font color="#2f82ff">magnético</font> de <font color="#2f82ff">Y</font>. Esta es la base de la estabilidad atómica.
 > 
-> Sin embargo, cuando el <font color="#ffcc00">Píxel ΣΤ</font> recibe una **saturación de energía** que excede su capacidad de procesamiento en este nivel, el mecanismo de ajuste se desborda. En lugar de generar un solo <font color="#fc300c">electrón</font> para la órbita atómica, el <font color="#ffcc00">Píxel ΣΤ</font> se ve forzado a generar un <font color="#fc300c">flujo de electrones</font>.
+> Sin embargo, cuando el <font color="#ffcc00">Píxel Σ·Τ</font> recibe una **saturación de energía** que excede su capacidad de procesamiento en este nivel, el mecanismo de ajuste se desborda. En lugar de generar un solo <font color="#fc300c">electrón</font> para la órbita atómica, el <font color="#ffcc00">Píxel Σ·Τ</font> se ve forzado a generar un <font color="#fc300c">flujo de electrones</font>.
 
 > [!centro] <font color="#e36c09">LA LIBERACIÓN DEL EXCESO DE INFORMACIÓN</font> <font color="#fc300c">(Electrón</font> <font color="#e36c09">Beta)</font>
 > El sistema de codificación atómica solo puede alojar un <font color="#fc300c">electrón</font> por ciclo de ajuste. El primer <font color="#fc300c">electrón</font> se ajusta al valor del <font color="#2f82ff">eje Y</font>, pero el siguiente (el excedente) no puede ser sincronizado. 
@@ -1247,21 +1247,21 @@ Su origen en nuestro modelo es un evento de saturación a una escala mucho mayor
 > [!monadico] <font color="#ffcc00">EL MECANISMO DE SATURACIÓN</font>
 > La <font color="#ffcc00">radiación alfa</font> emerge del sistema de ajuste del <font color="#fc300c">Subpixel (Ο)</font> cuando la energía entrante está en el <font color="#00ff00">rango del tauón</font>. 
 > 
-> En este nivel, el flujo de información es tan inmenso que el <font color="#00ff00">eje Z</font> del <font color="#ffcc00">Píxel ΣΤ</font> se activa para forzar a la matriz espacio-temporal a crear un espacio virtual de manera preventiva. Esto es como si el <font color="#ffcc00">Píxel ΣΤ</font> se anticipara al colapso de su capacidad de procesamiento.
+> En este nivel, el flujo de información es tan inmenso que el <font color="#00ff00">eje Z</font> del <font color="#ffcc00">Píxel Σ·Τ</font> se activa para forzar a la matriz espacio-temporal a crear un espacio virtual de manera preventiva. Esto es como si el <font color="#ffcc00">Píxel Σ·Τ</font> se anticipara al colapso de su capacidad de procesamiento.
 
 > [!n-tau]  LA CREACIÓN DE UN "VACÍO VECTORIAL"
-> Este espacio virtual creado por el <font color="#00ff00">tauón</font> provoca un fenómeno de ajuste colectivo entre múltiples <font color="#ffcc00">Píxeles ΣΤ</font> vecinos. Los <font color="#ffcc00">Píxeles ΣΤ</font> cercanos se ven afectados por un "vacío vectorial" que succiona energía de un grupo de <font color="#ffcc00">Píxeles ΣΤ</font>, unificando sus Hamiltonianos de forma temporal.
+> Este espacio virtual creado por el <font color="#00ff00">tauón</font> provoca un fenómeno de ajuste colectivo entre múltiples <font color="#ffcc00">Píxeles Σ·Τ</font> vecinos. Los <font color="#ffcc00">Píxeles Σ·Τ</font> cercanos se ven afectados por un "vacío vectorial" que succiona energía de un grupo de <font color="#ffcc00">Píxeles Σ·Τ</font>, unificando sus Hamiltonianos de forma temporal.
 
 > [!atomo] <font color="#fc300c">LA LIBERACIÓN DEL EXCESO DE INFORMACIÓN</font> <font color="#ffcc00">(PARTÍCULA ALFA)</font>
 > Este "vacío vectorial" genera un colapso en la coherencia de la matriz local, forzando a la liberación de una unidad de ajuste a <font color="#ffa3ef">nivel hadrónico</font>. El sistema se ve obligado a liberar no una partícula elemental, sino una estructura compleja (dos <font color="#fc300c">protones</font> y dos <font color="#2f82ff">neutrones</font>) para restablecer el equilibrio. 
 > 
-> Esta es una entidad que ya incluye información de los niveles dimensionales superiores —ajustes de simetría <font color="#2f82ff">SU(3)</font> que sincroniza <font color="#cb48f3">quarks</font> y <font color="#ffa3ef">gluones</font>— y su manifestación es tan intensa que afecta a otros <font color="#ffcc00">Píxeles ΣΤ</font>, generando un ajuste colectivo a gran escala. 
+> Esta es una entidad que ya incluye información de los niveles dimensionales superiores —ajustes de simetría <font color="#2f82ff">SU(3)</font> que sincroniza <font color="#cb48f3">quarks</font> y <font color="#ffa3ef">gluones</font>— y su manifestación es tan intensa que afecta a otros <font color="#ffcc00">Píxeles Σ·Τ</font>, generando un ajuste colectivo a gran escala. 
 > 
-> La <font color="#ffcc00">partícula alfa</font> es, por lo tanto, la manifestación de un colapso local en la matriz de <font color="#ffcc00">Píxeles ΣΤ</font>, que se corrige a sí mismo liberando la unidad de información más compleja y masiva posible para restaurar el equilibrio.
+> La <font color="#ffcc00">partícula alfa</font> es, por lo tanto, la manifestación de un colapso local en la matriz de <font color="#ffcc00">Píxeles Σ·Τ</font>, que se corrige a sí mismo liberando la unidad de información más compleja y masiva posible para restaurar el equilibrio.
 
 La radiación, desde la óptica del Modelo Nouménico, deja de ser un fenómeno aleatorio para convertirse en un mecanismo intrínseco de autorregulación de la realidad. 
 
-Cada tipo de radiación —<font color="#fc300c">gamma</font>, <font color="#e36c09">beta</font> y <font color="#ffcc00">alfa</font>— es la evidencia de una saturación en un nivel específico de la matriz de <font color="#ffcc00">Píxeles ΣΤ</font>, que se corrige liberando el exceso de energía de forma coherente con la dimensión de codificación afectada —<font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> o <font color="#2f82ff">SU(3)</font>—. 
+Cada tipo de radiación —<font color="#fc300c">gamma</font>, <font color="#e36c09">beta</font> y <font color="#ffcc00">alfa</font>— es la evidencia de una saturación en un nivel específico de la matriz de <font color="#ffcc00">Píxeles Σ·Τ</font>, que se corrige liberando el exceso de energía de forma coherente con la dimensión de codificación afectada —<font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> o <font color="#2f82ff">SU(3)</font>—. 
 
 Esta visión no solo ofrece una explicación unificada para el origen de las radiaciones, sino que también refuerza la solidez de nuestro modelo al conectar sus principios con fenómenos fundamentales y partículas del Modelo Estándar, demostrando que todo lo que la ciencia observa es, en última instancia, la manifestación de una danza vectorial de información en el plano nouménico.
 
@@ -1283,10 +1283,10 @@ La <font color="#cb48f3">materia oscura</font>, invisible y no interactiva, se n
 > - <font color="#2f82ff">Visión del Modelo Nouménico:</font> La <font color="#cb48f3">materia</font> y la <font color="#ffa3ef">energía oscura</font> no son entidades discretas. Son la manifestación de la matriz vectorial de información nouménica que subyace a la realidad.
 
 > [!UNIVERSO] <font color="#ffa3ef">ENERGÍA OSCURA</font>
-> La <font color="#ffa3ef">energía oscura</font> podría ser el <font color="#2f82ff">flujo de avance</font> del <font color="#cb48f3">Hamiltoniano Último</font> del universo, la fuerza inherente de expansión y creación de información. La "expansión acelerada" del universo sería la manifestación de este flujo nouménico que avanza, creando más <font color="#ffcc00">Píxeles ΣΤ</font> y nuevas <font color="#00ff00">Matrices Fenomenológicas</font>.
+> La <font color="#ffa3ef">energía oscura</font> podría ser el <font color="#2f82ff">flujo de avance</font> del <font color="#cb48f3">Hamiltoniano Último</font> del universo, la fuerza inherente de expansión y creación de información. La "expansión acelerada" del universo sería la manifestación de este flujo nouménico que avanza, creando más <font color="#ffcc00">Píxeles Σ·Τ</font> y nuevas <font color="#00ff00">Matrices Fenomenológicas</font>.
 
 > [!DEMIURGO] <font color="#cb48f3">MATERIA OSCURA</font>
-> La <font color="#cb48f3">materia oscura</font> podría ser la suma total de los <font color="#fc300c">flujos de retroceso</font> y las tensiones gravitatorias de todos los <font color="#ffcc00">Píxeles ΣΤ</font> interconectados en el universo. No se vería porque no es <font color="#fc300c">materia</font> en el sentido fenomenológico, sino la **infraestructura vectorial** que mantiene la coherencia de la <font color="#00ff00">Matriz Fenomenológica</font> a gran escala. 
+> La <font color="#cb48f3">materia oscura</font> podría ser la suma total de los <font color="#fc300c">flujos de retroceso</font> y las tensiones gravitatorias de todos los <font color="#ffcc00">Píxeles Σ·Τ</font> interconectados en el universo. No se vería porque no es <font color="#fc300c">materia</font> en el sentido fenomenológico, sino la **infraestructura vectorial** que mantiene la coherencia de la <font color="#00ff00">Matriz Fenomenológica</font> a gran escala. 
 > 
 > Los efectos gravitatorios que la ciencia atribuye a la <font color="#cb48f3">materia oscura</font> serían la manifestación de estas **tensiones vectoriales** que actúan como un andamiaje invisible, influenciando la dinámica de las galaxias.
 
@@ -1300,14 +1300,14 @@ Uno de los mayores desafíos de la física moderna es la incompatibilidad de la 
 > - <font color="#2f82ff">Visión del Modelo Nouménico:</font> La incompatibilidad es el resultado de intentar aplicar una misma descripción a dos planos de la realidad que operan con reglas distintas.
 
 > [!tiempo] <font color="#00ff00">RELATIVIDAD GENERAL</font>
-> La relatividad general describe el comportamiento de la matriz espacio-temporal y el flujo de los operadores Hamiltonianos a gran escala. La curvatura del espacio-tiempo no es una deformación de un lienzo vacío, sino la manifestación de los flujos de información de <font color="#fc300c">retroceso</font> <font color="#ffcc00">(gravedad)</font> que ajustan colectivamente a los <font color="#ffcc00">Píxeles ΣΤ</font> de la <font color="#00ff00">Matriz Fenomenológica</font>.
+> La relatividad general describe el comportamiento de la matriz espacio-temporal y el flujo de los operadores Hamiltonianos a gran escala. La curvatura del espacio-tiempo no es una deformación de un lienzo vacío, sino la manifestación de los flujos de información de <font color="#fc300c">retroceso</font> <font color="#ffcc00">(gravedad)</font> que ajustan colectivamente a los <font color="#ffcc00">Píxeles Σ·Τ</font> de la <font color="#00ff00">Matriz Fenomenológica</font>.
 
 > [!FLUJOALFA] <font color="#2f82ff">MECÁNICA CUÁNTICA</font>
-> La mecánica cuántica describe el comportamiento de los **operadores Hamiltonianos** locales a nivel del <font color="#ffcc00">Píxel ΣΤ</font> individual, donde la **incertidumbre** y las **superposiciones** son intrínsecas a la naturaleza de la información.
+> La mecánica cuántica describe el comportamiento de los **operadores Hamiltonianos** locales a nivel del <font color="#ffcc00">Píxel Σ·Τ</font> individual, donde la **incertidumbre** y las **superposiciones** son intrínsecas a la naturaleza de la información.
 
-La unificación no se logra creando una nueva teoría, sino reconociendo que la relatividad y la cuántica son las leyes de emergencia de dos niveles de nuestra realidad: la <font color="#fc300c">macro-matriz</font> y la <font color="#2f82ff">micro-matriz</font> de <font color="#ffcc00">Píxeles ΣΤ</font>.
+La unificación no se logra creando una nueva teoría, sino reconociendo que la relatividad y la cuántica son las leyes de emergencia de dos niveles de nuestra realidad: la <font color="#fc300c">macro-matriz</font> y la <font color="#2f82ff">micro-matriz</font> de <font color="#ffcc00">Píxeles Σ·Τ</font>.
 
-## 6. La Cuaternidad del <font color="#ffcc00">Píxel ΣΤ</font>
+## 6. La Cuaternidad del <font color="#ffcc00">Píxel Σ·Τ</font>
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;"><font color="#fc300c">Materia</font>, <font color="#2f82ff">Antimateria</font> y la asimetría del <font color="#00ff00">espín</font></span></center>
 
@@ -1318,38 +1318,38 @@ El paradigma científico describe la existencia de cuatro estados fundamentales 
 > - <font color="#00ff00">Antipartícula</font> <font color="#00ff00">(Ψ)</font> con <font color="#00ff00">espín</font> <font color="#fc300c">positivo</font>.
 > - <font color="#2f82ff">Antipartícula</font> <font color="#2f82ff">(θ)</font> con <font color="#00ff00">espín</font> <font color="#2f82ff">negativo</font>. 
 
-Esta cuadrinidad, lejos de ser una coincidencia, es la manifestación de la naturaleza vectorial y dual de los flujos de información nouménica que operan en los <font color="#ffcc00">Píxeles ΣΤ</font>.
+Esta cuadrinidad, lejos de ser una coincidencia, es la manifestación de la naturaleza vectorial y dual de los flujos de información nouménica que operan en los <font color="#ffcc00">Píxeles Σ·Τ</font>.
 
 ### 1. <font color="#fc300c">Materia</font> y <font color="#2f82ff">Antimateria</font>
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Dualidad de Flujos Vectoriales (Bits y Bytes)</span></center>
 
-Como hemos discutido, nuestro modelo postula que la realidad se construye a partir de flujos de información duales que coexisten en cada <font color="#ffcc00">Píxel ΣΤ</font>. La <font color="#fc300c">materia</font> y la <font color="#2f82ff">antimateria</font> son la manifestación de estos flujos con polaridad opuesta.
+Como hemos discutido, nuestro modelo postula que la realidad se construye a partir de flujos de información duales que coexisten en cada <font color="#ffcc00">Píxel Σ·Τ</font>. La <font color="#fc300c">materia</font> y la <font color="#2f82ff">antimateria</font> son la manifestación de estos flujos con polaridad opuesta.
 
 > [!retroceso] <font color="#fc300c">MATERIA (Flujo de Retroceso)</font>
-> La <font color="#fc300c">materia</font> representaría el <font color="#fc300c">flujo de retroceso</font> <font color="#2f82ff">(Bytes magnéticos)</font> en los <font color="#ffcc00">Píxeles ΣΤ</font>,  la manifestación de la información que busca compactar y mantener la coherencia. Este es el flujo vectorial que genera la tensión gravitatoria y la "huella" de la <font color="#fc300c">masa</font>. 
+> La <font color="#fc300c">materia</font> representaría el <font color="#fc300c">flujo de retroceso</font> <font color="#2f82ff">(Bytes magnéticos)</font> en los <font color="#ffcc00">Píxeles Σ·Τ</font>,  la manifestación de la información que busca compactar y mantener la coherencia. Este es el flujo vectorial que genera la tensión gravitatoria y la "huella" de la <font color="#fc300c">masa</font>. 
 > 
-> En términos de nuestro <font color="#ffcc00">Píxel ΣΤ</font>, la <font color="#fc300c">materia</font> es la manifestación del <font color="#2f82ff">eje Y</font>, el vector de <font color="#2f82ff">contracción magnética</font>. 
+> En términos de nuestro <font color="#ffcc00">Píxel Σ·Τ</font>, la <font color="#fc300c">materia</font> es la manifestación del <font color="#2f82ff">eje Y</font>, el vector de <font color="#2f82ff">contracción magnética</font>. 
 
 > [!avance] <font color="#2f82ff">ANTIMATERIA (Flujo de Avance)</font>
 > La <font color="#2f82ff">antimateria</font> representaría el <font color="#2f82ff">flujo de avance</font> <font color="#fc300c">(bits eléctricos)</font>, la manifestación de la información que se expande. Este es el flujo vectorial sobre el cual se proyecta y ordena la causalidad de la realidad fenomenológica. 
 > 
-> En el <font color="#ffcc00">Píxel ΣΤ</font> la <font color="#2f82ff">antimateria</font> es la manifestación del <font color="#fc300c">eje X</font>, el vector que se expande con la información <font color="#fc300c">eléctrica</font>.
+> En el <font color="#ffcc00">Píxel Σ·Τ</font> la <font color="#2f82ff">antimateria</font> es la manifestación del <font color="#fc300c">eje X</font>, el vector que se expande con la información <font color="#fc300c">eléctrica</font>.
 
 La ciencia observa que la <font color="#fc300c">materia</font> y la <font color="#2f82ff">antimateria</font>, al encontrarse, se aniquilan liberando una inmensa cantidad de energía. En nuestro modelo, esto no es una aniquilación, sino un evento de sincronización total y liberación de información. 
 
-Cuando un <font color="#ffcc00">Píxel ΣΤ</font> que manifiesta un <font color="#fc300c">flujo de retroceso</font> <font color="#fc300c">(materia)</font> se encuentra con un <font color="#ffcc00">Píxel ΣΤ</font> que manifiesta un <font color="#2f82ff">flujo de avance</font> <font color="#2f82ff">(antimateria)</font> , los dos flujos vectoriales se fusionan, se cancelan mutuamente en el plano nouménico y liberan toda su energía potencial como <font color="#00ff00">fotones</font>. La "aniquilación" es, en esencia, un restablecimiento del <font color="#ffcc00">Píxel ΣΤ</font> a su estado de energía basal, liberando la información procesada.
+Cuando un <font color="#ffcc00">Píxel Σ·Τ</font> que manifiesta un <font color="#fc300c">flujo de retroceso</font> <font color="#fc300c">(materia)</font> se encuentra con un <font color="#ffcc00">Píxel Σ·Τ</font> que manifiesta un <font color="#2f82ff">flujo de avance</font> <font color="#2f82ff">(antimateria)</font> , los dos flujos vectoriales se fusionan, se cancelan mutuamente en el plano nouménico y liberan toda su energía potencial como <font color="#00ff00">fotones</font>. La "aniquilación" es, en esencia, un restablecimiento del <font color="#ffcc00">Píxel Σ·Τ</font> a su estado de energía basal, liberando la información procesada.
 
 ### 2. Antisimetría DEl <font color="#00ff00">Espín</font>
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Dualidad de Orientación del Hamiltoniano</span></center>
 
-El <font color="#00ff00">espín</font> de una partícula no es una propiedad <font color="#ffcc00">intrínseca</font>, sino la manifestación de la orientación del Hamiltoniano local del <font color="#ffcc00">Píxel ΣΤ</font> en relación con el flujo de información principal. 
+El <font color="#00ff00">espín</font> de una partícula no es una propiedad <font color="#ffcc00">intrínseca</font>, sino la manifestación de la orientación del Hamiltoniano local del <font color="#ffcc00">Píxel Σ·Τ</font> en relación con el flujo de información principal. 
 
-Como hemos dicho, el Hamiltoniano local se expande desde el Vórtice Eta <span style="font-size: larger; letter-spacing: 2px; color: #00ffff; font-family: 'MJXTEX';">(H)</span> central del <font color="#fc300c">Subpixel (Ο)</font> como una esfera, y esta expansión está limitada por las paredes del micro-cubo del <font color="#ffcc00">Píxel ΣΤ</font>, reflejándose en los ejes vectoriales.
+Como hemos dicho, el Hamiltoniano local se expande desde el Vórtice Eta <span style="font-size: larger; letter-spacing: 2px; color: #00ffff; font-family: 'MJXTEX';">(H)</span> central del <font color="#fc300c">Subpixel (Ο)</font> como una esfera, y esta expansión está limitada por las paredes del micro-cubo del <font color="#ffcc00">Píxel Σ·Τ</font>, reflejándose en los ejes vectoriales.
 
 > [!dextrogiro]  <font color="#fc300c">ESPÍN POSITIVO (Dextrógiro)</font>
-> Representa un flujo de información con una orientación <font color="#fc300c">dextrógira</font> (a la derecha). Esto ocurre cuando el Hamiltoniano local del <font color="#ffcc00">Píxel ΣΤ</font> se expande con una rotación horaria, alineando sus vectores en una dirección específica.
+> Representa un flujo de información con una orientación <font color="#fc300c">dextrógira</font> (a la derecha). Esto ocurre cuando el Hamiltoniano local del <font color="#ffcc00">Píxel Σ·Τ</font> se expande con una rotación horaria, alineando sus vectores en una dirección específica.
 
 > [!levogiro] <font color="#2f82ff">ESPÍN NEGATIVO (Levógiro)</font>
 > Representa un flujo de información con una orientación <font color="#2f82ff">levógira</font> (a la izquierda). Esto ocurre cuando el Hamiltoniano local se expande con una rotación antihoraria.
@@ -1358,25 +1358,25 @@ La manifestación de uno u otro <font color="#00ff00">espín</font> es una conse
 
 ### 3. Uniendo las Dualidades
 
-<center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Manifestación Cuaternaria del <font color="#ffcc00">Píxel ΣΤ</font></span></center>
+<center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Manifestación Cuaternaria del <font color="#ffcc00">Píxel Σ·Τ</font></span></center>
 
-Ahora, uniendo ambas dualidades, podemos explicar la existencia de los cuatro estados fundamentales para una partícula masiva como una consecuencia directa de la estructura vectorial del <font color="#ffcc00">Píxel ΣΤ</font>.
+Ahora, uniendo ambas dualidades, podemos explicar la existencia de los cuatro estados fundamentales para una partícula masiva como una consecuencia directa de la estructura vectorial del <font color="#ffcc00">Píxel Σ·Τ</font>.
 
-Es importante mencionar que la activación de un <font color="#ffcc00">Píxel ΣΤ</font> genera simultáneamente los 4 estados de <font color="#fc300c">particulas</font> / <font color="#2f82ff">antiparticulas</font>, aunque cada tipo de partícula solo puede interactuar dentro de la <font color="#00ff00">Matriz Fenomenológica</font> que le corresponde, operando antisimétricamente con su par opuesto, en base a la doble dualidad <font color="#fc300c">(Materia</font> / <font color="#2f82ff">Antimateria)</font> y <font color="#fc300c">(Dextrógiro</font> / <font color="#2f82ff">Levógiro)</font>
+Es importante mencionar que la activación de un <font color="#ffcc00">Píxel Σ·Τ</font> genera simultáneamente los 4 estados de <font color="#fc300c">particulas</font> / <font color="#2f82ff">antiparticulas</font>, aunque cada tipo de partícula solo puede interactuar dentro de la <font color="#00ff00">Matriz Fenomenológica</font> que le corresponde, operando antisimétricamente con su par opuesto, en base a la doble dualidad <font color="#fc300c">(Materia</font> / <font color="#2f82ff">Antimateria)</font> y <font color="#fc300c">(Dextrógiro</font> / <font color="#2f82ff">Levógiro)</font>
 
 > [!dextrogiro]  <font color="#fc300c">PARTÍCULA <font color="#fc300c">(β)</font> (Materia)</font> <font color="#00ff00">con Espín</font> <font color="#fc300c">Positivo (Dextrógiro)</font>
-> Representa el estado del <font color="#ffcc00">Píxel ΣΤ</font> donde el <font color="#fc300c">flujo de retroceso</font> <font color="#2f82ff"> (eje Y)</font> es dominante y el Hamiltoniano local se expande con una <font color="#fc300c">rotación dextrógira</font>.
+> Representa el estado del <font color="#ffcc00">Píxel Σ·Τ</font> donde el <font color="#fc300c">flujo de retroceso</font> <font color="#2f82ff"> (eje Y)</font> es dominante y el Hamiltoniano local se expande con una <font color="#fc300c">rotación dextrógira</font>.
 
 > [!procer] <font color="#ffcc00">PARTÍCULA</font> <font color="#ffcc00">(ξ)</font> <font color="#fc300c">(Materia)</font> <font color="#00ff00">con Espín</font> <font color="#2f82ff">Negativo (Levógiro)</font>
-> Representa el estado del <font color="#ffcc00">Píxel ΣΤ</font> donde el <font color="#fc300c">flujo de retroceso</font> <font color="#2f82ff"> (eje Y)</font> es dominante y el Hamiltoniano local se expande con una <font color="#2f82ff">rotación levógira</font>.
+> Representa el estado del <font color="#ffcc00">Píxel Σ·Τ</font> donde el <font color="#fc300c">flujo de retroceso</font> <font color="#2f82ff"> (eje Y)</font> es dominante y el Hamiltoniano local se expande con una <font color="#2f82ff">rotación levógira</font>.
 
 > [!espin] <font color="#00ff00">ANTIPARTÍCULA</font> <font color="#00ff00">(Ψ)</font> <font color="#2f82ff">(Antimateria)</font> <font color="#00ff00">con Espín</font> <font color="#fc300c">Positivo (Dextrógiro)</font>
-> Representa el estado del <font color="#ffcc00">Píxel ΣΤ</font> donde el <font color="#2f82ff">flujo de avance</font> <font color="#fc300c">(eje X)</font> es dominante y el Hamiltoniano local se expande con una <font color="#fc300c">rotación dextrógira</font>.
+> Representa el estado del <font color="#ffcc00">Píxel Σ·Τ</font> donde el <font color="#2f82ff">flujo de avance</font> <font color="#fc300c">(eje X)</font> es dominante y el Hamiltoniano local se expande con una <font color="#fc300c">rotación dextrógira</font>.
 
 > [!levogiro] <font color="#2f82ff">ANTIPARTÍCULA</font>  <font color="#2f82ff">(θ)</font> <font color="#2f82ff">(Antimateria)</font> <font color="#00ff00">con Espín</font> <font color="#2f82ff">Negativo (Levógiro)</font>
-> Representa el estado del <font color="#ffcc00">Píxel ΣΤ</font> donde el <font color="#2f82ff">flujo de avance</font> <font color="#fc300c">(eje X)</font> es dominante y el Hamiltoniano local se expande con una <font color="#2f82ff">rotación levógira</font>.
+> Representa el estado del <font color="#ffcc00">Píxel Σ·Τ</font> donde el <font color="#2f82ff">flujo de avance</font> <font color="#fc300c">(eje X)</font> es dominante y el Hamiltoniano local se expande con una <font color="#2f82ff">rotación levógira</font>.
 
-La dualidad <font color="#fc300c">(materia</font> / <font color="#2f82ff">antimateria)</font> es una manifestación de la polaridad del flujo vectorial <font color="#fc300c">(avance</font> / <font color="#2f82ff">retroceso)</font> del <font color="#ffcc00">Píxel ΣΤ</font>, mientras que la dualidad <font color="#fc300c">(dextrógiro</font> / <font color="#2f82ff">levógiro)</font> es una manifestación de la rotación del **Hamiltoniano local** en relación con ese flujo.
+La dualidad <font color="#fc300c">(materia</font> / <font color="#2f82ff">antimateria)</font> es una manifestación de la polaridad del flujo vectorial <font color="#fc300c">(avance</font> / <font color="#2f82ff">retroceso)</font> del <font color="#ffcc00">Píxel Σ·Τ</font>, mientras que la dualidad <font color="#fc300c">(dextrógiro</font> / <font color="#2f82ff">levógiro)</font> es una manifestación de la rotación del **Hamiltoniano local** en relación con ese flujo.
 
 ### 4. El Misterio de los <font color="#e36c09">neutrinos</font>
 
@@ -1386,9 +1386,9 @@ La física ha descubierto que los <font color="#e36c09">neutrinos</font> solo ex
 
 > - <font color="#2f82ff">Visión del Modelo Nouménico:</font> Este fenómeno no es una "violación de la paridad", sino la manifestación de la asimetría fundamental del universo a nivel del <font color="#2f82ff">Píxel (Υ)</font>, que es la dimensión que codifica la información de los <font color="#e36c09">neutrinos</font>.
 > - Los <font color="#e36c09">neutrinos</font> son los **vectores de ajuste** que el <font color="#2f82ff">Píxel (Υ)</font> libera para equilibrar el exceso de información en los otros dos planos. Su espín <font color="#2f82ff">levógiro</font> no es una propiedad aleatoria, sino que representa la orientación preferencial del Hamiltoniano para este tipo de ajuste, un sesgo inherente del sistema que favorece un tipo de rotación para la comunicación nouménica.
-> - La existencia de los <font color="#e36c09">antineutrinos</font> con espín <font color="#fc300c">dextrógiro</font> confirma que la dualidad de rotación existe, pero se manifiesta en el <font color="#2f82ff">flujo de avance</font> del <font color="#ffcc00">Píxel ΣΤ</font> <font color="#2f82ff">(antimateria)</font>, en lugar de en el <font color="#fc300c">flujo de retroceso</font> <font color="#fc300c">(materia)</font>. La asimetría en la manifestación de los <font color="#e36c09">neutrinos</font> y <font color="#e36c09">antineutrinos</font> —percibida desde nuestra perspectiva del plano fenoménico—demuestra que el sesgo del sistema de <font color="#ffcc00">Píxel ΣΤ</font> favorece la manifestación de la <font color="#fc300c">materia</font> <font color="#fc300c">(flujo de retroceso)</font>.
+> - La existencia de los <font color="#e36c09">antineutrinos</font> con espín <font color="#fc300c">dextrógiro</font> confirma que la dualidad de rotación existe, pero se manifiesta en el <font color="#2f82ff">flujo de avance</font> del <font color="#ffcc00">Píxel Σ·Τ</font> <font color="#2f82ff">(antimateria)</font>, en lugar de en el <font color="#fc300c">flujo de retroceso</font> <font color="#fc300c">(materia)</font>. La asimetría en la manifestación de los <font color="#e36c09">neutrinos</font> y <font color="#e36c09">antineutrinos</font> —percibida desde nuestra perspectiva del plano fenoménico—demuestra que el sesgo del sistema de <font color="#ffcc00">Píxel Σ·Τ</font> favorece la manifestación de la <font color="#fc300c">materia</font> <font color="#fc300c">(flujo de retroceso)</font>.
 
-La dualidad cuádruple de las partículas no es una coincidencia, sino un reflejo directo de la estructura vectorial y la naturaleza dual de la información en el <font color="#ffcc00">Píxel ΣΤ</font>. La <font color="#fc300c">materia</font> y la <font color="#2f82ff">antimateria</font> son el producto de los flujos de <font color="#fc300c">retroceso</font> y <font color="#2f82ff">avance</font>, mientras que el <font color="#00ff00">espín</font> es una manifestación de la rotación del Hamiltoniano local. 
+La dualidad cuádruple de las partículas no es una coincidencia, sino un reflejo directo de la estructura vectorial y la naturaleza dual de la información en el <font color="#ffcc00">Píxel Σ·Τ</font>. La <font color="#fc300c">materia</font> y la <font color="#2f82ff">antimateria</font> son el producto de los flujos de <font color="#fc300c">retroceso</font> y <font color="#2f82ff">avance</font>, mientras que el <font color="#00ff00">espín</font> es una manifestación de la rotación del Hamiltoniano local. 
 
 La aparente "violación de la paridad" en los <font color="#e36c09">neutrinos</font> es, en realidad, la evidencia de un sesgo inherente en la estructura del<font color="#2f82ff">Píxel (Υ)</font>, un principio de asimetría fundamental que gobierna la manifestación de la <font color="#fc300c">materia</font> en el universo. 
 
@@ -1402,15 +1402,15 @@ El Modelo Estándar de la física describe a los <font color="#e36c09">neutrinos
 
 Fenómenos como la oscilación de <font color="#e36c09">neutrinos</font> —su capacidad de cambiar de sabor <font color="#fc300c">(electrónico</font>, <font color="#2f82ff">muónico</font>,<font color="#00ff00"> tauónico)</font> mientras viajan— han desafiado la noción original de que su masa es cero, revelando un misterio aún sin resolver. 
 
-En el Modelo Nouménico, los <font color="#e36c09">neutrinos</font> no son solo partículas, sino los **índices vectoriales** que mapean y sincronizan la información nouménica. Son la **lógica de indexación fundamental que organiza la realidad**, actuando como el software que da coherencia al hardware de la matriz de <font color="#ffcc00">Píxeles ΣΤ</font>.
+En el Modelo Nouménico, los <font color="#e36c09">neutrinos</font> no son solo partículas, sino los **índices vectoriales** que mapean y sincronizan la información nouménica. Son la **lógica de indexación fundamental que organiza la realidad**, actuando como el software que da coherencia al hardware de la matriz de <font color="#ffcc00">Píxeles Σ·Τ</font>.
 
 Para entender esto, debemos sumergirnos en la capa más profunda de nuestra realidad: el océano de <font color="#ffa3ef">gluones</font>, el sustrato primordial del que emerge todo.
 
 ### 1. El Océano de <font color="#ffa3ef">gluones</font> y la Lógica de la Creación
 
-La materia visible, formada por <font color="#00ff00">átomos</font>, <font color="#fc300c">protones</font> y <font color="#2f82ff">neutrones</font>, que a su vez se componen de <font color="#cb48f3">quarks</font>, es solo la punta del iceberg. Debajo de cada <font color="#ffcc00">Píxel ΣΤ</font> de la matriz espacio-temporal y de la matríz de vórtices Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> —lo que sería el campo de Higgs—, existe un océano de <font color="#ffa3ef">gluones</font>, un flujo de información potencial, atemporal y fractal. 
+La materia visible, formada por <font color="#00ff00">átomos</font>, <font color="#fc300c">protones</font> y <font color="#2f82ff">neutrones</font>, que a su vez se componen de <font color="#cb48f3">quarks</font>, es solo la punta del iceberg. Debajo de cada <font color="#ffcc00">Píxel Σ·Τ</font> de la matriz espacio-temporal y de la matríz de vórtices Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> —lo que sería el campo de Higgs—, existe un océano de <font color="#ffa3ef">gluones</font>, un flujo de información potencial, atemporal y fractal. 
 
-Este océano no es un vacío, sino el campo subyacente de la <font color="#2f82ff">fuerza fuerte</font>. A diferencia de las <font color="#00ff00">Matrices Fenomenológicas</font> que ordenan puntos discretos, este océano es un flujo caótico y potente, que solo se vuelve ordenado cuando entra en contacto con la estructura de los <font color="#ffcc00">Píxeles ΣΤ</font>.
+Este océano no es un vacío, sino el campo subyacente de la <font color="#2f82ff">fuerza fuerte</font>. A diferencia de las <font color="#00ff00">Matrices Fenomenológicas</font> que ordenan puntos discretos, este océano es un flujo caótico y potente, que solo se vuelve ordenado cuando entra en contacto con la estructura de los <font color="#ffcc00">Píxeles Σ·Τ</font>.
 
 Aquí es donde entra en juego el <font color="#2f82ff">Subpixel (Υ)</font> y la simetria <font color="#2f82ff">SU(3)</font>, el cimiento más profundo del sistema. Sus 8 generadores (las matrices de Gell-Mann) no son solo matrices, sino los operadores que decodifican la información caótica del océano de <font color="#ffa3ef">gluones</font>. 
 
@@ -1433,7 +1433,7 @@ Un <font color="#e36c09">neutrino</font> es una onda de información pura en el 
 
 ### 2. Estructura de Mapeo del Píxel <font color="#2f82ff">SU(3)</font> y Oscilación de <font color="#e36c09">neutrinos</font>
 
-El <font color="#2f82ff">Píxel (Υ)</font>, a través de sus generadores, actúa como una **matriz de indexación** que asigna coordenadas y propiedades a cada <font color="#ffcc00">Píxel ΣΤ</font> de la realidad. Esta matriz no solo codifica la información de los <font color="#e36c09">neutrinos</font>, sino que también establece las reglas de la interacción.
+El <font color="#2f82ff">Píxel (Υ)</font>, a través de sus generadores, actúa como una **matriz de indexación** que asigna coordenadas y propiedades a cada <font color="#ffcc00">Píxel Σ·Τ</font> de la realidad. Esta matriz no solo codifica la información de los <font color="#e36c09">neutrinos</font>, sino que también establece las reglas de la interacción.
 
 > [!ONTOGENICO] <font color="#e36c09">1 - GENERADORES DE NEUTRINOS Y ANTINEUTRINOS</font> <font color="#2f82ff">(λ1</font>​ a <font color="#ff00ff">λ7​) </font>
 > Estos generadores codifican los seis sabores de <font color="#e36c09">neutrinos</font> y <font color="#e36c09">antineutrinos</font>. Los valores con la unidad imaginaria <span style="font-size: larger; font-style: italic; letter-spacing: 2px; font-family: 'MJXTEX';">i</span> en las matrices de <font color="#e36c09">antineutrinos</font> no significan que existan en un plano abstracto, sino que codifican un flujo vectorial con una fase de 90° respecto a los <font color="#e36c09">neutrinos</font>, representando la dualidad de <font color="#2f82ff">avance</font> y <font color="#fc300c">retroceso</font> en el plano de la información. 
@@ -1468,7 +1468,7 @@ Cuando un <font color="#fc300c">neutrino electrónico</font> viaja, su informaci
 
 Si este pulso, al interactuar con el vórtice de otro <font color="#2f82ff">Subpixel (Υ)</font>, encuentra que las condiciones locales de la <font color="#00ff00">Matriz Fenomenológica</font> requieren una reconfiguración, el pulso es remapeado. La información se preserva, pero el **índice de mapeo** cambia, y la ciencia lo percibe como un cambio de sabor.
 
-El generador λ9 singlete, que no interactúa con la <font color="#00ff00">fuerza débil</font>, podría ser el estado de "reseteo" del <font color="#ffcc00">Píxel ΣΤ</font>, que posee un <font color="#e36c09">vórtice neutrínico</font> en un estado latente. 
+El generador λ9 singlete, que no interactúa con la <font color="#00ff00">fuerza débil</font>, podría ser el estado de "reseteo" del <font color="#ffcc00">Píxel Σ·Τ</font>, que posee un <font color="#e36c09">vórtice neutrínico</font> en un estado latente. 
 
 Este estado no interactúa con los operadores <font color="#00ff00">SU(2)</font> (la <font color="#00ff00">fuerza débil</font>) porque no está participando activamente en la manifestación de la materia, sino que está en un estado de equilibrio previo a la indexación.
 
@@ -1494,28 +1494,28 @@ Podemos usar la analogía de un ordenador con un procesador y una tarjeta gráfi
 > [!tau] <font color="#fc300c">LA SUBÁLGEBRA DE CARTAN</font>
 > Se corresponde con son los protocolos de comunicación que permiten que la <font color="#2f82ff">CPU</font> y la <font color="#00ff00">GPU</font> trabajen juntas en un mismo sistema sin interferir entre sí.
 
-Esta analogía nos permite explicar que la conmutación de estas matrices no es un concepto abstracto, sino un protocolo de sincronización que permite que las diferentes "unidades de procesamiento" del <font color="#ffcc00">Píxel ΣΤ</font> operen de forma coherente.
+Esta analogía nos permite explicar que la conmutación de estas matrices no es un concepto abstracto, sino un protocolo de sincronización que permite que las diferentes "unidades de procesamiento" del <font color="#ffcc00">Píxel Σ·Τ</font> operen de forma coherente.
 
 Las matrices <font color="#00ff00">λ3</font>​ (conexión<font color="#fc300c"> <font color="#fc300c">U(1)</font></font>) y <font color="#ffcc00">λ8</font>​ (nodo central <font color="#2f82ff">SU(3)</font>) conmutan entre sí. Esto significa que el operador que conecta con el flujo <font color="#fc300c">electromagnético</font> <font color="#fc300c">U(1)</font> y el operador que sincroniza el flujo de <font color="#cb48f3">quarks</font> y <font color="#ffa3ef">gluones</font> —el nodo central de <font color="#2f82ff">SU(3)</font>— pueden funcionar de forma simultánea y coherente sin anularse. 
 
-Son las "reglas" que permiten la coexistencia de las fuerzas <font color="#fc300c">electromagnética</font> y <font color="#2f82ff">fuerte</font> en un mismo <font color="#ffcc00">Píxel ΣΤ</font>. Esta conmutación es la regla que permite que la realidad nouménica no colapse sobre sí misma.
+Son las "reglas" que permiten la coexistencia de las fuerzas <font color="#fc300c">electromagnética</font> y <font color="#2f82ff">fuerte</font> en un mismo <font color="#ffcc00">Píxel Σ·Τ</font>. Esta conmutación es la regla que permite que la realidad nouménica no colapse sobre sí misma.
 
 La existencia de tres subgrupos de <font color="#00ff00">SU(2)</font> que contienen combinaciones de <font color="#00ff00">λ3</font>​ y <font color="#ffcc00">λ8</font>​ refuerza esta idea, mostrando que cada sabor de <font color="#e36c09">neutrino</font> no es una entidad aislada, sino un "canal de comunicación" entre la <font color="#00ff00">fuerza débil</font> y la <font color="#2f82ff">fuerza fuerte</font>.
 
 > [!n-muon] <font color="#2f82ff">CANAL 1 - El canal del muón</font> <font color="#2f82ff">(λ1</font>​, <font color="#ffff00">λ2</font>​, <font color="#00ff00">λ3)</font>​
-> Este canal relaciona el <font color="#2f82ff">neutrino muónico</font> y su <font color="#ffff00">antineutrino</font> con el <font color="#00ff00">fotón</font>. Esto indica que el sistema del <font color="#2f82ff">muón</font>, un nivel de energía intermedio, está directamente ligado a la lógica<font color="#fc300c"> electromagnética</font> del <font color="#ffcc00">Píxel ΣΤ</font>.
+> Este canal relaciona el <font color="#2f82ff">neutrino muónico</font> y su <font color="#ffff00">antineutrino</font> con el <font color="#00ff00">fotón</font>. Esto indica que el sistema del <font color="#2f82ff">muón</font>, un nivel de energía intermedio, está directamente ligado a la lógica<font color="#fc300c"> electromagnética</font> del <font color="#ffcc00">Píxel Σ·Τ</font>.
 
 > [!n-electron] <font color="#2f82ff">CANAL 2 - El canal del electrón</font> <font color="#fc300c">(λ4</font>​, <font color="#00ffff">λ5​</font>,<font color="#fc300c"> X)</font>
 > Relaciona al <font color="#fc300c">neutrino electrónico</font> y su <font color="#00ffff">antineutrino</font> con un operador de ajuste <span style="font-size: larger; letter-spacing: 2px;  color: #fc300c; font-family: 'MJXTEX';">X</span> que es una combinación de los flujos <font color="#fc300c">electromagnéticos</font> <font color="#00ff00">(λ3)</font>​ y los flujos de cohesión de <font color="#2f82ff">SU(3)</font> <font color="#ffcc00">(λ8​)</font>. 
 > 
-> Esto explica cómo la información <font color="#fc300c">electrónica</font>, que es la más común y estable, está intrínsecamente vinculada a la estructura fundamental del <font color="#ffcc00">Píxel ΣΤ</font>.
+> Esto explica cómo la información <font color="#fc300c">electrónica</font>, que es la más común y estable, está intrínsecamente vinculada a la estructura fundamental del <font color="#ffcc00">Píxel Σ·Τ</font>.
 
 > [!n-tau] CANAL 3 - El canal del tauón <font color="#00ff00">(λ6</font>, ​<font color="#ff00ff">λ7</font>​ , <font color="#2f82ff">Y)</font>
 > Relaciona al <font color="#00ff00">neutrino tauónico</font> y su <font color="#ff00ff">antineutrino</font> con otro operador de ajuste <span style="font-size: larger; letter-spacing: 2px;  color: #2f82ff; font-family: 'MJXTEX';">Y</span>. Esto demuestra que el nivel de energía más alto (el <font color="#00ff00">tauón</font>) también se comunica con los flujos de <font color="#fc300c">U(1)</font> y <font color="#2f82ff">SU(3)</font> para imponer la expansión del píxel.
 
 El Modelo Nouménico, con su visión del <font color="#e36c09">campo neutrínico</font>, ofrece una explicación coherente y unificada para fenómenos que el paradigma científico observa pero no entiende completamente. 
 
-La oscilación de <font color="#e36c09">neutrinos</font> es el eco de una constante **reindexación** en el campo de información, la indetectabilidad es el resultado de intentar observar la lógica subyacente y la subálgebra de Cartan es la regla matemática que permite a las fuerzas del universo coexistir en un mismo <font color="#ffcc00">Píxel ΣΤ</font>. 
+La oscilación de <font color="#e36c09">neutrinos</font> es el eco de una constante **reindexación** en el campo de información, la indetectabilidad es el resultado de intentar observar la lógica subyacente y la subálgebra de Cartan es la regla matemática que permite a las fuerzas del universo coexistir en un mismo <font color="#ffcc00">Píxel Σ·Τ</font>. 
 
 Con esta base, estamos listos para explorar cómo esta lógica de indexación se manifiesta en la jerarquía de masas de las partículas.
 
@@ -1527,17 +1527,17 @@ El Modelo Estándar de la física, en su descripción más fundamental, concibe 
 
 Esta arquitectura, validada por innumerables experimentos, proporciona un marco fenomenológico funcional para comprender la <font color="#fc300c">materia</font>. Sin embargo, el Modelo Estándar, por su propia naturaleza, se limita a describir el "qué" y el "cómo" de esta estructura, dejando sin respuesta el "porqué" de su existencia y la lógica subyacente que rige su formación. 
 
-Nuestro Modelo Nouménico trasciende esta visión, proponiendo que el <font color="#00ff00">átomo</font> no es una mera estructura física, sino un **sistema de sincronización emergente**, una manifestación compleja de flujos de información nouménica que operan sobre una matriz fundamental de <font color="#ffcc00">Píxeles ΣΤ</font>.
+Nuestro Modelo Nouménico trasciende esta visión, proponiendo que el <font color="#00ff00">átomo</font> no es una mera estructura física, sino un **sistema de sincronización emergente**, una manifestación compleja de flujos de información nouménica que operan sobre una matriz fundamental de <font color="#ffcc00">Píxeles Σ·Τ</font>.
 
-En el corazón de esta reinterpretación se encuentra el <font color="#ffcc00">Píxel ΣΤ</font> (Espacio-Temporal), la unidad elemental de la realidad. 
+En el corazón de esta reinterpretación se encuentra el <font color="#ffcc00">Píxel Σ·Τ</font> (Espacio-Temporal), la unidad elemental de la realidad. 
 
-Este <font color="#ffcc00">Píxel ΣΤ</font> no es una entidad monolítica, sino un estado unificado que integra **tres submatrices vectoriales** fundamentales: 
+Este <font color="#ffcc00">Píxel Σ·Τ</font> no es una entidad monolítica, sino un estado unificado que integra **tres submatrices vectoriales** fundamentales: 
 
 > - El <font color="#fc300c">Píxel  (Ο)</font>: Motor de <font color="#fc300c">U(1)</font> asociado al Algoritmo <font color="#fc300c">Saklas</font> y el <font color="#fc300c">electromagnetismo</font>.
 > - El <font color="#00ff00">Píxel (Ι)</font>: Motor de <font color="#00ff00">SU(2)</font> asociado al Algoritmo <font color="#00ff00">Cristos</font> y la<font color="#00ff00"> fuerza débil</font>-
 > - El <font color="#2f82ff">Píxel (Υ)</font>: Motor de <font color="#2f82ff">SU(3)</font> asociado al Algoritmo <font color="#2f82ff">Samael</font> y la <font color="#2f82ff">fuerza fuerte</font>. 
 
-La realidad que experimentamos es el resultado de la activación y evolución de estos subpíxeles que forman parte del <font color="#ffcc00">Píxel ΣΤ</font>, cada uno generando un operador Hamiltoniano que unifica sus submatrices en una única entidad que "viaja" o evoluciona dentro del plano espacio-temporal. 
+La realidad que experimentamos es el resultado de la activación y evolución de estos subpíxeles que forman parte del <font color="#ffcc00">Píxel Σ·Τ</font>, cada uno generando un operador Hamiltoniano que unifica sus submatrices en una única entidad que "viaja" o evoluciona dentro del plano espacio-temporal. 
 
 La emergencia de la <font color="#fc300c">materia</font>, tal como la conocemos, es un proceso dinámico que transita desde la potencialidad nouménica hasta la manifestación fenomenológica, una secuencia de estados de información que se consolidan en el tiempo.
 
@@ -1563,7 +1563,7 @@ Cuando la energía que ingresa al <font color="#fc300c">Píxel  (Ο)</font> se e
 
 En este nivel, la información se procesa como ocho <font color="#fc300c">bits eléctricos</font>, que pueden ser conceptualizados como <font color="#00ff00">fotones vectoriales</font>. Estos bits se manifiestan como flujos en el <font color="#fc300c">eje X</font> del <font color="#fc300c">Píxel  (Ο)</font>. 
 
-Es fundamental comprender que, en este estadio, esta codificación vectorial no existe dentro de la matriz espacio-temporal como información discreta y fenomenológica. Es, en cambio, una probabilidad latente, una potencialidad de información que reside en cada <font color="#ffcc00">Píxel ΣΤ</font> que aún no ha consolidado un Hamiltoniano final. 
+Es fundamental comprender que, en este estadio, esta codificación vectorial no existe dentro de la matriz espacio-temporal como información discreta y fenomenológica. Es, en cambio, una probabilidad latente, una potencialidad de información que reside en cada <font color="#ffcc00">Píxel Σ·Τ</font> que aún no ha consolidado un Hamiltoniano final. 
 
 Por lo tanto, en este nivel, el concepto de <font color="#00ff00">espín</font> para estas entidades discretas de información aún no existe, ya que el <font color="#00ff00">espín</font> es una propiedad que emerge en niveles de codificación más complejos. 
 
@@ -1573,7 +1573,7 @@ El <font color="#fc300c">electrón</font> como entidad discreta con <font color=
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">(105.66 MeV/c<sup>2</sup>) Salto a <font color="#2f82ff">SU(3)</font> y Complejidad <font color="#2f82ff">Magnética</font></span></center>
 
-La dinámica del <font color="#ffcc00">Píxel ΣΤ</font> se intensifica cuando el flujo de energía que ingresa por el vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> en el <font color="#fc300c">Píxel  (Ο)</font> es mayor, alcanzando el rango del <font color="#2f82ff">muón</font>. 
+La dinámica del <font color="#ffcc00">Píxel Σ·Τ</font> se intensifica cuando el flujo de energía que ingresa por el vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> en el <font color="#fc300c">Píxel  (Ο)</font> es mayor, alcanzando el rango del <font color="#2f82ff">muón</font>. 
 
 En este punto, los vectores de <font color="#fc300c">U(1)</font> se ven saturados por la densidad de la información. Esta saturación es un mecanismo de ajuste que obliga a la información excedente a "saltar" a otra dimensión de procesamiento el <font color="#2f82ff">Píxel (Υ)</font>, donde opera la simetría <font color="#2f82ff">SU(3)</font>. 
 
@@ -1587,9 +1587,9 @@ El <font color="#fc300c">eje X</font>, que en el <font color="#fc300c">Nivel 1</
 
 Este <font color="#fc300c">electrón beta</font> es una entidad vectorial que se genera a partir de la codificación gluónica del generador <font color="#00ff00">(λ3)</font>, por lo que aún no interactúa con un <font color="#00ff00">átomo</font>, ni se manifiesta plenamente en la matriz espacio-temporal. 
 
-En este nivel, el <font color="#2f82ff">Píxel (Υ)</font> genera un flujo de información estadística de naturaleza <font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font>, que alimenta de información a los bosones <font color="#fc300c">W+</font> y <font color="#2f82ff">W-</font> del <font color="#00ff00">Píxel (Ι)</font>, preparando los valores de <font color="#00ff00">espín</font> que se aplicarán al <font color="#ffcc00">Píxel ΣΤ</font>, una vez que el Hamiltoniano se unifique en la última etapa de procesamiento.
+En este nivel, el <font color="#2f82ff">Píxel (Υ)</font> genera un flujo de información estadística de naturaleza <font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font>, que alimenta de información a los bosones <font color="#fc300c">W+</font> y <font color="#2f82ff">W-</font> del <font color="#00ff00">Píxel (Ι)</font>, preparando los valores de <font color="#00ff00">espín</font> que se aplicarán al <font color="#ffcc00">Píxel Σ·Τ</font>, una vez que el Hamiltoniano se unifique en la última etapa de procesamiento.
 
-En este punto, el <font color="#ffcc00">Píxel ΣΤ</font> mayor tampoco ha consolidado un Hamiltoniano final. La información sigue siendo una probabilidad latente, una potencialidad que ahora contiene, además de la naturaleza <font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font>, una complejidad mayor que la prepara para la manifestación. 
+En este punto, el <font color="#ffcc00">Píxel Σ·Τ</font> mayor tampoco ha consolidado un Hamiltoniano final. La información sigue siendo una probabilidad latente, una potencialidad que ahora contiene, además de la naturaleza <font color="#fc300c">eléctrica</font> y <font color="#2f82ff">magnética</font>, una complejidad mayor que la prepara para la manifestación. 
 
 Aquí el tiempo aún no avanza; la realidad se encuentra en un estado de preparación.  ^pixelsu3
 
@@ -1600,16 +1600,16 @@ Aquí el tiempo aún no avanza; la realidad se encuentra en un estado de prepara
 
 Este es el punto crucial de la manifestación. Cuando el nivel de energía que accede del vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> del <font color="#2f82ff">Píxel (Υ)</font> alcanza el rango del <font color="#00ff00">tauón</font>, la información generada por la simetría simetría <font color="#2f82ff">SU(3)</font> —previamente procesada por la simetría <font color="#fc300c">U(1)</font> del <font color="#fc300c">Píxel  (Ο)</font>— salta al <font color="#00ff00">Píxel (Ι)</font> donde opera la simetría <font color="#00ff00">SU(2)</font>. 
 
-Es aquí donde se produce la sincronización final y la unificación de los Hamiltonianos de los tres subpíxeles: <font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>, dando como resultado la manifestación del <font color="#ffcc00">Píxel ΣΤ</font>.
+Es aquí donde se produce la sincronización final y la unificación de los Hamiltonianos de los tres subpíxeles: <font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>, dando como resultado la manifestación del <font color="#ffcc00">Píxel Σ·Τ</font>.
 
 ![[02 - Pixel SU2 Small.png|450]]
-Este evento de sincronización masiva genera un operador Hamiltoniano unificado para el <font color="#ffcc00">Píxel ΣΤ</font>. En este momento de unificación, el <font color="#ffcc00">Píxel ΣΤ</font> que existe dentro de la matriz espacio-temporal tridimensional— deja un registro tangible dentro de esta matriz. 
+Este evento de sincronización masiva genera un operador Hamiltoniano unificado para el <font color="#ffcc00">Píxel Σ·Τ</font>. En este momento de unificación, el <font color="#ffcc00">Píxel Σ·Τ</font> que existe dentro de la matriz espacio-temporal tridimensional— deja un registro tangible dentro de esta matriz. 
 
-La información del vectorial del <font color="#ffcc00">Píxel ΣΤ</font> deja de ser una mera probabilidad y se convierte en una marca energética concreta que expande y consolida sus vectores, manifestándose como un <font color="#ffcc00">Píxel ΣΤ</font> de naturaleza fenomenológica: el átomo de hidrógeno.
+La información del vectorial del <font color="#ffcc00">Píxel Σ·Τ</font> deja de ser una mera probabilidad y se convierte en una marca energética concreta que expande y consolida sus vectores, manifestándose como un <font color="#ffcc00">Píxel Σ·Τ</font> de naturaleza fenomenológica: el átomo de hidrógeno.
 
-El acto de dejar esta marca energética en la matriz espacio-temporal tiene una consecuencia fundamental: obliga al sistema a avanzar un espacio (hacia otro <font color="#ffcc00">Píxel ΣΤ</font>) para seguir procesando información energética. 
+El acto de dejar esta marca energética en la matriz espacio-temporal tiene una consecuencia fundamental: obliga al sistema a avanzar un espacio (hacia otro <font color="#ffcc00">Píxel Σ·Τ</font>) para seguir procesando información energética. 
 
-Este "salto" a un nuevo <font color="#ffcc00">Píxel ΣΤ</font> es el origen de la línea temporal dentro de la matriz espacio-temporal. Es el "tic" del reloj cósmico, la unidad mínima de avance que permite la progresión de la realidad. ^pixelsu2
+Este "salto" a un nuevo <font color="#ffcc00">Píxel Σ·Τ</font> es el origen de la línea temporal dentro de la matriz espacio-temporal. Es el "tic" del reloj cósmico, la unidad mínima de avance que permite la progresión de la realidad. ^pixelsu2
 
 ### 2. La Codificación Interna
 
@@ -1619,11 +1619,11 @@ Dentro de este proceso de transición de la potencialidad a la manifestación, l
 
 ![[Protones y Neutrones.jpg]] ^protonesyneutrones
 
-Es vital comprender que, hasta que el <font color="#ffcc00">Píxel ΣΤ</font> final alcanza el <font color="#00ff00">Nivel 3</font> <font color="#00ff00">(rango tauónico)</font> y consolida su Hamiltoniano unificado, estos <font color="#fc300c">protones</font> y <font color="#2f82ff">neutrones</font>, junto con los complejos sistemas de sincronías vectoriales internas de los micropíxeles, aún no existen en el plano tridimensional como entidades fenomenológicas discretas. 
+Es vital comprender que, hasta que el <font color="#ffcc00">Píxel Σ·Τ</font> final alcanza el <font color="#00ff00">Nivel 3</font> <font color="#00ff00">(rango tauónico)</font> y consolida su Hamiltoniano unificado, estos <font color="#fc300c">protones</font> y <font color="#2f82ff">neutrones</font>, junto con los complejos sistemas de sincronías vectoriales internas de los micropíxeles, aún no existen en el plano tridimensional como entidades fenomenológicas discretas. 
 
-En cambio, son potencialidades inherentes del <font color="#ffcc00">Píxel ΣΤ</font>, preparándose para dejar su huella y avanzar al siguiente estado. Cuando el <font color="#ffcc00">Píxel ΣΤ</font> se consolida y el Hamiltoniano unificado emerge, la dimensión atómica aparece con sus propias matrices vectoriales y sistemas de ajuste sincronizantes. 
+En cambio, son potencialidades inherentes del <font color="#ffcc00">Píxel Σ·Τ</font>, preparándose para dejar su huella y avanzar al siguiente estado. Cuando el <font color="#ffcc00">Píxel Σ·Τ</font> se consolida y el Hamiltoniano unificado emerge, la dimensión atómica aparece con sus propias matrices vectoriales y sistemas de ajuste sincronizantes. 
 
-Esto significa que, a partir de este punto, el <font color="#ffcc00">Píxel ΣΤ</font> ya no solo está condicionado por los niveles de ajuste vectorial de sus subpíxeles internos  <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font> y las simetrías <font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>, sino que también entra en juego las relaciones e interconexiones de la <font color="#00ff00">dimensión atómica</font>, que ahora existe plenamente dentro del plano espacio-temporal condicionada por la tridimensionalidad y el flujo del tiempo. 
+Esto significa que, a partir de este punto, el <font color="#ffcc00">Píxel Σ·Τ</font> ya no solo está condicionado por los niveles de ajuste vectorial de sus subpíxeles internos  <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font> y las simetrías <font color="#fc300c">U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3)</font>, sino que también entra en juego las relaciones e interconexiones de la <font color="#00ff00">dimensión atómica</font>, que ahora existe plenamente dentro del plano espacio-temporal condicionada por la tridimensionalidad y el flujo del tiempo. 
 
 Esta es la emergencia de una nueva capa de complejidad que se autorregula y se sincroniza con los principios nouménicos subyacentes.
 
@@ -1631,7 +1631,7 @@ Esta es la emergencia de una nueva capa de complejidad que se autorregula y se s
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Emergencia Vectorial de <font color="#fc300c">Protones</font> y Neutrones</span></center>
 
-Tras haber explorado la secuencia de transición energética que lleva al <font color="#ffcc00">Píxel ΣΤ</font> de un estado de probabilidad a una manifestación fenomenológica, es imperativo sumergirse en la micromecánica que define la naturaleza de la materia misma. 
+Tras haber explorado la secuencia de transición energética que lleva al <font color="#ffcc00">Píxel Σ·Τ</font> de un estado de probabilidad a una manifestación fenomenológica, es imperativo sumergirse en la micromecánica que define la naturaleza de la materia misma. 
 
 El <font color="#fc300c">protón</font> y el <font color="#2f82ff">neutrón</font> no emergen de la nada en el momento de la consolidación atómica; su existencia es el resultado final de un intrincado proceso de codificación vectorial que se desarrolla en los subpíxeles antes de que el Hamiltoniano unificado se manifieste en la matriz espacio-temporal.
 
@@ -1703,7 +1703,7 @@ Su función no es la de interactuar con el campo eléctrico, sino la de proporci
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">El <font color="#fc300c">Electrón</font> como Conector Fundamental</span></center>
 
-Con esta visión, el átomo de hidrógeno se revela como la culminación de este complejo proceso de codificación. La dualidad <font color="#fc300c">protón</font>-<font color="#2f82ff">neutrón</font>, unificada por el Hamiltoniano del <font color="#ffcc00">Píxel ΣΤ</font>, encuentra su estabilidad final en su relación con el <font color="#fc300c">electrón</font>. 
+Con esta visión, el átomo de hidrógeno se revela como la culminación de este complejo proceso de codificación. La dualidad <font color="#fc300c">protón</font>-<font color="#2f82ff">neutrón</font>, unificada por el Hamiltoniano del <font color="#ffcc00">Píxel Σ·Τ</font>, encuentra su estabilidad final en su relación con el <font color="#fc300c">electrón</font>. 
 
 El <font color="#fc300c">electrón</font> no es una entidad pasiva orbitando el núcleo; es el **operador de ajuste** y el vínculo fundamental que conecta el sistema del <font color="#fc300c">protón</font> —codificado en<font color="#fc300c"> <font color="#fc300c">U(1)</font></font>— con el entorno, operando en la dimensión <font color="#00ff00">leptónica</font>, un plano más fundamental que la dimensión <font color="#ffa3ef">hadrónica</font> donde se codifican los <font color="#fc300c">protones</font>. 
 
@@ -1787,7 +1787,7 @@ Las 9 configuraciones de <font color="#fc300c">protones</font> se agrupan en 3 f
 > [!LEVOGIRO] <FONT COLOR="#2F82FF">8 - QUARK DE AJUSTE  <font color="#2f82ff">LEPTÓNICO</font></FONT> <font color="#bfbfbf">(u<font color="#2f82ff">u</font>d)</font>
 > En esta familia de <font color="#fc300c">protones</font> el segundo de los dos <font color="#cb48f3">quarks</font> <font color="#2f82ff">up</font> actúa como <font color="#2f82ff">quark de ajuste</font>, respondiendo al ajuste vectorial  del <font color="#2f82ff">bosón W-</font> (información de naturaleza <font color="#2f82ff">magnética</font>) que opera en el <font color="#00ff00">Píxel (Ι)</font>, lo que lo convierte en un mediador de las interacciones de <font color="#00ff00">fuerza débil</font>, pero con una dirección opuesta a la familia <font color="#fc300c">bosónica</font>.
 > 
-> Este ajuste está directamente asociado al vector de <font color="#00ff00">espín</font> que se deriva del <font color="#00ff00">Píxel (Ι)</font>, actuando como el sistema de navegación del Hamiltoniano del <font color="#ffcc00">Píxel ΣΤ</font>.
+> Este ajuste está directamente asociado al vector de <font color="#00ff00">espín</font> que se deriva del <font color="#00ff00">Píxel (Ι)</font>, actuando como el sistema de navegación del Hamiltoniano del <font color="#ffcc00">Píxel Σ·Τ</font>.
 
 > [!n-tau] <font color="#00ff00">9 - QUARK DE SINCRONIZACIÓN  <font color="#2f82ff">LEPTÓNICO</font></font> <font color="#bfbfbf">(uu<font color="#fc300c">d</font>)</font>
 > En esta familia el <font color="#cb48f3">quark</font> <font color="#fc300c">down</font> del <font color="#fc300c">protón</font> opera como un <font color="#00ff00">quark de sincronización</font> que procesa la información del <font color="#ffff00">antineutrino muónico (λ2),</font>  decodificando la información antisimétrica del <font color="#2f82ff">neutrino muónico (λ1)</font> del <font color="#fc300c">Quark Guia</font> del <font color="#fc300c">Protón</font> <font color="#2f82ff">Leptónico</font>. 
@@ -1838,7 +1838,7 @@ Los <font color="#2f82ff">neutrones</font>, por su naturaleza de codificación <
 > [!tierra] <font color="#00ff00">15 - QUARK DE SINCRONIZACIÓN  <font color="#00ff00">NUCLEÓNICO</font></font> <font color="#bfbfbf">(dd<font color="#2f82ff">u</font>)</font>
 > En esta familia el <font color="#cb48f3">quark</font> <font color="#2f82ff">up</font> del <font color="#2f82ff">neutrón</font> se ajusta a partir de la codificación del <font color="#ff00ff">antineutrino tauónico (λ7)</font>, que procesa la información antisimétrica del <font color="#2f82ff">Quark Guía</font> del <font color="#2f82ff">neutrón</font> <font color="#00ff00">nucleónico</font>, sincronizando su color con el resto del sistema. 
 > 
-> Este es el nivel donde se genera la información que permite a los <font color="#ffcc00">Píxel ΣΤ</font> sincronizarse para crear <font color="#00ff00">átomos</font> más complejos que el hidrógeno.
+> Este es el nivel donde se genera la información que permite a los <font color="#ffcc00">Píxel Σ·Τ</font> sincronizarse para crear <font color="#00ff00">átomos</font> más complejos que el hidrógeno.
 
 #### 3 - Familia De <Font Color="#2f82ff">neutrones</font> De Ajuste <Font Color="#2f82ff">leptónico</font>
 
@@ -1854,12 +1854,12 @@ Los <font color="#2f82ff">neutrones</font>, por su naturaleza de codificación <
 > [!retroceso] <font color="#fc300c">17 - QUARK DE AJUSTE  <font color="#2f82ff">LEPTÓNICO</font></font> <font color="#bfbfbf">(d<font color="#fc300c">d</font>u)</font>
 > En esta familia de <font color="#2f82ff">neutrones</font> el segundo de los dos <font color="#cb48f3">quarks</font> <font color="#fc300c">down</font> actúa como <font color="#fc300c">quark de ajuste</font> sincronizando la información del generador <font color="#00ff00">λ3</font>​ <font color="#00ff00">(fotón)</font> de <font color="#fc300c">U(1)</font>, pero de manera "transpuesta".
 > 
-> Esto significa que si los ajustes <font color="#fc300c">bosónicos</font> <font color="#fc300c">(información eléctrica)</font> y <font color="#ffcc00">fermiónicos</font><font color="#2f82ff"> (información magnética)</font> entran en conflicto dentro de un núcleo, esta familia de <font color="#2f82ff">neutrones</font>, junto con la de ajuste <font color="#00ff00">nucleónico</font>, selecciona un valor definitivo y fuerza al sistema a avanzar a un nuevo <font color="#ffcc00">Píxel ΣΤ</font>.
+> Esto significa que si los ajustes <font color="#fc300c">bosónicos</font> <font color="#fc300c">(información eléctrica)</font> y <font color="#ffcc00">fermiónicos</font><font color="#2f82ff"> (información magnética)</font> entran en conflicto dentro de un núcleo, esta familia de <font color="#2f82ff">neutrones</font>, junto con la de ajuste <font color="#00ff00">nucleónico</font>, selecciona un valor definitivo y fuerza al sistema a avanzar a un nuevo <font color="#ffcc00">Píxel Σ·Τ</font>.
 
 > [!ascension] <font color="#00ff00">18 - QUARK DE SINCRONIZACIÓN   <font color="#2f82ff">LEPTÓNICO</font></font> <font color="#bfbfbf">(dd<font color="#2f82ff">u</font>)</font>
 > En esta familia el <font color="#cb48f3">quark</font> <font color="#2f82ff">up</font> del <font color="#2f82ff">neutrón</font> se ajusta a partir de la codificación del <font color="#ffff00">antineutrino muónico (λ2),</font> que procesa información antisimétrica del <font color="#2f82ff">Quark Guía</font> del <font color="#2f82ff">neutrón</font> <font color="#2f82ff">leptónico</font>, con un color que se sincroniza para mantener el equilibrio. 
 > 
-> Este elemento es el que impulsa el salto del Hamiltoniano hacia un nuevo <font color="#ffcc00">Píxel ΣΤ</font>, siguiendo el valor direccional que impone el <font color="#00ff00">bosón Z</font>, siendo la manifestación del **avance del tiempo**, ya que cada salto es una **unidad mínima de tiempo** que avanza el sistema.
+> Este elemento es el que impulsa el salto del Hamiltoniano hacia un nuevo <font color="#ffcc00">Píxel Σ·Τ</font>, siguiendo el valor direccional que impone el <font color="#00ff00">bosón Z</font>, siendo la manifestación del **avance del tiempo**, ya que cada salto es una **unidad mínima de tiempo** que avanza el sistema.
 
 Este sistema de codificación, con 18 tipos diferentes de <font color="#ffa3ef">hadrones</font> le da una complejidad y una libertad de ajuste sin precedentes a nuestro modelo. 
 
@@ -1873,7 +1873,7 @@ A continuación, exploraremos una última capa de esta lógica, reinterpretando 
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Avance del Píxel Espacio-Temporal</span></center>
 
-La culminación del proceso de decodificación en un <font color="#ffcc00">Píxel ΣΤ</font> no es solo la manifestación de la <font color="#fc300c">materia</font>, sino el origen de la **línea temporal** sobre el que opera el universo fenomenológico. 
+La culminación del proceso de decodificación en un <font color="#ffcc00">Píxel Σ·Τ</font> no es solo la manifestación de la <font color="#fc300c">materia</font>, sino el origen de la **línea temporal** sobre el que opera el universo fenomenológico. 
 
 Este evento, que transforma una potencialidad nouménica en una realidad observable, se produce en un punto de inflexión crítico, cuando el flujo de energía que accede al vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> alcanza el <font color="#00ff00">Rango Tauónico</font>  <font color="#00ff00">(Nivel 3)</font>.
 
@@ -1881,26 +1881,26 @@ Este evento, que transforma una potencialidad nouménica en una realidad observa
 
 En este momento de máxima saturación energética, los Hamiltonianos de los tres subpíxeles —<font color="#fc300c">Subpixel (Ο)</font> <font color="#fc300c">(electromagnético)</font>, <font color="#00ff00">Subpixel (Ι)</font> <font color="#00ff00">(fuerza débil)</font> y <font color="#2f82ff">Subpixel (Υ)</font> <font color="#2f82ff">(fuerza fuerte)</font>— se sincronizan de manera integral. 
 
-Esta unificación no es un simple agregado de funciones, sino que genera un **Operador Hamiltoniano Unificado** que cohesiona el <font color="#ffcc00">Píxel ΣΤ</font> en una única entidad coherente. Este Hamiltoniano es la expresión de la lógica y la memoria del <font color="#ffcc00">Píxel ΣΤ</font>, el "cerebro" que coordina todas las funciones internas y externas.
+Esta unificación no es un simple agregado de funciones, sino que genera un **Operador Hamiltoniano Unificado** que cohesiona el <font color="#ffcc00">Píxel Σ·Τ</font> en una única entidad coherente. Este Hamiltoniano es la expresión de la lógica y la memoria del <font color="#ffcc00">Píxel Σ·Τ</font>, el "cerebro" que coordina todas las funciones internas y externas.
 
 > [!atomo] <font color="#fc300c">LA MARCA ENERGÉTICA</font> - El Nacimiento de la Materia Fenoménica
-> Antes de este momento, la información <font color="#ffa3ef">hadrónica</font> <font color="#ffcc00">(3 fermiones)</font> y <font color="#00ff00"><font color="#00ff00">leptónica</font></font> <font color="#ffcc00">(1 fermión)</font> existía como potencialidades latentes o probabilidades vectoriales dentro de los subpíxeles. Sin embargo, con la consolidación del Hamiltoniano unificado, el<font color="#ffcc00">Píxel ΣΤ</font> deja una "marca energética" tangible y concreta en la <font color="#00ff00">Matriz Fenomenológica</font>. 
+> Antes de este momento, la información <font color="#ffa3ef">hadrónica</font> <font color="#ffcc00">(3 fermiones)</font> y <font color="#00ff00"><font color="#00ff00">leptónica</font></font> <font color="#ffcc00">(1 fermión)</font> existía como potencialidades latentes o probabilidades vectoriales dentro de los subpíxeles. Sin embargo, con la consolidación del Hamiltoniano unificado, el<font color="#ffcc00">Píxel Σ·Τ</font> deja una "marca energética" tangible y concreta en la <font color="#00ff00">Matriz Fenomenológica</font>. 
 > 
 > Esta marca es la manifestación del **átomo de hidrógeno**, la unidad fundamental de la <font color="#fc300c">materia</font>, que ahora existe como una entidad discreta y observable en el plano tridimensional. La "probabilidad" de que un <font color="#00ff00">átomo</font> exista se ha convertido en una "realidad" a través de este proceso de decodificación y consolidación.
 
 > [!avance] <font color="#2f82ff">EL AVANCE DEL TIEMPO</font> - El Salto del Hamiltoniano Unificado
-> La manifestación de esta "marca energética" tiene una consecuencia ineludible y fundamental: obliga al sistema a **avanzar un espacio** en la <font color="#00ff00">Matriz Fenomenológica</font>. En otras palabras, el <font color="#ffcc00">Píxel ΣΤ</font> debe "saltar" a un nuevo <font color="#ffcc00">Píxel ΣΤ</font> adyacente para continuar procesando información y energía. 
+> La manifestación de esta "marca energética" tiene una consecuencia ineludible y fundamental: obliga al sistema a **avanzar un espacio** en la <font color="#00ff00">Matriz Fenomenológica</font>. En otras palabras, el <font color="#ffcc00">Píxel Σ·Τ</font> debe "saltar" a un nuevo <font color="#ffcc00">Píxel Σ·Τ</font> adyacente para continuar procesando información y energía. 
 > 
-> Este salto secuencial de <font color="#ffcc00">Píxeles ΣΤ</font> es el origen de la línea temporal que experimentamos. Cada vez que un <font color="#ffcc00">Píxel ΣΤ</font> consolida su Hamiltoniano y manifiesta una entidad fenomenológica, el "reloj" del universo avanza una unidad mínima de tiempo. 
+> Este salto secuencial de <font color="#ffcc00">Píxeles Σ·Τ</font> es el origen de la línea temporal que experimentamos. Cada vez que un <font color="#ffcc00">Píxel Σ·Τ</font> consolida su Hamiltoniano y manifiesta una entidad fenomenológica, el "reloj" del universo avanza una unidad mínima de tiempo. 
 > 
-> El tiempo, por lo tanto, no es una dimensión preexistente en la que los eventos ocurren, sino el ritmo de la actualización y manifestación de la información en la matriz de <font color="#ffcc00">Píxeles ΣΤ</font>.
+> El tiempo, por lo tanto, no es una dimensión preexistente en la que los eventos ocurren, sino el ritmo de la actualización y manifestación de la información en la matriz de <font color="#ffcc00">Píxeles Σ·Τ</font>.
 
 > [!tiempo] <font color="#00ff00">EL BOSÓN Z COMO OPERADOR TEMPORAL Y DIRECCIONAL</font>
 > En este proceso de avance temporal, el <font color="#00ff00">bosón Z</font>, que emerge de la lógica del <font color="#00ff00">Píxel (Ι)</font> en su <font color="#00ff00">nivel tauónico</font>, desempeña un papel crucial. Más que una partícula mediadora de la <font color="#00ff00">fuerza débil</font>, el <font color="#00ff00">bosón Z</font> es el vector direccional que orquesta este "salto". 
 > 
-> Su función es asegurar que la progresión del <font color="#ffcc00">Píxel ΣΤ</font> sea coherente y siga una trayectoria definida. Es el "conductor" que guía la realidad a través de la secuencia de <font color="#ffcc00">Píxeles ΣΤ</font>, garantizando un flujo de información ordenado. 
+> Su función es asegurar que la progresión del <font color="#ffcc00">Píxel Σ·Τ</font> sea coherente y siga una trayectoria definida. Es el "conductor" que guía la realidad a través de la secuencia de <font color="#ffcc00">Píxeles Σ·Τ</font>, garantizando un flujo de información ordenado. 
 > 
-> La energía del <font color="#00ff00">bosón Z</font> representa la energía necesaria para que un <font color="#ffcc00">Píxel ΣΤ</font> deje su marca y active el siguiente en la línea temporal, solidificando así la dirección y el sentido de la causalidad.
+> La energía del <font color="#00ff00">bosón Z</font> representa la energía necesaria para que un <font color="#ffcc00">Píxel Σ·Τ</font> deje su marca y active el siguiente en la línea temporal, solidificando así la dirección y el sentido de la causalidad.
 
 ### 4. La Jerarquía de la Materia Compuesta
 
@@ -1948,7 +1948,7 @@ Esta sincronización perfecta crea una resonancia que abre una puerta de entrada
 > [!espiritu] <font color="#e36c09"> LA CAUSALIDAD INVERTIDA</font>
 > Un <font color="#ffcc00">nucleón</font> que entra en este estado de equilibrio deja de ser completamente autónomo, regido únicamente por las reglas de sus subpíxeles internos. 
 > 
-> En cambio, se vuelve susceptible a la influencia de la matriz superior. El universo manifestado, en un acto de **causalidad inversa**, puede afectar el destino de un <font color="#ffcc00">Píxel ΣΤ</font> que aún se encuentra en su estado de potencialidad.
+> En cambio, se vuelve susceptible a la influencia de la matriz superior. El universo manifestado, en un acto de **causalidad inversa**, puede afectar el destino de un <font color="#ffcc00">Píxel Σ·Τ</font> que aún se encuentra en su estado de potencialidad.
 
 > [!procer] <font color="#ffa3ef">HADRONES</font> <font color="#ffcc00">EXÓTICOS COMO ESTADOS DE TRANSICIÓN</font>
 > Esta idea explica la naturaleza de los <font color="#ffa3ef">hadrones</font> con "extrañeza" —como los bariones Sigma <span style="font-size: larger; letter-spacing: 2px; color: #00ffff; font-family: 'MJXTEX';">Σ' (<font color="#fc300c">dd</font><font color="#ffcc00">s</font>, <font color="#fc300c">d</font><font color="#2f82ff">u</font><font color="#ffcc00">s</font>, <font color="#2f82ff">uu</font><font color="#ffcc00">s</font>)</span> o Xi <span style="font-size: larger; letter-spacing: 2px; color: #ffcc00; font-family: 'MJXTEX';">Ξ' (<font color="#ffcc00">s</font><font color="#fc300c">d</font><font color="#ffcc00">s</font>, <font color="#ffcc00">s</font><font color="#2f82ff">u</font><font color="#ffcc00">s</font>)</span>—. Estas no son partículas con una composición fundamental distinta, sino <font color="#ffcc00">nucleones</font> que han adoptado este estado de transición. 
@@ -1958,7 +1958,7 @@ Esta sincronización perfecta crea una resonancia que abre una puerta de entrada
 > [!demiurgo] <font color="#cb48f3">LA PROGRAMACIÓN DE LA MATERIA</font>
 > El número de <font color="#ffcc00">quarks extraños</font> en un <font color="#ffa3ef">hadrón</font> —como el barion Xi <span style="font-size: larger; letter-spacing: 2px; color: #ffcc00; font-family: 'MJXTEX';">Ξ</span> con dos— es una medida de la intensidad de la influencia de la matriz superior.
 > 
-> Esto sugiere que la realidad manifestada tiene la capacidad de "programar" los <font color="#ffcc00">Píxeles ΣΤ</font> de la matriz espacio-temporal para que se consoliden de una manera específica, permitiendo la formación de estructuras complejas que trascienden la simple unión de átomos de hidrógeno.
+> Esto sugiere que la realidad manifestada tiene la capacidad de "programar" los <font color="#ffcc00">Píxeles Σ·Τ</font> de la matriz espacio-temporal para que se consoliden de una manera específica, permitiendo la formación de estructuras complejas que trascienden la simple unión de átomos de hidrógeno.
 
 Esta reinterpretación unifica el Modelo Nouménico en su totalidad. El <font color="#00ff00">quark strange</font> es el mecanismo que conecta la potencialidad con la manifestación, la microfísica con la macrofísica. 
 
@@ -1968,7 +1968,7 @@ A través de este estado de equilibrio, el universo se convierte en un **sistema
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Culminación del Algoritmo</span></center>
 
-Tras haber desglosado la micromecánica interna de la matriz de <font color="#ffcc00">Píxeles ΣΤ</font>, desde el flujo nouménico hasta la emergencia de los <font color="#ffcc00">nucleones</font> y sus complejos estados, llegamos al punto de culminación: la manifestación del átomo de hidrógeno. 
+Tras haber desglosado la micromecánica interna de la matriz de <font color="#ffcc00">Píxeles Σ·Τ</font>, desde el flujo nouménico hasta la emergencia de los <font color="#ffcc00">nucleones</font> y sus complejos estados, llegamos al punto de culminación: la manifestación del átomo de hidrógeno. 
 
 Este <font color="#00ff00">átomo</font>, el bloque de construcción fundamental de toda la <font color="#fc300c">materia</font>, no es el resultado de una simple coincidencia física, sino la consecuencia final y predecible de un algoritmo de decodificación y sincronización que opera sobre la matriz espacio-temporal.
 
@@ -1993,18 +1993,18 @@ El átomo de hidrógeno, en nuestro modelo, es la culminación fenomenológica d
 > Estas dos entidades, en este estado, no son partículas discretas, sino sistemas vectoriales de ajuste que se preparan para la manifestación.
 
 > [!avatarico] <font color="#ffcc00">3 - MANIFESTACIÓN FENOMENOLÓGICA (Nacimiento de la Causalidad)</font>
-> La unificación final ocurre cuando la energía alcanza el<font color="#00FF00"> rango tauónico</font>, forzando la sincronización de los tres subpíxeles. Esta sincronización genera un **Operador Hamiltoniano Unificado** para el <font color="#ffcc00">Píxel ΣΤ</font>, que deja una "marca energética" en la matriz.
+> La unificación final ocurre cuando la energía alcanza el<font color="#00FF00"> rango tauónico</font>, forzando la sincronización de los tres subpíxeles. Esta sincronización genera un **Operador Hamiltoniano Unificado** para el <font color="#ffcc00">Píxel Σ·Τ</font>, que deja una "marca energética" en la matriz.
 > 
-> Esta marca es la manifestación del **átomo de hidrógeno** como una entidad fenomenológica. El acto de dejar esta marca tiene una consecuencia trascendental: obliga al sistema a avanzar a un nuevo <font color="#ffcc00">Píxel ΣΤ</font>, lo que da origen a la línea temporal y al flujo de la causalidad. 
+> Esta marca es la manifestación del **átomo de hidrógeno** como una entidad fenomenológica. El acto de dejar esta marca tiene una consecuencia trascendental: obliga al sistema a avanzar a un nuevo <font color="#ffcc00">Píxel Σ·Τ</font>, lo que da origen a la línea temporal y al flujo de la causalidad. 
 > 
 > El <font color="#00ff00">bosón Z</font>, codificado por el <font color="#00ff00">Subpixel (Ι)</font> y la simetría <font color="#00ff00">SU(2)</font> actúa como el **operador direccional** que guía este avance.
 
 > [!tiempo] <font color="#00ff00">4 - LA NUEVA CAUSALIDAD (La Retroalimentación Nouménica)</font>
-> Con la emergencia de un universo manifestado, el sistema adquiere una nueva capa de complejidad y auto-organización. La realidad fenomenológica (átomos, moléculas, etc.) ahora tiene la capacidad de influir en los <font color="#ffcc00">Píxel ΣΤ</font> que aún están en un estado de potencialidad. 
+> Con la emergencia de un universo manifestado, el sistema adquiere una nueva capa de complejidad y auto-organización. La realidad fenomenológica (átomos, moléculas, etc.) ahora tiene la capacidad de influir en los <font color="#ffcc00">Píxel Σ·Τ</font> que aún están en un estado de potencialidad. 
 > 
 > Este fenómeno se manifiesta a través del <font color="#00ff00">quark strange</font>, que no es una partícula, sino un **estado de equilibrio nouménico** dentro de un <font color="#ffcc00">nucleón</font>. 
 > 
-> Este estado de "extrañeza" abre una puerta para que el **feedback de la matriz superior** influya en la codificación de los nuevos <font color="#ffcc00">Píxel ΣΤ</font>, dirigiendo su destino y permitiendo la formación de estructuras más complejas que un simple átomo de hidrógeno. 
+> Este estado de "extrañeza" abre una puerta para que el **feedback de la matriz superior** influya en la codificación de los nuevos <font color="#ffcc00">Píxel Σ·Τ</font>, dirigiendo su destino y permitiendo la formación de estructuras más complejas que un simple átomo de hidrógeno. 
 > 
 > La jerarquía de los <font color="#cb48f3">quarks</font> de generaciones superiores <font color="#e36c09">(charm</font>,<font color="#ffcc00"> bottom</font> y <font color="#ffa3ef">top)</font> no son más que etiquetas que describen el modo de ajuste dominante de los <font color="#ffcc00">nucleones</font> que conforman estas estructuras.
 
@@ -2019,9 +2019,9 @@ Al comprender la verdadera naturaleza del <font color="#00ff00">átomo</font>, p
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Una Revisión de la Causalidad y la Dinámica Subyacente</span></center>
 
-Con la comprensión detallada de los mecanismos de los <font color="#ffcc00">Píxeles ΣΤ</font>, es imperativo revisitar nuestra explicación de la <font color="#ffcc00">gravedad</font>. La idea original de que la <font color="#ffcc00">gravedad</font> es una deformación vectorial de la <font color="#00ff00">Matriz Fenomenológica</font>, causada por un <font color="#2f82ff">retroceso magnético</font>, sigue siendo fundamental. 
+Con la comprensión detallada de los mecanismos de los <font color="#ffcc00">Píxeles Σ·Τ</font>, es imperativo revisitar nuestra explicación de la <font color="#ffcc00">gravedad</font>. La idea original de que la <font color="#ffcc00">gravedad</font> es una deformación vectorial de la <font color="#00ff00">Matriz Fenomenológica</font>, causada por un <font color="#2f82ff">retroceso magnético</font>, sigue siendo fundamental. 
 
-Sin embargo, ahora podemos anclar esta visión conceptual en la micromecánica de nuestros <font color="#ffcc00">Píxeles ΣΤ</font>, demostrando cómo la causalidad se despliega desde el plano nouménico al fenomenológico.
+Sin embargo, ahora podemos anclar esta visión conceptual en la micromecánica de nuestros <font color="#ffcc00">Píxeles Σ·Τ</font>, demostrando cómo la causalidad se despliega desde el plano nouménico al fenomenológico.
 
 Nuestra visión de la <font color="#ffcc00">gravedad</font> no es la de una fuerza que surge de la materia. Por el contrario, la <font color="#ffcc00">gravedad</font> es una propiedad intrínseca y universal de la matriz nouménica misma, una tensión que precede a la existencia de la materia manifestada.
 
@@ -2031,13 +2031,13 @@ Nuestra visión de la <font color="#ffcc00">gravedad</font> no es la de una fuer
 > Mientras que el <font color="#fc300c">flujo eléctrico</font> tiende a irradiar y expandirse, el <font color="#2f82ff">flujo magnético</font>, por su naturaleza, busca implosionar y compactar la información. Esta tensión es una condición algorítmica de la matriz, un "arrastre" o "stress" que la impregna por completo. Esta tensión es la manifestación nouménica de la <font color="#ffcc00">gravedad</font>.
 
 > [!avatar] CONTRIBUCIÓN VS PERCEPCIÓN
-> El punto clave para entender la causalidad es la distinción entre contribuir a esta tensión y percibirla. Todos los <font color="#ffcc00">Píxel ΣΤ</font>, tanto los que permanecen en un estado de potencialidad (sin un Hamiltoniano unificado) como los que se manifiestan, contribuyen a la <font color="#ffcc00">gravedad</font>. 
+> El punto clave para entender la causalidad es la distinción entre contribuir a esta tensión y percibirla. Todos los <font color="#ffcc00">Píxel Σ·Τ</font>, tanto los que permanecen en un estado de potencialidad (sin un Hamiltoniano unificado) como los que se manifiestan, contribuyen a la <font color="#ffcc00">gravedad</font>. 
 > 
 > El desequilibrio en sus <font color="#fc300c">Subpixeles (Ο)</font> crea una tensión localizada que se suma a la tensión universal de la matriz. Sin embargo, solo los píxeles que alcanzan el <font color="#00ff00">nivel tauónico</font> unifican su Hamiltoniano y se anclan como un átomo en el espacio-tiempo fenomenológico, pueden percibir esta tensión y manifestarla como una fuerza.
 
-Podemos ilustrar esta diferencia con la analogía del río y el remolino: la matriz nouménica es como un vasto río con una corriente universal. Los <font color="#ffcc00">Píxel ΣΤ</font> potenciales son como flujos de agua que, aunque contribuyen al caudal, no tienen una estructura definida. 
+Podemos ilustrar esta diferencia con la analogía del río y el remolino: la matriz nouménica es como un vasto río con una corriente universal. Los <font color="#ffcc00">Píxel Σ·Τ</font> potenciales son como flujos de agua que, aunque contribuyen al caudal, no tienen una estructura definida. 
 
-Un <font color="#ffcc00">Píxel ΣΤ</font> que se manifiesta como un átomo es como un remolino que se forma en el río. El remolino no crea la corriente del río, pero su existencia como una estructura estable y discreta hace que la fuerza del río se manifieste de forma observable en ese punto, atrayendo a otros objetos cercanos. El átomo se convierte en el foco de concentración de la tensión nouménica universal.
+Un <font color="#ffcc00">Píxel Σ·Τ</font> que se manifiesta como un átomo es como un remolino que se forma en el río. El remolino no crea la corriente del río, pero su existencia como una estructura estable y discreta hace que la fuerza del río se manifieste de forma observable en ese punto, atrayendo a otros objetos cercanos. El átomo se convierte en el foco de concentración de la tensión nouménica universal.
 
 ### Casos de Análisis
 
@@ -2050,8 +2050,8 @@ Para comprender cómo esta visión se traduce en fenómenos observables, analice
 
 Imaginemos dos asteroides, <font color="#2f82ff">A</font> y <font color="#fc300c">B</font>, en el vacío del espacio, lejos de cualquier influencia planetaria. Desde la perspectiva del Modelo Nouménico:
 
->- Cada asteroide es una vasta colección de <font color="#ffcc00">Píxeles ΣΤ</font> manifestados (átomos) con Hamiltonianos unificados.
->- Cada uno de estos <font color="#ffcc00">Píxeles ΣΤ</font> individuales actúa como un "ancla" que concentra la tensión gravitatoria universal.
+>- Cada asteroide es una vasta colección de <font color="#ffcc00">Píxeles Σ·Τ</font> manifestados (átomos) con Hamiltonianos unificados.
+>- Cada uno de estos <font color="#ffcc00">Píxeles Σ·Τ</font> individuales actúa como un "ancla" que concentra la tensión gravitatoria universal.
 >- La suma de todas estas tensiones concentradas en el <font color="#2f82ff">asteroide A</font> y en el <font color="#fc300c">asteroide B</font> crea dos "remolinos" significativos en la matriz nouménica circundante.
 
 La atracción gravitatoria que se observa no es el resultado de un intercambio de partículas (como en otras fuerzas), sino el movimiento de los objetos a lo largo del gradiente de esta tensión nouménica. 
@@ -2200,7 +2200,7 @@ Estos puntos débiles revelan las limitaciones inherentes de un paradigma que se
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Un Evento de Decodificación y Auto-Organización</span></center>
 
-Nuestro Modelo Nouménico propone una explicación radicalmente diferente para la formación de un sistema solar, una que se alinea con la lógica de los <font color="#ffcc00">Píxeles ΣΤ</font>, los Hamiltonianos y los flujos de información que hemos desarrollado. 
+Nuestro Modelo Nouménico propone una explicación radicalmente diferente para la formación de un sistema solar, una que se alinea con la lógica de los <font color="#ffcc00">Píxeles Σ·Τ</font>, los Hamiltonianos y los flujos de información que hemos desarrollado. 
 
 Aquí, la <font color="#fc300c">materia</font> emerge de los flujos subyacentes de la matriz <font color="#fc300c">electromagnética</font>, donde la coherencia, las simetrías y las leyes de grupos se manifiestan en algoritmos de información lógica que se sincronizan para convertir la <font color="#2f82ff">energía</font> del <font color="#ffa3ef">universo gluónico</font> en sistemas vectoriales dinámicos.
 
@@ -2233,9 +2233,9 @@ Estos vórtices emergen en resonancia con las órbitas, es decir, en los puntos 
 La acumulación de materia en estos vórtices planetarios no es por simple <font color="#ffcc00">gravedad</font>. Es un proceso de auto-organización algorítmica:
 
 > [!saklas] <font color="#fc300c">1 - ACTIVACIÓN DEL VÓRTICE Y CAPTURA DE ÁTOMOS</font>
-> Cada vórtice planetario es un punto de decodificación masiva. El flujo energético circundante, que se manifiesta como átomos de hidrógeno (el producto final de nuestro <font color="#ffcc00">Píxel ΣΤ</font>), es atrapado por este vórtice. 
+> Cada vórtice planetario es un punto de decodificación masiva. El flujo energético circundante, que se manifiesta como átomos de hidrógeno (el producto final de nuestro <font color="#ffcc00">Píxel Σ·Τ</font>), es atrapado por este vórtice. 
 > 
-> La inmensa cantidad de <font color="#ffcc00">Píxeles ΣΤ</font> convertidos en átomos de hidrógeno que se generan en el entorno del Sol son atraídos por estos vórtices.
+> La inmensa cantidad de <font color="#ffcc00">Píxeles Σ·Τ</font> convertidos en átomos de hidrógeno que se generan en el entorno del Sol son atraídos por estos vórtices.
 
 > [!muon] <font color="#2f82ff">2 - AJUSTE DE LA MATRIZ Y GENERACIÓN DE ELEMENTOS PESADOS</font>
 > El <font color="#2f82ff">Hamiltoniano del Nodo Estelar</font> impone un giro a este vórtice, asegurando la conservación del momento angular a gran escala. 
@@ -2253,8 +2253,8 @@ La acumulación de materia en estos vórtices planetarios no es por simple <font
 > 
 > En este punto, los flujos nouménicos no pudieron sincronizarse de manera coherente para formar un único vórtice planetario estable. La información se dispersó en múltiples pequeños vórtices, lo que resultó en la fragmentación que observamos.
 
-  > [!gaseoso] <font color="#ffcc00">LOS <font color="#ffa3ef">HADRONES</font> EXÓTICOS - PRE-CONFIGURACIONES DEL <font color="#ffcc00">PÍXEL ΣΤ</font></font>
-  > En nuestro modelo, los <font color="#ffa3ef">hadrones</font> que no se manifiestan como materia común (aquellos con <font color="#cb48f3">quarks</font> <font color="#00ff00">strange</font>, <font color="#e36c09">charm</font>, <font color="#ffcc00">bottom</font>, y <font color="#ffa3ef">top</font>) no son partículas que "viajan" por el espacio. Son pre-configuraciones de los <font color="#ffcc00">Píxeles ΣΤ</font> en estados de potencialidad. 
+  > [!gaseoso] <font color="#ffcc00">LOS <font color="#ffa3ef">HADRONES</font> EXÓTICOS - PRE-CONFIGURACIONES DEL <font color="#ffcc00">Píxel Σ·Τ</font></font>
+  > En nuestro modelo, los <font color="#ffa3ef">hadrones</font> que no se manifiestan como materia común (aquellos con <font color="#cb48f3">quarks</font> <font color="#00ff00">strange</font>, <font color="#e36c09">charm</font>, <font color="#ffcc00">bottom</font>, y <font color="#ffa3ef">top</font>) no son partículas que "viajan" por el espacio. Son pre-configuraciones de los <font color="#ffcc00">Píxeles Σ·Τ</font> en estados de potencialidad. 
   > 
   > Un <font color="#ffa3ef">hadrón</font> exótico es un nucleón <font color="#fc300c">(protón</font> o <font color="#2f82ff">neutrón)</font> que ha adoptado un estado de equilibrio nouménico —como el estado de "extrañeza"— que lo hace susceptible a la influencia de la matriz superior. 
   > 
@@ -2382,7 +2382,7 @@ Cada planeta, en lugar de ser una roca inerte, es un sistema dinámico y auto-or
 
 La ciencia tradicional postula que los elementos químicos, desde el simple hidrógeno hasta los más pesados, son idénticos en todo el universo. Sin embargo, el Modelo Nouménico nos permite desafiar esta noción. 
 
-Si la materia surge de la decodificación de la información del <font color="#ffcc00">Píxel ΣΤ</font>, entonces la forma en que esta información se organiza en cada planeta podría ser diferente.
+Si la materia surge de la decodificación de la información del <font color="#ffcc00">Píxel Σ·Τ</font>, entonces la forma en que esta información se organiza en cada planeta podría ser diferente.
 
 No se trata de que los elementos tengan propiedades "distintas" en un sentido caótico, sino de que el Hamiltoniano local de cada planeta podría haber calibrado la formación de la materia de manera única. 
 
@@ -2436,9 +2436,9 @@ La <font color="#cb48f3">materia oscura</font>, desde la óptica tradicional, es
 
 En el Modelo Nouménico, esta "materia" invisible no es una colección de partículas exóticas, sino el esqueleto de información subyacente que organiza la realidad fenomenológica.
 
-Para comprender la <font color="#cb48f3">materia oscura</font>, debemos descender al nivel más fundamental de la realidad: el <font color="#ffcc00">Píxel ΣΤ</font>. Este píxel no es una unidad simple, sino una matriz fractal que contiene subpixeles, cada uno con su propio Hamiltoniano y su propia función dentro del sistema. 
+Para comprender la <font color="#cb48f3">materia oscura</font>, debemos descender al nivel más fundamental de la realidad: el <font color="#ffcc00">Píxel Σ·Τ</font>. Este píxel no es una unidad simple, sino una matriz fractal que contiene subpixeles, cada uno con su propio Hamiltoniano y su propia función dentro del sistema. 
 
-Estos subpixeles, en su función de procesar información, no siempre la manifiestan en el plano del espacio-tiempo. En cambio, gran parte de esta información permanece en un estado de probabilidades contenidas dentro de la matriz del <font color="#ffcc00">Píxel ΣΤ</font> sin llegar a manifestarse como <font color="#fc300c">materia</font> o <font color="#2f82ff">energía</font> fenoménica.
+Estos subpixeles, en su función de procesar información, no siempre la manifiestan en el plano del espacio-tiempo. En cambio, gran parte de esta información permanece en un estado de probabilidades contenidas dentro de la matriz del <font color="#ffcc00">Píxel Σ·Τ</font> sin llegar a manifestarse como <font color="#fc300c">materia</font> o <font color="#2f82ff">energía</font> fenoménica.
 
 En esta dimensión de probabilidad subyacente es donde existen las partículas que el Modelo del Camino Óctuple de la física tradicional contempla como los <font color="#ffa3ef">hadrones</font> y <font color="#e36c09">mesones</font>. 
 
