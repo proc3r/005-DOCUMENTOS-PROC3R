@@ -105,7 +105,6 @@ Aquí es crucial establecer una distinción fundamental que el Modelo Nouménico
 > Ellos establecen las políticas globales, la cultura organizacional y la dirección estratégica de toda la empresa, influyendo en cada decisión, aunque no estén directamente en el día a día de una oficina particular.
 
 > [!ontogenico] <font color="#e36c09">ARQUETIPOS ONTOGÉNICOS</font>
-> 
 > A diferencia de los <font color="#2f82ff">Arquetipos Ontológicos</font>, los <font color="#e36c09">Arquetipos Ontogénicos</font> son siete entidades supraconscientes o generadores de información (más precisamente, procesadores de información) que operan dentro de un <font color="#2f82ff">Nodo Estelar</font>. 
 > 
 > Forman un grupo particular que se sintetiza en un octavo <font color="#e36c09">Arquetipo Ontogénicos</font>, el cual actúa como la identidad de ese grupo. 
@@ -158,7 +157,6 @@ Científicamente <font color="#fc300c">U(1)</font> es el grupo más simple, repr
 Científicamente, <font color="#00ff00">U(2)</font> es el grupo de matrices unitarias 2×2. Sus generadores son las **3 matrices de Pauli** y la **matriz identidad**. Este grupo puede descomponerse en <font color="#00ff00">SU(2)</font> (determinante 1) y <font color="#fc300c">U(1)</font> (relacionado con el determinante general).
 
 > [!cristos] <font color="#00ff00">ARQUETIPO CRISTOS</font>
-> 
 > En el Modelo Nouménico, <font color="#00ff00">U(2)</font> representa el "plano estructural" donde se asienta el <font color="#00ff00">Algoritmo de Cristos</font>. Es un "vehículo con 4 espacios posibles". Estos incluyen 3 "asientos para pasajeros" —los futuros generadores de <font color="#00ff00">SU(2)</font>— y 1 "asiento de conductor" que corresponde a la **matriz identidad**. 
 > 
 > Este "conductor" no participa como un pasajero activo en el procesamiento de información interna del grupo, sino que actúa como el "firmware" o "sistema operativo" nouménico que le confiere una **identidad única** a la matriz de <font color="#00ff00">Cristos</font> y define su protocolo de procesamiento de información. Su rol es crucial para la estabilidad y el propósito del grupo.
@@ -189,7 +187,6 @@ Si los <font color="#ffc000">grupos U(n)</font> son los planos estructurales de 
 Aquí, el análisis se centra en cómo la información se procesa y se transforma dentro del sistema funcional del grupo, excluyendo al "conductor" de la ecuación directa de la interacción.
 
 > [!procer] <font color="#ffcc00">SU(n) - EL "NEGOCIO EN ACCIÓN"</font>
-> 
 > Cuando el Modelo Nouménico se refiere a <font color="#ffcc00">SU(n)</font>, estamos observando el grupo en su fase de **ejecución y evolución**. La atención recae en los **"pasajeros"** (los generadores) que están activamente "viajando" o "procesando información". 
 > 
 > El **"conductor"** (el determinante), aunque imprescindible para el movimiento y la conectividad, no se cuenta como un pasajero activo en la experiencia interna del viaje. Su rol es el de facilitar y direccionar, no el de ser parte de la carga.
@@ -263,13 +260,11 @@ Las acciones de los conductores, aunque con cierta autonomía —pudiendo maneja
 Esta analogía nos permite discernir que, dentro de nuestro sistema, coexisten dos universos intrínsecamente interconectados:
 
 > [!cerebro] <font color="#2f82ff"> EL UNIVERSO DE LO NOUMÉNICO</font>
-> 
 > Este es el plano del "Creador", de las ideas, las planificaciones, las intenciones y las experiencias subjetivas (la consciencia pura). Aquí reside la lógica fundamental de los algoritmos y arquetipos, los diseños subyacentes que estructuran la realidad. 
 > 
 > Es un plano de información pura y atemporal, donde las simetrías fundamentales —<font color="#ffcc00">U(n)</font> y <font color="#cb48f3">SU(n)</font>— preconfiguran los **espacios vectoriales** y las **relaciones lógicas**. Es la "arquitectura invisible" de la existencia, el dominio del <font color="#cb48f3">Hamiltoniano Último</font> que orquesta la totalidad.
 
-> [!fuego] EL UNIVERSO DE LO FENOMÉNICO
-> 
+> [!fuego] <font color="#fc300c">EL UNIVERSO DE LO FENOMÉNICO</font>
 > Este es el plano del "negocio en marcha", de la <font color="#fc300c">materia</font> y la <font color="#2f82ff">energía</font>, las evoluciones espacio-temporales y las limitaciones causales. 
 > 
 > Aquí es donde las ideas y planes nouménicos se materializan. Es el universo que la ciencia explora con sus modelos, como el Modelo Estándar de Física de Partículas, que describe las partículas fundamentales y sus interacciones. 
@@ -292,8 +287,7 @@ El Modelo Estándar de la física describe las partículas fundamentales a trav�
 > 
 
 > [!gemini] <font color="#cb48f3">CUALIDADES EXTRÍNSECAS</font>
->  
->Estas son propiedades inherentes del universo que estudia la física clásica, que describen la relación de la partícula con su entorno y su estado de movimiento. Incluyen la <font color="#fc300c">posición</font>, la <font color="#00ff00">velocidad</font> y la <font color="#2f82ff">energía</font>.
+> Estas son propiedades inherentes del universo que estudia la física clásica, que describen la relación de la partícula con su entorno y su estado de movimiento. Incluyen la <font color="#fc300c">posición</font>, la <font color="#00ff00">velocidad</font> y la <font color="#2f82ff">energía</font>.
 
 El Modelo Nouménico revela que estas cualidades no son arbitrarias, sino reflejos directos de la lógica algorítmica de las matrices unitarias subyacentes, y operan bajo la influencia de diferentes Hamiltonianos, lo que sugiere la existencia de "relojes internos" distintos para la partícula y la realidad fenomenológica que las contiene.
 
@@ -371,11 +365,10 @@ Para desvelar esta capa más profunda, reinterpretamos la <font color="#fc300c">
 > [!samael] <font color="#2f82ff">ENERGIA (E)</font>
 >  La <font color="#2f82ff">Energía (E)</font>, desde una perspectiva ondulatoria y cuántica (Nivel Base de Vibración), se describe por la relación de Planck-Einstein como:<center><span style="font-size: larger; letter-spacing: 2px; color:ffcc00; font-family: 'MJXTEX';">E=hf</span></center>
 >  
->  ​Aquí, <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">'h'</span> es la constante de Planck, el cuanto de acción que establece la unidad mínima de <font color="#2f82ff">energía</font> que puede ser intercambiada y <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">'f'</span> es la frecuencia de la onda. O en términos de longitud de onda, recordando que <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">'f=c/λ'</span>:
->  <center><span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">E=hc/λ</span></center>
+> Aquí, <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">'h'</span> es la constante de Planck, el cuanto de acción que establece la unidad mínima de <font color="#2f82ff">energía</font> que puede ser intercambiada y <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">'f'</span> es la frecuencia de la onda. O en términos de longitud de onda, recordando que <span style="font-size: larger; letter-spacing: 2px;color: #ffcc00; font-family: 'MJXTEX';">'f=c/λ'</span>:
+> <center><span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">E=hc/λ</span></center>
 >
->
->   Donde <span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">'h'</span> es la constante de Planck,  <span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">'c'</span> es la velocidad de la luz, y <span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">'λ'</span> es la longitud de onda. Esta fórmula nos indica que la energía de una onda es directamente proporcional a su frecuencia, lo que implica que las vibraciones más rápidas transportan más energía.  
+>Donde <span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">'h'</span> es la constante de Planck,  <span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">'c'</span> es la velocidad de la luz, y <span style="font-size: larger; letter-spacing: 2px; color: #2f82ff; font-family: 'MJXTEX';">'λ'</span> es la longitud de onda. Esta fórmula nos indica que la energía de una onda es directamente proporcional a su frecuencia, lo que implica que las vibraciones más rápidas transportan más energía.  
 
 ### La Revelación Nouménica
 
