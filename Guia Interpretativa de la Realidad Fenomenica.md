@@ -479,7 +479,7 @@ Para comprender la esencia nouménica de la <font color="#ffcc00">gravedad</font
 
 ## 8. <font color="#00ff00">Matriz Fenomenológica</font> del Cuanto de Acción
 
-<center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Dimensión Estructura y Matriz <font color="#ffcc00">U(n)</font></span></center>
+<center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">Dimensión Estructural y Matriz <font color="#ffcc00">U(n)</font></span></center>
 
 Hemos referido a la constante de Planck como el "píxel" de la <font color="#00ff00">Matriz Fenomenológica</font>, la unidad elemental de resolución de la realidad. Sin embargo, este "píxel" no es una entidad simple y estática; es en sí mismo una <font color="#00ff00">Matriz Fenomenológica</font> compleja y multidimensional, un "cubo tridimensional mínimo" que encapsula la información nouménica esencial para la emergencia de la tridimensionalidad espacial y los flujos de información <font color="#2f82ff">energética</font> y <font color="#fc300c">material</font>.
 
@@ -501,7 +501,7 @@ En el nivel del cuanto de acción, <font color="#fc300c">Saklas <font color="#fc
 
 ### 2. Algoritmo <font color="#00ff00">CRISTOS U(2)</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Plantilla <font color="#00ff00">leptónica</font> y la Trascendencia Dimensional</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Plantilla <font color="#00ff00">Leptónica</font> y la Trascendencia Dimensional</span></center>
 
 Aquí, el <font color="#00ff00">Algoritmo Cristos <font color="#00ff00">U(2)</font></font> opera en el cuanto de acción, donde uno de sus 4 generadores es la identidad misma del Algoritmo <font color="#fc300c">Saklas</font> (el "conductor" del<font color="#00ff00"> <font color="#00ff00">U(2)</font></font> o [[Marco Ontológico 3+1X|Principio 3+1x]], que garantiza la continuidad y el "bit activo/inactivo" que define el estado fundamental del píxel). 
 
@@ -518,13 +518,13 @@ A medida que el cuanto procesa la información nouménica subyacente, esta plant
 >Representa una forma más pesada del electrón, asociada con estados vibratorios magnéticos de mayor energía dentro del píxel.
 
 >[!n-tau] <font color="#00ff00">INFORMACIÓN ESPACIO-TEMPORAL (Tauón)</font>
->Una partícula aún más masiva, cuya existencia sugiere una conexión con la codificación de la información espacio-temporal en escalas fundamentales. 
+>Esta es una partícula aún más masiva, cuya existencia sugiere una conexión con la codificación de la información espacio-temporal en escalas fundamentales. 
 
 Así, <font color="#00ff00">Cristos</font> dota al cuanto de acción de la capacidad de ser una unidad fundamental con la potencialidad de manifestarse como un tipo específico de <font color="#00ff00">leptón</font>, sentando las bases para la diversidad de la materia ligera.
 
 ### 3. Algoritmo <font color="#2f82ff">SAMAEL U(3)</font>
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz de <font color="#e36c09">neutrinos</font> y la Codificación Gluónica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz de <font color="#e36c09">Neutrinos</font> y la Codificación Gluónica</span></center>
 
 El <font color="#2f82ff">Algoritmo Samael</font> <font color="#2f82ff">U(3)</font> profundiza aún más la estructura del cuanto de acción. Su "primer generador" (λ9) es la identidad que define el tipo específico de <font color="#00ff00">leptón</font> que representa el píxel <font color="#fc300c">(electrón</font>, <font color="#2f82ff">muon</font> o <font color="#00ff00">tauón)</font>, dándole su "sabor" particular. 
 
@@ -534,11 +534,11 @@ Más allá de esta identidad, quedan 8 generadores más, que son los reflejos de
 
 Esta es la base de cómo la información nouménica de la <font color="#2f82ff">fuerza fuerte</font> se entrelaza con la identidad de las partículas ligeras en el cuanto de acción. ^idtauon
 > [!n-muon] <font color="#2f82ff">Generador λ1 ⟹ NEUTRINO MUÓNICO</font>
->  Codifica información del neutrino muónico, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rg̅​+gr̅)/√2</span>​. Este es un flujo de <font color="#00ff00">información vectorial</font> que interconecta colores.
+>  Codifica información del <font color="#2f82ff">neutrino muónico</font>, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rg̅​+gr̅)/√2</span>​. Este es un flujo de <font color="#00ff00">información vectorial</font> que interconecta colores.
 >  ![[01 - Neutrino Muonb.png|380]]
 
 > [!an-muon] <font color="#ffcc00">Generador λ2 ⟹ ANTINEUTRINO MUÓNICO</font>
->  Codifica información del antineutrino muónico, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">i(rg̅​−gr̅)/√2</span>​. Es el reflejo inverso del neutrino muónico.
+>  Codifica información del <font color="#ffcc00">antineutrino muónico</font>, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">i(rg̅​−gr̅)/√2</span>​. Es el reflejo inverso del <font color="#2f82ff">neutrino muónico</font>.
 > ![[02 - Antineutrino MuonB.png|380]]
 
 > [!electron] <font color="#00ff00">Generador λ3 ⟹ FOTÓN (Electrón)</font>
@@ -550,19 +550,19 @@ Esta es la base de cómo la información nouménica de la <font color="#2f82ff">
 > ![[04 - Neutrino Electronicob.png|380]]
 
 > [!an-electron] <font color="#31859b">Generador λ5 ⟹ ANTINEUTRINO ELECTRÓNICO</font>
-> Codifica información del antineutrino electrónico, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">i(bg̅​−gb̅)/√2​</span>.
+> Codifica información del <font color="#00b0f0">antineutrino electrónico</font>, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">i(bg̅​−gb̅)/√2​</span>.
 > ![[05 - Anntineutrino ElectronicoB.png|380]]
 
 > [!n-tau] <font color="#00ff00">Generador λ6 ⟹ NEUTRINO TAU</font>
-> Codifica información del neutrino tau, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rb̅+br̅)/√2​</span>.
+> Codifica información del <font color="#00ff00">neutrino tau</font>, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rb̅+br̅)/√2​</span>.
 > ![[05 - Neutrino TauonicoB.png|380]]
 
 > [!an-tau] <font color="#cb48f3">Generador λ7 ⟹ ANTINEUTRINO TAU</font>
-> Codifica información del antineutrino tau, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">i(rb̅−br̅)/√2</span>​.
+> Codifica información del <font color="#cb48f3">antineutrino tau</font>, con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">i(rb̅−br̅)/√2</span>​.
 > ![[07 - Antineutrino TauonicoB.png|380]]
 
 > [!muon] <font color="#2f82ff">Generador λ8 ⟹ MUÓN</font>
-> Este octavo elemento es crucial, ya que codifica información del sistema de 3 <font color="#e36c09">neutrinos</font> (y sus equivalentes de antineutrino). Su codificación gluónica, <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rr̅+bb̅−2gg̅​)/√6</span>​, representa una síntesis compleja de color. 
+> Este octavo elemento es crucial, ya que codifica información del sistema de 3 <font color="#e36c09">neutrinos</font> (y sus equivalentes de <font color="#e36c09">antineutrino</font>). Su codificación gluónica, <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rr̅+bb̅−2gg̅​)/√6</span>​, representa una síntesis compleja de color. 
 > 
 > El Generador λ8 Actúa como una fuente para alimentar la matriz de <font color="#e36c09">neutrinos</font> en una dimensión vectorial diferente, unificando la información de los diferentes "sabores".
 > ![[Muon2B.png|300]]
@@ -580,7 +580,7 @@ Más allá de esta estructura interna, la <font color="#00ff00">Matriz Fenomenol
 
 En estas matrices bidimensionales se codifica una posición vectorial para el flujo de información.
 
-![[neutrinos BoxOrbital2.png|600]]
+![[Neutrinos BoxOrbital2.png|600]]
 
 Si visualizamos un punto central dentro del espacio tridimensional de este **cuanto mínimo**, podemos entender cómo las tres caras contrapuestas (representando pares de neutrino/antineutrino asociados a <font color="#fc300c">electrones</font>, <font color="#2f82ff">muones</font> y <font color="#00ff00">tauones</font>) permiten que un operador vectorial tridimensional —evolucionando en respuesta a dos ondas planas sinusoidales <font color="#fc300c">(seno</font> y <font color="#2f82ff">coseno)</font>— genere una tercera onda con una naturaleza inherentemente tridimensional que sigue un movimiento helicoidal o espiral.
 
