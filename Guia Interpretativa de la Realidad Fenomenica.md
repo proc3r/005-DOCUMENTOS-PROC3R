@@ -514,7 +514,7 @@ A medida que el cuanto procesa la información nouménica subyacente, esta plant
 > [!saklas] <font color="#fc300c">INFORMACIÓN ELECTRÓNICA (Electrón)</font>
 > El procesamiento de información que da lugar a la identidad fundamental de la carga eléctrica y la masa del electrón, el mediador de la <font color="#fc300c">interacción electromagnética</font>.
 
->[!samael] <font color="#2f82ff"><font color="#2f82ff">información magnética</font> (Muon)</font>
+>[!samael] <font color="#2f82ff"><font color="#2f82ff">INFORMACIÓN MAGNÉTICA</font> (Muón)</font>
 >Representa una forma más pesada del electrón, asociada con estados vibratorios magnéticos de mayor energía dentro del píxel.
 
 >[!n-tau] <font color="#00ff00">INFORMACIÓN ESPACIO-TEMPORAL (Tauón)</font>
@@ -542,7 +542,7 @@ Esta es la base de cómo la información nouménica de la <font color="#2f82ff">
 > ![[02 - Antineutrino MuonB.png|380]]
 
 > [!electron] <font color="#00ff00">Generador λ3 ⟹ FOTÓN (Electrón)</font>
-> Codifica información del <font color="#00ff00">fotón</font> (síntesis de color), con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rr̅−bb̅)/√2</span>​. Aquí vemos cómo la información de <font color="#2f82ff">Samael</font> contribuye a la manifestación del <font color="#00ff00">fotón</font> como una síntesis cromática.\
+> Codifica información del <font color="#00ff00">fotón</font> (síntesis de color), con una base gluónica de <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(rr̅−bb̅)/√2</span>​. Aquí vemos cómo la información de <font color="#2f82ff">Samael</font> contribuye a la manifestación del <font color="#00ff00">fotón</font> como una síntesis cromática.
 > ![[Foton PlanoB.png|250]]
 
 > [!n-electron] <font color="#fc300c">Generador  λ4 ⟹ NEUTRINO ELECTRÓNICO</font>

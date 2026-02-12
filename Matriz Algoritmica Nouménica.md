@@ -67,7 +67,7 @@ indexar: true
 > 
 > En el presente que experimentamos se corresponde directamente con el 5% de la Materia Ordinaria (el plano fenoménico), donde rigen las leyes de la causalidad lineal, las constantes físicas y los algoritmos genéticos y químicos. En el ámbito civilizatorio, se materializa a través de Egregores (Nación, Hegemón, Noemas) que imponen el orden social y económico. Este Algoritmo es, por naturaleza, la inercia que la consciencia debe confrontar y superar para iniciar el proceso de evolución.
 
-> [!onemuon] <font color="#2f82ff">EL SISTEMA ESTOCASTICO</font> (Antítesis)
+> [!onemuon] <font color="#2f82ff">EL SISTEMA ESTOCÁSTICO</font> (Antítesis)
 > Introduce la fuerza del Potencial y la Aleatoriedad. Su existencia es vital para evitar que el Determinismo de la Tesis colapse en un sistema estéril y estancado. Es la fuente de la aleatoriedad creativa que introduce la posibilidad de un nuevo output no predecible, actuando como el vector de la evolución. Es la manifestación del Libre Albedrío y la Consciencia Subjetiva. 
 > 
 > Su dominio se encuentra intrínsecamente ligado al Universo Oscuro (95%), el plano nouménico de la información fluida, la probabilidad no codificada y la intuición. El Sistema Estocástico no representa el caos desordenado, sino el poder manifestador que, mediante la elección consciente del avatar, introduce una perturbación que desvía el resultado probabilístico del Algoritmo. Es la variable esencial que permite la sincronización dinámica entre consciencias individuales y el salto cuántico en el desarrollo civilizatorio.
