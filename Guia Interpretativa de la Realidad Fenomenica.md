@@ -950,15 +950,15 @@ Su existencia no es el fin de la búsqueda de la <font color="#fc300c">masa</fon
 
 # 4. La Matríz Fenomenológica
 
-<center><center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;"></center>La Estructura Tridimensional y el Píxel Espacio-Temporal</span></center>
+<center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Estructura Tridimensional y el Píxel Espacio-Temporal</span></center>
 
 El Modelo Nouménico postula que la realidad fenomenológica no es un continuo homogéneo, sino una vasta matriz vectorial de <font color="#ffcc00">píxeles espacio-temporales</font> interconectados, donde cada píxel representa un cuanto de acción <span style="font-size: larger; color: #ffcc00; letter-spacing: 2px; font-family: 'MJXTEX';">(h)</span>. 
 
-Este píxel, que denominamos <font color="#ffcc00">Píxel ΣΤ</font>, no es una entidad simple, sino una matriz multidimensional compleja constituida por 3 subpixeles <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font>, que codifican las lógica de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#fc300c">(Saklas</font>, <font color="#00ff00">Cristos</font> y <font color="#2f82ff">Samael)</font> y sus respectivas simetrías <font color="#fc300c">(U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3))</font>, 
+Este píxel, que denominamos <font color="#ffcc00">Píxel Σ/Τ</font>, no es una entidad simple, sino una matriz multidimensional compleja constituida por 3 subpixeles <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font>, que codifican las lógica de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#fc300c">(Saklas</font>, <font color="#00ff00">Cristos</font> y <font color="#2f82ff">Samael)</font> y sus respectivas simetrías <font color="#fc300c">(U(1)</font>, <font color="#00ff00">SU(2)</font> y <font color="#2f82ff">SU(3))</font>, 
 
 La clave para desvelar la naturaleza oculta de la realidad reside en comprender cómo estas tres subdimensiones de los subpixeles <font color="#fc300c">(Ο)</font>, <font color="#2f82ff">(Υ)</font> y <font color="#00ff00">(Ι)</font> coexisten y se sincronizan dentro de esta unidad fundamental, al igual que los tres <font color="#cb48f3">quarks</font> coexisten en un <font color="#fc300c">protón</font> o <font color="#2f82ff">neutrón</font>.
 
-## 1. Unificación de los Algoritmos en el <font color="#ffcc00">Píxel ΣΤ</font>
+## 1. Unificación de los Algoritmos en el <font color="#ffcc00">Píxel Σ/Τ</font>
 
 <center><span style="font-size: 32px; font-style: italic; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed';  font-weight: 500; line-height: 1em;">La Coexistencia de <font color="#2f82ff">SU(3)</font>, <font color="#00ff00">SU(2)</font> y <font color="#fc300c">U(1)</font></span></center>
 
