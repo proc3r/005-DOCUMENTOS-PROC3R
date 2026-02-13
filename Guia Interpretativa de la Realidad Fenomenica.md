@@ -1107,13 +1107,11 @@ Para entender esto, recordamos las ecuaciones fundamentales que unen la <font co
 
 Al unir estas relaciones, establecemos la equivalencia fundamental desde la perspectiva de nuestro modelo:
 
-<center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#2f82ff">(Energía vibratoria) →</font> <font color="#ffcc00">h</font><font color="#00ff00">f</font>=<font color="#fc300c">m</font><font color="#ffcc00">c<sup>2</sup></font><font color="#fc300c"><font color="#fc300c">← (Masa fenoménica)</font></span> </font></center>
+<center><font color="#2f82ff">(Energía vibratoria) →</font> <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">h</font><font color="#00ff00">f</font>=<font color="#fc300c">m</font><font color="#ffcc00">c<sup>2</sup></font></span><font color="#fc300c">← (Masa fenoménica) </font></center>
 
 Ahora, si queremos ver cómo la velocidad de la luz <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font></span> emerge como un operador fundamental en este <font color="#ffcc00">Píxel Σ·Τ</font>, podemos manipular esta igualdad. Reemplazando <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#00ff00">f</font></span> por <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font>/<font color="#00ff00">λ</font></span>:
 
-<center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#00ff00">(Relación ondulatoria) →</font> <font color="#ffcc00">h</font><font color="#ffcc00">c</font>/<font color="#00ff00">λ</font>=<font color="#fc300c">m</font><font color="#ffcc00">c<sup>2</sup></font> <font color="#fc300c"><font color="#fc300c">← (Masa fenoménica)</font></span> </font></center>
-
-<center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"></span></center>
+<center><font color="#00ff00">(Relación ondulatoria) →</font> <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#00ff00">h</font><font color="#ffcc00">c</font>/<font color="#00ff00">λ</font>=<font color="#fc300c">m</font><font color="#ffcc00">c<sup>2</sup></font></span> <font color="#fc300c">← (Masa fenoménica) </font></center>
 
 Podemos observar que <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font></span> aparece en ambos lados. Si dividimos ambos lados por <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';"><font color="#ffcc00">c</font></span>, obtenemos la relación de De Broglie:
 
