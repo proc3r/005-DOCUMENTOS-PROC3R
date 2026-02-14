@@ -1,5 +1,5 @@
 ---
-soundtrack: QujRfiLk3oI
+soundtrack: FexuSrQcJqk
 indexar: true
 ---
 
@@ -18,6 +18,8 @@ La comprensión de esta arquitectura es fundamental para discernir la verdadera 
 
 En nuestra analogía, estos tres <font color="#2f82ff">Arquetipos Ontológicos</font> se reflejan codificados en los planetas exteriores de nuestro sistema solar: <font color="#00ff00">Urano</font>, <font color="#2f82ff">Neptuno</font> y <font color="#fc300c">Plutón</font>.
 
+![[Bases Realidad Fenomenica05.jpg]]
+
 Para facilitar la asociación con estos complejos algoritmos nouménicos, utilizaremos denominaciones específicas. 
 
 Es vital comprender que los nombres asignados a cada uno de los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">(Cristos</font>, <font color="#2f82ff">Samael</font> y <font color="#fc300c">Saklas)</font> no deben ser tomados como referencias a seres divinos o figuras antropomórficas, ni a conceptos teológicos tradicionales como Jesús, Satanás o el Anticristo. 
@@ -26,15 +28,20 @@ Son, en cambio, referencias simbólicas y arquetípicas de naturaleza nouménica
 
 Son <font color="#2f82ff">Algoritmos Ontológicos</font> cuya esencia se refleja en estas denominaciones para una comprensión más profunda dentro del Modelo Nouménico.
 
+![[Bases Realidad Fenomenica02.jpg]]
+
 En el corazón del <font color="#2f82ff">Nodo Estelar</font>, identificamos dos polos ontológicos fundamentales, cada uno representando un aspecto primigenio de la potencialidad universal. Estos polos, a su vez, no son entidades aisladas, sino complejos algorítmicos que interactúan para generar una síntesis superior.
 
 # 2. <font color="#2f82ff">Arquetipo Ontológico 2<sup>✱</sup> (Samael)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tejido del Orden Universal</span></center>
 
+![[Bases Realidad Fenomenica09.jpg]]
+
 Este Arquetipo primordial, que denominamos <font color="#2f82ff">Samael - Arquetipo Ontológico 2<sup>✱</sup></font>, se asocia con el color <font color="#2f82ff">Azul</font> y el símbolo de <span style="font-size: large; font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#2f82ff">Neptuno</font></span>. 
 
 ![[03 - Samael.jpg]]
+
 <center><span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Samael representa la esencia del orden universal y la inteligencia cósmica. </span></center>
 
 > - El color <font color="#2f82ff">azul</font> se usa aquí como una simbología que representa un aspecto fenomenológico fundamental, similar a cómo se usa en la ciencia para representar un componente específico dentro de una trinidad cromática, como en la síntesis aditiva de color para píxeles. 
@@ -189,9 +196,12 @@ Las cualidades de omnisciencia, trinidad y universalidad de <font color="#2f82ff
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Caos Ordenado y el Determinismo Local</span></center>
 
+![[Bases Realidad Fenomenica10.jpg]]
+
 En contraposición a la expansiva universalidad del algoritmo <font color="#2f82ff">Samael</font>, se erige el <font color="#fc300c">Arquetipo Ontológico 3<sup>✱</sup></font>, al que denominamos <font color="#fc300c">Saklas</font>. Este polo ontológico se asocia con el color <font color="#fc300c">Rojo</font> y el símbolo de <span style="font-size: large; font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">Plutón</font></span>.
 
 ![[Saklas 3.jpg]]
+
 <center><span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Saklas representa el origen de la potencialidad del caos, una fuerza inherentemente ligada a la manifestación concreta y a la construcción de las estructuras fenoménicas dentro de cada <font color="#2f82ff">Nodo Estelar</font>.</span></center>
 
 > - El color <font color="#fc300c">rojo</font> se utiliza aquí como una simbología que representa un aspecto fenomenológico fundamental opuesto al color <font color="#2f82ff">azul</font>, análogo a cómo se usa para identificar un componente esencial en un sistema tripartito. 
@@ -335,9 +345,12 @@ Aunque su mecanismo completo aún no es comprendido por la ciencia académica, s
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Síntesis Avatárica Primordial</span></center>
 
+![[Bases Realidad Fenomenica08.jpg]]
+
 La compleja interacción dialéctica entre el orden universal del <font color="#2f82ff">Arquetipo Ontológico 2<sup>✱</sup> (Samael)</font>, y la manifestación material del <font color="#fc300c">Arquetipo Ontológico 3<sup>✱</sup> (Saklas)</font>, converge en la síntesis del <font color="#00ff00">Arquetipo Ontológico 1<sup>✱</sup></font>, al que denominamos <font color="#00ff00">Cristos</font>.  Cristos se asocia con el color <font color="#00ff00">Verde</font> y el símbolo de <span style="font-size: large; font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#00ff00">Urano</font></span>.
 
 ![[Cristos.jpg]]
+
 <center><span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Cristos es el algoritmo sincronizador, una supraconsciencia que emerge del vacio total para integrar la lógica del caos <font color="#fc300c">Sáklico</font> y el orden <font color="#2f82ff">Samaeliano</font>, asegurando un equilibrio dinámico entre ambos.</span></center>
 
 > - El color <font color="#00ff00">verde</font> se utiliza aquí como una simbología que representa un tercer aspecto fenomenológico fundamental de la trinidad, que resultan de la integración de opuestos. 
