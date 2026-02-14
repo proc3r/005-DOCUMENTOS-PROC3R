@@ -827,7 +827,7 @@ Antes del Big Bang no había nada porque no había operador de reescritura que p
 
 ### 2. La Escala de Planck como Límite de Auto-Referencia
 
-La escala que impone la <font color="#ffcc00">Constante de Planck</font> <span style="font-size: larger; letter-spacing: 2px; color: #FFCC00; font-family: 'MJXTEX';">(h)</span> —<font color="#00ff00">Tiempo de Planck</font> <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(T<sub>P</sub>)</span>, <font color="#fc300c">Longitud de Planck </font><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(L<sub>P</sub>)</span> y <font color="#2f82ff">Energía de Planck</font> <span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(E<sub>P</sub>)</span>—, no es el tamaño mínimo del espacio, sino el límite de resolución del operador X global. Por debajo de esta escala, la auto-referencia del sistema se vuelve inestable: los marcos se solapan hasta el punto de perder identidad separable. 
+La escala que impone la <font color="#ffcc00">Constante de Planck</font> <span style="font-size: larger; letter-spacing: 2px; color: #FFCC00; font-family: 'MJXTEX';">(h)</span> —<font color="#00ff00">Tiempo de Planck</font>, <font color="#fc300c">Longitud de Planck</font> y <font color="#2f82ff">Energía de Planck</font>—, no es el tamaño mínimo del espacio, sino el límite de resolución del operador X global. Por debajo de esta escala, la auto-referencia del sistema se vuelve inestable: los marcos se solapan hasta el punto de perder identidad separable. 
 
 No es que no haya física allí; es que no hay marco desde el cual hacer física, porque los cuatro operadores X locales se funden en uno solo, y el principio 3+1X colapsa en un operador X puro.
 
@@ -1228,7 +1228,7 @@ Por lo tanto, los auténticos "guías" o "místicos" no son aquellos que operan 
 
 ## 4. El Yo Demiúrgico
 
-### 3. La Dualidad Heliosférica
+### 1. La Dualidad Heliosférica
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;"><font color="#fc300c">Consciencia Nodal</font> vs <font color="#00ff00">Consciencia Estelar</font></span></center>
 

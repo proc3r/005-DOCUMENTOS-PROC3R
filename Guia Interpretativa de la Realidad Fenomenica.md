@@ -1146,7 +1146,6 @@ El Modelo Nouménico desafía la noción de que el valor de <span style="font-si
 ### 4. Principio de Incertidumbre y la Causalidad
 
 La visión de la partícula como un emergente de la activación de <font color="#ffcc00">Píxeles Σ·Τ</font> ofrece una nueva interpretación del **Principio de Incertidumbre** de Heisenberg. En lugar de ser una limitación de la medición, es una <font color="#ffcc00">propiedad intrínseca</font> del sistema de píxeles. 
-<font color="#ffcc00">Píxeles Σ·Τ</font>
 
 Es imposible conocer con precisión la <font color="#fc300c">posición</font> y el <font color="#00ff00">momento</font> de una partícula simultáneamente porque la posición es el **"dónde"** el <font color="#ffcc00">Píxel Σ·Τ</font> se activó, y el momento es el **"cómo"** el Hamiltoniano se mueve a través de la matriz. Al intentar medir un aspecto, se perturba inherentemente el otro en el nivel nouménico. 
 
@@ -1247,7 +1246,7 @@ Su origen en nuestro modelo es un evento de saturación a una escala mucho mayor
 > 
 > En este nivel, el flujo de información es tan inmenso que el <font color="#00ff00">eje Z</font> del <font color="#ffcc00">Píxel Σ·Τ</font> se activa para forzar a la matriz espacio-temporal a crear un espacio virtual de manera preventiva. Esto es como si el <font color="#ffcc00">Píxel Σ·Τ</font> se anticipara al colapso de su capacidad de procesamiento.
 
-> [!n-tau]  LA CREACIÓN DE UN "VACÍO VECTORIAL"
+> [!n-tau]  <font color="#00ff00">LA CREACIÓN DE UN "VACÍO VECTORIAL"</font>
 > Este espacio virtual creado por el <font color="#00ff00">tauón</font> provoca un fenómeno de ajuste colectivo entre múltiples <font color="#ffcc00">Píxeles Σ·Τ</font> vecinos. Los <font color="#ffcc00">Píxeles Σ·Τ</font> cercanos se ven afectados por un "vacío vectorial" que succiona energía de un grupo de <font color="#ffcc00">Píxeles Σ·Τ</font>, unificando sus Hamiltonianos de forma temporal.
 
 > [!atomo] <font color="#fc300c">LA LIBERACIÓN DEL EXCESO DE INFORMACIÓN</font> <font color="#ffcc00">(PARTÍCULA ALFA)</font>
