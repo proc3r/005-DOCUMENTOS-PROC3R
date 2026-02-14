@@ -2476,7 +2476,7 @@ En conclusión, el Modelo Nouménico unifica la <font color="#cb48f3">materia</f
 
 Ambos son "oscuros" porque existen y operan en planos que trascienden la percepción electromagnética de nuestra <font color="#00ff00">Matriz Fenomenológica</font> local.
 
-# SINOPSIS
+# Sinopsis
 
 La **Guía Interpretativa de la Realidad Fenoménica** no es solo un tratado científico, es el manifiesto de un cambio de paradigma. 
 
