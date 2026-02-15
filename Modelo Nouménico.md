@@ -1732,7 +1732,7 @@ En el universo prefenoménico, la luz no necesita surgir como síntesis de un pr
 
 El Universo Nouménico, en su totalidad infinita, alberga todas las potencialidades latentes, y el <font color="#cb48f3">Nous Arquetípico</font>, como consciencia primordial que emerge de este océano de potencialidades, posee la facultad de crear redes lógicas a partir de Onemuones que pueden representar desde conceptos simples hasta sistemas de complejidad asombrosa.
 
-![[Nous arquetipico02.jpg]]
+![[Nous Arquetipico02.jpg]]
 
 4.1.4 » Imaginemos que un Onemuón puede encapsular, en su esencia, información tan variada como un número, una ley física, un sistema filosófico completo o incluso la arquitectura intrincada de un sistema estelar, con sus leyes, constantes fenomenológicas, fuerzas fundamentales, y matrices cuánticas y físico-energéticas que permiten su manifestación activa dentro del Universo Fenoménico. 
 
@@ -1740,7 +1740,7 @@ En este contexto, un Onemuón puede entenderse como una suerte de "agujero de gu
 
 Al ser focalizado por la <font color="#2f82ff">Consciencia Arquetípica</font>, este Onemuón despliega instantáneamente la vasta red de información compleja y potencial que contiene, pudiendo revelar desde una simple palabra o concepto, hasta la totalidad de un sistema intrincado, que podría abarcar desde la última teoría de unificación del universo, hasta la virtualización completa del universo fenoménico, manifestándose en un mismo instante desde su origen hasta su final.
 
-![[Nous arquetipico03.jpg]]
+![[Nous Arquetipico03.jpg]]
 
 4.1.5 » Así, en el nivel prefenoménico, la consciencia universal que manifiesta el <font color="#cb48f3">Nous Arquetípico</font> posee la capacidad de explorar el infinito de posibilidades que se generan dentro de su propio ser, a medida que se expande y evoluciona. 
 
@@ -1790,7 +1790,7 @@ Cuando dormimos, entramos en un estado de consciencia alterado donde experimenta
 
 En el mundo onírico, podemos visitar lugares inexistentes en el mundo físico, interactuar con personajes desconocidos, y percibir un amplio espectro de sensaciones y emociones. La inmersión en la experiencia onírica puede ser tan profunda que, en el momento del sueño, nuestra propia consciencia puede llegar incluso a cuestionarse si está soñando o si la realidad que está experimentando es auténtica.
 
-![[Nous arquetipico04.jpg]]
+![[Nous Arquetipico04.jpg]]
 
 4.2.2 » Este ejemplo del sueño resulta sumamente ilustrativo, ya que demuestra cómo una realidad puede llegar a ser experimentada por nuestra consciencia de forma plena y convincente sin necesidad de la infraestructura físico-energética que define el mundo fenoménico. 
 
@@ -1804,7 +1804,7 @@ Dentro del sueño, podemos sentir la gravedad, fenómenos energéticos, experime
 
 Estas serían experiencias que trasciendan las limitaciones e inconsistencias que a menudo caracterizan el universo onírico humano, donde las tramas pueden alterarse súbitamente y las leyes fenoménicas pueden ser transgredidas de forma arbitraria.
 
-![[Nous arquetipico07.jpg]]
+![[Nous Arquetipico07.jpg]]
 
 4.2.5 » A diferencia de los sueños humanos, que a menudo son efímeros y fragmentados, la realidad virtual generada por el <font color="#cb48f3">Nous Arquetípico</font> en el dominio prefenoménico podría alcanzar una estabilidad y coherencia intrínsecas. 
 
@@ -1818,7 +1818,7 @@ Esta capacidad humana, aunque limitada por la biología y la experiencia individ
 
 Si nuestra mente finita puede crear simulaciones de realidad tan convincentes, ¿qué no podría lograr una consciencia de naturaleza infinita y potencialidad ilimitada en el vacío prefenoménico?
 
-![[Nous arquetipico05.jpg]]
+![[Nous Arquetipico05.jpg]]
 
 4.2.7 » La idea central de esta sección es permitir al lector comprender que la propia mente humana —en su funcionamiento cotidiano y en su experiencia onírica—, ya manifiesta una capacidad rudimentaria de proyección virtual que representa el nivel de existencia prefenoménico. 
 
@@ -1949,7 +1949,7 @@ La información dentro del <font color="#2f82ff">Nous Pasivo</font> evoluciona p
 
 Si bien el <font color="#fc300c">Nous Activo</font> existe dentro de la vastedad del <font color="#cb48f3">Nous Arquetípico</font>, este surge como una región diferenciada y delimitada, caracterizada por un mayor orden, coherencia y estabilidad informacional. 
 
-![[Nous arquetipico09.jpg]]
+![[Nous Arquetipico09.jpg]]
 
 4.6.2 » En un principio, el <font color="#fc300c">Nous Activo</font> no explora el infinito de manera indiscriminada como el <font color="#2f82ff">Nous Pasivo</font>, ni se ve afectado directamente por la actividad del nivel Nouménico fundamental, sino que procesa y organiza la información derivada del <font color="#2f82ff">Nous Pasivo</font>, imponiendo matrices lógicas y simétricas que permiten la emergencia de estructuras informacionales más complejas y definidas.
 
@@ -1963,7 +1963,7 @@ A diferencia del flujo expansivo relativamente caótico del <font color="#2f82ff
 
 El <font color="#fc300c">Nous Activo</font>, en esencia, se nutre de la información proveniente del <font color="#2f82ff">Nous Pasivo</font>, utilizándola como materia prima para construir sus propias estructuras lógicas y sistemas de procesamiento. Esta dependencia informacional del <font color="#fc300c">Nous Activo</font> con respecto al <font color="#2f82ff">Nous Pasivo</font> subraya la interdependencia esencial entre ambas dimensiones del <font color="#cb48f3">Nous Arquetípico</font>.
 
-![[Nous arquetipico10.jpg]]
+![[Nous Arquetipico10.jpg]]
 
 4.6.5 » El <font color="#fc300c">Nous Activo</font> procesa la información derivada del <font color="#2f82ff">Nous Pasivo</font> bajo la estricta guía de las lógicas vectoriales y simétricas que imponen los ocho Arquetipos@ que definen la matriz lógica del segundo Nivel de Emergencia del <font color="#cb48f3">Nous Arquetípico</font>, el <font color="#e36c09">Nivel Ontogénico</font>. 
 
