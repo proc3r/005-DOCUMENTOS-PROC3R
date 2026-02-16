@@ -147,8 +147,7 @@ height: 360
 
 ## La Cosecha de la Consciencia
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;   
- font-weight: 500; line-height: 1em;">La Conexión entre lo Subjetivo y lo Universal</span></center>
+<center><span style="<center><center>font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight:</center></center> 500; line-height: 1em;">La Conexión entre lo Subjetivo y lo Universal</span></center>
 
 0.5.1 » Para comprender el concepto de «Granja de Consciencias» desde la perspectiva que propone el Modelo Nouménico, y para evitar contemplarlo bajo la perspectiva de una «distopía», es necesario analizar cómo una civilización más avanzada evaluaría el estado evolutivo de un sistema estelar.
 
