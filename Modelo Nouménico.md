@@ -1892,7 +1892,7 @@ El <font color="#2f82ff">Nous Pasivo</font> y el <font color="#fc300c">Nous Acti
 
 Visualizar el <font color="#cb48f3">Nous Arquetípico</font> como una unidad indivisible, pero que se expresa a través de esta dualidad dinámica, es clave para comprender su naturaleza paradójica y su papel fundamental en la emergencia de la consciencia y la realidad.
 
-![[Noema Plano.jpg]]
+![[Nous Arquetipico.jpg]]
 
 4.4.3 » En las siguientes secciones, exploraremos en detalle cada una de estas dimensiones, analizando sus características distintivas, sus funciones específicas y su relación dinámica dentro del <font color="#cb48f3">Nous Arquetípico</font>. 
 
@@ -2477,13 +2477,13 @@ Cada imagen fractal representa una línea alternativa, un "universo" potencial d
 
 6.1.1 » Con todos los conceptos que hemos definidos hasta ahora, podemos establecer las bases desde donde se origina la información dentro del Modelo Nouménico:
 
-> [!saklas] 1 - NOÚMENO (Universo infinito) - Potencialidad
+> [!saklas] <font color="#fc300c">1 - NOÚMENO (Universo infinito) - Potencialidad</font>
 > La totalidad potencial del infinito, el océano de todas las posibilidades donde la información se activa y desactiva espontáneamente, sin lógica ni coherencia específica.
 
-> [!onemuon] <font color="#2f82ff">2 - ONEMUÓN (Quantum de información)</font> - <font color="#2f82ff">Consciencia Universal</font>
+> [!onemuon] <font color="#2f82ff">2 - ONEMUÓN (Quantum de información) - Consciencia Universal</font>
 > Una unidad de existencia básica que actúa como quantum de información dentro de la totalidad que constituye el <font color="#2f82ff">Nous Pasivo</font>, que refleja una potencialidad pura y específica dentro del <font color="#2f82ff">Nivel Ontológico</font>, y que puede participar de las redes lógicas algorítmicas que surgen en los siguientes niveles de emergencia del Nous, según la codificación que realizan los Tres <font color="#2f82ff">Arquetipos Ontológicos</font>.
 
-> [!espin] <font color="#00ff00">3 - QUBIT@ (Átomo de información)</font> - <font color="#00ff00">Consciencia Estelar</font>
+> [!espin] <font color="#00ff00">3 - QUBIT@ (Átomo de información) - Consciencia Estelar</font>
 > El átomo de información del <font color="#fc300c">Nous Activo</font> que alimenta al <font color="#e36c09">Nivel Ontogénico</font>, análogo al Qubit cuántico, compuesto por ocho Arquetipos interconectados, que tienen la capacidad de procesar información y generar redes lógicas con otras entidades que emergen dentro de los distintos planos existenciales, y que se reflejan dentro del universo Nouménico como un Onemuón singular.
 
 6.1.2 » Esta base trinitaria de información representa los tres niveles fundamentales de existencia del nivel prefenoménico que contempla el Modelo Nouménico. El <font color="#00ff00">Noúmeno</font> contiene la potencialidad infinita, el <font color="#2f82ff">Nous Pasivo</font> contiene los <font color="#fc300c">Onemuones</font> que representa las unidades mínimas de esa potencialidad, y los <font color="#2f82ff">Qubits@</font> son las primeras estructuras organizadas que surgen dentro del <font color="#fc300c">Nous Activo</font>, que pueden procesar la información que reflejan los Onemuones para crear redes algoritmicas interrelacionadas, produciendo la expansión del Nous y alimentando de información a los distintos niveles de existencia.
