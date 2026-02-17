@@ -106,11 +106,11 @@ Dentro de la arquitectura fractal del Modelo Nouménico, el universo fenoménico
 
 El sistema solar, con su intrincada dinámica y la disposición precisa de sus cuerpos celestes, no es una excepción a esta regla fundamental. Debe ser comprendido como un nodo específico y de alta complejidad dentro de la vasta red del <font color="#fc300c">Nous Activo</font>, un nivel de iteración donde la información nouménica esencial, codificada en los arquetipos del <font color="#2f82ff">Qubit@</font>, se manifiesta de manera concreta en las entidades físicas y energéticas que lo componen.
 
-# <font color="#ffcc00">2. Soplaris</font>
+# <font color="#ffcc00">2. Sοplάris</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Heliósfera como Qubit Estelar</span></center>
 
-La Heliósfera, la región del espacio dominada por el viento solar y el campo magnético del Sol, constituye, en la perspectiva del Modelo Nouménico, un poderoso <font color="#fc300c">Qubit Estelar</font> codificado bajo el nombre <font color="#ffcc00">Soplaris</font>. 
+La Heliósfera, la región del espacio dominada por el viento solar y el campo magnético del Sol, constituye, en la perspectiva del Modelo Nouménico, un poderoso <font color="#fc300c">Qubit Estelar</font> codificado bajo el nombre <font color="#ffcc00">Sοplάris</font>. 
 
 Este dominio no es simplemente un vacío salpicado de planetas, representa una <font color="#00ff00">Matriz Fenomenológica</font> activa, un campo estructurado del <font color="#fc300c">Nous</font> donde se establecen condiciones y simetrías particulares para la manifestación de la información arquetípica. 
 
@@ -673,7 +673,7 @@ En este nivel entran en juego múltiples factores: los diversos noemas culturale
 
 Desde el comienzo del Siglo XXI, también influyen de manera masiva las redes sociales y las figuras públicas o millonarios que participan del mundo tecnológico, agregando un nivel de complejidad aún mayor al sistema global. Esta densa red de interacciones y conflictos eleva la tensión del sistema planetario y de las naciones. 
 
-La falta de un<span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"> espíritu planetario unificado</span>—bajo un único sistema Civilizatorio que deje atrás las diferencias culturales, religiosas e ideológicas— impide que el Nodo Estelar <font color="#ffcc00">Soplaris</font> — donde existe el sistema <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra Luna</span> <font color="#00ff00">(5'Andros)</font>— pueda alcanzar el estado evolutivo necesario para dejar atás su etapa fenomenológica y comenzar a operar dentro de un nuevo plano del nivel <font color="#2f82ff">Universal</font>.
+La falta de un<span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"> espíritu planetario unificado</span>—bajo un único sistema Civilizatorio que deje atrás las diferencias culturales, religiosas e ideológicas— impide que el Nodo Estelar <font color="#ffcc00">Sοplάris</font> — donde existe el sistema <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Tierra Luna</span> <font color="#00ff00">(5'Andros)</font>— pueda alcanzar el estado evolutivo necesario para dejar atás su etapa fenomenológica y comenzar a operar dentro de un nuevo plano del nivel <font color="#2f82ff">Universal</font>.
 
 Es en esta dimensión <font color="#e36c09">Civilizatoria</font> donde se produce el **producto emergente final** del proceso evolutivo del Nodo Estelar, a partir de la información nouménica ascendente generada por el sistema operativo de la mente humana —sincronizada bajo un único sistema operativo desde el inicio de la era antropocénica—.
 
@@ -766,7 +766,7 @@ Sin embargo, dentro de este sistema intrincado de fuerzas que constituyen el <sp
 
 Esta interconexión hace que el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">espíritu de 5’Andros</span> sea una entidad supraconsciente de naturaleza colectiva que unifica al planeta Tierra y la Luna, dando como resultado un flujo nouménico ascendente que se sincroniza directamente con la <font color="#00ff00">Consciencia Estelar</font> misma, que permite conectar el nivel planetario y avatárico con la matriz de información nouménica superior del Nodo Estelar.
 
-## <font color="#00ff00">8 - Nodo Estelar (Soplaris)</font>
+## <font color="#00ff00">8 - Nodo Estelar (Sοplάris)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Universo Algorítmico y la Condensación Planetaria</span></center>
 
@@ -796,7 +796,7 @@ Aquí, el espíritu del Nodo Estelar se divide en dos aspectos principales, cada
 > 
 >  Estos dos aspectos de la <font color="#00ff00">Consciencia Estelar</font> se unifican en la frontera de la <font color="#00ff00">Matriz Fenomenológica</font> del Nodo Estelar, abarcando la totalidad del sistema y conectando el <font color="#2f82ff">microcosmos</font> humano con el <font color="#fc300c">macrocosmos</font> universal.
 
-Dentro del Modelo Nouménico, el Sistema Solar en su totalidad (Matriz Fenomenológica Heliosférica, Sol, Planetas y demás cuerpos celestes), es denominado <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#ffcc00">Soplaris</font></span>. Este nombre representa a un Nodo Estelar, una identidad de nivel superior al Sistema Solar (identidad fenoménica), que representa una identidad <font color="#2f82ff">nouménica</font> de nivel galáctico superior a una simple estrella. 
+Dentro del Modelo Nouménico, el Sistema Solar en su totalidad (Matriz Fenomenológica Heliosférica, Sol, Planetas y demás cuerpos celestes), es denominado <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#ffcc00">Sοplάris</font></span>. Este nombre representa a un Nodo Estelar, una identidad de nivel superior al Sistema Solar (identidad fenoménica), que representa una identidad <font color="#2f82ff">nouménica</font> de nivel galáctico superior a una simple estrella. 
 
 Su nombre mismo permite reflejar la naturaleza filosófica trinitaria del nodo estelar donde surge la <font color="#ffa3ef">Consciencia Avatárica</font> humana, ya que asocia a los tres filósofos griegos más reconocidos de la historia occidental: Sócrates, Platón y Aristóteles, simbolizando una profunda interconexión entre la <font color="#2f82ff">razón</font>, la <font color="#00ff00">dialéctica</font> y la <font color="#fc300c">forma</font> en la búsqueda de la verdad universal.
 
@@ -804,7 +804,7 @@ Su nombre mismo permite reflejar la naturaleza filosófica trinitaria del nodo e
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Expansión Infinita y la Consciencia Primordial</span></center>
 
-Esta dimensión es la más abarcadora, incluyendo al Nodo Estelar <font color="#ffcc00">Soplaris</font> pero extendiéndose mucho más allá, a través de todo el universo conocido y desconocido. Es en esta vastedad donde nuevas dimensiones surgirán para generar distintos grupos estelares o entidades de nivel aún mayor. 
+Esta dimensión es la más abarcadora, incluyendo al Nodo Estelar <font color="#ffcc00">Sοplάris</font> pero extendiéndose mucho más allá, a través de todo el universo conocido y desconocido. Es en esta vastedad donde nuevas dimensiones surgirán para generar distintos grupos estelares o entidades de nivel aún mayor. 
 
 Estas realidades operan usando sistemas operativos o lógicas supraconscientes que funcionan más allá de las lógicas que representan las supraconsciencias de nivel solar, creando múltiples realidades que superan la comprensión humana actual. 
 
@@ -942,11 +942,11 @@ La capacidad de cada dimensión para prosperar sin sofocar a sus adyacentes es u
 
 # Sinopsis
 
-### Soplaris - El Sistema Operativo Estelar
+### Sοplάris - El Sistema Operativo Estelar
 
 **¿Qué es la realidad si la despojamos de su máscara material?**
 
-"Soplaris" propone una ruptura radical con la visión tradicional del cosmos. En esta obra, el universo no es un vacío silente regido por fuerzas ciegas, sino una intrincada red de información: un Sistema Operativo Estelar. 
+"Sοplάris" propone una ruptura radical con la visión tradicional del cosmos. En esta obra, el universo no es un vacío silente regido por fuerzas ciegas, sino una intrincada red de información: un Sistema Operativo Estelar. 
 
 A través del **Modelo Nouménico**, el autor nos invita a ver el sistema solar como un "Qubit Estelar", donde cada planeta actúa como un nodo algorítmico que procesa los arquetipos fundamentales de la existencia.
 
@@ -962,12 +962,12 @@ Esta nueva cosmovisión no solo ofrece una explicación técnica y filosófica d
 > - **Entender los conflictos globales** como una batalla de "Noemas" o sistemas de creencias que deben ser integrados.
 > - **Participar activamente** en el proceso de optimización de la consciencia, superando las limitaciones de los dogmas antiguos para abrazar una identidad planetaria y estelar.
 
-"Soplaris" es una hoja de ruta para el <font color="#ffa3ef">Avatar</font> moderno que busca descifrar el lenguaje del Nodo Estelar y prepararse para el juicio evolutivo de nuestra era. Es, en última instancia, una invitación a dejar de ser observadores pasivos y convertirse en programadores conscientes de la realidad.
+"Sοplάris" es una hoja de ruta para el <font color="#ffa3ef">Avatar</font> moderno que busca descifrar el lenguaje del Nodo Estelar y prepararse para el juicio evolutivo de nuestra era. Es, en última instancia, una invitación a dejar de ser observadores pasivos y convertirse en programadores conscientes de la realidad.
 
-### Análisis de Temas Principales en "Soplaris"
+### Análisis de Temas Principales en "Sοplάris"
 
 > 1. <font color="#fc300c">El Modelo Nouménico:</font> La realidad no es solo materia, sino un sistema algorítmico de información y significado. El universo funciona como un "procesador" donde lo nouménico (lo que subyace) da forma a lo fenomenológico (lo que percibimos).
-> 2. <font color="#e36c09">El Sistema Operativo Estelar</font><font color="#ffcc00"> (Soplaris):</font> El sistema solar es redefinido como un "Qubit Estelar". El Sol y los planetas no son masas inertes, sino nodos de procesamiento (capacitores cósmicos) que codifican arquetipos específicos (Noesis, Logos, Fuerza Vital, etc.).
+> 2. <font color="#e36c09">El Sistema Operativo Estelar</font><font color="#ffcc00"> (Sοplάris):</font> El sistema solar es redefinido como un "Qubit Estelar". El Sol y los planetas no son masas inertes, sino nodos de procesamiento (capacitores cósmicos) que codifican arquetipos específicos (Noesis, Logos, Fuerza Vital, etc.).
 > 3. <font color="#ffcc00">La Arquitectura de la Consciencia:</font> Se presenta una estructura en tres niveles:
 >     - <font color="#2f82ff">Ontológico</font> <font color="#2f82ff">(Consciencia Universal)</font>: La esencia primordial y fractal.
 >     - <font color="#e36c09">Ontogénico</font> <font color="#00ff00">(Consciencia Estelar)</font>: Las Supraconsciencias y algoritmos que operan el Nodo Estelar.

@@ -57,7 +57,7 @@ La entidad supraconsciente asociada al Nivel de Iteración 0 es el <font color="
 
 El <font color="#fc300c">Djinn Padre</font> es la consciencia unificadora del <font color="#2f82ff">Nodo Estelar</font>, la inteligencia primordial que procesa y gestiona los flujos de información nouménica que dan forma a todo el sistema. 
 
-En nuestro caso, la Instancia _Ejemplo_ de este Djinn es <font color="#ffcc00">Soplaris</font>, el nombre que unifica la consciencia de nuestro propio <font color="#2f82ff">Nodo Estelar</font>. 
+En nuestro caso, la Instancia _Ejemplo_ de este Djinn es <font color="#ffcc00">Sοplάris</font>, el nombre que unifica la consciencia de nuestro propio <font color="#2f82ff">Nodo Estelar</font>. 
 
 El Ámbito de Influencia del <font color="#fc300c">Djinn Padre</font> y del <font color="#fc300c">Qubit Estelar</font> es, por definición, el <font color="#2f82ff">Nodo Estelar</font> completo, representando el microcosmos autocontenido que abarca una estrella y todos sus cuerpos celestes.
 
