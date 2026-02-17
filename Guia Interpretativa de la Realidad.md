@@ -5,7 +5,7 @@ indexar: true
 
 ![[Cuanto Minimo de Accion.jpg]]
 ![[Guia Interpretativa de la Realidad.mp3]]
-# INTRODUCCIÓN
+# Introducción
 
 La búsqueda de una comprensión unificada de la existencia ha sido una constante en la historia de la humanidad, navegando entre los dominios de la filosofía, la espiritualidad y la ciencia. A menudo, estos senderos han divergido, creando compartimentos estancos en nuestra percepción de la realidad. 
 
