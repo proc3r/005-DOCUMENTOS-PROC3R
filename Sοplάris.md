@@ -8,7 +8,7 @@ indexar: true
 # Introducción
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Sistema Operativo Estelar</span></center>
- a
+
 Este proyecto se adentra en un esfuerzo ambicioso por desvelar una comprensión profunda de la realidad, y cómo esta se manifiesta a través de interacciones intrincadas y subyacentes. 
 
 Nuestra tesis postula que ciertas entidades fundamentales, que denominamos Supraconsciencias, operan como nodos algorítmicos de información y significado. 
