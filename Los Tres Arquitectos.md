@@ -375,11 +375,11 @@ Para comprender cómo esta síntesis, entre lo nouménico y lo fenoménico ocurr
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">SÍNTESIS AVATÁRICA</span></center>
 
 >[!ontologico] <font color="#fc300c">1 - GAMETOS</font>
->Dos gametos “óvulo y espermatozoide”, entidades biológicas básicas codificadas con información algorítmica de naturaleza nouménica “el código genético”, son generados dentro de los organismos de dos seres humanos de sexos opuestos, que a través del acto de reproducción sexual se sincronizan.
+> Dos gametos “óvulo y espermatozoide”, entidades biológicas básicas codificadas con información algorítmica de naturaleza nouménica “el código genético”, son generados dentro de los organismos de dos seres humanos de sexos opuestos, que a través del acto de reproducción sexual se sincronizan.
 >
 
 >[!ontogenico] <font color="#e36c09">2 - FECUNDACIÓN </font>
->Al unificarse los gametos “fecundación”, se da origen a una entidad fenoménica <font color="#fc300c">Hardware</font> de mayor complejidad: el cigoto. Este, a su vez, hace uso del código genético almacenado en sus dos cadenas de ADN complementarias <font color="#2f82ff">Software</font>, que inicializa y guía el proceso evolutivo.
+> Al unificarse los gametos “fecundación”, se da origen a una entidad fenoménica <font color="#fc300c">Hardware</font> de mayor complejidad: el cigoto. Este, a su vez, hace uso del código genético almacenado en sus dos cadenas de ADN complementarias <font color="#2f82ff">Software</font>, que inicializa y guía el proceso evolutivo.
 >
 
 > [!avatarico]  <font color="#ffcc00">3 - DESARROLLO </font>
@@ -389,7 +389,7 @@ Para comprender cómo esta síntesis, entre lo nouménico y lo fenoménico ocurr
 > Este organismo no es un fin en sí mismo, sino una interfaz fenoménica perfecta, que encontrará en las estructuras cerebrales un nuevo hardware especializado, ideal para generar redes neuronales algorítmicas de naturaleza biológica, con capacidad de almacenar información nouménica abstracta y simbólica, y que servirá para que las supraconsciencias interactúen con la realidad manifestada.
 
 >[!onemuon] <font color="#2f82ff">5 - CONSCIENCIA SUBJETIVA</font>
->A su vez, el código genético con su doble rol, por un lado como almacén de información que permite codificar aspectos fenoménicos a través de los genes, también sirve como un sistema dinámico de información que conecta la experiencia avatárica con el plano nouménico, donde los algoritmos supraconscientes se despliegan para dar lugar a la <font color="#ffcc00">Consciencia Subjetiva</font> <font color="#ffa3ef">Avatárica</font>.
+> A su vez, el código genético con su doble rol, por un lado como almacén de información que permite codificar aspectos fenoménicos a través de los genes, también sirve como un sistema dinámico de información que conecta la experiencia avatárica con el plano nouménico, donde los algoritmos supraconscientes se despliegan para dar lugar a la <font color="#ffcc00">Consciencia Subjetiva</font> <font color="#ffa3ef">Avatárica</font>.
 
 > [!gemini] <font color="#cb48f3">6 - EGREGORES</font>
 > Esta consciencia avatárica, a su vez, es continuamente modelada y condicionada por los aspectos nouménicos de nivel civilizatorio, donde se construye la vasta red de información, conocimientos y significados generados por la interacción humana, lo que le permite a cada <font color="#ffa3ef">Avatar</font> alcanzar una <font color="#ffcc00">Consciencia Subjetiva</font> plenamente desarrollada, que a su vez retroalimenta los niveles supraconscientes.
