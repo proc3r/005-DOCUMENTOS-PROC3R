@@ -26,6 +26,8 @@ height: 360
 
 0.0.1 » Si una civilización es un conjunto de seres conscientes, su evolución no puede ser medida solo por los logros de su hardware. ¿De qué sirve tener un motor que nos lleve a otra galaxia si la tripulación se destruye a sí misma por conflictos internos?
 
+
+
 0.0.2 » Este documento propone una perspectiva radicalmente diferente, una que no teme adentrarse en la metafísica para encontrar la verdad. Abordaremos la existencia desde el prisma del Modelo Nouménico, que postula que la realidad que experimenta el ser humano (el mundo de los objetos físicos, el espacio, el tiempo y las partículas) es la manifestación de una realidad más profunda y fundamental, una red de información que subyace a todo lo que es.
 
 0.0.3 » Para entender este modelo, debemos hacer una pausa y desligarnos temporalmente del paradigma científico mecanicista. El Modelo Nouménico nos invita a explorar una nueva cosmovisión donde la realidad no es un universo tridimensional con un principio explosivo (el Big Bang), que funciona en base a una serie de leyes físicas inalterables. Este modelo en cambio, concibe el cosmos como un vasto multiverso virtual holográfico, donde la materia y la energía son solo una parte (el 5%) de una matriz de datos mucho más grande.
