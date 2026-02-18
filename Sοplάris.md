@@ -943,11 +943,9 @@ La capacidad de cada dimensión para prosperar sin sofocar a sus adyacentes es u
 
 # Sinopsis
 
-### Sοplάris - El Sistema Operativo Estelar
-
 **¿Qué es la realidad si la despojamos de su máscara material?**
 
-"Sοplάris" propone una ruptura radical con la visión tradicional del cosmos. En esta obra, el universo no es un vacío silente regido por fuerzas ciegas, sino una intrincada red de información: un Sistema Operativo Estelar. 
+Sοplάris propone una ruptura radical con la visión tradicional del cosmos. En esta obra, el universo no es un vacío silente regido por fuerzas ciegas, sino una intrincada red de información: un Sistema Operativo Estelar. 
 
 A través del **Modelo Nouménico**, el autor nos invita a ver el sistema solar como un "Qubit Estelar", donde cada planeta actúa como un nodo algorítmico que procesa los arquetipos fundamentales de la existencia.
 
@@ -963,9 +961,9 @@ Esta nueva cosmovisión no solo ofrece una explicación técnica y filosófica d
 > - **Entender los conflictos globales** como una batalla de "Noemas" o sistemas de creencias que deben ser integrados.
 > - **Participar activamente** en el proceso de optimización de la consciencia, superando las limitaciones de los dogmas antiguos para abrazar una identidad planetaria y estelar.
 
-"Sοplάris" es una hoja de ruta para el <font color="#ffa3ef">Avatar</font> moderno que busca descifrar el lenguaje del Nodo Estelar y prepararse para el juicio evolutivo de nuestra era. Es, en última instancia, una invitación a dejar de ser observadores pasivos y convertirse en programadores conscientes de la realidad.
+Sοplάris es una hoja de ruta para el <font color="#ffa3ef">Avatar</font> moderno que busca descifrar el lenguaje del Nodo Estelar y prepararse para el juicio evolutivo de nuestra era. Es, en última instancia, una invitación a dejar de ser observadores pasivos y convertirse en programadores conscientes de la realidad.
 
-### Análisis de Temas Principales en "Sοplάris"
+### Análisis de Temas Principales en Sοplάris
 
 > 1. <font color="#fc300c">El Modelo Nouménico:</font> La realidad no es solo materia, sino un sistema algorítmico de información y significado. El universo funciona como un "procesador" donde lo nouménico (lo que subyace) da forma a lo fenomenológico (lo que percibimos).
 > 2. <font color="#e36c09">El Sistema Operativo Estelar</font><font color="#ffcc00"> (Sοplάris):</font> El sistema solar es redefinido como un "Qubit Estelar". El Sol y los planetas no son masas inertes, sino nodos de procesamiento (capacitores cósmicos) que codifican arquetipos específicos (Noesis, Logos, Fuerza Vital, etc.).
