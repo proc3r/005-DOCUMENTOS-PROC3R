@@ -380,17 +380,17 @@ height: 360
 1.3.12 » En este nivel se desarrolla un <font color="#fc300c">Sistema de Élites</font>, donde emergerá un líder para defender y guiar al grupo. El líder emergente puede ser de tres tipos fundamentales:
 
 >[!coercion] <font color="#fc300c">LÍDER GUERRERO</font>
->Su acceso al poder se logra a través de la violencia y el sometimiento físico. 
+> Su acceso al poder se logra a través de la violencia y el sometimiento físico. 
 >
 >Sus habilidades en batalla y su historial de victorias previas le permiten asegurar la defensa militar y territorial del grupo. Representa los arquetipos del Guerrero, el Rebelde o el Héroe.
 
 >[!moon] <font color="#2f82ff">LÍDER RELIGIOSO</font>
->Su acceso al poder se logra a través de la palabra y el sometimiento a un poder divino. 
+> Su acceso al poder se logra a través de la palabra y el sometimiento a un poder divino. 
 >
 >Sus habilidades para conectar con lo trascendente y ofrecer respuestas sobre la existencia le otorgan al grupo un sentido de propósito espiritual y pertenencia identitaria. Representa los arquetipos del Mago, el Cuidador o el Sabio.
 
 >[!manipulacion] <font color="#00ff00">LÍDER POLÍTICO</font>
->Su acceso al poder se logra a través de la manipulación retórica y el sometimiento ideológico. 
+> Su acceso al poder se logra a través de la manipulación retórica y el sometimiento ideológico. 
 >
 >Su habilidad para centrar la atención de sus seguidores en uno o más enemigos comunes le permite establecer su autoridad y administrar una organización social y la gobernanza colectiva. Representa los arquetipos del Rey, el Amante o el Gobernante.
 
