@@ -68,7 +68,7 @@ indexar: true
 
 0.2.3 » El Modelo Nouménico, a través del concepto del Noúmeno, nos invita a reimaginar las conexiones arquetípicas que subyacen a campos del saber aparentemente dispares como la ciencia, la religión, la mitología, la filosofía y la consciencia humana. 
 
-0.2.4 » Nos propone una visión donde estas disciplinas no son compartimentos estancos, rivales o contradictorios, sino facetas diferentes, perspectivas complementarias de una misma Realidad Primordial.
+Nos propone una visión donde estas disciplinas no son compartimentos estancos, rivales o contradictorios, sino facetas diferentes, perspectivas complementarias de una misma Realidad Primordial.
 
 0.2.5 » Consideremos, por ejemplo, la resonancia profunda entre el Noúmeno y el concepto de la Deidad Suprema en las diversas tradiciones religiosas del mundo. Ya sea que hablemos del Dios único de las religiones monoteístas, o del panteón de deidades en las religiones politeístas, siempre encontramos, en el núcleo de la creencia religiosa, la idea de una realidad última, trascendente, incondicionada, que precede y fundamenta toda la existencia. 
 
