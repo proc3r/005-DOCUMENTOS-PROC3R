@@ -943,7 +943,7 @@ La capacidad de cada dimensión para prosperar sin sofocar a sus adyacentes es u
 
 # Sinopsis
 
-**¿Qué es la realidad si la despojamos de su máscara material?**
+###  ¿Qué es la realidad si la despojamos de su máscara material?
 
 Sοplάris propone una ruptura radical con la visión tradicional del cosmos. En esta obra, el universo no es un vacío silente regido por fuerzas ciegas, sino una intrincada red de información: un Sistema Operativo Estelar. 
 
@@ -953,7 +953,7 @@ El lector descubrirá la naturaleza de **5'Andros**, el sistema dual Tierra/Lun
 
 La obra detalla los cinco planos del "Software" que rigen nuestra vida —desde lo cuántico hasta lo espiritual— y revela cómo la **sincronicidad** actúa como el código fuente que intenta guiarnos hacia nuestro siguiente salto evolutivo.
 
-**¿Por qué leer este libro?**
+###  ¿Por qué leer este libro?
 
 Esta nueva cosmovisión no solo ofrece una explicación técnica y filosófica de la existencia, sino que proporciona una herramienta práctica para entender la realidad actual. Ayuda al lector a:
 

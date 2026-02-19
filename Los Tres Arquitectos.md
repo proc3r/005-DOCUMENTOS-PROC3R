@@ -42,7 +42,7 @@ Este Arquetipo primordial, que denominamos <font color="#2f82ff">Samael - Arquet
 
 ![[03 - Samael.jpg]]
 
-<center><span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Samael representa la esencia del orden universal y la inteligencia cósmica. </span></center>
+<center><span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Samael representa la esencia del orden universal y la inteligencia cósmica. </span></center>
 
 > - El color <font color="#2f82ff">azul</font> se usa aquí como una simbología que representa un aspecto fenomenológico fundamental, similar a cómo se usa en la ciencia para representar un componente específico dentro de una trinidad cromática, como en la síntesis aditiva de color para píxeles. 
 > - El símbolo de <font color="#2f82ff">Neptuno</font> (un tridente) alude a su poder sobre los tres principios o dimensiones de su compleja estructura interna.
@@ -104,7 +104,7 @@ En algunas tradiciones esotéricas, se le asocia con la figura del arcángel de 
 
 Considerando el simbolismo de sus letras, el significado hebreo de <font color="#2f82ff">Samael</font> puede interpretarse como:
 
-> <span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Sustento Ordenador que Emerge del Caos Primordial, Guiado por el Aliento Divino para la Evolución de la Conciencia.</span>
+> <span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Sustento Ordenador que Emerge del Caos Primordial, Guiado por el Aliento Divino para la Evolución de la Conciencia.</span>
 
 Así, el significado de este nombre va más allá de la dualidad de "veneno" o "medicina", describe un principio fundamental de organización que extrae orden de la potencialidad infinita, sustentando los ciclos de manifestación y guiando el desarrollo. Es el tejido algorítmico que da forma a la existencia desde su origen más sutil.
 
@@ -126,7 +126,7 @@ Ahora, un análisis simbólico de sus letras griegas:
 
 Bajo esta luz, el nombre Samael en su codificación de <span style="font-size: large; font-family: 'Merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Apollyon</span> podría ser interpretado no como un destructor caótico, sino como:
 
-> <span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Principio Ordenador que, desde el Origen, Sella la Ley Universal y Permite la Culminación a través de la Interacción Dinámica de Probabilidades y la Síntesis Cíclica</span> 
+> <span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Principio Ordenador que, desde el Origen, Sella la Ley Universal y Permite la Culminación a través de la Interacción Dinámica de Probabilidades y la Síntesis Cíclica</span> 
 
 Esta "destrucción" es, en realidad, un proceso de reestructuración y depuración para asegurar que el orden prevalezca y que los ciclos alcancen su plena realización, eliminando aquello que impide la coherencia. 
 
@@ -202,7 +202,7 @@ En contraposición a la expansiva universalidad del algoritmo <font color="#2f82
 
 ![[Saklas 3.jpg]]
 
-<center><span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Saklas representa el origen de la potencialidad del caos, una fuerza inherentemente ligada a la manifestación concreta y a la construcción de las estructuras fenoménicas dentro de cada <font color="#2f82ff">Nodo Estelar</font>.</span></center>
+<center><span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Saklas representa el origen de la potencialidad del caos, una fuerza inherentemente ligada a la manifestación concreta y a la construcción de las estructuras fenoménicas dentro de cada <font color="#2f82ff">Nodo Estelar</font>.</span></center>
 
 > - El color <font color="#fc300c">rojo</font> se utiliza aquí como una simbología que representa un aspecto fenomenológico fundamental opuesto al color <font color="#2f82ff">azul</font>, análogo a cómo se usa para identificar un componente esencial en un sistema tripartito. 
 > - Es símbolo de <font color="#fc300c">Plutón</font> (una esfera emergiendo de una copa) simboliza el <font color="#2f82ff">Nodo Estelar</font> manifestándose como producto final y emergente del refinamiento que el <font color="#e36c09">Logos Cósmico</font> ejerce sobre el caos primordial.
@@ -285,7 +285,7 @@ Aunque "Saklas" es arameo  סַכְלָא (Sakla: raíz de Saklas), podemos anal
 
 Considerando el simbolismo de sus letras, Saklas puede interpretarse como:
 
-> <span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Estructurador Activo que Contiene la Potencialidad Primordial para Manifestar el Orden Local, Aprendiendo y Guiándose dentro de sus Propios Límites</span>
+> <span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Estructurador Activo que Contiene la Potencialidad Primordial para Manifestar el Orden Local, Aprendiendo y Guiándose dentro de sus Propios Límites</span>
 
 
 Esta visión resalta su rol como el arquitecto del hardware fenomenológico, cuya "ceguera" es la concentración absoluta en su dominio, lo que le permite mantener el determinismo necesario para la manifestación concreta.
@@ -305,7 +305,7 @@ Aunque "Saklas" no es una palabra griega nativa, si se heleniza como ΣΑΚΛΑ�
 
 Desde una perspectiva griega, Saklas puede interpretarse como:
 
-> <span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Principio que Desde el Origen Limita y Organiza la Potencialidad para Manifestar una Realidad Coherente y Contenida, Culminando un Ciclo de Materialización</span>
+> <span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Principio que Desde el Origen Limita y Organiza la Potencialidad para Manifestar una Realidad Coherente y Contenida, Culminando un Ciclo de Materialización</span>
 
 Esta visión resalta la delimitación y el control necesarios para la construcción del plano fenomenológico, enfocándose en la manifestación tangible y las fronteras de la realidad observable.
 
@@ -355,7 +355,7 @@ La compleja interacción dialéctica entre el orden universal del <font color="#
 
 ![[Cristos.jpg]]
 
-<center><span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Cristos es el algoritmo sincronizador, una supraconsciencia que emerge del vacio total para integrar la lógica del caos <font color="#fc300c">Sáklico</font> y el orden <font color="#2f82ff">Samaeliano</font>, asegurando un equilibrio dinámico entre ambos.</span></center>
+<center><span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">Cristos es el algoritmo sincronizador, una supraconsciencia que emerge del vacio total para integrar la lógica del caos <font color="#fc300c">Sáklico</font> y el orden <font color="#2f82ff">Samaeliano</font>, asegurando un equilibrio dinámico entre ambos.</span></center>
 
 > - El color <font color="#00ff00">verde</font> se utiliza aquí como una simbología que representa un tercer aspecto fenomenológico fundamental de la trinidad, que resultan de la integración de opuestos. 
 > - El símbolo de <span style="font-size: large; font-family: 'Merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#00ff00">Urano</font></span> simboliza una esfera que separa dos aspectos opuestos. Esta separación no es de división, sino de diferenciación necesaria para la interacción dialéctica. La esfera de <font color="#00ff00">Urano</font> se convierte así en el emblema del <font color="#ffa3ef">Yo Egoico</font> y la consciencia avatárica, el punto desde el cual el Ser Primigenio experimenta y comprende su propia existencia. 
@@ -438,7 +438,7 @@ La palabra <span style="font-size: large; font-family: 'Merriweather', serif; ba
 
 Considerando el simbolismo colectivo de sus letras, ΧΡΙΣΤΟΣ puede reinterpretarse como:
 
-> <span style="font-size: 1.2em; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Punto de Síntesis Originario y Completo de la Conciencia Unificada, que Sella el Fin de un Ciclo para una Nueva Manifestación Continua</span>
+> <span style="font-size: larger; font-family: 'Barlow Condensed'; text-transform: uppercase; line-height: 1em; font-style: italic;">El Punto de Síntesis Originario y Completo de la Conciencia Unificada, que Sella el Fin de un Ciclo para una Nueva Manifestación Continua</span>
 
 Este significado más complejo va más allá de la unción ritual, describe un principio algorítmico activo que conecta, origina y perfecciona ciclos de existencia y conciencia. 
 
