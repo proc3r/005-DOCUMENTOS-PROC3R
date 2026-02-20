@@ -160,8 +160,8 @@ En la reconstrucción adecuada, los tres mecanismos genuinos de sincronización 
 > [!gemini] <font color="#cb48f3">REINTERPRETACIÓN 3+1X</font>
 > Propuesta original: <font color="#2F82FF">Cuántico</font>, <font color="#FC300C">Físico</font>, <font color="#FFCC00">Químico</font>, <font color="#00ff00">Vectorial</font>.
 Incoherencia resuelta: "Vectorial" no es mecanismo, es gramática del sistema. La matemática no es del mismo tipo que física.
-> - <font color="#2F82FF">Cuántica</font>: Sincronización unitaria (no-dispersiva). Reside en Estados de Fase. Sincroniza mediante Superposición coherente.
-> - <font color="#FC300C">Fisica</font>: Sincronización conservativa. Reside en Invariantes de Noether. Sincroniza mediante Simetrías gauge (<font color="#FC300C">U(1)</font>, <font color="#00ff00">SU(2)</font>, <font color="#2F82FF">SU(3)</font>).
+> - <font color="#2F82FF">Cuántica</font>: Sincronización unitaria (no dispersiva). Reside en Estados de Fase. Sincroniza mediante Superposición coherente.
+> - <font color="#FC300C">Fisica</font>: Sincronización conservativa. Reside en Invariantes de Noether. Sincroniza mediante Simetrías gauge —<font color="#FC300C">U(1)</font>, <font color="#00ff00">SU(2)</font>, <font color="#2F82FF">SU(3)</font>—.
 > - <font color="#FFCC00">Química</font>: Sincronización resonante. Reside en Mínimos locales de energía. Sincroniza mediante Atracciones electrónicas, vibraciones.
 > - <font color="#00ff00">Vectorial</font>: Dimensión de reescritura. Reside en Espacios de fase mismos. Sincroniza mediante Transformaciones de métrica.
 >
@@ -221,7 +221,7 @@ La función de onda no colapsa por interacción con un observador consciente; m�
 
 Esto desplaza el misterio, no lo disuelve: la pregunta ya no es "¿por qué colapsa?" sino "¿cuál es la estructura algebraica del operador X?".
 
-> [!info] POR QUÉ EL gravitón ES UN CAMINO IMPRODUCTIVO
+> [!info] <font color="#2f82ff">¿POR QUÉ EL GRAVITÓN ES UN CAMINO IMPRODUCTIVO?</font>
 > - <font color="#ffa3ef">Error Epistemológico</font>: El gravitón emerge de aplicar cuantización canónica (mecanismo de sincronización de las 3 fuerzas) a un sistema que no es canónico (la gravedad es no-lineal, no tiene fondo fijo).
 > - <font color="#fc300c">Error Ontológico</font>: Las ecuaciones de Einstein no se renormalizan porque la gravedad no es un campo sobre el espacio-tiempo, sino la descripción del propio espacio-tiempo. Un gravitón sería el "mensaje que le dice al espacio que existe". Es autoreferencial sin base.
 > - <font color="#ffcc00">Alternativa Constructiva</font>: En el marco 3+1X, la gravedad cuántica requiere cuantizar el operador de reescritura, no el campo. 
