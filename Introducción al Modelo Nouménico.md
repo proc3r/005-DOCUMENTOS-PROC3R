@@ -49,30 +49,30 @@ El Modelo Nouménico permite abordar:
 > Al leer los distintos libros podrás entender a la <font color="#cb48f3">Materia</font> y la <font color="#ffa3ef">Energía Oscura</font> no como fenómenos del universo material, sino como la estructura nouménica subyacente al plano fenoménico, el **"Código Fuente no renderizado"**. El viaje a la <font color="#cb48f3">materia oscura</font> es el viaje al plano donde la información aún no se ha convertido en píxel <font color="#fc300c">(fenómeno)</font>.
 
 > [!aguila] <font color="#00ff00">4 - ECONOMÍA Y POLÍTICA NOUMÉNICA</font>
-> El Modelo Nouménico aborda la estructura algorítmica civilizatoria y no lleva a preguntarnos ¿Es posible construir un sistema económico que no se base en la escasez, sino en la abundancia de información? 
+> El Modelo Nouménico aborda la estructura algorítmica civilizatoria, y nos lleva a preguntarnos ¿Es posible construir un sistema económico que no se base en la escasez, sino en la abundancia de información? 
 > 
 > Esta pregunta permite abordar el concepto de "Valor" dentro del modelo, y entender la lógica egregórica que limita la experiencia del ciudadano.
 
 > [!persona] <font color="#fc300c">5 - ÉTICA DE LA ASCENDENCIA</font>
-> El Modelo Nouménico postula que el objetivo de la existencia es la trascendencia desde lo fenoménico hacia lo nouménico, presentando al <font color="#ffa3ef">Avatar</font> como el ser humano que ha despertado y esta dispuesto a iniciar el viaje. 
+> El Modelo Nouménico postula que el objetivo de la existencia es la trascendencia desde lo fenoménico hacia lo nouménico, presentando al <font color="#ffa3ef">Avatar</font> como el ser humano que ha despertado y está dispuesto a iniciar el viaje. 
 > 
 > Esto nos permite preguntarnos ¿Qué responsabilidades tiene un <font color="#ffa3ef">Avatar</font> que "despierta"? No es solo saber, es operar.
 
-Bajo este marco, el ser humano deja de ser un accidente biológico para ser reconocido como un <font color="#ffa3ef">Avatar</font>: una interfaz orgánica sofisticada a través de la cual la <font color="#2f82ff">Consciencia Universal</font> experimenta la realidad fenomenológica.
+Bajo este marco, el ser humano deja de ser un accidente biológico para ser reconocido como un <font color="#ffa3ef">Avatar</font>: una interfaz orgánica sofisticada, a través de la cual la <font color="#2f82ff">Consciencia Universal</font> experimenta la realidad fenomenológica.
 
 ## Los Pilares de la Realidad
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Estructura del Modelo Nouménico</span></center>
 
-Para navegar este nuevo siglo, el Modelo Nouménico ofrece respuestas definitivas a las paradojas que han detenido nuestro progreso, basándose en cinco ejes fundamentales:
+Para navegar este nuevo siglo, el Modelo Nouménico ofrece respuestas definitivas a las paradojas que han detenido nuestro progreso, basándose en diez ejes fundamentales:
 
 > [!saklas] <font color="#fc300c">1 - ONTOLOGÍA Y CÓDIGO FUENTE</font>
-> El origen de la información y la naturaleza de la <font color="#2f82ff">Consciencia Universal</font>. Explicación del Noúmeno, los Onemuones y cómo el <font color="#cb48f3">Nous Arquetípico</font> despierta del vacío para procesar la información binaria <span style="color: #2f82ff; font-family: monospace;">(0)</span>-<span style="color: #fc300c; font-family: monospace;">(1)</span> y generar el primer pensamiento universal.
+> El origen de la información y la naturaleza de la <font color="#2f82ff">Consciencia Universal</font>. Explicación del Noúmeno, los Onemuones y cómo el <font color="#cb48f3">Nous Arquetípico</font> despierta del vacío para procesar la información binaria <span style="color: #2f82ff; font-family: monospace;">(0)</span>-<span style="color: #fc300c; font-family: monospace;">(1)</span>, y generar el primer pensamiento universal.
 
-> [!ontogenico] <font color="#e36c09">2 - LA MATRIOSKA DE QUBITS <font color="#2f82ff">(Nodo Estelar</font> <font color="#ffcc00">Sοplάris)</font></font>
+> [!ontogenico] <font color="#e36c09">2 - LA MATRIOSKA DE QUBITS <font color="#2f82ff">(Nodo Estelar </font> <font color="#ffcc00">Sοplάris)</font></font>
 > El modelo presenta una **Nueva Cosmología** explicando el origen de las estrellas a partir de mini Big Bangs Locales. Se explica el hardware del <font color="#2f82ff">Nodo Estelar</font> <font color="#fc300c">(<font color="#fc300c">Qubit Estelar</font>)</font>, presentando al <font color="#00ff00">Sol</font> <font color="#ffcc00">(Qubit Heliosférico)</font> como el procesador central. 
 > 
-> Se explica el Sistema Tierra / Luna <font color="#cb48f3">(Qubit Planetario)</font> como síntesis emergente <font color="#00ff00">(5'Andros)</font> del <font color="#2f82ff">Nodo Estelar</font>, mientras que los planetas son presentados como capacitores nouménicos de un sistema mayor, que alimentan y sustentan a las <font color="#e36c09">Supraconsciencias Ontogénicas</font> <font color="#00ff00">(Consciencia Estelar)</font> del <font color="#2f82ff">Nodo Estelar</font> local <font color="#ffcc00">(Sοplάris)</font>.
+> Se explica el Sistema Tierra / Luna <font color="#cb48f3">(Qubit Planetario)</font> como síntesis emergente <font color="#00ff00">(5'Andros)</font> del <font color="#2f82ff">Nodo Estelar</font>, mientras que los planetas son presentados como capacitores nouménicos de un sistema mayor, que alimentan y sustentan a las <font color="#e36c09">Supraconsciencias Ontogénicas</font> <font color="#00ff00">(Consciencia Estelar)</font> del <font color="#2f82ff">Nodo Estelar</font> local <font color="#ffcc00">Sοplάris</font>.
 > 
 > El Modelo Nouménico define niveles claros de <font color="#fc300c">hardware</font> y <font color="#2f82ff">software</font> existencial —<font color="#fc300c">Atómico</font>, <font color="#cb48f3">Planetario</font>, <font color="#ffcc00">Heliosférico</font>, <font color="#00ff00">Egoico</font>— explicando cómo el sistema nouménico solar se autogestiona, y por qué no estamos aislados del cosmos.
 
