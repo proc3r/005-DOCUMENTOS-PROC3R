@@ -5,6 +5,8 @@ indexar: true
 
 ![[Cosmovision.jpg]]
 
+![[Introduccion Modelo Noumenico.mp3]]
+
 # <font color="#fc300c">1. El Sistema Operativo Del Siglo XXI</font>
 
 ## Bienvenido al Umbral de la Unificación
