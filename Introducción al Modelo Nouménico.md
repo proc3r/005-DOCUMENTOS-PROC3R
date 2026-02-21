@@ -450,40 +450,40 @@ El Modelo Nouménico organiza la información en **6 Grandes Áreas (Nodos de C
 
 ### <font color="#fc300c">Nodo I: Ontología Primordial (La Fuente)</font>
 
-- <font color="#2f82ff">Concepto:</font> El origen de todo. Del Noúmeno al Nous.
-- <font color="#fc300c">Contenido:</font> Los Onemuones, el Qubit@, y cómo la nada se convierte en información pura. La consciencia como propiedad universal, no biológica.
-- <font color="#00ff00">Solución a paradojas:</font> ¿Qué había antes del Big Bang? (Respuesta: El inicio del procesamiento de datos).
+> - <font color="#2f82ff">Concepto:</font> El origen de todo. Del Noúmeno al Nous.
+> - <font color="#fc300c">Contenido:</font> Los Onemuones, el Qubit@, y cómo la nada se convierte en información pura. La consciencia como propiedad universal, no biológica.
+> - <font color="#00ff00">Solución a paradojas:</font> ¿Qué había antes del Big Bang? (Respuesta: El inicio del procesamiento de datos).
 
 ### <font color="#e36c09">Nodo Ii: Cosmología Y Física Estelar (El Hardware Universal)</font>
 
-- <font color="#2f82ff">Concepto:</font> <font color="#ffcc00">Sοplάris</font> y la Matriz Fenomenológica.
-- <font color="#fc300c">Contenido:</font> El Sol como <font color="#00ff00">Noesis</font> (procesador central). Los planetas como capacitores. La <font color="#ffcc00">gravedad</font> como tensión entre algoritmos. Explicación de los subpíxeles espacio-temporales y las fuerzas fundamentales como simetrías lógicas <font color="#fc300c">(U1</font>, <font color="#00ff00">SU2</font>, <font color="#2f82ff">SU3)</font>.
-- <font color="#00ff00">Ciencia Evolucionada:</font> Relación entre neutrinos, antimateria y el sistema operativo galáctico.
+> - <font color="#2f82ff">Concepto:</font> <font color="#ffcc00">Sοplάris</font> y la Matriz Fenomenológica.
+> - <font color="#fc300c">Contenido:</font> El Sol como <font color="#00ff00">Noesis</font> (procesador central). Los planetas como capacitores. La <font color="#ffcc00">gravedad</font> como tensión entre algoritmos. Explicación de los subpíxeles espacio-temporales y las fuerzas fundamentales como simetrías lógicas <font color="#fc300c">(U1</font>, <font color="#00ff00">SU2</font>, <font color="#2f82ff">SU3)</font>.
+> - <font color="#00ff00">Ciencia Evolucionada:</font> Relación entre neutrinos, antimateria y el sistema operativo galáctico.
 
 ### <font color="#ffcc00">Nodo Iii: Arquitectura Del <Font Color="#ffa3ef">avatar</font> (Psicología Y Yo)</font>
 
-- <font color="#2f82ff"><font color="#2f82ff">Concepto:</font></font> El Principio 3+1X y la experiencia subjetiva.
-- <font color="#fc300c">Contenido:</font>
-    - <font color="#e36c09">Lo Orgánico:</font> El hardware biológico.
-    - <font color="#ffcc00">El Arquema:</font> La base de datos arquetípica (inconsciente).
-    - <font color="#00ff00">Lo Personal</font> / <font color="#2f82ff">Social:</font> El software de identidad.
-    - El <font color="#ffa3ef">Yo Egoico</font>: El punto de singularidad crística.
-- <font color="#00ff00">Psicología:</font> Cómo las emociones evitan el sesgo algorítmico.
+> - <font color="#2f82ff"><font color="#2f82ff">Concepto:</font></font> El Principio 3+1X y la experiencia subjetiva.
+> - <font color="#fc300c">Contenido:</font>
+>     - <font color="#e36c09">Lo Orgánico:</font> El hardware biológico.
+>     - <font color="#ffcc00">El Arquema:</font> La base de datos arquetípica (inconsciente).
+>     - <font color="#00ff00">Lo Personal</font> / <font color="#2f82ff">Social:</font> El software de identidad.
+>     - El <font color="#ffa3ef">Yo Egoico</font>: El punto de singularidad crística.
+> - <font color="#00ff00">Psicología:</font> Cómo las emociones evitan el sesgo algorítmico.
 
 ### <font color="#00ff00">Nodo Iv: Dinámica Civilizatoria (Sociología Y Hegemón)</font>
 
-- <font color="#2f82ff">Concepto:</font> De la familia a la <font color="#ffa3ef">Noósfera</font>.
-- <font color="#fc300c">Contenido:</font> Cómo se crean los <font color="#cb48f3">Egrégores</font> y los <font color="#fc300c">Noemas Culturales</font>. Por qué el mundo está fragmentado (lucha noemática). La <font color="#cb48f3">Antropósfera</font> vs. la <font color="#ffa3ef">Noósfera</font>.
-- <font color="#00ff00">Política / Economía:</font> El fin de los dioses étnicos y el nacimiento del Ciudadano Planetario.
+> - <font color="#2f82ff">Concepto:</font> De la familia a la <font color="#ffa3ef">Noósfera</font>.
+> - <font color="#fc300c">Contenido:</font> Cómo se crean los <font color="#cb48f3">Egrégores</font> y los <font color="#fc300c">Noemas Culturales</font>. Por qué el mundo está fragmentado (lucha noemática). La <font color="#cb48f3">Antropósfera</font> vs. la <font color="#ffa3ef">Noósfera</font>.
+> - <font color="#00ff00">Política / Economía:</font> El fin de los dioses étnicos y el nacimiento del Ciudadano Planetario.
 
 ### <font color="#2f82ff">Nodo V: Simbología Y Metahistoria (Religión Y Mitología)</font>
 
-- <font color="#2f82ff">Concepto:</font> El lenguaje de las Supraconsciencias.
-- <font color="#fc300c">Contenido:</font> Decodificación de mitos antiguos (Grecia, Nórdicos, Biblia) como registros de interacciones entre algoritmos de nivel superior. El Tarot y la Astrología como sistemas de lectura de datos.
-- <font color="#00ff00">El papel de la Luna:</font> La Luna como centro de control y observación lunar para la era actual.
+> - <font color="#2f82ff">Concepto:</font> El lenguaje de las Supraconsciencias.
+> - <font color="#fc300c">Contenido:</font> Decodificación de mitos antiguos (Grecia, Nórdicos, Biblia) como registros de interacciones entre algoritmos de nivel superior. El Tarot y la Astrología como sistemas de lectura de datos.
+> - <font color="#00ff00">El papel de la Luna:</font> La Luna como centro de control y observación lunar para la era actual.
 
 ### <font color="#cb48f3">Nodo Vi: El Umbral De Trascendencia (El Manual Activo)</font>
 
-- <font color="#2f82ff">Concepto:</font> El Juicio Evolutivo y la Ascensión.
-- <font color="#fc300c">Contenido:</font> Qué es el "Juicio Final" (evaluación de resiliencia del nodo). Cómo prepararse para el salto a la <font color="#cb48f3">Materia Oscura</font>. El papel del <font color="#ffa3ef">Avatar</font> Solar.
-- <font color="#00ff00">Guía Práctica:</font> Pasos para el despertar de la consciencia y la unificación de la visión holística.
+> - <font color="#2f82ff">Concepto:</font> El Juicio Evolutivo y la Ascensión.
+> - <font color="#fc300c">Contenido:</font> Qué es el "Juicio Final" (evaluación de resiliencia del nodo). Cómo prepararse para el salto a la <font color="#cb48f3">Materia Oscura</font>. El papel del <font color="#ffa3ef">Avatar</font> Solar.
+> - <font color="#00ff00">Guía Práctica:</font> Pasos para el despertar de la consciencia y la unificación de la visión holística.
