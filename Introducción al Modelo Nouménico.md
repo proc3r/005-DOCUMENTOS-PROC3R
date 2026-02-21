@@ -112,7 +112,7 @@ Bajo esta perspectiva, estos sistemas son entendidos como antiguas interfaces de
 > El Modelo Nouménico nos permite comprender cómo el Estado, las Corporaciones y las Masas son algoritmos de conservación del sistema civilizatorio, analizando el paso del **Ego Egregórico** (naciones e ideologías en guerra) a la **Sincronía Colectiva**, donde la humanidad opera como un solo sistema nervioso planetario.
 
 > [!samael] <font color="#2f82ff">10 - EL HORIZONTE DE ASCENDENCIA (Trascendencia)</font>
-> El Modelo Nouménicos nos prepara para el paso del 5% <font color="#fc300c">(Fenómeno)</font> al 95% <font color="#2f82ff">(Noúmeno)</font> —el "Salto a la <font color="#cb48f3">Materia Oscura</font>"— donde la consciencia se libera de la limitación fenomenológica y puede continuar su viaje hacia el final del <font color="#2f82ff">Nodo Estelar</font>, explicando el papel de la <font color="#2f82ff">Consciencia Lunar</font> en este punto de inflexión del siglo XXI.
+> El Modelo Nouménico nos prepara para el paso del 5% <font color="#fc300c">(Fenómeno)</font> al 95% <font color="#2f82ff">(Noúmeno)</font> —el "Salto a la <font color="#cb48f3">Materia Oscura</font>"— donde la consciencia se libera de la limitación fenomenológica y puede continuar su viaje hacia el final del <font color="#2f82ff">Nodo Estelar</font>, explicando el papel de la <font color="#2f82ff">Consciencia Lunar</font> en este punto de inflexión del siglo XXI.
 
 Gracias a la **Matriz Algorítmica** del Modelo Nouménico, ahora podemos integrar estos temas sin que parezcan "esotéricos":
 
