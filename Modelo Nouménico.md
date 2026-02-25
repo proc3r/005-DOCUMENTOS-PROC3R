@@ -1,7 +1,7 @@
----
-soundtrack: VO_LcRkkyWo
-indexar: true
----
+<font color="#ffa3ef">---</font>
+<font color="#ffa3ef">soundtrack: VO_LcRkkyWo</font>
+<font color="#ffa3ef">indexar: true</font>
+<font color="#ffa3ef">---</font>
 
 ![[Tetrahedro Fractal06.JPG]]
 
