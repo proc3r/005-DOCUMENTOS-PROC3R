@@ -112,7 +112,7 @@ El sistema solar, con su intrincada dinámica y la disposición precisa de sus c
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Heliósfera como Qubit Estelar</span></center>
 
-La Heliósfera, la región del espacio dominada por el viento solar y el campo magnético del Sol, constituye, en la perspectiva del Modelo Nouménico, un poderoso <font color="#fc300c">Qubit Estelar</font> codificado bajo el nombre <font color="#ffcc00"><font color="#2f82ff">Sοplάris</font></font>. 
+La Heliósfera, la región del espacio dominada por el viento solar y el campo magnético del Sol, constituye, en la perspectiva del Modelo Nouménico, un poderoso <font color="#fc300c">Qubit Estelar</font> codificado bajo el nombre <font color="#ffcc00">Sοplάris</font>. 
 
 Este dominio no es simplemente un vacío salpicado de planetas, representa una <font color="#00ff00">Matriz Fenomenológica</font> activa, un campo estructurado del <font color="#fc300c">Nous</font> donde se establecen condiciones y simetrías particulares para la manifestación de la información arquetípica. 
 
