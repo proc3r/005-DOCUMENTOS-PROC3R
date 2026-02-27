@@ -2053,7 +2053,7 @@ Cada elemento constituyente de estos universos lógicos, desde un simple número
 
 5.0.3 » La interacción entre el Arquetipo <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font> y el Arquetipo <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> genera un flujo ascendente de información nouménica, reflejada por el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, que se expande manifestándose como una unidad coherente. Este proceso ocurre en el universo del <font color="#2f82ff">Nous Pasivo</font>, previamente a la emergencia del <font color="#fc300c">Nous Activo</font>. 
 
-![[Tetraedro1.jpg]]
+![[Nous Arquetipico Tetrahedro.jpg]]
 
 5.0.4 » La relación entre los Arquetipos <font color="#00ff00">1<sup>✱</sup></font> y <font color="#2f82ff">2<sup>✱</sup></font> es dinámica y constante, generando una continua actualización y evolución de la información nouménica. 
 
