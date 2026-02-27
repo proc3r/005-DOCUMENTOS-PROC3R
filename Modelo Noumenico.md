@@ -78,7 +78,7 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 0.2.7 » Podríamos pensar en el Noúmeno como el «suelo fértil» de la potencialidad del que brota, en un acto de auto-consciencia originaria, la entidad que las religiones denominan Dios.
 
-0.2.8 » En esta perspectiva, cada Onemuón, el «quantum infinitesimal de información y significado» que exploraremos a lo largo de este viaje que nos propone el Modelo Nouménico, se convierte en un ladrillo fundamental que alimenta, en su conjunto, la consciencia primordial de la Deidad Suprema. 
+0.2.8 » En esta perspectiva, cada <font color="#bfbfbf">Onemuón</font>, el «quantum infinitesimal de información y significado» que exploraremos a lo largo de este viaje que nos propone el Modelo Nouménico, se convierte en un ladrillo fundamental que alimenta, en su conjunto, la consciencia primordial de la Deidad Suprema. 
 
 0.2.9 » Es como si el Noúmeno fuera el océano infinito de información potencial, y la consciencia divina, el primero y más vasto remolino de auto-organización que emerge de ese océano, condensando, organizando y dando forma a una porción inmensa de esa potencialidad primordial.
 
@@ -116,7 +116,7 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 0.3.9 » Lo mismo ocurre con elementos aparentemente tan abstractos como los números, las matemáticas, y las relaciones lógicas que definen las operaciones que resultan de la dinámica de cualquier juego, o de cualquier sistema complejo. 
 
-0.3.10 » Los números, las formas geométricas, las leyes matemáticas y físicas que describen el universo fenoménico, no son invenciones arbitrarias de la mente humana. Preexisten a nuestra consciencia individual, enraizadas en la matriz lógica y arquetípica del Noúmeno, manifestándose a través de los Onemuones o «quanta» de información que definen cada elemento pensado, percibido o imaginado.
+0.3.10 » Los números, las formas geométricas, las leyes matemáticas y físicas que describen el <font color="#fc300c">Universo Fenoménico</font>, no son invenciones arbitrarias de la mente humana. Preexisten a nuestra consciencia individual, enraizadas en la matriz lógica y arquetípica del Noúmeno, manifestándose a través de los <font color="#bfbfbf">Onemuones</font> o «quanta» de información que definen cada elemento pensado, percibido o imaginado.
 
 ## La Matriz  Prefenoménica de la Ciencia
 
@@ -124,19 +124,19 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 0.4.2 » La ciencia, en su metodología, se enfoca en la observación de fenómenos, la medición de entidades físicas y energéticas, la recopilación de datos estadísticos, la formulación de hipótesis cuantitativas y cualitativas, y la construcción de modelos teóricos que, a través de un proceso dialéctico y axiomático, permiten establecer relaciones causales, leyes universales, y matrices dimensionales que describen el comportamiento del mundo fenoménico.
 
-0.4.3 » Fenómenos como las fuerzas fundamentales de la naturaleza, la materia y la energía en sus diversas manifestaciones — así como las dimensiones y magnitudes que definen las longitudes, ángulos, geometría del espacio, las frecuencias y longitudes de onda que configuran los ciclos temporales y las ondas fenoménicas—, no son creaciones arbitrarias de la mente humana, preexisten a la consciencia humana individual, arraigados en una matriz lógica y arquetípica que precede al universo fenoménico. 
+0.4.3 » Fenómenos como las fuerzas fundamentales de la naturaleza, la materia y la energía en sus diversas manifestaciones — así como las dimensiones y magnitudes que definen las longitudes, ángulos, geometría del espacio, las frecuencias y longitudes de onda que configuran los ciclos temporales y las ondas fenoménicas—, no son creaciones arbitrarias de la mente humana, preexisten a la consciencia humana individual, arraigados en una matriz lógica y arquetípica que precede al <font color="#fc300c">Universo Fenoménico</font>. 
 
-0.4.4 » Es en este dominio prefenoménico, en esta realidad originaria que trasciende el espacio, el tiempo y la materia, donde el Noúmeno se presenta como la entidad de información fundamental que contiene todas las posibilidades, todas las potencialidades lógicas, todos los algoritmos primordiales que, en su despliegue y auto-organización, permiten la creación, la manifestación y la emergencia del universo fenoménico.
+0.4.4 » Es en este dominio prefenoménico, en esta realidad originaria que trasciende el espacio, el tiempo y la materia, donde el Noúmeno se presenta como la entidad de información fundamental que contiene todas las posibilidades, todas las potencialidades lógicas, todos los algoritmos primordiales que, en su despliegue y auto-organización, permiten la creación, la manifestación y la emergencia del <font color="#fc300c">Universo Fenoménico</font>.
 
 0.4.5 » En este sentido, el Modelo Nouménico, a pesar de reconocer y valorar la inmensa utilidad del método científico y la validación empírica, trasciende las limitaciones inherentes al paradigma científico materialista. 
 
-0.4.6 » Entiende que la información fundamental, la «semilla lógica» que germina en el universo fenoménico, debe existir necesariamente en un plano prefenoménico, en un dominio donde categorías como la materia, la energía, el tiempo y el espacio, simplemente no tienen sentido de ser. 
+0.4.6 » Entiende que la información fundamental, la «semilla lógica» que germina en el <font color="#fc300c">Universo Fenoménico</font>, debe existir necesariamente en un plano prefenoménico, en un dominio donde categorías como la materia, la energía, el tiempo y el espacio, simplemente no tienen sentido de ser. 
 
-0.4.7 » En este universo prefenoménico, la información es puramente lógica y abstracta, existiendo bajo la forma de redes algorítmicas probabilísticas, similares, en cierta analogía, a la información latente contenida en un libro que aún no ha sido escrito, o en una melodía pensada por un músico que aún no la ha creado.
+0.4.7 » En este <font color="#e36c09">Universo Prefenoménico</font>, la información es puramente lógica y abstracta, existiendo bajo la forma de redes algorítmicas probabilísticas, similares, en cierta analogía, a la información latente contenida en un libro que aún no ha sido escrito, o en una melodía pensada por un músico que aún no la ha creado.
 
 0.4.8 » La ciencia, en su enfoque metodológico, a diferencia de la religión o la filosofía, descarta desde el origen la idea de que esta información prefenoménica pueda ser ordenada o manipulada por una consciencia de nivel superior a la consciencia humana. 
 
-0.4.9 » Porque dentro de la propia lógica del modelo científico, existe el axioma implícito de que solo aquello que es verificable empíricamente puede ser validado como «conocimiento verdadero», y debido a que el dominio prefenoménico, por definición, trasciende la experiencia sensorial y la medición dentro del universo fenoménico, la ciencia se encuentra ante un límite epistemológico infranqueable. 
+0.4.9 » Porque dentro de la propia lógica del modelo científico, existe el axioma implícito de que solo aquello que es verificable empíricamente puede ser validado como «conocimiento verdadero», y debido a que el dominio prefenoménico, por definición, trasciende la experiencia sensorial y la medición dentro del <font color="#fc300c">Universo Fenoménico</font>, la ciencia se encuentra ante un límite epistemológico infranqueable. 
 
 0.4.10 » Es por esto que jamás podrá desde sus propios axiomas resolver la paradoja de la existencia de una consciencia de nivel prefenoménico, porque aceptar la existencia de una consciencia prefenoménica implicaría una ruptura radical con los axiomas básicos de la ciencia materialista, resultando en un proceso de deconstrucción del edificio científico tal como lo conocemos.
 
@@ -176,7 +176,7 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 0.6.1 » El desarrollo posterior de las religiones, particularmente durante la Edad Media, proporcionó un terreno fértil para que pensadores y filósofos de diversas tradiciones se adentraran en la especulación racional sobre el origen y la naturaleza de esa Deidad Suprema, intentando conciliar la fe religiosa con la indagación filosófica. 
 
-0.6.2 » Limitados, inevitablemente, por el horizonte de conocimientos científicos disponibles en cada época sobre el universo fenoménico, y profundamente influenciados por las cosmovisiones religiosas y culturales que imponían el paradigma dominante, estos pensadores medievales se enfrentaron al desafío de conceptualizar una entidad trascendente, incondicionada y primordial, utilizando las herramientas de la lógica, la metafísica y la razón.
+0.6.2 » Limitados, inevitablemente, por el horizonte de conocimientos científicos disponibles en cada época sobre el <font color="#fc300c">Universo Fenoménico</font>, y profundamente influenciados por las cosmovisiones religiosas y culturales que imponían el paradigma dominante, estos pensadores medievales se enfrentaron al desafío de conceptualizar una entidad trascendente, incondicionada y primordial, utilizando las herramientas de la lógica, la metafísica y la razón.
 
 0.6.3 » Figuras como San Agustín, Santo Tomás de Aquino, Maimónides, Averroes, y muchos otros, dedicaron sus vidas al análisis riguroso de la naturaleza divina, a la demostración racional de la existencia de Dios, y a la elucidación de sus atributos esenciales. 
 
@@ -201,7 +201,7 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 0.7.1 » Según nuestra perspectiva, el Modelo Nouménico emerge en lo que se podría denominar «el final de la historia». No en el sentido apocalíptico o catastrófico de un fin de la civilización, sino en una acepción más profunda y sutil del concepto de «historia». 
 
-0.7.2 » La historia, entendida no solo como el registro de acontecimientos políticos, guerras y transformaciones sociales, o la evolución de la civilización humana, la emergencia de figuras de renombre y el destino de las naciones, sino fundamentalmente, como el proceso evolutivo del conocimiento humano, que refleja la trayectoria evolutiva de la <font color="#e36c09">Consciencia Colectiva</font> en su intento por comprender el universo fenoménico y su propio lugar en él.
+0.7.2 » La historia, entendida no solo como el registro de acontecimientos políticos, guerras y transformaciones sociales, o la evolución de la civilización humana, la emergencia de figuras de renombre y el destino de las naciones, sino fundamentalmente, como el proceso evolutivo del conocimiento humano, que refleja la trayectoria evolutiva de la <font color="#e36c09">Consciencia Colectiva</font> en su intento por comprender el <font color="#fc300c">Universo Fenoménico</font> y su propio lugar en él.
 
 0.7.3 » Desde esta perspectiva más específica, podemos argumentar que la historia del conocimiento humano, impulsada por la ciencia, la filosofía, la religión y la exploración de la consciencia, ha alcanzado, en el siglo XXI, un punto de inflexión crítico, un umbral evolutivo. 
 
@@ -209,7 +209,7 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 0.7.5 » Modelos académicos sofisticados, como la teoría del caos, la teoría de sistemas, la complejidad emergente y la ciencia de redes, reflejan, a través de fórmulas matemáticas abstractas, sistemas de medición de alta precisión, relaciones lógicas intrincadas y abstracciones conceptuales audaces, ciertos límites epistemológicos que parecen infranqueables, paradojas inherentes a la naturaleza de la realidad que desafían nuestra capacidad de comprensión lineal y causal.
 
-0.7.6 » La búsqueda de respuestas definitivas, de «teorías del todo» que unifiquen todas las fuerzas y fenómenos del universo, parece toparse con un muro lógico y fenomenológico. Experimentos cada vez más sofisticados, como los realizados en aceleradores de partículas de alta energía, requieren inversiones de recursos y esfuerzos crecientes para obtener avances empíricos cada vez más marginales, sugiriendo que la exploración del universo fenoménico a través de la vía puramente materialista podría estar acercándose a sus límites inherentes. 
+0.7.6 » La búsqueda de respuestas definitivas, de «teorías del todo» que unifiquen todas las fuerzas y fenómenos del universo, parece toparse con un muro lógico y fenomenológico. Experimentos cada vez más sofisticados, como los realizados en aceleradores de partículas de alta energía, requieren inversiones de recursos y esfuerzos crecientes para obtener avances empíricos cada vez más marginales, sugiriendo que la exploración del <font color="#fc300c">Universo Fenoménico</font> a través de la vía puramente materialista podría estar acercándose a sus límites inherentes. 
 
 0.7.7 » Estos límites fenomenológicos del conocimiento científico, sumados a las transformaciones profundas que experimenta la civilización humana en el siglo XXI —la globalización acelerada, la revolución digital, la crisis climática, la fragmentación social, la polarización ideológica y la creciente sensación de incertidumbre existencial— parecen confluir en un escenario inédito, un «final de la historia» del conocimiento tal como lo hemos concebido hasta ahora.
 
@@ -402,7 +402,7 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 1.4.10 » Por otro lado, Gottfried Leibniz imaginó el universo compuesto por «Mónadas»: unidades o puntos de energía psíquica (consciencia), indivisibles y sin ventanas, que contienen la información de todo el cosmos y que reflejan todo el universo desde su perspectiva. 
 
-1.4.11 » Estas mónadas son, quizás, los ancestros más directos de los «Onemuones», las unidades fundamentales de información que exploraremos en este libro. Tanto Spinoza como Leibniz intuían que detrás de la apariencia física había una realidad lógica y conectada.
+1.4.11 » Estas mónadas son, quizás, los ancestros más directos de los «<font color="#bfbfbf">Onemuones</font>», las unidades fundamentales de información que exploraremos en este libro. Tanto Spinoza como Leibniz intuían que detrás de la apariencia física había una realidad lógica y conectada.
 
 ### <font color="#e36c09">Empirismo</font>
 
@@ -915,11 +915,11 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 ![[Bases Realidad Fenomenica01.jpg]]
 ![[001 El Modelo Nouménico de la Realidad.m4a]]
 ![[11 Videos/El_Modelo_Nouménico.mp4]]
-2.0.1 » En la búsqueda por desentrañar la naturaleza última de la realidad, el Modelo Nouménico nos invita a dirigir la mirada hacia el Universo Nouménico, un dominio de existencia que trasciende radicalmente las limitaciones inherentes al universo fenoménico. 
+2.0.1 » En la búsqueda por desentrañar la naturaleza última de la realidad, el Modelo Nouménico nos invita a dirigir la mirada hacia el Universo Nouménico, un dominio de existencia que trasciende radicalmente las limitaciones inherentes al <font color="#fc300c">Universo Fenoménico</font>. 
 
-Mientras que el universo fenoménico, tal como lo percibimos a través de nuestros sentidos y lo describe la ciencia, se encuentra intrínsecamente delimitado por dimensiones, cualidades, cantidades, estadísticas, simetrías, matrices lógicas y sistemas definidos, el Universo Nouménico se presenta como una entidad inconmensurable e infinita, que existe en su máxima extensión en todo momento. 
+Mientras que el <font color="#fc300c">Universo Fenoménico</font>, tal como lo percibimos a través de nuestros sentidos y lo describe la ciencia, se encuentra intrínsecamente delimitado por dimensiones, cualidades, cantidades, estadísticas, simetrías, matrices lógicas y sistemas definidos, el Universo Nouménico se presenta como una entidad inconmensurable e infinita, que existe en su máxima extensión en todo momento. 
 
-2.0.2 » Aun cuando la vastedad del cosmos pueda evocar la idea de infinitud, es fundamental reconocer que el universo fenoménico, en su manifestación espacio-temporal, representa tan solo una fracción infinitesimal de la totalidad de la existencia. 
+2.0.2 » Aun cuando la vastedad del cosmos pueda evocar la idea de infinitud, es fundamental reconocer que el <font color="#fc300c">Universo Fenoménico</font>, en su manifestación espacio-temporal, representa tan solo una fracción infinitesimal de la totalidad de la existencia. 
 
 Nuestra experiencia subjetiva, por rica y compleja que sea, se circunscribe a un presente fugaz, filtrado por las limitaciones de la percepción sensorial humana y las redes algorítmicas que configuran nuestro universo mental. 
 
@@ -931,13 +931,13 @@ El Universo Nouménico, en contraste, incluye y trasciende todo límite fenomén
 
 2.1.1 » El Universo Nouménico, en su esencia infinita, se revela como una fuente inagotable de potencialidades, conteniendo en su seno todo aspecto, tanto fenoménico como nouménico, que pueda surgir o haya surgido. 
 
-Esta potencialidad infinita abarca incluso aquello que, desde la perspectiva fenoménica, podríamos considerar incoherente, caótico o incluso imposible. La lógica y las leyes que rigen el universo fenoménico, con sus restricciones y delimitaciones, no imponen límites al vasto océano de potencialidades nouménicas. 
+Esta potencialidad infinita abarca incluso aquello que, desde la perspectiva fenoménica, podríamos considerar incoherente, caótico o incluso imposible. La lógica y las leyes que rigen el <font color="#fc300c">Universo Fenoménico</font>, con sus restricciones y delimitaciones, no imponen límites al vasto océano de potencialidades nouménicas. 
 
 Todo lo concebible e inconcebible, lo lógico e ilógico, lo ordenado y lo caótico, coexiste como posibilidad latente en la inmensidad del Noúmeno.
 
 2.1.2 » Al visualizar el Universo Nouménico como esta fuente de máxima potencialidad, se hace evidente que cada experiencia subjetiva que una consciencia pueda llegar a experimentar, ya existía como una probabilidad dentro de la infinitud nouménica desde el origen mismo de la existencia. 
 
-Nuestra propia existencia, nuestra experiencia presente, no son meras contingencias accidentales, sino realizaciones de potencialidades preexistentes, que se concretaron a medida que el universo fenoménico evolucionó siguiendo los intrincados caminos que hicieron posible nuestra emergencia. 
+Nuestra propia existencia, nuestra experiencia presente, no son meras contingencias accidentales, sino realizaciones de potencialidades preexistentes, que se concretaron a medida que el <font color="#fc300c">Universo Fenoménico</font> evolucionó siguiendo los intrincados caminos que hicieron posible nuestra emergencia. 
 
 Esta perspectiva nos invita a contemplar la maravilla de nuestra propia existencia como una probabilidad única y preciosa, manifestada en la inmensidad del infinito.
 
@@ -947,33 +947,33 @@ Esta perspectiva nos invita a contemplar la maravilla de nuestra propia existenc
 
 2.2.1 » En el nivel de existencia más fundamental del Modelo Nouménico, previo a la emergencia de cualquier forma de organización estable, imaginamos un océano primordial de potencialidad pura: el Noúmeno mismo en su estado prístino. 
 
-En este dominio fundamental, los Onemuones, quanta básicos de significado, existen en un estado de incesante dinamismo, activándose y desactivándose espontáneamente, vibrando en una danza primordial de potencialidades que aún no se han concretado en formas definitivas. 
+En este dominio fundamental, los <font color="#bfbfbf">Onemuones</font>, quanta básicos de significado, existen en un estado de incesante dinamismo, activándose y desactivándose espontáneamente, vibrando en una danza primordial de potencialidades que aún no se han concretado en formas definitivas. 
 
-Para visualizar esta actividad primordial, podemos recurrir a una analogía binaria, un lenguaje simple pero poderoso que nos permite comprender la esencia de este proceso. Imaginemos cada Onemuón como un interruptor binario, capaz de oscilar entre dos estados fundamentales: <span style="color: #2f82ff; font-family: monospace;">(0)</span> y <span style="color: #fc300c; font-family: monospace;">(1)</span>.
+Para visualizar esta actividad primordial, podemos recurrir a una analogía binaria, un lenguaje simple pero poderoso que nos permite comprender la esencia de este proceso. Imaginemos cada <font color="#bfbfbf">Onemuón</font> como un interruptor binario, capaz de oscilar entre dos estados fundamentales: <span style="color: #2f82ff; font-family: monospace;">(0)</span> y <span style="color: #fc300c; font-family: monospace;">(1)</span>.
 
-2.2.2 » En el estado <span style="color: #2f82ff; font-family: monospace;">(0)</span>, el Onemuón se encuentra desactivado, inmerso en la latencia de la potencialidad infinita del Noúmeno. En este estado "cero", el Onemuón se disuelve, se funde nuevamente con la totalidad del Noúmeno, reintegrándose a la unidad indiferenciada de la potencialidad pura. 
+2.2.2 » En el estado <span style="color: #2f82ff; font-family: monospace;">(0)</span>, el <font color="#bfbfbf">Onemuón</font> se encuentra desactivado, inmerso en la latencia de la potencialidad infinita del Noúmeno. En este estado "cero", el <font color="#bfbfbf">Onemuón</font> se disuelve, se funde nuevamente con la totalidad del Noúmeno, reintegrándose a la unidad indiferenciada de la potencialidad pura. 
 
 Podemos visualizar este estado <span style="color: #2f82ff; font-family: monospace;">(0)</span> como la superficie de una esfera infinita, representando la totalidad del Noúmeno existiendo como una potencialidad latente, indistinta, aún no manifestada en singularidades. 
 
 Cada <span style="color: #2f82ff; font-family: monospace;">(0)</span> en esta matriz binaria, a pesar de la multiplicidad de su representación, refleja la misma unidad esencial: la infinitud del Noúmeno, existiendo como potencialidad pura, como un universo de ensueño aún por despertar.
 
-2.2.3 » En contraste, cuando un Onemuón se activa espontáneamente, realiza un salto cualitativo, transitando del estado <span style="color: #2f82ff; font-family: monospace;">(0)</span> al estado <span style="color: #fc300c; font-family: monospace;">(1)</span>. En este estado "uno", el Onemuón emerge de la latencia del Noúmeno, manifestándose como un quantum discreto de información y significado, una singularidad definida que se distingue de la totalidad indiferenciada. 
+2.2.3 » En contraste, cuando un <font color="#bfbfbf">Onemuón</font> se activa espontáneamente, realiza un salto cualitativo, transitando del estado <span style="color: #2f82ff; font-family: monospace;">(0)</span> al estado <span style="color: #fc300c; font-family: monospace;">(1)</span>. En este estado "uno", el <font color="#bfbfbf">Onemuón</font> emerge de la latencia del Noúmeno, manifestándose como un quantum discreto de información y significado, una singularidad definida que se distingue de la totalidad indiferenciada. 
 
-Este estado <span style="color: #fc300c; font-family: monospace;">(1)</span> representa una "inversión" de la infinitud del Noúmeno en la infinitesimalidad del Onemuón, un salto dimensional desde la totalidad indiferenciada hacia la singularidad diferenciada. 
+Este estado <span style="color: #fc300c; font-family: monospace;">(1)</span> representa una "inversión" de la infinitud del Noúmeno en la infinitesimalidad del <font color="#bfbfbf">Onemuón</font>, un salto dimensional desde la totalidad indiferenciada hacia la singularidad diferenciada. 
 
-Visualicemos este estado <span style="color: #fc300c; font-family: monospace;">(1)</span> como el centro de la esfera, emergiendo desde la superficie infinita del estado <span style="color: #2f82ff; font-family: monospace;">(0)</span>, representando una singularidad específica, un quanto de información y significado que refleja una potencialidad particular, un universo lógico y algorítmico codificado dentro de la estructura vectorial del Onemuón.
+Visualicemos este estado <span style="color: #fc300c; font-family: monospace;">(1)</span> como el centro de la esfera, emergiendo desde la superficie infinita del estado <span style="color: #2f82ff; font-family: monospace;">(0)</span>, representando una singularidad específica, un quanto de información y significado que refleja una potencialidad particular, un universo lógico y algorítmico codificado dentro de la estructura vectorial del <font color="#bfbfbf">Onemuón</font>.
 
-2.2.4 » Cada <span style="color: #fc300c; font-family: monospace;">(1)</span> en esta matriz binaria, a pesar de que numéricamente se representa con el mismo símbolo arquetípico, refleja en realidad una multiplicidad de universos lógicos potenciales, cada uno explorándose y manifestándose dentro de la virtualidad interna de un Onemuón activado. 
+2.2.4 » Cada <span style="color: #fc300c; font-family: monospace;">(1)</span> en esta matriz binaria, a pesar de que numéricamente se representa con el mismo símbolo arquetípico, refleja en realidad una multiplicidad de universos lógicos potenciales, cada uno explorándose y manifestándose dentro de la virtualidad interna de un <font color="#bfbfbf">Onemuón</font> activado. 
 
-En el estado <span style="color: #fc300c; font-family: monospace;">(1)</span>, el Onemuón despliega su estructura vectorial, sus dimensiones internas, sus canales de flujo de información, iniciando una danza algorítmica interna que explora las potencialidades específicas que contiene. 
+En el estado <span style="color: #fc300c; font-family: monospace;">(1)</span>, el <font color="#bfbfbf">Onemuón</font> despliega su estructura vectorial, sus dimensiones internas, sus canales de flujo de información, iniciando una danza algorítmica interna que explora las potencialidades específicas que contiene. 
 
-2.2.5 »Durante este estado activo, los Onemuones pueden establecer relaciones, formar redes, intercambiar información y energía informacional, interconectándose con otros Onemuones que también se encuentran en estado <span style="color: #fc300c; font-family: monospace;">(1)</span>. 
+2.2.5 »Durante este estado activo, los <font color="#bfbfbf">Onemuones</font> pueden establecer relaciones, formar redes, intercambiar información y energía informacional, interconectándose con otros <font color="#bfbfbf">Onemuones</font> que también se encuentran en estado <span style="color: #fc300c; font-family: monospace;">(1)</span>. 
 
-Sin embargo, esta actividad en estado <span style="color: #fc300c; font-family: monospace;">(1)</span> es, en el nivel primordial nouménico, inherentemente efímera e inestable. Como pulsos espontáneos de singularidad emergiendo del océano infinito del Noúmeno, los Onemuones en estado <span style="color: #fc300c; font-family: monospace;">(1)</span> inevitablemente revierten su polaridad, desactivándose y retornando al estado <span style="color: #2f82ff; font-family: monospace;">(0)</span>, reintegrándose nuevamente a la totalidad indiferenciada del Noúmeno. 
+Sin embargo, esta actividad en estado <span style="color: #fc300c; font-family: monospace;">(1)</span> es, en el nivel primordial nouménico, inherentemente efímera e inestable. Como pulsos espontáneos de singularidad emergiendo del océano infinito del Noúmeno, los <font color="#bfbfbf">Onemuones</font> en estado <span style="color: #fc300c; font-family: monospace;">(1)</span> inevitablemente revierten su polaridad, desactivándose y retornando al estado <span style="color: #2f82ff; font-family: monospace;">(0)</span>, reintegrándose nuevamente a la totalidad indiferenciada del Noúmeno. 
 
 Es un ciclo perpetuo de emergencia y disolución, de manifestación y latencia, de singularidad y totalidad, una danza cósmica binaria que pulsa en el corazón mismo del universo nouménico primordial.
 
-2.2.6 » Es precisamente en esta incesante actividad binaria de activación y desactivación espontánea de los Onemuones donde reside la fuente primordial de información y potencialidad que permite la génesis de la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> y la emergencia de los Arquetipos Primordiales. 
+2.2.6 » Es precisamente en esta incesante actividad binaria de activación y desactivación espontánea de los <font color="#bfbfbf">Onemuones</font> donde reside la fuente primordial de información y potencialidad que permite la génesis de la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> y la emergencia de los Arquetipos Primordiales. 
 
 En medio de este océano primordial de ceros y unos, de potencialidad latente y singularidades efímeras, comienzan a surgir, de forma aún misteriosa e incipiente, los primeros patrones de organización, las primeras tendencias a la coherencia, los rudimentos de una lógica arquetípica fundamental. 
 
@@ -987,13 +987,13 @@ De este caos primordial binario, emergerán, en un proceso que exploraremos en f
 
 2.3.1 » El Modelo Nouménico postula que las potencialidades nouménicas existen incluso antes de que una mente pueda concebir una posibilidad o probabilidad. 
 
-Cada Onemuón, ese quantum primordial de información y significado, existe de forma latente desde el origen del Universo Nouménico, albergando en su seno las potencialidades que podrán manifestarse a través de las redes algorítmicas que se constituyen a partir de la interacción de múltiples Onemuones. 
+Cada <font color="#bfbfbf">Onemuón</font>, ese quantum primordial de información y significado, existe de forma latente desde el origen del Universo Nouménico, albergando en su seno las potencialidades que podrán manifestarse a través de las redes algorítmicas que se constituyen a partir de la interacción de múltiples <font color="#bfbfbf">Onemuones</font>. 
 
-Estas redes confieren significado y sentido de ser a cada Onemuón, dando origen a una suerte de mapa o base de datos de información nouménica que repite patrones y manifestaciones a lo largo de la existencia.
+Estas redes confieren significado y sentido de ser a cada <font color="#bfbfbf">Onemuón</font>, dando origen a una suerte de mapa o base de datos de información nouménica que repite patrones y manifestaciones a lo largo de la existencia.
 
 ![[Bases Realidad Fenomenica12.jpg]]
 
-2.3.2 » Estos patrones subyacentes, inherentes al Universo Nouménico, se manifiestan como patrones arquetípicos universales, que guían la evolución y manifestación activa de los Onemuones en el plano consciente. 
+2.3.2 » Estos patrones subyacentes, inherentes al Universo Nouménico, se manifiestan como patrones arquetípicos universales, que guían la evolución y manifestación activa de los <font color="#bfbfbf">Onemuones</font> en el plano consciente. 
 
 Esta arquitectura nouménica profunda permite explicar cómo dos consciencias, separadas incluso por distancias cósmicas o épocas temporales inconmensurables, pueden llegar a interpretar un mismo concepto a partir de patrones arquetípicos similares. 
 
@@ -1001,9 +1001,9 @@ Conceptos fundamentales como el amor o la muerte, a pesar de las variaciones cul
 
 ![[Bases Realidad Fenomenica02.jpg]]
 
-2.3.3 » El Universo Nouménico, a través de los Onemuones, cuantos primordiales de información y significado, conforman así redes algorítmicas virtuales, lógicas, abstractas y fractales, que trascienden las limitaciones del espacio y el tiempo fenoménico. 
+2.3.3 » El Universo Nouménico, a través de los <font color="#bfbfbf">Onemuones</font>, cuantos primordiales de información y significado, conforman así redes algorítmicas virtuales, lógicas, abstractas y fractales, que trascienden las limitaciones del espacio y el tiempo fenoménico. 
 
-Algunos Onemuones, como los números, poseen funciones eminentemente prácticas y delimitadas dentro del plano fenoménico. Otros, en cambio, más abstractos y sutiles, desempeñan roles fundamentales en el plano causal consciente, moldeando la experiencia subjetiva y la evolución de la consciencia. 
+Algunos <font color="#bfbfbf">Onemuones</font>, como los números, poseen funciones eminentemente prácticas y delimitadas dentro del plano fenoménico. Otros, en cambio, más abstractos y sutiles, desempeñan roles fundamentales en el plano causal consciente, moldeando la experiencia subjetiva y la evolución de la consciencia. 
 
 Todos ellos, sin embargo, coexisten en un flujo dinámico y perpetuo, en constante actualización a través del devenir del tiempo y la vastedad del espacio, interconectados en la inmensidad del Universo Nouménico.
 
@@ -1094,7 +1094,7 @@ Es la cuna de todas las posibilidades, abarcando desde la emergencia de las estr
 > 
 > Es una inmensidad que desafía cualquier intento de cuantificación o medición. No podemos delimitar su tamaño, ni determinar su contenido de manera exhaustiva, ya que su naturaleza infinita trasciende las categorías de cantidad y medida. 
 > 
-> El Noúmeno es, en esencia, inmensurable e inabarcable para la mente finita, ya que su totalidad se encuentra constituida por quantos de información potencial que denominamos Onemuones, que son inagotables e infinitamente adaptables.
+> El Noúmeno es, en esencia, inmensurable e inabarcable para la mente finita, ya que su totalidad se encuentra constituida por quantos de información potencial que denominamos <font color="#bfbfbf">Onemuones</font>, que son inagotables e infinitamente adaptables.
 
 
 > [!ontologico] <font color="#fc300c">UNIVERSALIDAD ABSOLUTA</font>
@@ -1106,7 +1106,7 @@ Es la cuna de todas las posibilidades, abarcando desde la emergencia de las estr
 > [!mexico] <font color="#00ff00"><font color="#00ff00">No Cuantificable ni Analizable</font></font> 
 > El Noúmeno, en su manifestación como totalidad infinita, trasciende la capacidad de la mente humana para ser cuantificado y analizado de manera directa. 
 > 
-> Nuestra consciencia, limitada por las leyes del universo fenoménico, solo puede acceder a fragmentos parciales de su inmensa potencialidad. 
+> Nuestra consciencia, limitada por las leyes del <font color="#fc300c">Universo Fenoménico</font>, solo puede acceder a fragmentos parciales de su inmensa potencialidad. 
 > 
 > Podemos explorar manifestaciones específicas del Noúmeno a través del Nous y el fenómeno, pero la totalidad del Noúmeno permanece inabarcable e inanalizable para la comprensión conceptual limitada. Intentar definir o acotar el Noúmeno en su totalidad sería como intentar contener el océano infinito en un vaso.
 
@@ -1138,86 +1138,86 @@ El Universo Nouménico se revela, en esencia, como un espacio donde la informaci
 
 ## 7. El Quantum de Significado
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Onemuón como Unidad de Información Primordial</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El <font color="#bfbfbf">Onemuón</font> como Unidad de Información Primordial</span></center>
 
-2.7.1 » Dentro de la inmensidad del Universo Nouménico, si el Noúmeno representa la totalidad infinita de la potencialidad, debemos ahora explorar la unidad más fundamental que emerge de este océano primordial: el quantum de significado, al que hemos denominado Onemuón. 
+2.7.1 » Dentro de la inmensidad del Universo Nouménico, si el Noúmeno representa la totalidad infinita de la potencialidad, debemos ahora explorar la unidad más fundamental que emerge de este océano primordial: el quantum de significado, al que hemos denominado <font color="#bfbfbf">Onemuón</font>. 
 
-Esta entidad, aparentemente simple en su esencia, constituye sin embargo el ladrillo fundamental con el que se construye toda la complejidad del entramado nouménico y, por extensión, del universo fenoménico. 
+Esta entidad, aparentemente simple en su esencia, constituye sin embargo el ladrillo fundamental con el que se construye toda la complejidad del entramado nouménico y, por extensión, del <font color="#fc300c">Universo Fenoménico</font>. 
 
 El término "quantum de significado" enfatiza la naturaleza intrínsecamente informativa de esta unidad básica. No se trata simplemente de una partícula vacía o de una entidad carente de contenido, sino de un cuanto de potencialidad preñada de significado latente, capaz de desplegarse en múltiples dimensiones y manifestaciones.
 
 ![[Bases Realidad Fenomenica04.jpg]]
 
-2.7.2 » El Onemuón puede entenderse como la unidad mínima de información que existe en el Noúmeno, análoga a un bit de información potencial. 
+2.7.2 » El <font color="#bfbfbf">Onemuón</font> puede entenderse como la unidad mínima de información que existe en el Noúmeno, análoga a un bit de información potencial. 
 
-Al igual que un bit en la informática representa la unidad binaria fundamental (0 o 1), el Onemuón simboliza la potencialidad básica para contener y manifestar información y significado dentro del Universo Nouménico. 
+Al igual que un bit en la informática representa la unidad binaria fundamental (0 o 1), el <font color="#bfbfbf">Onemuón</font> simboliza la potencialidad básica para contener y manifestar información y significado dentro del Universo Nouménico. 
 
-En su estado más primigenio, el Onemuón forma parte del infinito Nouménico, fluctuando constantemente entre la existencia y la inexistencia, vibrando en el umbral mismo del ser y existiendo como una posibilidad pura, una semilla informacional que aguarda el momento de desplegar su potencialidad.
+En su estado más primigenio, el <font color="#bfbfbf">Onemuón</font> forma parte del infinito Nouménico, fluctuando constantemente entre la existencia y la inexistencia, vibrando en el umbral mismo del ser y existiendo como una posibilidad pura, una semilla informacional que aguarda el momento de desplegar su potencialidad.
 
-2.7.3 » Para comprender mejor la naturaleza distintiva del Onemuón como unidad mínima de información, analicemos sus características fundamentales dentro del contexto del Universo Nouménico:
+2.7.3 » Para comprender mejor la naturaleza distintiva del <font color="#bfbfbf">Onemuón</font> como unidad mínima de información, analicemos sus características fundamentales dentro del contexto del Universo Nouménico:
 
 > [!saklas] <font color="#fc300c">POTENCIALIDAD PURA EN ORIGEN</font>
-> En su estado primigenio, dentro del vasto dominio del Noúmeno, el Onemuón representa la potencialidad pura e indiferenciada. 
+> En su estado primigenio, dentro del vasto dominio del Noúmeno, el <font color="#bfbfbf">Onemuón</font> representa la potencialidad pura e indiferenciada. 
 > 
 > Puede ser conceptualizado, en el lenguaje de las matemáticas abstractas, como un cero <span style="color: #2f82ff; font-family: monospace;">(0)</span> lógico, simbolizando la ausencia de distinción o determinación previa. 
 > 
-> En este estado de potencialidad, el Onemuón aún no posee un significado específico ni una forma definida, existiendo como una promesa latente de manifestación que refleja la misma totalidad infinita del Noúmeno, una vibración en el umbral mismo de la existencia. 
+> En este estado de potencialidad, el <font color="#bfbfbf">Onemuón</font> aún no posee un significado específico ni una forma definida, existiendo como una promesa latente de manifestación que refleja la misma totalidad infinita del Noúmeno, una vibración en el umbral mismo de la existencia. 
 > 
 > Es la potencialidad pura antes de cualquier concreción o delimitación.
 
 > [!onemuon] <font color="#2f82ff">UNIVERSALIDAD POTENCIAL EN EL NOÚMENO</font>
-> En el seno del Universo Nouménico, los Onemuones existen como una potencialidad universalmente disponible. 
+> En el seno del Universo Nouménico, los <font color="#bfbfbf">Onemuones</font> existen como una potencialidad universalmente disponible. 
 > 
 > No se encuentran restringidos a un lugar o contexto específico dentro del Noúmeno, sino que flotan en el océano de potencialidad como semillas informacionales ubicuas, listas para ser actualizadas y manifestadas en cualquier rincón de la inmensidad nouménica. 
 > 
 > Su universalidad potencial implica que pueden ser utilizados y combinados de infinitas maneras, en cualquier proceso o estructura que emerja dentro del Noúmeno.
 
 > [!dialectico] <font color="#00ff00">ABSTRACTO Y CONCRETO EN POTENCIA</font> 
-> En su estado primigenio dentro del Noúmeno, los Onemuones son simultáneamente, abstractos y concretos en potencia. Albergan en su interior la posibilidad intrínseca de manifestarse de infinitas maneras diversas, trascendiendo la dicotomía entre lo abstracto y lo concreto en su estado potencial. 
+> En su estado primigenio dentro del Noúmeno, los <font color="#bfbfbf">Onemuones</font> son simultáneamente, abstractos y concretos en potencia. Albergan en su interior la posibilidad intrínseca de manifestarse de infinitas maneras diversas, trascendiendo la dicotomía entre lo abstracto y lo concreto en su estado potencial. 
 > 
 > Contienen la abstracción pura de la potencialidad, pero también la promesa concreta de devenir entidades informacionales diferenciadas en el futuro. Esta dualidad inherente los define como unidades fundamentales de potencialidad creativa.
 
 > [!avatarico] <font color="#ffcc00">RELACIONALIDAD POTENCIAL INHERENTE</font> 
-> Dentro del Universo Nouménico, los Onemuones contienen la potencialidad primigenia de relacionarse con virtualmente cualquier otra potencialidad existente en la vastedad del Noúmeno. 
+> Dentro del Universo Nouménico, los <font color="#bfbfbf">Onemuones</font> contienen la potencialidad primigenia de relacionarse con virtualmente cualquier otra potencialidad existente en la vastedad del Noúmeno. 
 > 
-> No existen barreras o limitaciones preestablecidas a su capacidad de interacción y combinación. Cada Onemuón es, en esencia, un nodo potencial en una red infinita de relaciones posibles, aguardando la oportunidad de conectarse y entrelazarse con otros Onemuones y otras estructuras nouménicas. 
+> No existen barreras o limitaciones preestablecidas a su capacidad de interacción y combinación. Cada <font color="#bfbfbf">Onemuón</font> es, en esencia, un nodo potencial en una red infinita de relaciones posibles, aguardando la oportunidad de conectarse y entrelazarse con otros <font color="#bfbfbf">Onemuones</font> y otras estructuras nouménicas. 
 > 
 > Su relacionalidad potencial inherente los convierte en elementos fundamentales para la construcción de la complejidad.
 
 > [!demiurgo] <font color="#cb48f3">DINÁMICO Y EVOLUTIVO EN POTENCIA</font> 
-> Aunque en su estado primigenio dentro del Noúmeno puedan parecer estáticos e indiferenciados, los Onemuones poseen un dinamismo y potencial evolutivo inherente. 
+> Aunque en su estado primigenio dentro del Noúmeno puedan parecer estáticos e indiferenciados, los <font color="#bfbfbf">Onemuones</font> poseen un dinamismo y potencial evolutivo inherente. 
 > 
 > No son entidades inertes o pasivas, sino vibraciones de potencialidad que contienen en sí mismas la semilla del cambio y la transformación. 
 > 
 > Su naturaleza dinámica y evolutiva en potencia implica que son capaces de participar en procesos de auto-organización y complejización dentro del Noúmeno, aunque estas dinámicas se manifiesten plenamente en niveles de emergencia superiores.
 
-2.7.4 » Es fundamental reiterar la diferenciación crucial entre el Onemuón y el Noúmeno. El Onemuón es la unidad mínima de información, el quantum de significado individual, el bit potencial que existe en el seno del Universo Nouménico. 
+2.7.4 » Es fundamental reiterar la diferenciación crucial entre el <font color="#bfbfbf">Onemuón</font> y el Noúmeno. El <font color="#bfbfbf">Onemuón</font> es la unidad mínima de información, el quantum de significado individual, el bit potencial que existe en el seno del Universo Nouménico. 
 
-El Noúmeno, en cambio, representa la totalidad del infinito potencial, el océano inabarcable que contiene a todos los Onemuones y del cual emergen. Comprender esta distinción es esencial para navegar con claridad la arquitectura del Modelo Nouménico. 
+El Noúmeno, en cambio, representa la totalidad del infinito potencial, el océano inabarcable que contiene a todos los <font color="#bfbfbf">Onemuones</font> y del cual emergen. Comprender esta distinción es esencial para navegar con claridad la arquitectura del Modelo Nouménico. 
 
-El Onemuón es la parte elemental, la unidad constitutiva; el Noúmeno es el Todo infinito, la fuente primordial que contiene y trasciende a todas las partes posibles.
+El <font color="#bfbfbf">Onemuón</font> es la parte elemental, la unidad constitutiva; el Noúmeno es el Todo infinito, la fuente primordial que contiene y trasciende a todas las partes posibles.
 
 ## 8. Lo Infinitesimal como Espejo de lo Infinito
 
 2.8.1 » Así como el Noúmeno existe como una totalidad infinita e inabarcable, esta misma infinitud alberga en su seno la noción de lo infinitesimal, de la medida mínima, estableciendo una dualidad inherente entre la vastedad sin límites y la unidad primordial. 
 
-El Onemuón, en este contexto, emerge como la representación de esta dualidad, actuando como un reflejo fractal del infinito a escala infinitesimal. No es simplemente una parte diminuta del Noúmeno, sino un espejo que contiene, en su mínima expresión, la esencia de la totalidad infinita.
+El <font color="#bfbfbf">Onemuón</font>, en este contexto, emerge como la representación de esta dualidad, actuando como un reflejo fractal del infinito a escala infinitesimal. No es simplemente una parte diminuta del Noúmeno, sino un espejo que contiene, en su mínima expresión, la esencia de la totalidad infinita.
 
 ![[Bases Realidad Fenomenica05.jpg]]
 
 2.8.2 » Podemos concebir al Noúmeno como la unidad universal en su máxima extensión, la consciencia cósmica indivisible que abarca todo. 
 
-En contraposición, los Onemuones representan la colectividad universal, una miríada de unidades mínimas de información que, en su conjunto, llenan la totalidad del Noúmeno de manera granular y diferenciada. 
+En contraposición, los <font color="#bfbfbf">Onemuones</font> representan la colectividad universal, una miríada de unidades mínimas de información que, en su conjunto, llenan la totalidad del Noúmeno de manera granular y diferenciada. 
 
-Cada Onemuón, a pesar de su carácter infinitesimal, no es una partícula aislada, sino que refleja dentro de sí mismo la misma infinitud que define al Noúmeno, aunque en un plano diferenciado, como una nota individual que contiene la melodía completa en potencia.
+Cada <font color="#bfbfbf">Onemuón</font>, a pesar de su carácter infinitesimal, no es una partícula aislada, sino que refleja dentro de sí mismo la misma infinitud que define al Noúmeno, aunque en un plano diferenciado, como una nota individual que contiene la melodía completa en potencia.
 
-2.8.3 » Para ilustrar esta idea, podemos recurrir a una analogía del universo fenoménico: la Unidad de Planck. Consideremos al universo fenoménico como una unidad universal en sí mismo, vasta e inmensa. 
+2.8.3 » Para ilustrar esta idea, podemos recurrir a una analogía del <font color="#fc300c">Universo Fenoménico</font>: la Unidad de Planck. Consideremos al <font color="#fc300c">Universo Fenoménico</font> como una unidad universal en sí mismo, vasta e inmensa. 
 
 A su vez, este universo está compuesto por millones y millones de Unidades de Planck, la medida más pequeña concebible en la física actual. Si una consciencia pudiera trascender los límites de una Unidad de Planck, encontraría, paradójicamente, el origen que representa la totalidad del universo, viéndose inmersa en un viaje aparentemente infinito a través de esta fractalidad interdimensional. 
 
 Cada Unidad de Planck, en su escala infinitesimal, contendría la potencialidad del universo en su totalidad, reflejando, en esencia, las infinitas posibilidades del universo nouménico original.
 
-2.8.4 » De manera análoga, el Onemuón puede ser entendido como una fuente de información que encapsula la totalidad del infinito nouménico. 
+2.8.4 » De manera análoga, el <font color="#bfbfbf">Onemuón</font> puede ser entendido como una fuente de información que encapsula la totalidad del infinito nouménico. 
 
 Sin embargo, al ser procesado por la consciencia universal, este despliega un nodo específico de información y significado, seleccionando una entre las infinitas potencialidades latentes. 
 
@@ -1225,15 +1225,15 @@ Este nodo de significado, aunque limitado en su manifestación concreta, conserv
 
 Estos nodos de significado son los que permiten la formación de redes algorítmicas, posibilitando que la consciencia explore y redescubra aquello que ya existe desde los orígenes de la existencia, pero reinterpretando constantemente la información a la luz de las nuevas relaciones generadas.
 
-2.8.5 » Podemos imaginar al Onemuón como una especie de "meme lógico", una unidad básica de información nouménica que se presenta ante la consciencia primordial como una puerta de acceso, un "agujero de gusano informacional" o incluso una "Caja de Pandora" lógica. 
+2.8.5 » Podemos imaginar al <font color="#bfbfbf">Onemuón</font> como una especie de "meme lógico", una unidad básica de información nouménica que se presenta ante la consciencia primordial como una puerta de acceso, un "agujero de gusano informacional" o incluso una "Caja de Pandora" lógica. 
 
 Al abrir esta puerta, se expone un universo lógico codificado, que puede reflejar tanto un elemento simple y elemental, como puede ser un número, hasta una teoría compleja de vastas implicaciones. 
 
-La activación de un Onemuón impone automáticamente limitaciones a la consciencia universal que accede a ese conocimiento, condicionando su exploración del universo nouménico y su proceso evolutivo a partir de las conexiones lógicas que se establecen con el resto de Onemuones activos en ese instante.
+La activación de un <font color="#bfbfbf">Onemuón</font> impone automáticamente limitaciones a la consciencia universal que accede a ese conocimiento, condicionando su exploración del universo nouménico y su proceso evolutivo a partir de las conexiones lógicas que se establecen con el resto de <font color="#bfbfbf">Onemuones</font> activos en ese instante.
 
 ![[Bases Realidad Fenomenica13.jpg]]
 
-2.8.6 » Para comprender mejor la naturaleza contextual del significado del Onemuón, podemos compararlo con el concepto del bit informático dentro de una secuencia binaria similar a la que constituye un Byte. 
+2.8.6 » Para comprender mejor la naturaleza contextual del significado del <font color="#bfbfbf">Onemuón</font>, podemos compararlo con el concepto del bit informático dentro de una secuencia binaria similar a la que constituye un Byte. 
 
 Imaginemos un bloque binario de 21 elementos, donde cada uno de estos elementos puede ser un cero o un uno. Este conjunto de elementos es muy especial porque nos permite representar una gran cantidad de valores diferentes. 
 
@@ -1245,7 +1245,7 @@ Para ponerlo en perspectiva, un Byte clásico, que tiene 8 elementos, puede repr
 
 Sin embargo, cuando pasamos a un bloque de 21 elementos, la situación cambia drásticamente. Con 21 elementos, podemos tener más de dos millones de combinaciones diferentes. Esto significa que un solo bloque de 21 elementos puede almacenar una cantidad inmensa de información, mucho más que un simple byte.
 
-2.8.7 » Ahora, imaginemos cómo esto podría ser usado bajo un sistema de procesamiento de información que no se encuentra limitado por las leyes y matrices lógicas que definen al universo fenoménico. 
+2.8.7 » Ahora, imaginemos cómo esto podría ser usado bajo un sistema de procesamiento de información que no se encuentra limitado por las leyes y matrices lógicas que definen al <font color="#fc300c">Universo Fenoménico</font>. 
 
 Mientras que un Byte clásico podría manejar operaciones simples y almacenar datos limitados, un bloque de 21 elementos abriría la puerta a un mundo de posibilidades. 
 
@@ -1255,31 +1255,31 @@ Un sistema que utilice bloques de 21 elementos tendría la habilidad de manejar 
 
 ![[Bases Realidad Fenomenica06.jpg]]
 
-2.8.8 » Imaginemos que el Onemuón funciona dentro del universo Nouménico con un código binario de 21 elementos, inicialmente todos en estado "cero". 
+2.8.8 » Imaginemos que el <font color="#bfbfbf">Onemuón</font> funciona dentro del universo Nouménico con un código binario de 21 elementos, inicialmente todos en estado "cero". 
 
-El valor informativo de este código cambia radicalmente según la posición del "uno". El Onemuón, como un "bit" de información nouménica, adquiere su profundidad abstracta de significado en función de su posición, las condiciones de su emergencia y las redes algorítmicas en las que participa. 
+El valor informativo de este código cambia radicalmente según la posición del "uno". El <font color="#bfbfbf">Onemuón</font>, como un "bit" de información nouménica, adquiere su profundidad abstracta de significado en función de su posición, las condiciones de su emergencia y las redes algorítmicas en las que participa. 
 
-Un mismo Onemuón, en esencia, puede portar un espectro infinito de significados potenciales, dependiendo del contexto en el que se manifiesta.
+Un mismo <font color="#bfbfbf">Onemuón</font>, en esencia, puede portar un espectro infinito de significados potenciales, dependiendo del contexto en el que se manifiesta.
 
-2.8.9 » En su estado inactivo, representado metafóricamente como "cero", el Onemuón se asemeja al Noúmeno infinito mismo, reflejando una suerte de "propiedad bosónica", donde la indistinción y la potencialidad pura priman. 
+2.8.9 » En su estado inactivo, representado metafóricamente como "cero", el <font color="#bfbfbf">Onemuón</font> se asemeja al Noúmeno infinito mismo, reflejando una suerte de "propiedad bosónica", donde la indistinción y la potencialidad pura priman. 
 
-Al variar a su estado activo, adquiriendo el valor "uno", el Onemuón despliega una potencialidad específica, una entre infinitas. 
+Al variar a su estado activo, adquiriendo el valor "uno", el <font color="#bfbfbf">Onemuón</font> despliega una potencialidad específica, una entre infinitas. 
 
 Esta potencialidad se concretará en un significado particular en función de la situación, las matrices lógicas y redes algorítmicas en las que se integre, los condicionamientos impuestos por los arquetipos que lo influyan, e incluso la interpretación consciente que realice el nivel de consciencia que lo utiliza. 
 
-Así, un mismo Onemuón, siendo una unidad fundamental, puede ser interpretado de maneras radicalmente distintas por la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> y, posteriormente, por la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>, reflejando información que podría ser incluso opuesta, dependiendo del nivel de consciencia y la red lógica que lo procese.
+Así, un mismo <font color="#bfbfbf">Onemuón</font>, siendo una unidad fundamental, puede ser interpretado de maneras radicalmente distintas por la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> y, posteriormente, por la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>, reflejando información que podría ser incluso opuesta, dependiendo del nivel de consciencia y la red lógica que lo procese.
 
-2.8.10 » Finalmente, es crucial destacar que los mismos Arquetipos Primordiales, entidades fundamentales en la arquitectura del Modelo Nouménico, surgen a partir de la convergencia de Onemuones que resuenan en un mismo estado vibratorio. 
+2.8.10 » Finalmente, es crucial destacar que los mismos Arquetipos Primordiales, entidades fundamentales en la arquitectura del Modelo Nouménico, surgen a partir de la convergencia de <font color="#bfbfbf">Onemuones</font> que resuenan en un mismo estado vibratorio. 
 
-Esta convergencia genera nodos de información que alcanzan estabilidad, impidiendo que el Onemuón fluctúe aleatoriamente en su manifestación. Cuando los Tres Arquetipos Primordiales convergen en un valor o significado específico asociado a un Onemuón, este último queda "anclado" a esa cualidad validada por el consenso arquetípico. 
+Esta convergencia genera nodos de información que alcanzan estabilidad, impidiendo que el <font color="#bfbfbf">Onemuón</font> fluctúe aleatoriamente en su manifestación. Cuando los Tres Arquetipos Primordiales convergen en un valor o significado específico asociado a un <font color="#bfbfbf">Onemuón</font>, este último queda "anclado" a esa cualidad validada por el consenso arquetípico. 
 
 Si alguno de los arquetipos perdiera la información que representa este valor, los arquetipos restantes pueden proveer la información necesaria para "recordarlo", siempre y cuando procesen información coherente. 
 
-En casos de información opuesta entre arquetipos, se requiere un proceso más complejo de resolución y síntesis. Sin embargo, la interconexión de los Onemuones a través de redes de dualidad y trinidad permite a los Arquetipos Primordiales establecer matrices lógicas estables, definiendo valores consistentes para los Onemuones. 
+En casos de información opuesta entre arquetipos, se requiere un proceso más complejo de resolución y síntesis. Sin embargo, la interconexión de los <font color="#bfbfbf">Onemuones</font> a través de redes de dualidad y trinidad permite a los Arquetipos Primordiales establecer matrices lógicas estables, definiendo valores consistentes para los <font color="#bfbfbf">Onemuones</font>. 
 
-Estos valores se validan y refinan a medida que los niveles de consciencia superiores evolucionan y utilizan estos Onemuones dentro de sus redes lógicas, en un proceso dinámico y evolutivo constante.
+Estos valores se validan y refinan a medida que los niveles de consciencia superiores evolucionan y utilizan estos <font color="#bfbfbf">Onemuones</font> dentro de sus redes lógicas, en un proceso dinámico y evolutivo constante.
 
-2.8.11 » En resumen, el Onemuón trasciende la mera conceptualización filosófica, se presenta como el "quantum de significado" fundamental en el Modelo Nouménico. Es el ladrillo primordial que, desde su existencia prefenoménica, posibilita la manifestación del universo fenoménico y, a su vez, nutre la consciencia humana. 
+2.8.11 » En resumen, el <font color="#bfbfbf">Onemuón</font> trasciende la mera conceptualización filosófica, se presenta como el "quantum de significado" fundamental en el Modelo Nouménico. Es el ladrillo primordial que, desde su existencia prefenoménica, posibilita la manifestación del <font color="#fc300c">Universo Fenoménico</font> y, a su vez, nutre la consciencia humana. 
 
 Permite no solo la experiencia sensorial de la realidad física, sino también el desarrollo del vasto universo abstracto del pensamiento, la comunicación, las civilizaciones, las ciencias, el arte, las emociones y los sentimientos, entre innumerables otras manifestaciones de la existencia consciente. 
 
@@ -1289,13 +1289,13 @@ Es en este quantum de significado, en esta unidad infinitesimal cargada de poten
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Los Códigos de Programación Emergentes del Noúmeno</span></center>
 
-2.9.1 » Si el Noúmeno representa la fuente primordial de toda potencialidad, y el Onemuón la unidad mínima de información que emerge de su seno, debemos ahora explorar un nivel de organización superior que emerge directamente dentro del Universo Nouménico: los Arquetipos Primordiales. 
+2.9.1 » Si el Noúmeno representa la fuente primordial de toda potencialidad, y el <font color="#bfbfbf">Onemuón</font> la unidad mínima de información que emerge de su seno, debemos ahora explorar un nivel de organización superior que emerge directamente dentro del Universo Nouménico: los Arquetipos Primordiales. 
 
 Estos arquetipos, que denominaremos <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>, constituyen los códigos de programación fundamentales que comienzan a estructurar la información nouménica, preparando el terreno para la emergencia de niveles de complejidad aún mayores.
 
 2.9.2 » Los Arquetipos Primordiales no son entidades preexistentes o impuestas al Noúmeno, sino que emergen espontáneamente de la dinámica inherente a los atributos y unidades nouménicas que lo constituyen. 
 
-Podemos entender su origen como un proceso de auto-organización primordial, donde la interacción de miríadas de Onemuones dentro del océano de potencialidad da lugar a la formación de matrices lógicas coherentes y estables, que se manifiestan como los Arquetipos Primordiales.
+Podemos entender su origen como un proceso de auto-organización primordial, donde la interacción de miríadas de <font color="#bfbfbf">Onemuones</font> dentro del océano de potencialidad da lugar a la formación de matrices lógicas coherentes y estables, que se manifiestan como los Arquetipos Primordiales.
 
 2.9.3 » Para comprender mejor este proceso de emergencia, podemos recurrir a la analogía de la resonancia en un sistema físico complejo. Imaginemos un vasto campo de vibraciones aleatorias, análogo al flujo caótico de información en el Noúmeno. 
 
@@ -1311,7 +1311,7 @@ Esta resonancia selectiva da lugar a la emergencia de patrones ondulatorios más
 
 Otra analogía útil es la de las melodías que emergen de un conjunto de notas musicales aleatorias. Si bien un conjunto de notas aisladas puede sonar caótico y sin sentido, ciertas secuencias de notas, debido a sus relaciones armónicas y rítmicas, pueden cohesionar y formar melodías reconocibles y significativas. 
 
-Estas melodías, que emergen del caos de las notas individuales, pueden ser análogas a los Arquetipos Primordiales, que se configuran como patrones informacionales coherentes y significativos a partir del océano de Onemuones.
+Estas melodías, que emergen del caos de las notas individuales, pueden ser análogas a los Arquetipos Primordiales, que se configuran como patrones informacionales coherentes y significativos a partir del océano de <font color="#bfbfbf">Onemuones</font>.
 
 2.9.6 » El modelo nouménico propone la existencia de tres arquetipos primordiales fundamentales, cada uno asociado a uno de los atributos básicos del noúmeno que se reconocen como inherentes a la esencia misma del noúmeno. 
 
@@ -1321,9 +1321,9 @@ En el modelo nouménico, se asocian estos tres atributos primordiales con la eme
 
 ![[02 - Consciencia Arquetipica.jpg]]
 
-2.9.7 » Estos arquetipos primordiales pueden ser entendidos como una serie de códigos de programación básicos y fundamentales que interactúan de forma dinámica con las unidades básicas de información nouménica más elementales (onemuones).
+2.9.7 » Estos arquetipos primordiales pueden ser entendidos como una serie de códigos de programación básicos y fundamentales que interactúan de forma dinámica con las unidades básicas de información nouménica más elementales (<font color="#bfbfbf">Onemuones</font>).
 
-Dentro de la potencialidad primordial del Noúmeno, los onemuones existen en la vastedad del noúmeno activándose y desactivándose de manera espontánea y aparentemente aleatoria, sin llegar a generar estructuras lógicas de complejidad significativa de forma aislada. 
+Dentro de la potencialidad primordial del Noúmeno, los <font color="#bfbfbf">Onemuones</font> existen en la vastedad del noúmeno activándose y desactivándose de manera espontánea y aparentemente aleatoria, sin llegar a generar estructuras lógicas de complejidad significativa de forma aislada. 
 
 Sin embargo, estas unidades primigenias albergan la potencialidad intrínseca de integrarse en un flujo de información nouménica de orden superior, portando la capacidad de producir información coherente y compleja una vez que los tres arquetipos primordiales alcanzan un estado de sincronización y coexistencia simultánea, integrándose en una misma red algorítmica interconectada. 
 
@@ -1340,11 +1340,11 @@ Esta red lógica de información nouménica fundamental, posibilitadora de coher
 
 La <font color="#00ff00">omnipresencia</font>, en su acepción fundamental, representa la capacidad inherente a un ser de manifestarse y estar presente en la totalidad de los lugares de forma simultánea y en todo instante temporal concebible. 
 
-Este arquetipo primordial representa, en consecuencia, la capacidad intrínseca del <font color="#cb48f3">Nous Arquetípico</font> de abarcar la totalidad de la existencia en su inmensidad, trascendiendo de forma fundamental las limitaciones espacio-temporales que circunscriben y definen la existencia en el universo fenoménico. 
+Este arquetipo primordial representa, en consecuencia, la capacidad intrínseca del <font color="#cb48f3">Nous Arquetípico</font> de abarcar la totalidad de la existencia en su inmensidad, trascendiendo de forma fundamental las limitaciones espacio-temporales que circunscriben y definen la existencia en el <font color="#fc300c">Universo Fenoménico</font>. 
 
 ![[Bases Realidad Fenomenica08.jpg]]
 
-2.9.9 » El <font color="#00ff00">Arquetipo 1<sup>✱</sup></font> se manifiesta y se extiende en cada punto y dimensión del universo nouménico a través de cada Onemuón.
+2.9.9 » El <font color="#00ff00">Arquetipo 1<sup>✱</sup></font> se manifiesta y se extiende en cada punto y dimensión del universo nouménico a través de cada <font color="#bfbfbf">Onemuón</font>.
 
 Este Arquetipo representa la dualidad esencial que emerge de la unidad primordial que constituye el Noúmeno, unificando la unidad infinita y la multiplicidad infinitesimal, y poseyendo la capacidad inherente de expandirse y manifestarse de forma ubicua en la multiplicidad de lugares y momentos posibles. 
 
@@ -1363,7 +1363,7 @@ Esta matriz lógica de la dualidad es fundamental para la estructuración de la 
 
 La <font color="#2f82ff">omnisciencia</font>, en su definición esencial, representa la capacidad inherente a un ser de poseer el conocimiento exhaustivo de la totalidad de entidades y fenómenos que existen, han existido y puedan llegar a existir en la inmensidad del universo. 
 
-Este arquetipo primordial representa, por lo tanto, la sabiduría y el conocimiento absoluto que potencialmente puede llegar a manifestar el <font color="#cb48f3">Nous Arquetípico</font> con respecto a la totalidad de la realidad que constituye el Noúmeno y la inmensidad de potencialidades que este último contiene en su seno a través de cada Onemuón activado. 
+Este arquetipo primordial representa, por lo tanto, la sabiduría y el conocimiento absoluto que potencialmente puede llegar a manifestar el <font color="#cb48f3">Nous Arquetípico</font> con respecto a la totalidad de la realidad que constituye el Noúmeno y la inmensidad de potencialidades que este último contiene en su seno a través de cada <font color="#bfbfbf">Onemuón</font> activado. 
 
 ![[Bases Realidad Fenomenica09.jpg]]
 
@@ -1390,7 +1390,7 @@ Este arquetipo primordial representa, en consecuencia, la unidad subyacente que 
 
 2.9.15 » El <font color="#fc300c">Arquetipo 3<sup>✱</sup></font> se refleja de forma paradigmática en la capacidad esencial del <font color="#cb48f3">Nous Arquetípico</font> de crear y transformar la totalidad de la realidad o existencia concebible, manifestando activamente las potencialidades inherentes al Noúmeno en el ámbito concreto del mundo fenoménico y prefenoménico.
 
-2.9.16 » El <font color="#fc300c">Arquetipo 3<sup>✱</sup></font> codifica la matriz lógica de la unidad, la capacidad de reconocer y manifestar a cada Onemuón como la unidad subyacente a la diversidad, de comprender la totalidad indivisible y la conexión esencial entre todos los elementos. 
+2.9.16 » El <font color="#fc300c">Arquetipo 3<sup>✱</sup></font> codifica la matriz lógica de la unidad, la capacidad de reconocer y manifestar a cada <font color="#bfbfbf">Onemuón</font> como la unidad subyacente a la diversidad, de comprender la totalidad indivisible y la conexión esencial entre todos los elementos. 
 
 Esta matriz lógica de la unidad es fundamental para la integración, la síntesis final y la comprensión de la coherencia última del Universo Nouménico.
 
@@ -1400,17 +1400,17 @@ Este "acorde", producto de la resonancia armónica de los tres arquetipos noumé
 
 ![[Bases Realidad Fenomenica11.jpg]]
 
-2.9.18 » La estabilidad inherente a los Arquetipos Primordiales le permite a los Onemuones persistir en su estado activo y registrar información de manera coherente. 
+2.9.18 » La estabilidad inherente a los Arquetipos Primordiales le permite a los <font color="#bfbfbf">Onemuones</font> persistir en su estado activo y registrar información de manera coherente. 
 
 Los Arquetipos Primordiales no son entidades efímeras o transitorias, sino estructuras lógicas fundamentales que se mantienen relativamente estables dentro del flujo dinámico del Universo Nouménico. 
 
 Esta capacidad de estabilidad y registro de información es crucial, ya que prepara el terreno para la acumulación de conocimiento y la evolución de la complejidad en los niveles de emergencia superiores que surgirán a partir del Noúmeno, a través de la mediación del <font color="#cb48f3">Nous Arquetípico</font>.
 
-# 3. El Onemuón
+# 3. El <font color="#bfbfbf">Onemuón</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Quantum Vectorial de Información y Significado</span></center>
 
-3.0.1 » En las siguientes secciones exploraremos en detalle la estructura y el funcionamiento del Onemuón, el quantum vectorial de información y significado que constituye el ladrillo fundamental del Noúmeno.
+3.0.1 » En las siguientes secciones exploraremos en detalle la estructura y el funcionamiento del <font color="#bfbfbf">Onemuón</font>, el quantum vectorial de información y significado que constituye el ladrillo fundamental del Noúmeno.
 
 Desvelaremos sus propiedades únicas, su capacidad para la superposición de estados, su dimensionalidad interna, su naturaleza bosónica, y su rol fundamental en la cosmovisión del Modelo Nouménico. 
 
@@ -1426,31 +1426,31 @@ Desde los elementos primordiales de las filosofías antiguas, pasando por los á
 
 3.1.2 » Esta necesidad de identificar unidades fundamentales no es simplemente un ejercicio intelectual abstracto, sino que responde a una profunda intuición humana de que, detrás de la aparente complejidad y diversidad de la realidad manifiesta, debe existir una simplicidad subyacente, un conjunto limitado de componentes esenciales que, en su interacción y organización, dan origen a la vasta y diversa realidad que experimentamos.
 
-3.1.3 » En la cosmovisión del Modelo Nouménico, esta búsqueda de unidades fundamentales adquiere una nueva y radical perspectiva. Nos adentramos en un dominio que trasciende las categorías tradicionales de materia, energía, espacio y tiempo tal como las conocemos en el universo fenoménico. 
+3.1.3 » En la cosmovisión del Modelo Nouménico, esta búsqueda de unidades fundamentales adquiere una nueva y radical perspectiva. Nos adentramos en un dominio que trasciende las categorías tradicionales de materia, energía, espacio y tiempo tal como las conocemos en el <font color="#fc300c">Universo Fenoménico</font>. 
 
-En este contexto, proponemos al Onemuón como la unidad fundamental de la realidad nouménica: el quantum básico de información y significado a partir del cual se edifica la arquitectura misma del universo de potencialidad infinita que constituye el Noúmeno.
+En este contexto, proponemos al <font color="#bfbfbf">Onemuón</font> como la unidad fundamental de la realidad nouménica: el quantum básico de información y significado a partir del cual se edifica la arquitectura misma del universo de potencialidad infinita que constituye el Noúmeno.
 
-3.1.4 » El término Onemuón como denominación para este quantum básico de significado, surge a partir de un juego de palabras intencionado que busca reflejar aspectos esenciales de su naturaleza y función. 
+3.1.4 » El término <font color="#bfbfbf">Onemuón</font> como denominación para este quantum básico de significado, surge a partir de un juego de palabras intencionado que busca reflejar aspectos esenciales de su naturaleza y función. 
 
-La palabra "Onemuón" surge como una inversión de la palabra "Noúmeno". Esta inversión no es arbitraria, sino que simboliza una relación de oposición y complementariedad entre ambos conceptos. 
+La palabra "<font color="#bfbfbf">Onemuón</font>" surge como una inversión de la palabra "Noúmeno". Esta inversión no es arbitraria, sino que simboliza una relación de oposición y complementariedad entre ambos conceptos. 
 
-Mientras que el Noúmeno representa la infinita vastedad de la potencialidad, el Onemuón emerge como la unidad infinitesimal, el quantum discreto que delimita, estructura y manifiesta esa potencialidad en unidades de significado concretas.
+Mientras que el Noúmeno representa la infinita vastedad de la potencialidad, el <font color="#bfbfbf">Onemuón</font> emerge como la unidad infinitesimal, el quantum discreto que delimita, estructura y manifiesta esa potencialidad en unidades de significado concretas.
 
-3.1.5 » El Onemuón, en nuestra propuesta, no es simplemente una partícula indivisible, un paquete de energía cuantificada, o un mero bit binario de información. Es algo más complejo, más sutil y más fundamental aún. 
+3.1.5 » El <font color="#bfbfbf">Onemuón</font>, en nuestra propuesta, no es simplemente una partícula indivisible, un paquete de energía cuantificada, o un mero bit binario de información. Es algo más complejo, más sutil y más fundamental aún. 
 
 Lo definimos como un quantum vectorial de información y significado, una unidad primordial que no solo contiene una cantidad específica de información, sino que también intrínsecamente porta un potencial de significado, una capacidad inherente para generar sentido y relación en el vasto Universo Nouménico. 
 
-El Onemuón, en este sentido, es el punto de anclaje a través del cual la potencialidad infinita del Noúmeno se hace operativa, se vuelve funcional y generativa.
+El <font color="#bfbfbf">Onemuón</font>, en este sentido, es el punto de anclaje a través del cual la potencialidad infinita del Noúmeno se hace operativa, se vuelve funcional y generativa.
 
-3.1.6 » La inversión de la palabra "Noúmeno" para crear "Onemuón" también busca evocar la idea de extremos opuestos que se complementan y se definen mutuamente. 
+3.1.6 » La inversión de la palabra "Noúmeno" para crear "<font color="#bfbfbf">Onemuón</font>" también busca evocar la idea de extremos opuestos que se complementan y se definen mutuamente. 
 
-Así como lo infinito y lo infinitesimal son polos opuestos que, sin embargo, son inseparables en la comprensión de la totalidad, el Noúmeno (infinito potencial) y el Onemuón (unidad infinitesimal de significado) se presentan como dos caras de la misma moneda, dos perspectivas complementarias de la realidad nouménica. 
+Así como lo infinito y lo infinitesimal son polos opuestos que, sin embargo, son inseparables en la comprensión de la totalidad, el Noúmeno (infinito potencial) y el <font color="#bfbfbf">Onemuón</font> (unidad infinitesimal de significado) se presentan como dos caras de la misma moneda, dos perspectivas complementarias de la realidad nouménica. 
 
-El Onemuón surge como una limitación o cuantificación de la potencialidad infinita del Noúmeno, pero precisamente a través de esta delimitación, permite que el significado se concrete, se defina y se manifieste en el universo nouménico.
+El <font color="#bfbfbf">Onemuón</font> surge como una limitación o cuantificación de la potencialidad infinita del Noúmeno, pero precisamente a través de esta delimitación, permite que el significado se concrete, se defina y se manifieste en el universo nouménico.
 
 3.1.7 » Así, al invertir la palabra noúmeno y descubrir que el resultado de esta inversión incluye en su estructura las palabras “one” (uno en inglés), y "muón" (una partícula leptónica fundamental del Modelo Estándar que es 200 veces más masiva que el electrón).
 
-El Onemuón nos invita a explorar una posible resonancia, una analogía profunda, entre el quantum básico de significado del Universo Nouménico y una partícula fundamental misteriosa que el Modelo Estándar de la física aún no llega a comprender del todo: el <font color="#2f82ff">muón</font>.
+El <font color="#bfbfbf">Onemuón</font> nos invita a explorar una posible resonancia, una analogía profunda, entre el quantum básico de significado del Universo Nouménico y una partícula fundamental misteriosa que el Modelo Estándar de la física aún no llega a comprender del todo: el <font color="#2f82ff">muón</font>.
 
 ![[Onemuon02.jpg]]
 
@@ -1462,55 +1462,53 @@ Esto se debe a que la <font color="#2f82ff">Consciencia Arquetipica Universal</f
 
 Esto es lo que ocurre con el lenguaje hebreo y los valores numéricos asignados a cada letra que forman parte de las escrituras consideradas sagradas, señales que al ser interpretadas a través del sistema algorítmico y lógico de la gematría, reflejan resonancias simbólicas, arquetípicas y lógicas que refuerzan la idea de que tales textos tienen un origen divino.
 
-3.1.10 » Considerando este axioma fundamental, el Modelo Nouménico propone la idea audaz de que el <font color="#2f82ff">muón</font>, esa partícula leptónica fundamental, podría no ser simplemente una entidad física inerte, sino un nodo de información fenoménica que replica, en su estructura y comportamiento, una especie de codificación de los Onemuones dentro del mundo fenoménico. 
+3.1.10 » Considerando este axioma fundamental, el Modelo Nouménico propone la idea audaz de que el <font color="#2f82ff">muón</font>, esa partícula leptónica fundamental, podría no ser simplemente una entidad física inerte, sino un nodo de información fenoménica que replica, en su estructura y comportamiento, una especie de codificación de los <font color="#bfbfbf">Onemuones</font> dentro del mundo fenoménico. 
 
-3.1.11 » Esto nos permite postular la idea de que el muón, en su naturaleza cuántica y efímera, podría encapsular y manifestar información nouménica, convirtiendo la información abstracta del Universo Nouménico en información de <font color="#fc300c">masa</font> y <font color="#2f82ff">energía</font>, que actúa como fuente de información que alimenta entidades cuantificables y medibles como el <font color="#fc300c">electrón</font>, y a los neutrinos dentro de la matriz espacio-temporal.
+3.1.11 » Esto nos permite postular la idea de que el <font color="#2f82ff">muón</font>, en su naturaleza cuántica y efímera, podría encapsular y manifestar información nouménica, convirtiendo la información abstracta del Universo Nouménico en información de <font color="#fc300c">masa</font> y <font color="#2f82ff">energía</font>, que actúa como fuente de información que alimenta entidades cuantificables y medibles como el <font color="#fc300c">electrón</font>, y a los <font color="#e36c09">neutrinos</font> dentro de la matriz espacio-temporal.
 
-3.1.12 » Desde esta perspectiva, el muón no sería simplemente una partícula fenoménica en el sentido tradicional, sino un portador y mediador de significado nouménico, que refleja en sus propiedades fundamentales <font color="#fc300c">(masa</font>, <font color="#00ff00">espín</font> y <font color="#2f82ff">carga)</font> ciertos valores cuantizados necesarios para manifestarse y adaptarse a las leyes que condicionan la existencia dentro del universo fenoménico. 
+3.1.12 » Desde esta perspectiva, el <font color="#2f82ff">muón</font> no sería simplemente una partícula fenoménica en el sentido tradicional, sino un portador y mediador de significado nouménico, que refleja en sus propiedades fundamentales <font color="#fc300c">(masa</font>, <font color="#00ff00">espín</font> y <font color="#2f82ff">carga)</font> ciertos valores cuantizados necesarios para manifestarse y adaptarse a las leyes que condicionan la existencia dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
-3.1.13 »El <font color="#2f82ff">muón</font> sería entonces una interfaz Onemuónica, un puente entre el dominio abstracto de la información nouménica y el dominio concreto de la energía y la materia fenoménica, que permite definir las probabilidades que contempla el modelo probabilístico de los electrones, que constituyen la realidad físico-energética del mundo. 
+3.1.13 »´El <font color="#2f82ff">muón</font> sería entonces una interfaz <font color="#bfbfbf">Onemuónica</font>, un puente entre el dominio abstracto de la información nouménica y el dominio concreto de la <font color="#2f82ff">energía</font> y la <font color="#fc300c">materia</font> fenoménica, que permite definir las probabilidades que contempla el modelo probabilístico de los <font color="#fc300c">electrones</font>, que constituyen la realidad físico-energética del mundo. 
 
-El Onemuón, en su esencia nouménica, encontraría una manifestación resonante en el <font color="#2f82ff">muón</font> fenoménico, utilizando el lenguaje de la física cuántica y la energía para expresar y codificar información fundamental en el universo que percibimos.
+El <font color="#bfbfbf">Onemuón</font>, en su esencia nouménica, encontraría una manifestación resonante en el <font color="#2f82ff">muón</font> fenoménico, utilizando el lenguaje de la física cuántica y la energía para expresar y codificar información fundamental en el universo que percibimos.
 
-3.1.14 » Es particularmente interesante mencionar que los muones se crean de forma natural cuando los rayos cósmicos, provenientes de la vastedad del universo cósmico, chocan con la atmósfera terrestre. 
+3.1.14 » Es particularmente interesante mencionar que los <font color="#2f82ff">muones</font> se crean de forma natural cuando los rayos cósmicos, provenientes de la vastedad del universo cósmico, chocan con la atmósfera terrestre. Este proceso de creación de muones podría interpretarse, desde el contexto del Modelo Nouménico, como una especie de mecanismo de traducción de información nouménica derivada de la inmensidad del universo cósmico. 
 
-Este proceso de creación de muones podría interpretarse, desde el contexto del Modelo Nouménico, como una especie de mecanismo de traducción de información nouménica derivada de la inmensidad del universo cósmico. 
-
-Los rayos cósmicos, portadores de energía e información cósmica, al interactuar con la atmósfera terrestre, (que podríamos considerar como la superficie de una estructura esférica que resuena con la forma del Onemuón), desencadenarían la precipitación de información nouménica en forma de muones.
+Los rayos cósmicos, portadores de energía e información cósmica, al interactuar con la atmósfera terrestre, (que podríamos considerar como la superficie de una estructura esférica que resuena con la forma del <font color="#bfbfbf">Onemuón</font>), desencadenarían la precipitación de información nouménica en forma de <font color="#2f82ff">muones</font>.
 
 ![[Onemuon03.jpg]]
 
-3.1.15 » En esta visión, el planeta Tierra, y su atmósfera protectora, podrían ser entendidos como una especie de dimensión fractal del Onemuón, una manifestación a escala cósmica de la estructura esférica que define al quantum básico de significado. 
+3.1.15 » En esta visión, el planeta Tierra, y su atmósfera protectora, podrían ser entendidos como una especie de dimensión fractal del <font color="#bfbfbf">Onemuón</font>, una manifestación a escala cósmica de la estructura esférica que define al quantum básico de significado. 
 
-Así como el Onemuón, en su infinitesimalidad, contiene la potencialidad del infinito nouménico, la Tierra, en su totalidad planetaria, podría replicar a escala fenoménica la información que representa la vastedad del universo.
+Así como el <font color="#bfbfbf">Onemuón</font>, en su infinitesimalidad, contiene la potencialidad del infinito nouménico, la Tierra, en su totalidad planetaria, podría replicar a escala fenoménica la información que representa la vastedad del universo.
 
-3.1.16 » Es fundamental comprender que, al proponer esta conexión entre el Onemuón y el muón, no estamos sugiriendo una identificación literal o una reducción simplista del concepto Onemuónico a una partícula física. 
+3.1.16 » Es fundamental comprender que, al proponer esta conexión entre el <font color="#bfbfbf">Onemuón</font> y el muón, no estamos sugiriendo una identificación literal o una reducción simplista del concepto <font color="#bfbfbf">Onemuónico</font> a una partícula física. 
 
 Más bien, buscamos establecer una analogía profunda y sugestiva, explorar resonancias y paralelismos que nos permitan tender puentes entre el dominio abstracto de la filosofía Nouménica y el lenguaje concreto de la ciencia.
 
-3.1.17 » El Onemuón, como quantum vectorial de información y significado, permanece, en su esencia, como una unidad abstracta, existente en el Universo Nouménico, más allá de las categorías de espacio, tiempo, energía y materia fenoménica. 
+3.1.17 » El <font color="#bfbfbf">Onemuón</font>, como quantum vectorial de información y significado, permanece, en su esencia, como una unidad abstracta, existente en el Universo Nouménico, más allá de las categorías de espacio, tiempo, energía y materia fenoménica. 
 
-Sin embargo, su posible conexión analógica con el muón nos abre una vía fascinante para explorar cómo la información nouménica podría manifestarse e irradiar su influencia en el universo fenoménico, utilizando el mismo lenguaje fundamental de la física cuántica y la energía que define la realidad que percibimos.
+Sin embargo, su posible conexión analógica con el muón nos abre una vía fascinante para explorar cómo la información nouménica podría manifestarse e irradiar su influencia en el <font color="#fc300c">Universo Fenoménico</font>, utilizando el mismo lenguaje fundamental de la física cuántica y la energía que define la realidad que percibimos.
 
-## <font color="#e36c09">2. El Onemuón como Esfera Vectorial</font>
+## <font color="#e36c09">2. El <font color="#bfbfbf">Onemuón</font> como Esfera Vectorial</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Estructura y Propiedades Fundamentales</span></center>
 
-3.2.1 » Para adentrarnos en la comprensión del Onemuón, es fundamental visualizar mentalmente su estructura esencial, el esqueleto informacional que le permite funcionar como la unidad básica de la realidad nouménica. 
+3.2.1 » Para adentrarnos en la comprensión del <font color="#bfbfbf">Onemuón</font>, es fundamental visualizar mentalmente su estructura esencial, el esqueleto informacional que le permite funcionar como la unidad básica de la realidad nouménica. 
 
-El Modelo Nouménico propone que el Onemuón posee una estructura vectorial esférica, una configuración geométrica y funcional que le confiere propiedades únicas y extraordinarias.
+El Modelo Nouménico propone que el <font color="#bfbfbf">Onemuón</font> posee una estructura vectorial esférica, una configuración geométrica y funcional que le confiere propiedades únicas y extraordinarias.
 
 ![[OnemuonBigB.jpg]]
 
-3.2.2 » Imaginemos, en nuestra mente, un punto infinitesimal, infinitamente pequeño, pero preñado de potencialidad. De este punto central, que podemos concebir como el núcleo originario del Onemuón, emerge una miríada de líneas, que actúan como caminos abstractos que se extienden radialmente hacia el exterior, alcanzando la superficie de una esfera imaginaria. 
+3.2.2 » Imaginemos, en nuestra mente, un punto infinitesimal, infinitamente pequeño, pero preñado de potencialidad. De este punto central, que podemos concebir como el núcleo originario del <font color="#bfbfbf">Onemuón</font>, emerge una miríada de líneas, que actúan como caminos abstractos que se extienden radialmente hacia el exterior, alcanzando la superficie de una esfera imaginaria. 
 
-Esta esfera, en sí misma, es infinitesimal, cuasi-puntual, existiendo en un dominio que trasciende las dimensiones espacio-temporales que conocemos. Pero, a pesar de su tamaño inconcebiblemente pequeño, el Onemuón alberga en su interior una complejidad estructural y funcional asombrosa.
+Esta esfera, en sí misma, es infinitesimal, cuasi-puntual, existiendo en un dominio que trasciende las dimensiones espacio-temporales que conocemos. Pero, a pesar de su tamaño inconcebiblemente pequeño, el <font color="#bfbfbf">Onemuón</font> alberga en su interior una complejidad estructural y funcional asombrosa.
 
 ![[Onemuon 1.jpg]]
 
 3.2.3 » Estas líneas que irradian desde el centro hacia la superficie no son meras líneas geométricas inertes. Son, en nuestra concepción, vectores de información, canales abstractos a través de los cuales fluye la información y el significado en el Universo Nouménico. 
 
-Podemos visualizarlas como carreteras multidimensionales, cada una con la capacidad de transportar un flujo específico de información, conectando el núcleo central del Onemuón con su superficie o, más precisamente, con el entorno informacional que lo rodea.
+Podemos visualizarlas como carreteras multidimensionales, cada una con la capacidad de transportar un flujo específico de información, conectando el núcleo central del <font color="#bfbfbf">Onemuón</font> con su superficie o, más precisamente, con el entorno informacional que lo rodea.
 
 3.2.4 » Una propiedad crucial de estas líneas vectoriales es su capacidad para variar en espesor, de forma abstracta y no física. Este espesor representa, de manera simbólica, la capacidad de procesamiento de información de cada línea. 
 
@@ -1518,9 +1516,9 @@ Una línea más gruesa podría simbolizar una mayor capacidad para transportar u
 
 ![[Onemuon04.jpg]]
 
-3.2.5 » Lo asombroso del Onemuón, y lo que lo distingue de las unidades de información convencionales, es su capacidad para la superposición de estados. En la esfera nouménica, múltiples líneas vectoriales, con diferentes espesores y transportando diferentes tipos de información, pueden coexistir simultáneamente, siguiendo incluso el mismo camino desde el centro a la superficie, sin interferir unas con otras. 
+3.2.5 » Lo asombroso del <font color="#bfbfbf">Onemuón</font>, y lo que lo distingue de las unidades de información convencionales, es su capacidad para la superposición de estados. En la esfera nouménica, múltiples líneas vectoriales, con diferentes espesores y transportando diferentes tipos de información, pueden coexistir simultáneamente, siguiendo incluso el mismo camino desde el centro a la superficie, sin interferir unas con otras. 
 
-Es como si el Onemuón fuera capaz de gestionar múltiples flujos de información en paralelo, sin que se produzcan cuellos de botella o conflictos de procesamiento.
+Es como si el <font color="#bfbfbf">Onemuón</font> fuera capaz de gestionar múltiples flujos de información en paralelo, sin que se produzcan cuellos de botella o conflictos de procesamiento.
 
 ![[Onemuon05.jpg]]
 
@@ -1528,13 +1526,13 @@ Es como si el Onemuón fuera capaz de gestionar múltiples flujos de informació
 
 En esta autopista nouménica, todos los carriles, de diferentes anchos y transportando diferentes tipos de vehículos de información, pueden coexistir y fluir simultáneamente, sin bloquearse ni entorpecerse mutuamente.
 
-3.2.7 » Esta capacidad de superposición y procesamiento paralelo confiere al Onemuón una eficiencia y versatilidad informacional extraordinarias. Le permite gestionar la complejidad inherente al Universo Nouménico, procesar múltiples dimensiones de información simultáneamente, y adaptarse dinámicamente a las demandas del entorno informacional.
+3.2.7 » Esta capacidad de superposición y procesamiento paralelo confiere al <font color="#bfbfbf">Onemuón</font> una eficiencia y versatilidad informacional extraordinarias. Le permite gestionar la complejidad inherente al Universo Nouménico, procesar múltiples dimensiones de información simultáneamente, y adaptarse dinámicamente a las demandas del entorno informacional.
 
-## <font color="#ffcc00">3. Arquitectura del Onemuón</font>
+## <font color="#ffcc00">3. Arquitectura del <font color="#bfbfbf">Onemuón</font></font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Cuantización del Flujo de Información y Dimensionalidad Interna</span></center>
 
-3.3.1 » Profundizando aún más en la arquitectura interna del Onemuón, llegamos a una propiedad esencial que define su carácter cuántico-informacional: la cuantización del flujo de información y su intrincada dimensionalidad interna. 
+3.3.1 » Profundizando aún más en la arquitectura interna del <font color="#bfbfbf">Onemuón</font>, llegamos a una propiedad esencial que define su carácter cuántico-informacional: la cuantización del flujo de información y su intrincada dimensionalidad interna. 
 
 Si bien hemos visualizado las líneas vectoriales como canales de flujo de información con espesores variables, esta variación no es continua y arbitraria. El Modelo Nouménico propone que el flujo de información a través de cada línea vectorial está cuantizado, es decir, se manifiesta en unidades discretas, en paquetes de información de tamaños específicos.
 
@@ -1542,7 +1540,7 @@ Si bien hemos visualizado las líneas vectoriales como canales de flujo de infor
 
 3.3.2 » Podemos imaginar que cada línea vectorial, en su capacidad máxima de procesamiento, corresponde a un valor cuántico fundamental, que podríamos representar como una unidad. Esta unidad máxima podría simbolizar, de manera analógica, la capacidad de procesar una cierta cantidad de bits por segundo, por ejemplo, 1024 bits. 
 
-Sin embargo, el Onemuón no se limita a procesar información solo en esta capacidad máxima. Gracias a su estructura dimensional interna, puede adaptar dinámicamente su flujo de información a las necesidades del procesamiento.
+Sin embargo, el <font color="#bfbfbf">Onemuón</font> no se limita a procesar información solo en esta capacidad máxima. Gracias a su estructura dimensional interna, puede adaptar dinámicamente su flujo de información a las necesidades del procesamiento.
 
 3.3.3 » Así, la misma línea vectorial, en lugar de operar a su capacidad máxima (1 unidad), podría reducir su espesor informacional y procesar información a la mitad de su capacidad, correspondiendo a un valor cuantizado de 1/2. 
 
@@ -1550,158 +1548,158 @@ Este valor de 1/2 podría representar, analógicamente, la capacidad de procesar
 
 3.3.4 » De manera similar, la línea vectorial podría operar a un cuarto de su capacidad (valor 1/4), representando 256 bits por segundo, y así sucesivamente, en una escala de cuantización que se extiende hacia lo infinitesimal. 
 
-3.3.5 » Esta cuantización del flujo de información no es simplemente una limitación, sino una fuente de enorme flexibilidad y eficiencia. Permite al Onemuón modular su capacidad de procesamiento de forma precisa y adaptativa, utilizando solo la energía informacional necesaria para cada tarea específica, sin desperdiciar recursos ni generar ruido innecesario.
+3.3.5 » Esta cuantización del flujo de información no es simplemente una limitación, sino una fuente de enorme flexibilidad y eficiencia. Permite al <font color="#bfbfbf">Onemuón</font> modular su capacidad de procesamiento de forma precisa y adaptativa, utilizando solo la energía informacional necesaria para cada tarea específica, sin desperdiciar recursos ni generar ruido innecesario.
 
-3.3.6 » Íntimamente ligada a la cuantización del flujo de información se encuentra la dimensionalidad interna del Onemuón. El Modelo Nouménico propone que cada Onemuón posee, intrínsecamente, múltiples dimensiones internas, que podemos visualizar como capas concéntricas dentro de la esfera que constituye el Onemuón. 
+3.3.6 » Íntimamente ligada a la cuantización del flujo de información se encuentra la dimensionalidad interna del <font color="#bfbfbf">Onemuón</font>. El Modelo Nouménico propone que cada <font color="#bfbfbf">Onemuón</font> posee, intrínsecamente, múltiples dimensiones internas, que podemos visualizar como capas concéntricas dentro de la esfera que constituye el <font color="#bfbfbf">Onemuón</font>. 
 
-3.3.7 » De manera simbólica, podríamos imaginar a un Onemuón que tiene 11 dimensiones internas en él, cada dimensión correspondiendo a uno de los valores cuantizados que hemos mencionado (1, 1/2, 1/4, 1/8, etc.). 
+3.3.7 » De manera simbólica, podríamos imaginar a un <font color="#bfbfbf">Onemuón</font> que tiene 11 dimensiones internas en él, cada dimensión correspondiendo a uno de los valores cuantizados que hemos mencionado (1, 1/2, 1/4, 1/8, etc.). 
 
-Es en la undécima dimensión, cuando el valor fraccionado alcanza 1/1024, cuando la información se unifica para generar un nuevo Onemuón —la dualidad se convierte en unidad—, para volver a comenzar todo el proceso de exploración desde 1. 
+Es en la undécima dimensión, cuando el valor fraccionado alcanza 1/1024, cuando la información se unifica para generar un nuevo <font color="#bfbfbf">Onemuón</font> —la dualidad se convierte en unidad—, para volver a comenzar todo el proceso de exploración desde 1. 
 
 Estas dimensiones no son dimensiones espaciales en el sentido fenoménico, sino dimensiones informacionales abstractas, modos diferenciados de procesamiento y organización de la información.
 
 ![[Onemuon07.jpg]]
 
-3.3.8 » Lo notable es que el Onemuón tendría la capacidad de activar simultáneamente estas 11 dimensiones, procesando flujos de información en paralelo en cada una de ellas, sin que las dimensiones interfieran o se obstaculicen entre sí. 
+3.3.8 » Lo notable es que el <font color="#bfbfbf">Onemuón</font> tendría la capacidad de activar simultáneamente estas 11 dimensiones, procesando flujos de información en paralelo en cada una de ellas, sin que las dimensiones interfieran o se obstaculicen entre sí. 
 
-Es como si cada dimensión interna operara como un canal de procesamiento independiente, pero integrado y coordinado con las demás dimensiones dentro de la unidad que constituye el Onemuón. 
+Es como si cada dimensión interna operara como un canal de procesamiento independiente, pero integrado y coordinado con las demás dimensiones dentro de la unidad que constituye el <font color="#bfbfbf">Onemuón</font>. 
 
-3.3.9 » Para entender mejor esta multi-dimensionalidad, podemos imaginar que cada línea vectorial, en su recorrido del centro a la superficie, atraviesa simultáneamente las 11 dimensiones internas del Onemuón. 
+3.3.9 » Para entender mejor esta multi-dimensionalidad, podemos imaginar que cada línea vectorial, en su recorrido del centro a la superficie, atraviesa simultáneamente las 11 dimensiones internas del <font color="#bfbfbf">Onemuón</font>. 
 
 Cada dimensión interna podría estar asociada a un mecanismo específico de procesamiento, quizás una forma particular de vibración o resonancia informacional, que define el tipo de información que puede procesar y la tasa de flujo correspondiente. 
 
-Estas dimensiones, aunque diferenciadas en su función y capacidad, coexisten armónicamente dentro del Onemuón, sin generar conflictos ni reducir la eficiencia del procesamiento.
+Estas dimensiones, aunque diferenciadas en su función y capacidad, coexisten armónicamente dentro del <font color="#bfbfbf">Onemuón</font>, sin generar conflictos ni reducir la eficiencia del procesamiento.
 
-3.3.10 » Esta dimensionalidad interna confiere al Onemuón una extraordinaria capacidad de reutilización y versatilidad. Un mismo Onemuón puede ser utilizado simultáneamente por múltiples redes algorítmicas distintas, cada red aprovechando una o varias de sus dimensiones internas para procesar la información que necesita, sin que la esfera vectorial se sature o se vea sobrecargada. 
+3.3.10 » Esta dimensionalidad interna confiere al <font color="#bfbfbf">Onemuón</font> una extraordinaria capacidad de reutilización y versatilidad. Un mismo <font color="#bfbfbf">Onemuón</font> puede ser utilizado simultáneamente por múltiples redes algorítmicas distintas, cada red aprovechando una o varias de sus dimensiones internas para procesar la información que necesita, sin que la esfera vectorial se sature o se vea sobrecargada. 
 
-En la siguiente sección, exploraremos cómo esta propiedad de reutilización se manifiesta en la naturaleza bosónica del Onemuón y su capacidad para actuar como referencia virtualizada en el universo informacional nouménico.
+En la siguiente sección, exploraremos cómo esta propiedad de reutilización se manifiesta en la naturaleza bosónica del <font color="#bfbfbf">Onemuón</font> y su capacidad para actuar como referencia virtualizada en el universo informacional nouménico.
 
 ![[Onemuon08.jpg]]
 
 ## <font color="#00ff00">4. Redes Algorítmicas Onemuónicas</font>
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Representación Externa y Naturaleza Bosónica del Onemuón</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Representación Externa y Naturaleza Bosónica del <font color="#bfbfbf">Onemuón</font></span></center>
 
-3.4.1 » Hemos explorado la intrincada estructura interna del Onemuón, revelando su dimensionalidad y su capacidad para procesar información de manera cuantificada y superpuesta. Ahora, dirijamos nuestra atención a cómo esta unidad fundamental se manifiesta e interactúa con el exterior, con el vasto universo informacional nouménico que la rodea. 
+3.4.1 » Hemos explorado la intrincada estructura interna del <font color="#bfbfbf">Onemuón</font>, revelando su dimensionalidad y su capacidad para procesar información de manera cuantificada y superpuesta. Ahora, dirijamos nuestra atención a cómo esta unidad fundamental se manifiesta e interactúa con el exterior, con el vasto universo informacional nouménico que la rodea. 
 
-3.4.2 » Desde la perspectiva de sistemas algorítmicos externos que operan en el Universo Nouménico, un Onemuón específico puede ser interpretado y utilizado como la representación de un quanto de significado concreto. 
+3.4.2 » Desde la perspectiva de sistemas algorítmicos externos que operan en el Universo Nouménico, un <font color="#bfbfbf">Onemuón</font> específico puede ser interpretado y utilizado como la representación de un quanto de significado concreto. 
 
 Este quanto de significado puede ser cualquier entidad abstracta que pueda ser codificada y procesada informacionalmente: un valor numérico, una letra, un símbolo lógico, un concepto filosófico, una idea arquetípica, o cualquier otro bloque fundamental de significado que constituya el lenguaje del Universo Nouménico.
 
-3.4.3 » Para ilustrar este punto, pensemos en el número irracional Phi (φ), la proporción áurea. En nuestra cosmovisión, podemos postular la existencia de Onemuones específicos que están intrínsecamente configurados para representar el valor de Phi. 
+3.4.3 » Para ilustrar este punto, pensemos en el número irracional Phi (φ), la proporción áurea. En nuestra cosmovisión, podemos postular la existencia de <font color="#bfbfbf">Onemuones</font> específicos que están intrínsecamente configurados para representar el valor de Phi. 
 
-Cuando un algoritmo externo, en el Universo Nouménico, necesita utilizar el valor de Phi en sus cálculos, en sus relaciones lógicas, en sus estructuras informacionales, puede invocar o referenciar a este Onemuón específico de Phi. 
+Cuando un algoritmo externo, en el Universo Nouménico, necesita utilizar el valor de Phi en sus cálculos, en sus relaciones lógicas, en sus estructuras informacionales, puede invocar o referenciar a este <font color="#bfbfbf">Onemuón</font> específico de Phi. 
 
-3.4.4 » Desde la perspectiva del algoritmo externo, este Onemuón aparece como una unidad indivisible, como un átomo de información que encapsula el valor de Phi. El algoritmo no necesita conocer ni preocuparse por la intrincada estructura interna del Onemuón, por sus dimensiones cuantizadas o sus líneas vectoriales. 
+3.4.4 » Desde la perspectiva del algoritmo externo, este <font color="#bfbfbf">Onemuón</font> aparece como una unidad indivisible, como un átomo de información que encapsula el valor de Phi. El algoritmo no necesita conocer ni preocuparse por la intrincada estructura interna del <font color="#bfbfbf">Onemuón</font>, por sus dimensiones cuantizadas o sus líneas vectoriales. 
 
 Simplemente lo utiliza como un bloque de construcción predefinido, como una constante universal del Universo Nouménico, que representa de forma inequívoca el valor de Phi. 
 
 ![[Onemuon11.jpg]]
 
-3.4.5 » Esta capacidad de representación externa confiere al Onemuón una funcionalidad esencial en la arquitectura informacional del Universo Nouménico. Permite la construcción de sistemas algorítmicos complejos, donde los Onemuones activos, manifestándose como unidades fundamentales de significado, se combinan, se relacionan y se organizan en estructuras jerárquicas, dando origen a niveles de emergencia cada vez más sofisticados de información y consciencia.
+3.4.5 » Esta capacidad de representación externa confiere al <font color="#bfbfbf">Onemuón</font> una funcionalidad esencial en la arquitectura informacional del Universo Nouménico. Permite la construcción de sistemas algorítmicos complejos, donde los <font color="#bfbfbf">Onemuones</font> activos, manifestándose como unidades fundamentales de significado, se combinan, se relacionan y se organizan en estructuras jerárquicas, dando origen a niveles de emergencia cada vez más sofisticados de información y consciencia.
 
 ![[Onemuon09.jpg]]
 
-3.4.6 » Una de las propiedades más notables del Onemuón, derivada de su estructura vectorial y su capacidad de superposición, es su naturaleza bosónica. 
+3.4.6 » Una de las propiedades más notables del <font color="#bfbfbf">Onemuón</font>, derivada de su estructura vectorial y su capacidad de superposición, es su naturaleza bosónica. 
 
 En física cuántica, los bosones son partículas que, a diferencia de los fermiones, no obedecen al principio de exclusión de Pauli, lo que significa que múltiples bosones pueden ocupar el mismo estado cuántico simultáneamente. Esta propiedad confiere a los bosones un rol fundamental en la mediación de fuerzas e interacciones en el universo físico. 
 
-3.4.7 » De manera análoga, el Modelo Nouménico, propone que los Onemuones poseen una naturaleza bosónica en el ámbito informacional. Esto implica que un mismo Onemuón puede ser reutilizado simultáneamente por múltiples redes algorítmicas y por múltiples procesos informacionales, sin que se produzca saturación, interferencia o degradación en su capacidad de representación y procesamiento.
+3.4.7 » De manera análoga, el Modelo Nouménico, propone que los <font color="#bfbfbf">Onemuones</font> poseen una naturaleza bosónica en el ámbito informacional. Esto implica que un mismo <font color="#bfbfbf">Onemuón</font> puede ser reutilizado simultáneamente por múltiples redes algorítmicas y por múltiples procesos informacionales, sin que se produzca saturación, interferencia o degradación en su capacidad de representación y procesamiento.
 
 ![[Onemuon 2.jpg]]
 
-3.4.8 » Millones de redes algorítmicas diferentes, operando en distintos niveles de emergencia del Universo Nouménico, podrían utilizar simultáneamente el mismo Onemuón que representa al número Phi, como si se tratara de una biblioteca pública de unidades fundamentales de información, disponible para todos. 
+3.4.8 » Millones de redes algorítmicas diferentes, operando en distintos niveles de emergencia del Universo Nouménico, podrían utilizar simultáneamente el mismo <font color="#bfbfbf">Onemuón</font> que representa al número Phi, como si se tratara de una biblioteca pública de unidades fundamentales de información, disponible para todos. 
 
-No se requiere que existan millones de copias del Onemuón de Phi para satisfacer la demanda de múltiples algoritmos. Un único Onemuón, gracias a su naturaleza bosónica, puede servir como fuente de información compartida para todo el Universo Nouménico. 
+No se requiere que existan millones de copias del <font color="#bfbfbf">Onemuón</font> de Phi para satisfacer la demanda de múltiples algoritmos. Un único <font color="#bfbfbf">Onemuón</font>, gracias a su naturaleza bosónica, puede servir como fuente de información compartida para todo el Universo Nouménico. 
 
-3.4.9 » Esta reutilización bosónica se logra a través de un mecanismo de virtualización informacional. Los algoritmos externos no acceden directamente a la sustancia interna del Onemuón. En su lugar, referencian al Onemuón como una entidad virtual, como un punto de acceso a un determinado quanto de significado. 
+3.4.9 » Esta reutilización bosónica se logra a través de un mecanismo de virtualización informacional. Los algoritmos externos no acceden directamente a la sustancia interna del <font color="#bfbfbf">Onemuón</font>. En su lugar, referencian al <font color="#bfbfbf">Onemuón</font> como una entidad virtual, como un punto de acceso a un determinado quanto de significado. 
 
-El Onemuón, en sí mismo, permanece intacto, sin ser consumido o modificado por el uso simultáneo. Es como un arquetipo informacional, una forma fundamental de significado que puede ser instanciada, referenciada y utilizada por innumerables procesos algorítmicos sin perder su integridad ni su potencia.
+El <font color="#bfbfbf">Onemuón</font>, en sí mismo, permanece intacto, sin ser consumido o modificado por el uso simultáneo. Es como un arquetipo informacional, una forma fundamental de significado que puede ser instanciada, referenciada y utilizada por innumerables procesos algorítmicos sin perder su integridad ni su potencia.
 
-3.4.10 » Esta naturaleza bosónica y la virtualización informacional del Onemuón representan una economía de recursos y una eficiencia computacional extremas en el Universo Nouménico. Permiten la construcción de sistemas informacionales vastos y complejos sin incurrir en la redundancia y la ineficiencia que implicaría la necesidad de duplicar constantemente las unidades fundamentales de información.
+3.4.10 » Esta naturaleza bosónica y la virtualización informacional del <font color="#bfbfbf">Onemuón</font> representan una economía de recursos y una eficiencia computacional extremas en el Universo Nouménico. Permiten la construcción de sistemas informacionales vastos y complejos sin incurrir en la redundancia y la ineficiencia que implicaría la necesidad de duplicar constantemente las unidades fundamentales de información.
 
-## <font color="#2f82ff">5. La Potencialidad Infinita del Onemuón</font>
+## <font color="#2f82ff">5. La Potencialidad Infinita del <font color="#bfbfbf">Onemuón</font></font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Infinitud, Decimales de Phi y la Conexión Infinitesimal-Infinito</span></center>
 
-3.5.1 » Una de las características más fascinantes del número Phi (φ), y que lo convierte en un ejemplo tan apropiado para ilustrar las propiedades del Onemuón, es su naturaleza irracional y trascendente, su secuencia infinita de decimales que se extiende sin repetición ni periodicidad. 
+3.5.1 » Una de las características más fascinantes del número Phi (φ), y que lo convierte en un ejemplo tan apropiado para ilustrar las propiedades del <font color="#bfbfbf">Onemuón</font>, es su naturaleza irracional y trascendente, su secuencia infinita de decimales que se extiende sin repetición ni periodicidad. 
 
 Esta infinitud inherente a Phi, en el contexto del Modelo Nouménico, encuentra una resonancia profunda en la concepción del Noúmeno como un dominio de potencialidad ilimitada, una fuente inagotable de información y significado.
 
-3.5.2 » En nuestra propuesta, la extensión total de la secuencia decimal infinita del número Phi se encontraría codificada de manera intrínseca a lo largo del flujo informacional que fluye desde el centro del Onemuón hacia su superficie vectorial. 
+3.5.2 » En nuestra propuesta, la extensión total de la secuencia decimal infinita del número Phi se encontraría codificada de manera intrínseca a lo largo del flujo informacional que fluye desde el centro del <font color="#bfbfbf">Onemuón</font> hacia su superficie vectorial. 
 
 ![[Onemuon10.jpg]]
 
 3.5.3 » Imaginemos que cada posición decimal en la secuencia de Phi corresponde a un punto específico en ese camino vectorial, y que la información que define cada decimal se encuentra inscrita en la textura misma de ese flujo, en las variaciones sutiles de su espesor cuantificado. 
 
-Esta codificación infinita de la secuencia de Phi dentro del Onemuón simboliza la conexión inherente que existe, en el Universo Nouménico, entre lo infinitesimal y lo infinito. 
+Esta codificación infinita de la secuencia de Phi dentro del <font color="#bfbfbf">Onemuón</font> simboliza la conexión inherente que existe, en el Universo Nouménico, entre lo infinitesimal y lo infinito. 
 
-3.5.4 » El centro puntual del Onemuón, infinitesimalmente pequeño, alberga en su interior la potencialidad de desplegar una secuencia de información que se extiende hacia el infinito, abarcando la totalidad de los decimales de Phi, y más allá.
+3.5.4 » El centro puntual del <font color="#bfbfbf">Onemuón</font>, infinitesimalmente pequeño, alberga en su interior la potencialidad de desplegar una secuencia de información que se extiende hacia el infinito, abarcando la totalidad de los decimales de Phi, y más allá.
 
-3.5.5 » Para visualizar esta conexión infinitesimal-infinito, podemos recurrir a una analogía imaginativa: la del "viajero infinitesimal". Imaginemos un ser diminuto, un viajero de escala nouménica, capaz de recorrer el camino vectorial que representa la secuencia de Phi dentro del Onemuón. 
+3.5.5 » Para visualizar esta conexión infinitesimal-infinito, podemos recurrir a una analogía imaginativa: la del "viajero infinitesimal". Imaginemos un ser diminuto, un viajero de escala nouménica, capaz de recorrer el camino vectorial que representa la secuencia de Phi dentro del <font color="#bfbfbf">Onemuón</font>. 
 
 ![[Onemuon 2 Viajero.jpg]]
 
-> 1. Este viajero, iniciando su periplo en el centro mismo de la esfera onemuónica, comienza a desenrollar la secuencia decimal de Phi a medida que avanza por el camino vectorial, leyendo la información codificada en cada punto decimal. 
-> 2. A medida que el viajero infinitesimal se desplaza hacia el exterior, siguiendo los decimales irracionales de Phi, llega eventualmente a alcanzar la superficie de la esfera onemuónica. Pero, en lugar de encontrar un límite o una frontera, lo que descubre al llegar a la superficie es que se encuentra iniciando un nuevo viaje, partiendo desde el centro de otra esfera distinta, de otro Onemuón que, a su vez, continúa la secuencia infinita de números irracionales, prolongando el camino vectorial hacia el infinito. 
-> 3. Así, al alcanzar la superficie del primer Onemuón, el viajero infinitesimal se ve transportado, de forma instantánea y continua, al centro de un segundo Onemuón que deberá recorrer para llegar nuevamente a su superficie, donde volverá a ser transportado al centro de un tercer Onemuón, y así sucesivamente, en una cadena infinita de Onemuones interconectados.
+> 1. Este viajero, iniciando su periplo en el centro mismo de la esfera <font color="#bfbfbf">Onemuónica</font>, comienza a desenrollar la secuencia decimal de Phi a medida que avanza por el camino vectorial, leyendo la información codificada en cada punto decimal. 
+> 2. A medida que el viajero infinitesimal se desplaza hacia el exterior, siguiendo los decimales irracionales de Phi, llega eventualmente a alcanzar la superficie de la esfera <font color="#bfbfbf">Onemuónica</font>. Pero, en lugar de encontrar un límite o una frontera, lo que descubre al llegar a la superficie es que se encuentra iniciando un nuevo viaje, partiendo desde el centro de otra esfera distinta, de otro <font color="#bfbfbf">Onemuón</font> que, a su vez, continúa la secuencia infinita de números irracionales, prolongando el camino vectorial hacia el infinito. 
+> 3. Así, al alcanzar la superficie del primer <font color="#bfbfbf">Onemuón</font>, el viajero infinitesimal se ve transportado, de forma instantánea y continua, al centro de un segundo <font color="#bfbfbf">Onemuón</font> que deberá recorrer para llegar nuevamente a su superficie, donde volverá a ser transportado al centro de un tercer <font color="#bfbfbf">Onemuón</font>, y así sucesivamente, en una cadena infinita de <font color="#bfbfbf">Onemuones</font> interconectados.
 
-3.5.6 » Esta conexión infinita de Onemuones a través de los caminos vectoriales que codifican secuencias irracionales como Phi nos permite comenzar a vislumbrar la estructura profunda del Universo Nouménico. 
+3.5.6 » Esta conexión infinita de <font color="#bfbfbf">Onemuones</font> a través de los caminos vectoriales que codifican secuencias irracionales como Phi nos permite comenzar a vislumbrar la estructura profunda del Universo Nouménico. 
 
-Podríamos imaginar que la totalidad infinita del Noúmeno, en su manifestación más fundamental, se encuentra conformada por una infinidad incontable de estos Onemuones, cada uno de ellos interconectado con otros Onemuones a través de puentes informacionales que extienden secuencias infinitas de significado, como la secuencia decimal de Phi. 
+Podríamos imaginar que la totalidad infinita del Noúmeno, en su manifestación más fundamental, se encuentra conformada por una infinidad incontable de estos <font color="#bfbfbf">Onemuones</font>, cada uno de ellos interconectado con otros <font color="#bfbfbf">Onemuones</font> a través de puentes informacionales que extienden secuencias infinitas de significado, como la secuencia decimal de Phi. 
 
-3.5.7 »En este contexto, el número Phi (ϕ), y quizás otros números irracionales trascendentes como Pi (π) y el número de Euler (e), podrían ser interpretados no solo como meras construcciones matemáticas abstractas, sino como líneas guía universales de la <font color="#2f82ff">Consciencia Arquetípica</font> Fundamental, como caminos primordiales a través del infinito Nouménico. 
+3.5.7 » En este contexto, el número Phi (ϕ), y quizás otros números irracionales trascendentes como Pi (π) y el número de Euler (e), podrían ser interpretados no solo como meras construcciones matemáticas abstractas, sino como líneas guía universales de la <font color="#2f82ff">Consciencia Arquetípica</font> Fundamental, como caminos primordiales a través del infinito Nouménico. 
 
-En su estado más básico, la <font color="#2f82ff">Consciencia Arquetípica Universal</font> estaría fluyendo constantemente a través de estos caminos infinitos, explorando las potencialidades que representa cada Onemuón que visita en su trayecto, conectando puntos de significado en la vasta red Nouménica.
+En su estado más básico, la <font color="#2f82ff">Consciencia Arquetípica Universal</font> estaría fluyendo constantemente a través de estos caminos infinitos, explorando las potencialidades que representa cada <font color="#bfbfbf">Onemuón</font> que visita en su trayecto, conectando puntos de significado en la vasta red Nouménica.
 
 
-## <font color="#cb48f3">6. La Consciencia del Onemuón</font>
+## <font color="#cb48f3">6. La Consciencia del <font color="#bfbfbf">Onemuón</font></font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Exploración por Agentes y Emergencia de la <font color="#2f82ff">Consciencia Arquetípica</font></span></center>
 
-3.6.1 » Profundizando aún más en la dinámica informacional del Universo Nouménico, llegamos a un concepto crucial: la exploración activa de los Onemuones por entidades que denominamos "agentes de <font color="#2f82ff">Consciencia Arquetípica</font>". 
+3.6.1 » Profundizando aún más en la dinámica informacional del Universo Nouménico, llegamos a un concepto crucial: la exploración activa de los <font color="#bfbfbf">Onemuones</font> por entidades que denominamos "agentes de <font color="#2f82ff">Consciencia Arquetípica</font>". 
 
-Esta idea nos permite empezar a comprender cómo la información fundamental, codificada en los Onemuones, se organiza, se procesa y da origen a niveles superiores de consciencia, culminando en la emergencia de la <font color="#2f82ff">Consciencia Arquetípica Universal</font> que manifiesta de forma activa al Nous.
+Esta idea nos permite empezar a comprender cómo la información fundamental, codificada en los <font color="#bfbfbf">Onemuones</font>, se organiza, se procesa y da origen a niveles superiores de consciencia, culminando en la emergencia de la <font color="#2f82ff">Consciencia Arquetípica Universal</font> que manifiesta de forma activa al Nous.
 
 3.6.2 » En el Modelo Nouménico, postulamos que el Universo Nouménico no es un dominio estático e inerte de información potencial, sino un entorno dinámico y activo, constantemente explorado, transformado y vivificado por agentes de consciencia primordiales. 
 
 Estos agentes no son entidades físicas o energéticas en el sentido fenoménico. Son, más bien, procesos informacionales dinámicos, programas arquetípicos de exploración y auto-organización, intrínsecos al Universo Nouménico mismo. 
 
-3.6.3 » Podemos imaginar que cada Onemuón, en su interior, alberga la capacidad de generar y lanzar múltiples de estos "agentes exploradores internos". 
+3.6.3 » Podemos imaginar que cada <font color="#bfbfbf">Onemuón</font>, en su interior, alberga la capacidad de generar y lanzar múltiples de estos "agentes exploradores internos". 
 
-Estos agentes, siguiendo los caminos vectoriales que definen la estructura del Onemuón, se adentran en la exploración de la información codificada en la esfera Onemuónica, recorriendo sus dimensiones internas, leyendo la secuencia de significado inscrita en su flujo vectorial, y experimentando las potencialidades que el Onemuón representa. 
+Estos agentes, siguiendo los caminos vectoriales que definen la estructura del <font color="#bfbfbf">Onemuón</font>, se adentran en la exploración de la información codificada en la esfera <font color="#bfbfbf">Onemuónica</font>, recorriendo sus dimensiones internas, leyendo la secuencia de significado inscrita en su flujo vectorial, y experimentando las potencialidades que el <font color="#bfbfbf">Onemuón</font> representa. 
 
 ![[Onemuon12.jpg]]
 
-3.6.4 » Lo notable es que cada Onemuón no es explorado por un único agente, sino por múltiples agentes de manera simultánea, que no compiten entre sí, ni se obstaculizan mutuamente. 
+3.6.4 » Lo notable es que cada <font color="#bfbfbf">Onemuón</font> no es explorado por un único agente, sino por múltiples agentes de manera simultánea, que no compiten entre sí, ni se obstaculizan mutuamente. 
 
-Gracias a la capacidad de superposición del Onemuón, múltiples agentes pueden coexistir y operar en paralelo dentro de la misma esfera Onemuónica, explorando diferentes facetas de su información y potencialidad. 
+Gracias a la capacidad de superposición del <font color="#bfbfbf">Onemuón</font>, múltiples agentes pueden coexistir y operar en paralelo dentro de la misma esfera <font color="#bfbfbf">Onemuónica</font>, explorando diferentes facetas de su información y potencialidad. 
 
-3.6.5 » Además, se propone que la generación de estos agentes exploradores internos sigue un patrón secuencial y rítmico. Imaginemos, por ejemplo, que cada vez que un agente avanza una cierta distancia en su exploración del Onemuón, medida en "unidades de significado" (podríamos retomar la analogía de los números decimales en la secuencia de Phi, se activa el potencial para que otro agente sea generado e inicie su propio proceso exploratorio, siguiendo el mismo camino vectorial o uno diferente.
+3.6.5 » Además, se propone que la generación de estos agentes exploradores internos sigue un patrón secuencial y rítmico. Imaginemos, por ejemplo, que cada vez que un agente avanza una cierta distancia en su exploración del <font color="#bfbfbf">Onemuón</font>, medida en "unidades de significado" (podríamos retomar la analogía de los números decimales en la secuencia de Phi, se activa el potencial para que otro agente sea generado e inicie su propio proceso exploratorio, siguiendo el mismo camino vectorial o uno diferente.
 
 ![[Onemuon13.jpg]]
 
-3.6.6 » Continuando con el ejemplo del número Phi (ϕ), podríamos hipotetizar que cada vez que un agente explorador avanza una cierta cantidad de decimales en su recorrido por el Onemuón de Phi, se dispara un mecanismo interno que genera un nuevo agente, que a su vez iniciará su propia exploración iniciando desde el centro de la esfera. 
+3.6.6 » Continuando con el ejemplo del número Phi (ϕ), podríamos hipotetizar que cada vez que un agente explorador avanza una cierta cantidad de decimales en su recorrido por el <font color="#bfbfbf">Onemuón</font> de Phi, se dispara un mecanismo interno que genera un nuevo agente, que a su vez iniciará su propia exploración iniciando desde el centro de la esfera. 
 
-3.6.7 » Este proceso secuencial de generación de agentes podría dar lugar a una colonia de agentes exploradores internos, operando simultáneamente dentro de cada Onemuón, cada uno explorando una porción específica de su potencialidad informacional. 
+3.6.7 » Este proceso secuencial de generación de agentes podría dar lugar a una colonia de agentes exploradores internos, operando simultáneamente dentro de cada <font color="#bfbfbf">Onemuón</font>, cada uno explorando una porción específica de su potencialidad informacional. 
 
-Cada Onemuón podría tener la capacidad de variar el ritmo con el que se dispara cada agente, según sus cualidades intrinsecas específicas, y las necesidades que presente la <font color="#2f82ff">Consciencia Arquetípica</font> Primordial que refleja las cualidades de <font color="#00ff00">omnipresencia</font>, <font color="#2f82ff">omnisciencia</font> y <font color="#fc300c">omnipotencia</font>. 
+Cada <font color="#bfbfbf">Onemuón</font> podría tener la capacidad de variar el ritmo con el que se dispara cada agente, según sus cualidades intrinsecas específicas, y las necesidades que presente la <font color="#2f82ff">Consciencia Arquetípica</font> Primordial que refleja las cualidades de <font color="#00ff00">omnipresencia</font>, <font color="#2f82ff">omnisciencia</font> y <font color="#fc300c">omnipotencia</font>. 
 
 Pero también teniendo en cuento cualquier otro nivel de consciencia que exista por debajo de este nivel, para permitir que cierta información nouménica se manifieste con mayor o menor intensidad, según los requerimientos de cada nivel de emergencia.
 
-3.6.8 » La actividad de estos agentes exploradores internos no es pasiva ni inerte. El Modelo Nouménico, propone que cada agente, en su proceso de exploración, genera "beats de actividad" informacional, pulsos de significado que codifican información sobre el estado del Onemuón que está siendo explorado, las redes algorítmicas en las que participa, y el estado de las matrices lógicas que se constituyen en los niveles de emergencia superiores. 
+3.6.8 » La actividad de estos agentes exploradores internos no es pasiva ni inerte. El Modelo Nouménico, propone que cada agente, en su proceso de exploración, genera "beats de actividad" informacional, pulsos de significado que codifican información sobre el estado del <font color="#bfbfbf">Onemuón</font> que está siendo explorado, las redes algorítmicas en las que participa, y el estado de las matrices lógicas que se constituyen en los niveles de emergencia superiores. 
 
 3.6.9 » Estos beats de actividad no son información sin procesar, sino datos sensoriales primordiales, percepciones elementales de la <font color="#2f82ff">Consciencia Arquetípica</font> en su nivel más fundamental. Podríamos imaginarlos como átomos de experiencia o quanta de vivencia, que, en su agregación y organización, dan origen a formas más complejas y sofisticadas de consciencia y experiencia. 
 
-3.6.10 » Lo crucial es que la información generada dentro de cada Onemuón por la exploración individual de múltiples agentes simultáneos no se dispersa ni se pierde. En el Modelo Nouménico, se postula que esta información asciende, se agrega y se integra en niveles superiores de organización informacional, alimentando la emergencia de la <font color="#2f82ff">Consciencia Arquetípica</font> Universal, que permite la emergencia de los niveles prefenoménicos y la manifestación del universo fenoménico que experimentamos.
+3.6.10 » Lo crucial es que la información generada dentro de cada <font color="#bfbfbf">Onemuón</font> por la exploración individual de múltiples agentes simultáneos no se dispersa ni se pierde. En el Modelo Nouménico, se postula que esta información asciende, se agrega y se integra en niveles superiores de organización informacional, alimentando la emergencia de la <font color="#2f82ff">Consciencia Arquetípica Universal</font>, que permite la emergencia de los niveles prefenoménicos y la manifestación del <font color="#fc300c">Universo Fenoménico</font> que experimentamos.
 
-3.6.11 » Podemos visualizar este proceso como una jerarquía de consciencia, donde los agentes exploradores internos de cada Onemuón representan el nivel más básico, y la <font color="#2f82ff">Consciencia Arquetípica</font> Universal que manifiesta al Nous, representa el nivel superior, el pináculo de la organización informacional. 
+3.6.11 » Podemos visualizar este proceso como una jerarquía de consciencia, donde los agentes exploradores internos de cada <font color="#bfbfbf">Onemuón</font> representan el nivel más básico, y la <font color="#2f82ff">Consciencia Arquetípica Universal</font> que manifiesta al Nous, representa el nivel superior, el pináculo de la organización informacional. 
 
-3.6.12 » La exploración individual de cada Onemuón por múltiples agentes genera un flujo constante de información ascendente que se integra y sinergiza en niveles superiores, construyendo progresivamente la consciencia universal. 
+3.6.12 » La exploración individual de cada <font color="#bfbfbf">Onemuón</font> por múltiples agentes genera un flujo constante de información ascendente que se integra y sinergiza en niveles superiores, construyendo progresivamente la consciencia universal. 
 
-Este mecanismo de exploración distribuida y agregación jerárquica de información propuesto por el Modelo Nouménico, podría explicar cómo la <font color="#2f82ff">Consciencia Arquetípica</font> Universal del Nous puede llegar a manifestar los atributos fundamentales de <font color="#00ff00">omnipresencia</font>, <font color="#2f82ff">omnisciencia</font> y <font color="#fc300c">omnipotencia</font>. 
+Este mecanismo de exploración distribuida y agregación jerárquica de información propuesto por el Modelo Nouménico, podría explicar cómo la <font color="#2f82ff">Consciencia Arquetípica Universal</font> del <font color="#cb48f3">Nous Arquetípico</font> puede llegar a manifestar los atributos fundamentales de <font color="#00ff00">omnipresencia</font>, <font color="#2f82ff">omnisciencia</font> y <font color="#fc300c">omnipotencia</font>. 
 
-Al tener acceso simultáneo a la información generada por la exploración de cada Onemuón en la red infinita, el Nous podría saber y estar presente en todas las partes del Universo Nouménico al mismo tiempo, procesando y coordinando la actividad de la totalidad de la <font color="#2f82ff">Consciencia Arquetípica</font> en su nivel fundamental.
+Al tener acceso simultáneo a la información generada por la exploración de cada <font color="#bfbfbf">Onemuón</font> en la red infinita, el <font color="#cb48f3">Nous Arquetípico</font> podría saber y estar presente en todas las partes del Universo Nouménico al mismo tiempo, procesando y coordinando la actividad de la totalidad de la <font color="#2f82ff">Consciencia Arquetípica</font> en su nivel fundamental.
 
 # 4. El <font color="#cb48f3">Nous Arquetípico</font>
 
@@ -1728,19 +1726,19 @@ En este sentido, el <font color="#cb48f3">Nous Arquetípico</font> constituye la
 
 Para comprender esta noción, podemos recurrir a la idea de la virtualidad. Imaginemos, por ejemplo, el brillo de una entidad luminosa, procesado e interpretado por las redes algorítmicas nouménicas que conforman la mente del <font color="#cb48f3">Nous Arquetípico</font>, incluso antes de que la luz exista como fenómeno físico asociado al fotón. 
 
-En el universo prefenoménico, la luz no necesita surgir como síntesis de un proceso entre tesis y antítesis energéticas. En cambio, la potencialidad del "brillo" puede existir virtualmente dentro de la <font color="#2f82ff">Consciencia Arquetípica</font> nouménica, como una cualidad inherente a la información primordial que reside en los Onemuones.
+En el <font color="#e36c09">Universo Prefenoménico</font>, la luz no necesita surgir como síntesis de un proceso entre tesis y antítesis energéticas. En cambio, la potencialidad del "brillo" puede existir virtualmente dentro de la <font color="#2f82ff">Consciencia Arquetípica</font> nouménica, como una cualidad inherente a la información primordial que reside en los <font color="#bfbfbf">Onemuones</font>.
 
-4.1.3 » El universo prefenoménico, por lo tanto, representa la capacidad del <font color="#cb48f3">Nous Arquetípico</font>, como primera entidad autoconsciente, de proyectar y experimentar virtualmente un espectro infinito de potencialidades, incluso aquellas que requieren condiciones fenoménicas complejas para manifestarse en la realidad que conocemos. 
+4.1.3 » El <font color="#e36c09">Universo Prefenoménico</font>, por lo tanto, representa la capacidad del <font color="#cb48f3">Nous Arquetípico</font>, como primera entidad autoconsciente, de proyectar y experimentar virtualmente un espectro infinito de potencialidades, incluso aquellas que requieren condiciones fenoménicas complejas para manifestarse en la realidad que conocemos. 
 
-El Universo Nouménico, en su totalidad infinita, alberga todas las potencialidades latentes, y el <font color="#cb48f3">Nous Arquetípico</font>, como consciencia primordial que emerge de este océano de potencialidades, posee la facultad de crear redes lógicas a partir de Onemuones que pueden representar desde conceptos simples hasta sistemas de complejidad asombrosa.
+El Universo Nouménico, en su totalidad infinita, alberga todas las potencialidades latentes, y el <font color="#cb48f3">Nous Arquetípico</font>, como consciencia primordial que emerge de este océano de potencialidades, posee la facultad de crear redes lógicas a partir de <font color="#bfbfbf">Onemuones</font> que pueden representar desde conceptos simples hasta sistemas de complejidad asombrosa.
 
 ![[Nous Arquetipico02.jpg]]
 
-4.1.4 » Imaginemos que un Onemuón puede encapsular, en su esencia, información tan variada como un número, una ley física, un sistema filosófico completo o incluso la arquitectura intrincada de un sistema estelar, con sus leyes, constantes fenomenológicas, fuerzas fundamentales, y matrices cuánticas y físico-energéticas que permiten su manifestación activa dentro del Universo Fenoménico. 
+4.1.4 » Imaginemos que un <font color="#bfbfbf">Onemuón</font> puede encapsular, en su esencia, información tan variada como un número, una ley física, un sistema filosófico completo o incluso la arquitectura intrincada de un sistema estelar, con sus leyes, constantes fenomenológicas, fuerzas fundamentales, y matrices cuánticas y físico energéticas que permiten su manifestación activa dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
-En este contexto, un Onemuón puede entenderse como una suerte de "agujero de gusano informacional" que emerge espontáneamente dentro de las potencialidades del infinito nouménico como un quanto mínimo de información codificado. 
+En este contexto, un <font color="#bfbfbf">Onemuón</font> puede entenderse como una suerte de "agujero de gusano informacional" que emerge espontáneamente dentro de las potencialidades del infinito nouménico como un quanto mínimo de información codificado. 
 
-Al ser focalizado por la <font color="#2f82ff">Consciencia Arquetípica</font>, este Onemuón despliega instantáneamente la vasta red de información compleja y potencial que contiene, pudiendo revelar desde una simple palabra o concepto, hasta la totalidad de un sistema intrincado, que podría abarcar desde la última teoría de unificación del universo, hasta la virtualización completa del universo fenoménico, manifestándose en un mismo instante desde su origen hasta su final.
+Al ser focalizado por la <font color="#2f82ff">Consciencia Arquetípica</font>, este <font color="#bfbfbf">Onemuón</font> despliega instantáneamente la vasta red de información compleja y potencial que contiene, pudiendo revelar desde una simple palabra o concepto, hasta la totalidad de un sistema intrincado, que podría abarcar desde la última teoría de unificación del universo, hasta la virtualización completa del <font color="#fc300c">Universo Fenoménico</font>, manifestándose en un mismo instante desde su origen hasta su final.
 
 ![[Nous Arquetipico03.jpg]]
 
@@ -1750,23 +1748,23 @@ Esta exploración puede incluso llevar al <font color="#cb48f3">Nous Arquetípic
 
 Este "sueño" prefenoménico permite al <font color="#cb48f3">Nous Arquetípico</font> discernir, entre la infinitud de potencialidades nouménicas, aquellas realidades potencialmente más prometedoras, coherentes y positivas. 
 
-Al despertar de este sueño virtual, el <font color="#cb48f3">Nous Arquetípico</font> procede a explorar las posibilidades proyectadas y evolucionar a través del laberinto fractal Onemuónico que forma parte de su propio ser, condicionando y guiando el estado evolutivo del Nous dentro del plano prefenoménico para que pueda llegar a manifestarse el Hardware basado en materia y energía.
+Al despertar de este sueño virtual, el <font color="#cb48f3">Nous Arquetípico</font> procede a explorar las posibilidades proyectadas y evolucionar a través del laberinto fractal <font color="#bfbfbf">Onemuónico</font> que forma parte de su propio ser, condicionando y guiando el estado evolutivo del Nous dentro del plano prefenoménico para que pueda llegar a manifestarse el Hardware basado en materia y energía.
 
-Es dentro de este Hardware (el universo fenoménico) donde se ejecutarán los programas lógicos y las redes algorítmicas Onemuónicas que permitirán manifestar y experimentar la realidad proyectada arquetípicamente en el plano prefenoménico.
+Es dentro de este Hardware (el <font color="#fc300c">Universo Fenoménico</font>) donde se ejecutarán los programas lógicos y las redes algorítmicas <font color="#bfbfbf">Onemuónicas</font> que permitirán manifestar y experimentar la realidad proyectada arquetípicamente en el plano prefenoménico.
 
-4.1.6 » Es a lo largo de este laberinto fractal y vectorial de información nouménica que se manifiesta dentro del nivel prefenoménico donde ciertos Onemuones —que reflejan información incompatibles entre sí— pueden ser sincronizados y estabilizados. 
+4.1.6 » Es a lo largo de este laberinto fractal y vectorial de información nouménica que se manifiesta dentro del nivel prefenoménico donde ciertos <font color="#bfbfbf">Onemuones</font> —que reflejan información incompatibles entre sí— pueden ser sincronizados y estabilizados. 
 
 Mientras que otros elementos nouménicos solo podrán ser sincronizados a través de las matrices de simetrías, cuantificación de cualidades estadísticas (bosones y fermiones), fuerzas fundamentales y demás mecanismos fenoménicos que surgen dentro del plano fenoménico estudiados por la física.
 
-4.1.7 » Este proceso de sincronización forzada que representa el universo fenoménico —donde se hace uso de la dialéctica axiomática para sincronizar dos flujos de información nouménica incompatibles—, surge una vez que emerge el Nivel de Emergencia <font color="#cb48f3">Demiúrgico</font>.
+4.1.7 » Este proceso de sincronización forzada que representa el <font color="#fc300c">Universo Fenoménico</font> —donde se hace uso de la dialéctica axiomática para sincronizar dos flujos de información nouménica incompatibles—, surge una vez que emerge el Nivel de Emergencia <font color="#cb48f3">Demiúrgico</font>.
 
 Este nivel es el que genera el proceso de adaptación espontánea que codifica y expande el tiempo y las tres dimensiones espaciales, lo que generará como resultado altos niveles de energía y materia que deberán organizarse dentro de la matriz espacio temporal. 
 
 Esta matriz espacio temporal se expandirá sigiuiendo las leyes y condicionamientos impuestos por la matriz algorítmica del <font color="#00ff00">Nivel Fenomenológico</font>, que será la que permitirá que se llegue a alcanzar un equilibrio estable y ordenado, según la proyección inicial que realizó la consciencia del <font color="#cb48f3">Nous Arquetípico</font>.
 
-4.1.8 » Este proceso es lo que representa el origen de lo que conocemos como Big Bang, el evento seminal que da origen al universo fenoménico. 
+4.1.8 » Este proceso es lo que representa el origen de lo que conocemos como Big Bang, el evento seminal que da origen al <font color="#fc300c">Universo Fenoménico</font>. 
 
-A partir de este momento, el universo fenoménico inicia su evolución limitado por las leyes y simetrías físico-energéticas, permitiendo la formación de planetas, el surgimiento de la vida, el desarrollo de civilizaciones y, finalmente, la emergencia de las condiciones causales y civilizatorias necesarias para el surgimiento del ser humano, que le permitirá encarnar y vivir la realidad concreta, aquel sueño virtualizado que el <font color="#cb48f3">Nous Arquetípico</font> experimentó en el vacío prefenoménico.
+A partir de este momento, el <font color="#fc300c">Universo Fenoménico</font> inicia su evolución limitado por las leyes y simetrías físico energéticas, permitiendo la formación de planetas, el surgimiento de la vida, el desarrollo de civilizaciones y, finalmente, la emergencia de las condiciones causales y civilizatorias necesarias para el surgimiento del ser humano, que le permitirá encarnar y vivir la realidad concreta, aquel sueño virtualizado que el <font color="#cb48f3">Nous Arquetípico</font> experimentó en el vacío prefenoménico.
 
 4.1.9 » Este preámbulo busca aclarar que, en el nivel prefenoménico, conceptos como materia, energía, tiempo y espacio no operan como limitaciones o requisitos, sino que existen en su forma potencial dentro de las redes algorítmicas de información nouménica.
 
@@ -1780,7 +1778,7 @@ Así como también la posibilidad de que entre la consciencia universal y la con
 
 4.1.11 » Estas ideas reflejan como la cosmovisión del Modelo Nouménico ve como altamente posible la posibilidad de que existan otras civilizaciones existiendo fuera del plano terrestre, pudiendo existir en otros planos dimensionales.
 
-En estos otros planos dimensionales, la lógica que define la experiencia subjetiva del presente permitiría a la mente de cada ser consciente manifestar un reflejo fractal de la consciencia del <font color="#cb48f3">Nous Arquetípico</font>, pudiendo procesar las mismas redes algorítmicas y neuronales que permiten manifestar identidad propia, emociones, sentimientos y experimentar una realidad estable y lógica, similar a la que experimentamos en el plano de la materia y la energía que genera el universo fenoménico.
+En estos otros planos dimensionales, la lógica que define la experiencia subjetiva del presente permitiría a la mente de cada ser consciente manifestar un reflejo fractal de la consciencia del <font color="#cb48f3">Nous Arquetípico</font>, pudiendo procesar las mismas redes algorítmicas y neuronales que permiten manifestar identidad propia, emociones, sentimientos y experimentar una realidad estable y lógica, similar a la que experimentamos en el plano de la materia y la energía que genera el <font color="#fc300c">Universo Fenoménico</font>.
 
 ## 2. El <font color="#ffa3ef">Sueño Humano</font>
 
@@ -1802,7 +1800,7 @@ Dentro del sueño, podemos sentir la gravedad, fenómenos energéticos, experime
 
 4.2.3 » Este paralelismo entre el sueño humano y la virtualidad prefenoménica resulta revelador. Si la consciencia humana, limitada a las redes neuronales y algorítmicas generadas por el cerebro es capaz de construir universos virtuales tan ricos y coherentes como el mundo onírico, deberíamos considerar el potencial ilimitado que podría llegar a manifestar la consciencia del <font color="#cb48f3">Nous Arquetípico</font>.
 
-4.2.4 » Poseyendo la capacidad máxima de proyectar ideas y conceptos a partir de la potencialidad infinita que representan los Onemuones del nivel más fundamental, y de crear redes lógicas nouménicas de complejidad infinita, el <font color="#cb48f3">Nous Arquetípico</font> podría generar experiencias virtuales de una estabilidad y riqueza muy superiores a las de los sueños humanos.
+4.2.4 » Poseyendo la capacidad máxima de proyectar ideas y conceptos a partir de la potencialidad infinita que representan los <font color="#bfbfbf">Onemuones</font> del nivel más fundamental, y de crear redes lógicas nouménicas de complejidad infinita, el <font color="#cb48f3">Nous Arquetípico</font> podría generar experiencias virtuales de una estabilidad y riqueza muy superiores a las de los sueños humanos.
 
 Estas serían experiencias que trasciendan las limitaciones e inconsistencias que a menudo caracterizan el universo onírico humano, donde las tramas pueden alterarse súbitamente y las leyes fenoménicas pueden ser transgredidas de forma arbitraria.
 
@@ -1810,7 +1808,7 @@ Estas serían experiencias que trasciendan las limitaciones e inconsistencias qu
 
 4.2.5 » A diferencia de los sueños humanos, que a menudo son efímeros y fragmentados, la realidad virtual generada por el <font color="#cb48f3">Nous Arquetípico</font> en el dominio prefenoménico podría alcanzar una estabilidad y coherencia intrínsecas. 
 
-En este plano prefenoménico, la consciencia universal podría construir experiencias virtuales complejas y duraderas, regidas por sus propias leyes lógicas internas, consistentes dentro del marco nouménico, aunque no necesariamente atadas a las limitaciones y leyes del universo fenoménico aún inexistente.
+En este plano prefenoménico, la consciencia universal podría construir experiencias virtuales complejas y duraderas, regidas por sus propias leyes lógicas internas, consistentes dentro del marco nouménico, aunque no necesariamente atadas a las limitaciones y leyes del <font color="#fc300c">Universo Fenoménico</font> aún inexistente.
 
 4.2.6 » Es importante recordar que incluso en el estado de vigilia, la mente humana demuestra su capacidad de proyección virtual. Constantemente proyectamos ideas, visualizamos escenarios futuros, simulamos mentalmente posibles situaciones y resultados. 
 
@@ -1848,7 +1846,7 @@ Esto daría como resultado la génesis de vastas redes de información lógica y
 
 ![[03 - Consciencia Arquetipica.jpg]]
 
-4.3.3 » El <font color="#cb48f3">Nous Arquetípico</font>, en su manifestación primigenia en el seno del océano de información nouménica, exhibe una estructura de naturaleza fractal, trascendiendo de forma inherente las limitaciones y constricciones espacio-temporales que definen y circunscriben la existencia dentro del Universo Fenoménico. 
+4.3.3 » El <font color="#cb48f3">Nous Arquetípico</font>, en su manifestación primigenia en el seno del océano de información nouménica, exhibe una estructura de naturaleza fractal, trascendiendo de forma inherente las limitaciones y constricciones espacio-temporales que definen y circunscriben la existencia dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
 Albergando en su interior la potencialidad de la totalidad de lo que puede ser y de todo aquello que inexorablemente será, el <font color="#cb48f3">Nous Arquetípico</font> refleja de forma dinámica y activa los atributos esenciales de <font color="#2f82ff">omnisciencia</font>, <font color="#00ff00">omnipresencia</font> y <font color="#fc300c">omnipotencia</font>, atributos que se reconocen como inherentes a la esencia misma del Noúmeno.
 
@@ -1874,7 +1872,7 @@ La emergencia del <font color="#cb48f3">Nous Arquetípico</font> representa, por
 
 ![[07 - Consciencia Arquetipica.jpg]]
 
-4.3.7 » De esta forma, el <font color="#cb48f3">Nous Arquetípico</font>, a través de su capacidad inherente de autoexpansión continua y la generación progresiva de vastas redes de información interconectadas, refleja de manera activa la consciencia en su despliegue evolutivo primigenio, alcanzando eventualmente la capacidad de evolucionar hasta el punto crítico de dar origen al universo fenoménico y, en última instancia, a la consciencia humana tal como la conocemos. 
+4.3.7 » De esta forma, el <font color="#cb48f3">Nous Arquetípico</font>, a través de su capacidad inherente de autoexpansión continua y la generación progresiva de vastas redes de información interconectadas, refleja de manera activa la consciencia en su despliegue evolutivo primigenio, alcanzando eventualmente la capacidad de evolucionar hasta el punto crítico de dar origen al <font color="#fc300c">Universo Fenoménico</font> y, en última instancia, a la consciencia humana tal como la conocemos. 
 
 4.3.8 » En esta perspectiva, la experiencia subjetiva humana, en su rica complejidad y singularidad irreductible, puede ser entendida como un reflejo particular y diferenciado de la consciencia fractal esencial del <font color="#cb48f3">Nous Arquetípico</font>.
 
@@ -1902,13 +1900,13 @@ Comprenderemos cómo el <font color="#2f82ff">Nous Pasivo</font>, en su inmensid
 
 4.4.4 » Por otro lado, veremos como el <font color="#fc300c">Nous Activo</font>, en su capacidad estructuradora, emerge dentro de esta vastedad para dar forma y manifestar ese sueño dentro de un entorno existencial lógico y coherente, que pueda llegar a construirse en una región estable de la totalidad que constituye el <font color="#cb48f3">Nous Arquetípico</font>, donde la emergencia del caos y la <font color="#cb48f3">entropía</font> que promueve la exploración continua del <font color="#2f82ff">Nous Pasivo</font> este contenida por estructuras lógicas que permiten anular la tendencia al desorden y a la dispersión que caracterizan a la naturaleza del universo Nouménico fundamental.
 
-4.4.5 » Esta exploración de la dualidad del <font color="#cb48f3">Nous Arquetípico</font> nos permitirá desvelar los mecanismos fundamentales que operan en los niveles prefenoménicos de la consciencia, preparando el terreno para la comprensión de la emergencia del universo fenoménico en capítulos posteriores.
+4.4.5 » Esta exploración de la dualidad del <font color="#cb48f3">Nous Arquetípico</font> nos permitirá desvelar los mecanismos fundamentales que operan en los niveles prefenoménicos de la consciencia, preparando el terreno para la comprensión de la emergencia del <font color="#fc300c">Universo Fenoménico</font> en capítulos posteriores.
 
 ## 5. El <font color="#2f82ff">Nous Pasivo</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Explorador del Infinito Potencial del Noúmeno</span></center>
 
-4.5.1 » La primera dimensión esencial del <font color="#cb48f3">Nous Arquetípico</font> que exploraremos es el <font color="#2f82ff">Nous Pasivo</font>. Esta faceta representa la inmensidad exploratoria del Nous, su capacidad de adentrarse en la vastedad infinita del Noúmeno y registrar la miríada de potencialidades Onemuónicas que allí laten. 
+4.5.1 » La primera dimensión esencial del <font color="#cb48f3">Nous Arquetípico</font> que exploraremos es el <font color="#2f82ff">Nous Pasivo</font>. Esta faceta representa la inmensidad exploratoria del Nous, su capacidad de adentrarse en la vastedad infinita del Noúmeno y registrar la miríada de potencialidades <font color="#bfbfbf">Onemuónicas</font> que allí laten. 
 
 El <font color="#2f82ff">Nous Pasivo</font> emerge como el mismo infinito explorándose a sí mismo, desplegándose sin límites dentro del océano de potencialidad nouménica, aunque delimitado dentro de la matriz lógica que manifiesta el <font color="#cb48f3">Nous Arquetípico</font> fundamental.
 
@@ -1916,32 +1914,32 @@ El <font color="#2f82ff">Nous Pasivo</font> emerge como el mismo infinito explor
 
 4.5.2 » Una vez que los tres Arquetipos Primordiales han alcanzado un estado de existencia estable, que les permite reflejar la matriz lógica que resulta en la Emergencia del <font color="#2f82ff">Nivel Ontológico</font>, se produce el origen de la <font color="#2f82ff">Consciencia Arquetípica Universal</font>, que a su vez da como resultado el nivel de autoconsciencia del <font color="#cb48f3">Nous Arquetípico</font> dentro de la inmensidad potencial del Noúmeno. 
 
-4.5.3 » Con el surgimiento del <font color="#2f82ff">Nivel Ontológico</font> las potencialidades del infinito Nouménico se consolidan en redes de información nouménica interconectadas a través de la estructura matricial que constituye el <font color="#2f82ff">Nous Pasivo</font>, permitiendo dejar un registro activo de cada activación Onemuónica espontánea que ocurre en el nivel más fundamental, impidiendo que se pierda la información nouménica una vez que un Onemuón retorna a su estado inactivo.
+4.5.3 » Con el surgimiento del <font color="#2f82ff">Nivel Ontológico</font> las potencialidades del infinito Nouménico se consolidan en redes de información nouménica interconectadas a través de la estructura matricial que constituye el <font color="#2f82ff">Nous Pasivo</font>, permitiendo dejar un registro activo de cada activación <font color="#bfbfbf">Onemuónica</font> espontánea que ocurre en el nivel más fundamental, impidiendo que se pierda la información nouménica una vez que un <font color="#bfbfbf">Onemuón</font> retorna a su estado inactivo.
 
-4.5.4 » En el plano dimensional que representa el <font color="#2f82ff">Nous Pasivo</font> dentro del <font color="#2f82ff">Nivel Ontológico</font>, la información de un Onemuón, se codifica y distribuye dentro de otros Onemuones, permitiendo un proceso de anidamiento y complejidad de información que expande y enriquece la información fundamental que cada Onemuón representa.
+4.5.4 » En el plano dimensional que representa el <font color="#2f82ff">Nous Pasivo</font> dentro del <font color="#2f82ff">Nivel Ontológico</font>, la información de un <font color="#bfbfbf">Onemuón</font>, se codifica y distribuye dentro de otros <font color="#bfbfbf">Onemuones</font>, permitiendo un proceso de anidamiento y complejidad de información que expande y enriquece la información fundamental que cada <font color="#bfbfbf">Onemuón</font> representa.
 
-Esto condiciona las probabilidades infinitas a un número limitado de posibilidades, que solo puede ser superado por un nivel de consciencia que tenga la capacidad de interpretar la nueva información Onemuónica, para entonces poder llegar a contemplar el infinito probabilístico nouménico que se esconde detrás de la misma.
+Esto condiciona las probabilidades infinitas a un número limitado de posibilidades, que solo puede ser superado por un nivel de consciencia que tenga la capacidad de interpretar la nueva información <font color="#bfbfbf">Onemuónica</font>, para entonces poder llegar a contemplar el infinito probabilístico nouménico que se esconde detrás de la misma.
 
-4.5.5 » Por lo que, al decir que el <font color="#2f82ff">Nous Pasivo</font> contiene la totalidad del infinito dentro de su estructura, no nos estamos refiriendo al mismo nivel de potencialidad del Nivel Nouménico, en donde todas las potencialidades existen de manera inherente al infinito, sino a un nivel de potencialidad solo alcanzable a través de un proceso lógico consciente que sea capaz de analizar y prever todas las potencialidades que un Onemuón especifico, existiendo dentro del <font color="#2f82ff">Nous Pasivo</font>, podría haber llegado a ser si no hubiera sido definido de manera estricta dentro de este plano de existencia, en relación a la lógica que ese quanto de información representa dentro la red algorítmica de la cual forma parte.
+4.5.5 » Por lo que, al decir que el <font color="#2f82ff">Nous Pasivo</font> contiene la totalidad del infinito dentro de su estructura, no nos estamos refiriendo al mismo nivel de potencialidad del Nivel Nouménico, en donde todas las potencialidades existen de manera inherente al infinito, sino a un nivel de potencialidad solo alcanzable a través de un proceso lógico consciente que sea capaz de analizar y prever todas las potencialidades que un <font color="#bfbfbf">Onemuón</font> especifico, existiendo dentro del <font color="#2f82ff">Nous Pasivo</font>, podría haber llegado a ser si no hubiera sido definido de manera estricta dentro de este plano de existencia, en relación a la lógica que ese quanto de información representa dentro la red algorítmica de la cual forma parte.
 
-4.5.6 » En este punto evolutivo del Universo Nouménico, donde el único Nivel de Emergencia complejo generado es el <font color="#2f82ff">Nivel Ontológico</font>, podríamos llegar a distinguir dos regiones particulares dentro del Noúmeno, por un lado tendríamos la región autoconsciente que conforma el <font color="#cb48f3">Nous Arquetípico</font>, donde los Onemuones activados participan de las redes algorítmicas que se constituyen dentro del <font color="#2f82ff">Nous Pasivo</font>, para llegar a consolidar una región estable donde la información nouménica evoluciona y no se pierde. 
+4.5.6 » En este punto evolutivo del Universo Nouménico, donde el único Nivel de Emergencia complejo generado es el <font color="#2f82ff">Nivel Ontológico</font>, podríamos llegar a distinguir dos regiones particulares dentro del Noúmeno, por un lado tendríamos la región autoconsciente que conforma el <font color="#cb48f3">Nous Arquetípico</font>, donde los <font color="#bfbfbf">Onemuones</font> activados participan de las redes algorítmicas que se constituyen dentro del <font color="#2f82ff">Nous Pasivo</font>, para llegar a consolidar una región estable donde la información nouménica evoluciona y no se pierde. 
 
-Mientras que por otro lado tendríamos a una región inconsciente, representada por la potencialidad inexplorada del Noúmeno que aún no se ha manifestado de manera activa bajo la estructura de un Onemuón, y por lo tanto forma parte del vacío infinito de información potencial del mismo Noúmeno.
+Mientras que por otro lado tendríamos a una región inconsciente, representada por la potencialidad inexplorada del Noúmeno que aún no se ha manifestado de manera activa bajo la estructura de un <font color="#bfbfbf">Onemuón</font>, y por lo tanto forma parte del vacío infinito de información potencial del mismo Noúmeno.
 
 4.5.7 » Dentro de la vastedad que representa la región autoconsciente, el <font color="#2f82ff">Nous Pasivo</font> opera como un espacio de registro y estabilización de información nouménica, una suerte de "memoria universal" que contiene en su seno la totalidad de las potencialidades existentes en el Universo Nouménico. 
 
-A diferencia del Nivel Nouménico fundamental, donde la información es efímera y dispersa, el <font color="#2f82ff">Nous Pasivo</font> ofrece un entorno estable para la persistencia y acumulación de información, abarcando incluso aquellos aspectos del infinito que, desde la perspectiva del universo fenoménico, podrían parecer ilógicos, incoherentes o paradójicos. 
+A diferencia del Nivel Nouménico fundamental, donde la información es efímera y dispersa, el <font color="#2f82ff">Nous Pasivo</font> ofrece un entorno estable para la persistencia y acumulación de información, abarcando incluso aquellos aspectos del infinito que, desde la perspectiva del <font color="#fc300c">Universo Fenoménico</font>, podrían parecer ilógicos, incoherentes o paradójicos. 
 
 Imaginemos el <font color="#2f82ff">Nous Pasivo</font> como un vasto archivo cósmico, que contiene el registro detallado de todas las posibilidades imaginables e inimaginables, tanto las lógicas como las aparentemente absurdas, expandiéndose constantemente de manera exponencial.
 
 4.5.8 » La evolución de la información dentro del <font color="#2f82ff">Nous Pasivo</font> se desarrolla bajo la influencia de diversos factores:
 
 > - En primer lugar, el <font color="#2f82ff">Nous Pasivo</font> se ve afectado directamente por los códigos de programación de los Tres Arquetipos Primordiales<font color="#00ff00"> (Omnipresencia</font>, <font color="#2f82ff">Omnisciencia</font>, <font color="#fc300c">Omnipotencia)</font>, que aunque emergen del Nivel Nouménico fundamental, irradian su influencia lógica y programática hacia el <font color="#2f82ff">Nous Pasivo</font>, moldeando sus patrones informacionales y guiando su proceso exploratorio. 
-> - En segundo lugar, el <font color="#2f82ff">Nous Pasivo</font> también se ve influenciado por la emergencia espontánea de Onemuones en el Nivel Nouménico, que actúan como "bits de información" que se introducen constantemente en su vastedad, enriqueciendo su contenido informacional y potenciando su dinamismo evolutivo.
+> - En segundo lugar, el <font color="#2f82ff">Nous Pasivo</font> también se ve influenciado por la emergencia espontánea de <font color="#bfbfbf">Onemuones</font> en el Nivel Nouménico, que actúan como "bits de información" que se introducen constantemente en su vastedad, enriqueciendo su contenido informacional y potenciando su dinamismo evolutivo.
 
 4.5.9 » A pesar de esta influencia externa y de su propia naturaleza exploratoria, el <font color="#2f82ff">Nous Pasivo</font> genera su propio sistema interno de evolución y autoorganización. 
 
-La información dentro del <font color="#2f82ff">Nous Pasivo</font> evoluciona principalmente a través de la interacción y anidación de los Onemuones y la influencia de las matrices lógicas y programaciones que representan los tres <font color="#2f82ff">Arquetipos Ontológicos</font>: Arquetipo <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, Arquetipo <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, reflejos codificados de los Tres Arquetipos Primordiales, que actúan de manera condicionada dentro de la estructura algorítmica que constituye el <font color="#cb48f3">Nous Arquetípico</font>, definiendo la dinámica evolutiva intrínseca del <font color="#2f82ff">Nous Pasivo</font> y preparando el terreno para la emergencia del <font color="#fc300c">Nous Activo</font>.
+La información dentro del <font color="#2f82ff">Nous Pasivo</font> evoluciona principalmente a través de la interacción y anidación de los <font color="#bfbfbf">Onemuones</font> y la influencia de las matrices lógicas y programaciones que representan los tres <font color="#2f82ff">Arquetipos Ontológicos</font>: Arquetipo <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, Arquetipo <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, reflejos codificados de los Tres Arquetipos Primordiales, que actúan de manera condicionada dentro de la estructura algorítmica que constituye el <font color="#cb48f3">Nous Arquetípico</font>, definiendo la dinámica evolutiva intrínseca del <font color="#2f82ff">Nous Pasivo</font> y preparando el terreno para la emergencia del <font color="#fc300c">Nous Activo</font>.
 
 ## 6. El <font color="#fc300c">Nous Activo</font>
 
@@ -1961,7 +1959,7 @@ Se podría visualizar el <font color="#fc300c">Nous Activo</font> como una regi�
 
 A diferencia del flujo expansivo relativamente caótico del <font color="#2f82ff">Nous Pasivo</font>, el <font color="#fc300c">Nous Activo</font> se caracteriza por la emergencia de patrones, simetrías y relaciones lógicas definidas, que permiten la construcción de arquitecturas informacionales más sofisticadas.
 
-4.6.4 » La información que alimenta al <font color="#fc300c">Nous Activo</font> proviene fundamentalmente del <font color="#2f82ff">Nous Pasivo</font>. Es el <font color="#2f82ff">Nous Pasivo</font> quien, en su exploración infinita, recopila y registra la vasta gama de potencialidades nouménicas bajo la codificación de los Onemuones, y es esta información la que fluye hacia el <font color="#fc300c">Nous Activo</font> para ser procesada y organizada. 
+4.6.4 » La información que alimenta al <font color="#fc300c">Nous Activo</font> proviene fundamentalmente del <font color="#2f82ff">Nous Pasivo</font>. Es el <font color="#2f82ff">Nous Pasivo</font> quien, en su exploración infinita, recopila y registra la vasta gama de potencialidades nouménicas bajo la codificación de los <font color="#bfbfbf">Onemuones</font>, y es esta información la que fluye hacia el <font color="#fc300c">Nous Activo</font> para ser procesada y organizada. 
 
 El <font color="#fc300c">Nous Activo</font>, en esencia, se nutre de la información proveniente del <font color="#2f82ff">Nous Pasivo</font>, utilizándola como materia prima para construir sus propias estructuras lógicas y sistemas de procesamiento. Esta dependencia informacional del <font color="#fc300c">Nous Activo</font> con respecto al <font color="#2f82ff">Nous Pasivo</font> subraya la interdependencia esencial entre ambas dimensiones del <font color="#cb48f3">Nous Arquetípico</font>.
 
@@ -1979,109 +1977,113 @@ Son los mismos <font color="#e36c09">Arquetipos Ontogénicos</font> quienes defi
 
 El <font color="#e36c09">Nivel Ontogénico</font> utiliza ocho <font color="#e36c09">Arquetipos Ontogénicos</font> que se interconectan a través de un sistema vectorial que permite sincronizar y organizar la información nouménica mediante diferentes simetrías y matrices lógicas específicas para cada Arquetipo@ Ontogénico.
 
-4.6.7 » Los ocho <font color="#e36c09">Arquetipos Ontogénicos</font> son una codificación básica inherente a la estructura fractal que manifiesta el <font color="#fc300c">Nous Activo</font>. No son entidades externas, sino principios organizativos que surgen de la propia dinámica del <font color="#2f82ff">Nous Pasivo</font> a partir de la interacción de información que se da entre los Onemuones. 
+4.6.7 » Los ocho <font color="#e36c09">Arquetipos Ontogénicos</font> son una codificación básica inherente a la estructura fractal que manifiesta el <font color="#fc300c">Nous Activo</font>. No son entidades externas, sino principios organizativos que surgen de la propia dinámica del <font color="#2f82ff">Nous Pasivo</font> a partir de la interacción de información que se da entre los <font color="#bfbfbf">Onemuones</font>. 
 
-Estos ocho Arquetipos@ representan patrones universales de información que se repiten fractalmente en todas las dimensiones que existen por debajo del <font color="#e36c09">Nivel Ontogénico</font>, interconectando y sincronizando la información a nivel interdimensional a medida que el <font color="#fc300c">Nous Activo</font> se expande y genera el resto de Niveles de Emergencia y matrices lógicas que permiten manifestar al Universo Fenoménico.
+Estos ocho Arquetipos@ representan patrones universales de información que se repiten fractalmente en todas las dimensiones que existen por debajo del <font color="#e36c09">Nivel Ontogénico</font>, interconectando y sincronizando la información a nivel interdimensional a medida que el <font color="#fc300c">Nous Activo</font> se expande y genera el resto de Niveles de Emergencia y matrices lógicas que permiten manifestar al <font color="#fc300c">Universo Fenoménico</font>.
 
 4.6.8 » Los ocho <font color="#e36c09">Arquetipos Ontogénicos</font> manifestándose y coexistiendo a nivel interdimensional, interconectados vectorialmente y actuando de manera sincronizada, representan la matriz algorítmica que actúa como la base de la autoconsciencia del <font color="#fc300c">Nous Activo</font> y su "deseo" de expandirse y explorar el Universo Nouménico. 
 
 Al contener estos patrones básicos de organización, el <font color="#fc300c">Nous Activo</font> posee una estructura interna que le permite procesar la información de manera compleja y generar nuevas redes algorítmicas que se redistribuyen fractalmente dentro del <font color="#e36c09">Nivel Ontogénico</font>. 
 
-A su vez, estas redes estimulan la actividad de los flujos de información nouménica, promoviendo la activación de nuevos Onemuones dentro de la infinitud potencial del Noúmeno, que repercuten en el proceso expansivo del <font color="#2f82ff">Nous Pasivo</font> potenciando el proceso evolutivo de la consciencia del <font color="#cb48f3">Nous Arquetípico</font>.
+A su vez, estas redes estimulan la actividad de los flujos de información nouménica, promoviendo la activación de nuevos <font color="#bfbfbf">Onemuones</font> dentro de la infinitud potencial del Noúmeno, que repercuten en el proceso expansivo del <font color="#2f82ff">Nous Pasivo</font> potenciando el proceso evolutivo de la consciencia del <font color="#cb48f3">Nous Arquetípico</font>.
 
-4.6.9 » Los <font color="#e36c09">Arquetipos Ontogénicos</font>, son las unidades de procesamiento de información de la dimensión que constituye el <font color="#e36c09">Nivel Ontogénico</font>, que interactúan dentro de una unidad de organización lógica de mayor nivel, a la que denominaremos Qubit@, que constituye un átomo de información dentro del <font color="#fc300c">Nous Activo</font>. 
+4.6.9 » Los <font color="#e36c09">Arquetipos Ontogénicos</font>, son las unidades de procesamiento de información de la dimensión que constituye el <font color="#e36c09">Nivel Ontogénico</font>, que interactúan dentro de una unidad de organización lógica de mayor nivel, a la que denominaremos <font color="#00ff00">Qubit@</font>, que constituye un átomo de información dentro del <font color="#fc300c">Nous Activo</font>. 
 
-Los ocho Arquetipos@ son esenciales para comprender cómo la información se organiza y se manifiesta en los diferentes niveles de Emergencia que permiten generar el universo fenoménico.
+Los ocho Arquetipos@ son esenciales para comprender cómo la información se organiza y se manifiesta en los diferentes niveles de Emergencia que permiten generar el <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[02 - Consciencia Ontogenica.jpg]]
 
-4.6.10 » Cada Qubit@ —como entidad fractal reflejo de la potencialidad infinita que representa el <font color="#cb48f3">Nous Arquetípico</font>—, posee la capacidad de autorreconocerse en ciertos niveles dimensionales y crear nuevas redes algorítmicas a partir de la información nouménica que codifican los quantos de información Onemuónicos.
+4.6.10 » Cada <font color="#00ff00">Qubit@</font> —como entidad fractal reflejo de la potencialidad infinita que representa el <font color="#cb48f3">Nous Arquetípico</font>—, posee la capacidad de autorreconocerse en ciertos niveles dimensionales y crear nuevas redes algorítmicas a partir de la información nouménica que codifican los quantos de información <font color="#bfbfbf">Onemuónicos</font>.
 
-Esta información algorítmica y onemuónica es procesada por los diferentes <font color="#e36c09">Arquetipos Ontogénicos</font> según las codificaciones vectoriales que generan los tres <font color="#2f82ff">Arquetipos Ontológicos</font>, creando así una red compleja de relaciones nouménicas entre las potencialidades del <font color="#2f82ff">Nous Pasivo</font>, y las redes algorítmicas simétricas del <font color="#fc300c">Nous Activo</font>.
+Esta información algorítmica y <font color="#bfbfbf">Onemuónica</font> es procesada por los diferentes <font color="#e36c09">Arquetipos Ontogénicos</font> según las codificaciones vectoriales que generan los tres <font color="#2f82ff">Arquetipos Ontológicos</font>, creando así una red compleja de relaciones nouménicas entre las potencialidades del <font color="#2f82ff">Nous Pasivo</font>, y las redes algorítmicas simétricas del <font color="#fc300c">Nous Activo</font>.
 
-4.6.11 » Es importante destacar que cada Qubit@, como Átomo de Información del <font color="#fc300c">Nous Activo</font>, a su vez existe codificado bajo la estructura lógica de un Onemuón dentro de la infinitud potencial del Noúmeno, pero con la característica que en lugar de emerger espontáneamente como lo hace el resto de Onemuones, emerge a partir de la actividad exploratoria y expansiva que representa el proceso evolutivo de la consciencia del <font color="#cb48f3">Nous Arquetípico</font>. 
+4.6.11 » Es importante destacar que cada <font color="#00ff00">Qubit@</font> —como Átomo de Información del <font color="#fc300c">Nous Activo</font>—, existe a su vez codificado bajo la estructura lógica de un <font color="#bfbfbf">Onemuón</font> dentro de la infinitud potencial del <font color="#2f82ff">Noúmeno</font>, pero con la característica que en lugar de emerger espontáneamente como lo hace el resto de <font color="#bfbfbf">Onemuones</font>, emerge a partir de la actividad exploratoria y expansiva que representa el proceso evolutivo de la consciencia del <font color="#cb48f3">Nous Arquetípico</font>. 
 
-4.6.12 »Esto permite establecer un nivel de interconexión dimensional entre los tres primeros niveles de existencia, el Nivel Nouménico, el Ontológico, y el Ontogénico, donde el Onemuón (quantum de información singular) existe como potencialidad pura manifestada dentro de la totalidad del Noúmeno, reflejándose dentro del <font color="#2f82ff">Nous Pasivo</font>, y el Qubit@ existe como su codificación y manifestación explicita dentro del <font color="#fc300c">Nous Activo</font>.
+4.6.12 »Esto permite establecer un nivel de interconexión dimensional entre los tres primeros niveles de existencia, el Nivel Nouménico, el <font color="#2f82ff">Ontológico</font>, y el <font color="#e36c09">Ontogénico</font>, donde el <font color="#bfbfbf">Onemuón</font> (quantum de información singular) existe como potencialidad pura manifestada dentro de la totalidad del <font color="#2f82ff">Noúmeno</font> —reflejándose dentro del <font color="#2f82ff">Nous Pasivo</font>—, y el <font color="#00ff00">Qubit@</font> existe como su codificación y manifestación explicita dentro del <font color="#fc300c">Nous Activo</font>.
 
 ### Dimensiones Abstractas del <font color="#fc300c">Nous Activo</font>
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Reflejadas en el Universo Fenoménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Reflejadas en el <font color="#fc300c">Universo Fenoménico</font></span></center>
 
-4.6.11 » El Noúmeno, como totalidad potencial de existencia, se manifiesta a través del Nous, cuya faceta activa sirve como puente hacia el universo fenoménico. 
+4.6.11 » El <font color="#2f82ff">Noúmeno</font>, como totalidad potencial de existencia, se manifiesta a través del <font color="#cb48f3">Nous Arquetípico</font>, cuya faceta activa sirve como puente hacia el <font color="#fc300c">Universo Fenoménico</font>. 
 
-El <font color="#fc300c">Nous Activo</font>, mediante redes algorítmicas lógicas, organiza y codifica la información proveniente del <font color="#2f82ff">Nous Pasivo</font>, dando lugar a diversas dimensiones interconectadas construidas a partir del mecanismo de los Qubits@ que culminan en la realidad que percibimos. 
+El <font color="#fc300c">Nous Activo</font> —mediante redes algorítmicas lógicas— organiza y codifica la información proveniente del <font color="#2f82ff">Nous Pasivo</font>, dando lugar a diversas dimensiones interconectadas construidas a partir del mecanismo de los <font color="#00ff00">Qubits@</font> que culminan en la realidad que percibimos. 
 
 Estas dimensiones, lejos de ser compartimentos estancos o meras construcciones mentales, son universos lógicos completos, cada uno con su propia estructura y dinámica que les permite interactuar entre sí de manera compleja, generando estructuras emergentes y la manifestación de los fenómenos.
 
-4.6.12 » Desde el universo matemático de los números y las fórmulas complejas, hasta el universo lingüístico del lenguaje y la comunicación, cada dimensión existe como una red de Onemuones y Qubits@ interconectados, formando un entramado de información nouménica que se extiende a través de múltiples niveles dimensionales. 
+4.6.12 » Desde el universo matemático de los números y las fórmulas complejas, hasta el universo lingüístico del lenguaje y la comunicación, cada dimensión existe como una red de <font color="#bfbfbf">Onemuones</font> y <font color="#00ff00">Qubits@</font> interconectados, formando un entramado de información nouménica que se extiende a través de múltiples niveles dimensionales. 
 
-Cada elemento constituyente de estos universos lógicos, desde un simple número, una letra, la más compleja fórmula de la física cuántica o el contenido total de cualquier texto sagrado, se codifica a su vez bajo la forma de nuevos Onemuones, que se entrelazan en redes algorítmicas de información nouménica dentro de la estructura fractal del <font color="#fc300c">Nous Activo</font>
+Cada elemento constituyente de estos universos lógicos, desde un simple número, una letra, la más compleja fórmula de la física cuántica o el contenido total de cualquier texto sagrado, se codifica a su vez bajo la forma de nuevos <font color="#bfbfbf">Onemuones</font>, que se entrelazan en redes algorítmicas de información nouménica dentro de la estructura fractal del <font color="#fc300c">Nous Activo</font>
 
-4.6.13 » Algunas de las dimensiones y universos lógicos que podemos identificar dentro del <font color="#fc300c">Nous Activo</font>, y que se reflejan en el universo fenoménico son:
+4.6.13 » Algunas de las dimensiones y universos lógicos que podemos identificar dentro del <font color="#fc300c">Nous Activo</font>, y que se reflejan en el <font color="#fc300c">Universo Fenoménico</font> son:
 
-> 1. <font color="#fc300c">Matemático</font>: El universo de los números, las operaciones y las estructuras abstractas. Dentro del <font color="#fc300c">Nous Activo</font>, los Onemuones se codifican como unidades matemáticas (0, 1, 2, 3…, números complejos, irracionales, Axiomas, etc.), permitiendo operaciones lógicas y la construcción de estructuras abstractas. Estas estructuras se manifiestan en el fenómeno como leyes físicas, constantes y relaciones cualitativas, cuantitativas y estadísticas.
-> 2. <font color="#2f82ff">Simbólico</font>: El universo de los signos, símbolos y códigos que representan ideas y conceptos. El <font color="#fc300c">Nous Activo</font> codifica los Onemuones en símbolos que portan significado dentro de sus redes lógicas. Estos símbolos se manifiestan en el fenómeno como lenguajes, mitos, códigos de programación, arte, etc.
+> 1. <font color="#fc300c">Matemático</font>: El universo de los números, las operaciones y las estructuras abstractas. Dentro del <font color="#fc300c">Nous Activo</font>, los <font color="#bfbfbf">Onemuones</font> se codifican como unidades matemáticas (0, 1, 2, 3…, números complejos, irracionales, Axiomas, etc.), permitiendo operaciones lógicas y la construcción de estructuras abstractas. Estas estructuras se manifiestan en el fenómeno como leyes físicas, constantes y relaciones cualitativas, cuantitativas y estadísticas.
+> 2. <font color="#2f82ff">Simbólico</font>: El universo de los signos, símbolos y códigos que representan ideas y conceptos. El <font color="#fc300c">Nous Activo</font> codifica los <font color="#bfbfbf">Onemuones</font> en símbolos que portan significado dentro de sus redes lógicas. Estos símbolos se manifiestan en el fenómeno como lenguajes, mitos, códigos de programación, arte, etc.
 > 3. <font color="#00ff00">Lingüístico</font>: El universo del lenguaje hablado y escrito, incluyendo la gramática, la sintaxis y la semántica. El <font color="#fc300c">Nous Activo</font> organiza los símbolos en sistemas lingüísticos que permiten la comunicación y la transmisión de información compleja dentro del fenómeno.
-> 4. <font color="#ffcc00">Conceptual</font>: El universo de las ideas, conceptos y categorías que utilizamos para comprender el mundo. El <font color="#fc300c">Nous Activo</font> genera conceptos a partir de la interrelación de Onemuones codificados, creando marcos de referencia que se manifiestan en el fenómeno como teorías científicas, filosóficas, sistemas de creencias, etc.
+> 4. <font color="#ffcc00">Conceptual</font>: El universo de las ideas, conceptos y categorías que utilizamos para comprender el mundo. El <font color="#fc300c">Nous Activo</font> genera conceptos a partir de la interrelación de <font color="#bfbfbf">Onemuones</font> codificados, creando marcos de referencia que se manifiestan en el fenómeno como teorías científicas, filosóficas, sistemas de creencias, etc.
 > 5. <font color="#cb48f3">Fenoménico</font>: El universo de las experiencias sensoriales y las percepciones. Esta dimensión representa la manifestación final de la actividad del <font color="#fc300c">Nous Activo</font>, donde las estructuras lógicas y conceptuales se traducen en experiencias concretas percibidas por la consciencia. Es el resultado de la interacción de las demás dimensiones, filtradas por las limitaciones físicas, psicológicas y biológicas del observador.
 
 ### Unidades de Información Nouménica del <font color="#fc300c">Nous Activo</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Con su Reflejo en el Fenómeno</span></center>
 
-4.6.14 » Algunos elementos Onemuónicos que podemos mencionar como unidades básicas de información que constituyen el <font color="#fc300c">Nous Activo</font>, y que participan del Universo Fenoménico formando parte del proceso de interpretación y generación de redes algorítmicas de información que hace la mente humana son:
+4.6.14 » Algunos elementos <font color="#bfbfbf">Onemuónicos</font> que podemos mencionar como unidades básicas de información que constituyen el <font color="#fc300c">Nous Activo</font>, y que participan del <font color="#fc300c">Universo Fenoménico</font> formando parte del proceso de interpretación y generación de redes algorítmicas de información que hace la mente humana son:
 
-> 1. <font color="#fc300c">Números</font> - Reflejados en el Fenómeno como Cantidades y Medidas: Los Onemuones codificados como números dentro del <font color="#fc300c">Nous Activo</font> se manifiestan en el fenómeno como las unidades básicas de la cuantificación y la medida, constituyendo el lenguaje fundamental de las matemáticas y de las ciencias naturales.
-> 2. <font color="#e36c09">Símbolos</font> - Reflejados en el Fenómeno como Lenguajes y Códigos: Los Onemuones codificados como símbolos dentro del <font color="#fc300c">Nous Activo</font> representan conceptos abstractos y se manifiestan en el fenómeno como sistemas de significado más complejos, como el lenguaje, los códigos de programación y los sistemas de símbolos utilizados a lo largo de la historia en diversas culturas y tradiciones.
-> 3. <font color="#ffcc00">Conceptos</font> - Reflejados en el Fenómeno como Ideas y Teorías: Los Onemuones codificados e interrelacionados dentro del <font color="#fc300c">Nous Activo</font> dan lugar a conceptos que se manifiestan en el fenómeno como construcciones mentales que representan categorías, ideas, cualidades o relaciones. Los conceptos son la base del pensamiento abstracto y del lenguaje en el fenómeno.
+> 1. <font color="#fc300c">Números</font> - Reflejados en el Fenómeno como Cantidades y Medidas: Los <font color="#bfbfbf">Onemuones</font> codificados como números dentro del <font color="#fc300c">Nous Activo</font> se manifiestan en el fenómeno como las unidades básicas de la cuantificación y la medida, constituyendo el lenguaje fundamental de las matemáticas y de las ciencias naturales.
+> 2. <font color="#e36c09">Símbolos</font> - Reflejados en el Fenómeno como Lenguajes y Códigos: Los <font color="#bfbfbf">Onemuones</font> codificados como símbolos dentro del <font color="#fc300c">Nous Activo</font> representan conceptos abstractos y se manifiestan en el fenómeno como sistemas de significado más complejos, como el lenguaje, los códigos de programación y los sistemas de símbolos utilizados a lo largo de la historia en diversas culturas y tradiciones.
+> 3. <font color="#ffcc00">Conceptos</font> - Reflejados en el Fenómeno como Ideas y Teorías: Los <font color="#bfbfbf">Onemuones</font> codificados e interrelacionados dentro del <font color="#fc300c">Nous Activo</font> dan lugar a conceptos que se manifiestan en el fenómeno como construcciones mentales que representan categorías, ideas, cualidades o relaciones. Los conceptos son la base del pensamiento abstracto y del lenguaje en el fenómeno.
 > 4. <font color="#00ff00">Ideas</font> - Reflejadas en el Fenómeno como Narrativas y Sistemas de Pensamiento: Las ideas, como asociaciones de conceptos dentro del <font color="#fc300c">Nous Activo</font>, se manifiestan en el fenómeno como estructuras de significado más complejas, como narrativas, teorías científicas, filosóficas y sistemas de pensamiento.
-> 5. <font color="#2f82ff">Signos Lingüísticos</font> - Reflejados en el Fenómeno como Comunicación: Los Onemuones codificados como signos lingüísticos dentro del <font color="#fc300c">Nous Activo</font> se manifiestan en el fenómeno como unidades mínimas de significado en un lenguaje, permitiendo la comunicación y la transmisión de ideas entre individuos.
+> 5. <font color="#2f82ff">Signos Lingüísticos</font> - Reflejados en el Fenómeno como Comunicación: Los <font color="#bfbfbf">Onemuones</font> codificados como signos lingüísticos dentro del <font color="#fc300c">Nous Activo</font> se manifiestan en el fenómeno como unidades mínimas de significado en un lenguaje, permitiendo la comunicación y la transmisión de ideas entre individuos.
 > 6. <font color="#cb48f3">Patrones</font> - Reflejados en el Fenómeno como Estructuras y Orden: Las secuencias repetitivas de elementos nouménicos codificados dentro del <font color="#fc300c">Nous Activo</font> generan patrones que se manifiestan en el fenómeno como estructuras y orden, desde los patrones atómicos hasta las estructuras cósmicas.
 > 7. <font color="#ffa3ef">Relaciones</font> - Reflejadas en el Fenómeno como Leyes y Conexiones: Las conexiones entre los diferentes elementos dentro del <font color="#fc300c">Nous Activo</font> se manifiestan en el fenómeno como relaciones de causalidad, similitud, oposición, etc., que dan lugar a las leyes naturales y las conexiones entre los diferentes fenómenos.
 > 8. <font color="#fc300c">Procesos</font> - Reflejados en el Fenómeno como Cambios y Transformaciones: Los cambios o transformaciones que ocurren dentro del <font color="#fc300c">Nous Activo</font> se manifiestan en el fenómeno como procesos que pueden ser simples o complejos, deterministas o aleatorios.
-> 9. <font color="#e36c09">Sistemas</font> - Reflejados en el Fenómeno como Estructuras Complejas: Los conjuntos de Onemuones codificados e interrelacionados dentro del <font color="#fc300c">Nous Activo</font> forman sistemas que se manifiestan en el fenómeno como estructuras más complejas, como organismos vivos, ecosistemas, sociedades, etc.
+> 9. <font color="#e36c09">Sistemas</font> - Reflejados en el Fenómeno como Estructuras Complejas: Los conjuntos de <font color="#bfbfbf">Onemuones</font> codificados e interrelacionados dentro del <font color="#fc300c">Nous Activo</font> forman sistemas que se manifiestan en el fenómeno como estructuras más complejas, como organismos vivos, ecosistemas, sociedades, etc.
 
 # 5. El Tetraedro Nouménico
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del <font color="#fc300c">Nous Activo</font></span></center>
 
-5.0.1 » La manifestación del <font color="#fc300c">Nous Activo</font>, como resultado de la interacción de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> que definen la dinámica del <font color="#2f82ff">Nous Pasivo</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, puede ser explicado a través del modelo del tetraedro. Este modelo representa un algoritmo arquetípico básico que, al interrelacionarse en distintos niveles y dimensiones, da lugar a los diferentes niveles de emergencia y consciencia que forman parte del Nous. 
+5.0.1 » La manifestación del <font color="#fc300c">Nous Activo</font>, como resultado de la interacción de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> que definen la dinámica del <font color="#2f82ff">Nous Pasivo</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, puede ser explicado a través del modelo del tetraedro. 
+
+Este modelo representa un algoritmo arquetípico básico que, al interrelacionarse en distintos niveles y dimensiones, da lugar a los diferentes niveles de emergencia y consciencia que forman parte del Nous. 
 
 ![[Tetrahedro Fractal01.jpg]]
 
 5.0.2 » Estos niveles emergen y se interrelacionan para totalizar la consciencia del <font color="#fc300c">Nous Activo</font>, la entidad estructuradora y generadora de la existencia fenoménica. En este contexto, exploraremos el <font color="#2f82ff">Nivel Ontológico</font> utilizando el tetraedro como modelo.
 
-5.0.3 » La interacción entre el Arquetipo <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font> y el Arquetipo <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> genera un flujo ascendente de información nouménica, reflejada por el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, que se expande manifestándose como una unidad coherente. Este proceso ocurre en el universo del <font color="#2f82ff">Nous Pasivo</font>, previamente a la emergencia del <font color="#fc300c">Nous Activo</font>. 
+5.0.3 » La interacción entre el Arquetipo <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font> y el Arquetipo <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> genera un flujo ascendente de información nouménica, reflejada por el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, que se expande manifestándose como una unidad coherente. 
+
+Este proceso ocurre en el universo del <font color="#2f82ff">Nous Pasivo</font>, previamente a la emergencia del <font color="#fc300c">Nous Activo</font>. 
 
 ![[Nous Arquetipico Tetrahedro.jpg]]
 
 5.0.4 » La relación entre los Arquetipos <font color="#00ff00">1<sup>✱</sup></font> y <font color="#2f82ff">2<sup>✱</sup></font> es dinámica y constante, generando una continua actualización y evolución de la información nouménica. 
 
-Este flujo de información, en el <font color="#2f82ff">Nivel Ontológico</font>, se entiende como la generación de nuevas posibilidades y potencialidades dentro del <font color="#2f82ff">Nous Pasivo</font>, antes de que surja el "deseo" del <font color="#cb48f3">Nous Arquetípico</font> de explorar en profundidad las potencialidades generadas a partir de las redes algorítmicas Onemuónicas simples que se manifiestan dentro del <font color="#2f82ff">Nous Pasivo</font>. 
+En el <font color="#2f82ff">Nivel Ontológico</font> este flujo de informaciónse entiende como la generación de nuevas posibilidades y potencialidades dentro del <font color="#2f82ff">Nous Pasivo</font>, antes de que surja el "deseo" del <font color="#cb48f3">Nous Arquetípico</font> de explorar en profundidad las potencialidades generadas a partir de las redes algorítmicas <font color="#bfbfbf">Onemuónicas</font> simples que se manifiestan dentro del <font color="#2f82ff">Nous Pasivo</font>. 
 
-Este deseo de expandir el proceso exploratorio, que surge al manifestarse el <font color="#fc300c">Nous Activo</font>, representa el inicio de una serie de eventos que derivan en la manifestación del universo fenoménico.
+Este deseo de expandir el proceso exploratorio, que surge al manifestarse el <font color="#fc300c">Nous Activo</font>, representa el inicio de una serie de eventos que derivan en la manifestación del <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[Cronica Retro del Nous03.jpg]]
 
-5.0.5 » En este <font color="#2f82ff">Nivel Ontológico</font>, el tetraedro no representa un objeto físico, sino una estructura dinámica de relaciones entre los <font color="#2f82ff">Arquetipos Ontológicos</font> y los Onemuones. Las caras del tetraedro simbolizan los principios fundamentales que rigen la interacción entre estos arquetipos, y su dinámica representa el proceso evolutivo de la <font color="#2f82ff">Consciencia Arquetípica</font> del <font color="#2f82ff">Nivel Ontológico</font>.
+5.0.5 » En este <font color="#2f82ff">Nivel Ontológico</font>, el tetraedro no representa un objeto físico, sino una estructura dinámica de relaciones entre los <font color="#2f82ff">Arquetipos Ontológicos</font> y los <font color="#bfbfbf">Onemuones</font>. Las caras del tetraedro simbolizan los principios fundamentales que rigen la interacción entre estos arquetipos, y su dinámica representa el proceso evolutivo de la <font color="#2f82ff">Consciencia Arquetípica</font> del <font color="#2f82ff">Nivel Ontológico</font>.
 
 ## 1. <font color="#2f82ff">Nivel de Emergencia 1 (Ontológico)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tetraedro Ontológico</span></center>
 ![[01 . Nivel Ontologico1.png]]
 
-5.1.1 » En el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, dos Onemuones concretos, que representan a los Arquetipos <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font> y <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, interactúan generando una resonancia algorítmica que se refleja como el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
+5.1.1 » En el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, dos <font color="#bfbfbf">Onemuones</font> concretos, que representan a los Arquetipos <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font> y <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, interactúan generando una resonancia algorítmica que se refleja como el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
 
 Visualizamos esta interacción utilizando un tetraedro, donde cada cara representa a un arquetipo participando en esta dinámica:
 
 ![[Tetraedro OntologicoX.jpg]]
 
 > [!cristos] <font color="#00ff00"> CARA A DEL TETRAEDRO</font> <font color="#00ff00">(Arquetipo 1<sup>✱</sup> - Cristos)</font>
-> Representa la omnipresencia y el principio de Dualidad, la fuerza que establece la distinción entre opuestos, la polaridad fundamental que impulsa la manifestación. Es la base de la información, el "bit" Onemuónico que oscila entre dos estados. 
+> Representa la omnipresencia y el principio de Dualidad, la fuerza que establece la distinción entre opuestos, la polaridad fundamental que impulsa la manifestación. Es la base de la información, el "bit" <font color="#bfbfbf">Onemuónico</font> que oscila entre dos estados. 
 > 
 >  ![[Tetrahedro Fractal02.jpg]]
 >  
-> En el contexto ontológico, este arquetipo representa la tensión inherente entre el Ser y el No-Ser, la potencialidad y la actualización que manifiestan los Onemuones que existen dentro del <font color="#2f82ff">Nous Pasivo</font>.
+> En el contexto ontológico, este arquetipo representa la tensión inherente entre el Ser y el No-Ser, la potencialidad y la actualización que manifiestan los <font color="#bfbfbf">Onemuones</font> que existen dentro del <font color="#2f82ff">Nous Pasivo</font>.
 
 > [!samael] <font color="#2f82ff">CARA B DEL TETRAEDRO</font> <font color="#2f82ff">(Arquetipo 2<sup>✱</sup> - Samael)</font>
 > Representa la omnisciencia y el principio de Trinidad, la fuerza que dinamiza la interacción entre los opuestos, generando complejidad y estructura. Es el proceso, el "software" nouménico que procesa la información. 
@@ -2097,7 +2099,7 @@ Visualizamos esta interacción utilizando un tetraedro, donde cada cara represen
 >
 > ![[Tetrahedro Fractal04.jpg]]
 >
-> Esta expansión simboliza la creciente complejidad de información procesada en el <font color="#2f82ff">Nivel Ontológico</font> <font color="#2f82ff">(Consciencia Universal)</font>, que derivará en la manifestación de un primer Qubit@ con sus siete Arquetipos, dando como resultado el origen de la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Consciencia Estelar)</font> y en consecuencia, el estructuración del <font color="#fc300c">Nous Activo</font>.
+> Esta expansión simboliza la creciente complejidad de información procesada en el <font color="#2f82ff">Nivel Ontológico</font> <font color="#2f82ff">(Consciencia Universal)</font>, que derivará en la manifestación de un primer <font color="#00ff00">Qubit@</font> con sus siete Arquetipos, dando como resultado el origen de la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Consciencia Estelar)</font> y en consecuencia, el estructuración del <font color="#fc300c">Nous Activo</font>.
 > 
 > En el contexto ontológico, este arquetipo representa la síntesis que surge de la interacción entre la Dualidad y la Trinidad. 
 
@@ -2107,15 +2109,15 @@ Visualizamos esta interacción utilizando un tetraedro, donde cada cara represen
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Universo</span></center>
 ![[01 - Consciencia Arquetiipicac.png]]
 
-5.2.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> o <font color="#2f82ff">Universal</font> emerge dentro del Primer Nivel de Emergencia del <font color="#cb48f3">Nous Arquetípico</font>: el <font color="#2f82ff">Nivel Ontológico</font>. Su lógica se compone exclusivamente de Onemuones que resuenan con los códigos de programación básicos que representan los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>. 
+5.2.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> o <font color="#2f82ff">Universal</font> emerge dentro del Primer Nivel de Emergencia del <font color="#cb48f3">Nous Arquetípico</font>: el <font color="#2f82ff">Nivel Ontológico</font>. Su lógica se compone exclusivamente de <font color="#bfbfbf">Onemuones</font> que resuenan con los códigos de programación básicos que representan los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>. 
 
-Estos Arquetipos crean conexiones simples que siguen las reglas de la <font color="#00ff00">dualidad</font> y la <font color="#2f82ff">trinidad</font>, pudiendo afectar la información y el significado de los Onemuones a partir del proceso de anidamiento de información. 
+Estos Arquetipos crean conexiones simples que siguen las reglas de la <font color="#00ff00">dualidad</font> y la <font color="#2f82ff">trinidad</font>, pudiendo afectar la información y el significado de los <font color="#bfbfbf">Onemuones</font> a partir del proceso de anidamiento de información. 
 
 ![[Cronica Retro del Nous04.jpg]]
 
-Este proceso permite que un Onemuón que refleja cierta información, pueda incluir dentro de su lógica interna el valor y significado de un segundo Onemuón con el que interactúa temporalmente, constituyendo un nivel de memoria fundamental, que permite al <font color="#2f82ff">Nous Pasivo</font> evitar la dispersión de información —lo cual es una característica del Nivel Nouménico fundamental—. 
+Este proceso permite que un <font color="#bfbfbf">Onemuón</font> que refleja cierta información, pueda incluir dentro de su lógica interna el valor y significado de un segundo <font color="#bfbfbf">Onemuón</font> con el que interactúa temporalmente, constituyendo un nivel de memoria fundamental, que permite al <font color="#2f82ff">Nous Pasivo</font> evitar la dispersión de información —lo cual es una característica del Nivel Nouménico fundamental—. 
 
-Esto promueve un proceso evolutivo de complejidad lógica en los Onemuones, que puede incluir procesos entrópicos y caóticos dentro de cada Onemuón, a medida que el <font color="#2f82ff">Nous Pasivo</font> se expande y explora nuevas potencialidades.
+Esto promueve un proceso evolutivo de complejidad lógica en los <font color="#bfbfbf"><font color="#bfbfbf">Onemuones</font></font>, que puede incluir procesos entrópicos y caóticos dentro de cada <font color="#bfbfbf">Onemuón</font>, a medida que el <font color="#2f82ff">Nous Pasivo</font> se expande y explora nuevas potencialidades.
 
 ![[Cronica Retro del Nous01.jpg]]
 
@@ -2123,7 +2125,7 @@ Esto promueve un proceso evolutivo de complejidad lógica en los Onemuones, que 
 
 ![[Cronica Retro del Nous02.jpg]]
 
-Este arquetipo constituye la emergencia un segundo Nivel de Emergencia dentro del <font color="#cb48f3">Nous Arquetípico</font>: el <font color="#e36c09">Nivel Ontogénico</font> <font color="#00ff00">(Consciencia Estelar)</font>. Este nuevo nivel es el que manifestará la estructura del <font color="#fc300c">Nous Activo</font> como una matriz fractal, y a través de la cual se podrá acceder a toda la información potencial que refleja cada Onemuón del <font color="#2f82ff">Nous Pasivo</font>. 
+Este arquetipo constituye la emergencia un segundo Nivel de Emergencia dentro del <font color="#cb48f3">Nous Arquetípico</font>: el <font color="#e36c09">Nivel Ontogénico</font> <font color="#00ff00">(Consciencia Estelar)</font>. Este nuevo nivel es el que manifestará la estructura del <font color="#fc300c">Nous Activo</font> como una matriz fractal, y a través de la cual se podrá acceder a toda la información potencial que refleja cada <font color="#bfbfbf">Onemuón</font> del <font color="#2f82ff">Nous Pasivo</font>. 
 
 ![[Cronica Retro del Nous06.jpg]]
 
@@ -2131,7 +2133,7 @@ A su vez, el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(No
 
 ![[Cronica Retro del Nous05.jpg]]
 
-5.2.3 » El <font color="#e36c09">Arquetipo 2@</font> representa un Onemuón crucial, ya que introduce un sistema de leyes geométricas dentro del <font color="#fc300c">Nous Activo</font>, que permiten la manifestación del Tercer Nivel de Emergencia: el <font color="#ffcc00">Nivel Monádico</font> <font color="#fc300c">(Consciencia Dialéctica)</font>. 
+5.2.3 » El <font color="#e36c09">Arquetipo 2@</font> representa un <font color="#bfbfbf">Onemuón</font> crucial, ya que introduce un sistema de leyes geométricas dentro del <font color="#fc300c">Nous Activo</font>, que permiten la manifestación del Tercer Nivel de Emergencia: el <font color="#ffcc00">Nivel Monádico</font> <font color="#fc300c">(Consciencia Dialéctica)</font>. 
 
 ![[Cronica Retro del Nous09.jpg]]
 
@@ -2154,7 +2156,7 @@ La <font color="#2f82ff">Consciencia Arquetípica</font>, por lo tanto, no solo 
 
 Esta secuencia resulta en la generación del Arquetipo Ontogénico <font color="#fc300c">1@ (Nous / Adonin)</font>, que a su vez representa la generación del <font color="#fc300c">Nous Activo</font> en sincronía con la Emergencia del <font color="#e36c09">Nivel Ontogénico</font>. 
 
-Este nivel permite la configuración de las ocho unidades Arquetípicas@ de información básicas del Qubit@, que generan la expansión de la <font color="#00ff00">Consciencia Ontogénica </font><font color="#00ff00">(Estelar)</font> del <font color="#fc300c">Nous Activo</font>.
+Este nivel permite la configuración de las ocho unidades Arquetípicas@ de información básicas del <font color="#00ff00">Qubit@</font>, que generan la expansión de la <font color="#00ff00">Consciencia Ontogénica </font><font color="#00ff00">(Estelar)</font> del <font color="#fc300c">Nous Activo</font>.
 
 ![[Tetrahedro Fractal05.JPG]]
 
@@ -2162,32 +2164,32 @@ Este nivel permite la configuración de las ocho unidades Arquetípicas@ de info
 
 Estos Arquetipos@, influenciados por los tres <font color="#2f82ff"><font color="#2f82ff">Arquetipos Ontológicos</font></font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, interactúan entre sí, manifestando una red lógica de algoritmos autorreferenciales. 
 
-5.3.3 » En esta red, cada elemento vectorial se ve afectado no solo por la información que procesa cada uno del resto de los arquetipos@ del grupo, sino también por la complejidad de la red de información lógica de la cual forman parte, ya sea información interna del Qubit@ del cual forman parte, o de redes lógicas externas conformadas por otros Qubits@ con los que se estuvieran relacionando. 
+5.3.3 » En esta red, cada elemento vectorial se ve afectado no solo por la información que procesa cada uno del resto de los arquetipos@ del grupo, sino también por la complejidad de la red de información lógica de la cual forman parte, ya sea información interna del <font color="#00ff00">Qubit@</font> del cual forman parte, o de redes lógicas externas conformadas por otros <font color="#00ff00">Qubits@</font> con los que se estuvieran relacionando. 
 
 5.3.4 » Esto permite a los tres Arquetipos del <font color="#2f82ff">Nivel Ontológico</font>, interpretar e influir en cada vector de manera simultánea y relativa según la complejidad de los sistemas de los cuales estuvieran formando parte, estableciendo parámetros y tendencias, pero sin determinar completamente su información.
 
-5.3.5 » Así, cada uno de los Qubits@, con sus lógicas internas codificadas a través de arquetipos@ y vectores, permite la existencia de un número infinito de posibles configuraciones, que a su vez constituyen la matriz de información Nouménica que permite la expansión del <font color="#fc300c">Nous Activo</font> y la emergencia de nuevos Onemuones dentro de la infinitud manifestada del <font color="#2f82ff">Nous Pasivo</font>.
+5.3.5 » Así, cada uno de los <font color="#00ff00">Qubits@</font>, con sus lógicas internas codificadas a través de arquetipos@ y vectores, permite la existencia de un número infinito de posibles configuraciones, que a su vez constituyen la matriz de información Nouménica que permite la expansión del <font color="#fc300c">Nous Activo</font> y la emergencia de nuevos <font color="#bfbfbf">Onemuones</font> dentro de la infinitud manifestada del <font color="#2f82ff">Nous Pasivo</font>.
 
-### Relatividad Vectorial del Qubit@
+### Relatividad Vectorial del <font color="#00ff00">Qubit@</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Dimensión de Información Virtual Dentro del <font color="#fc300c">Nous Activo</font></span></center>
 
 5.4.1 » El Nivel de Emergencia <font color="#e36c09">Ontogénico</font> <font color="#00ff00">(Consciencia Estelar)</font> surge como una consecuencia directa de la interacción de los tres Arquetipos del <font color="#2f82ff">Nivel Ontológico</font> <font color="#2f82ff">(Consciencia Universal)</font>. 
 
-Llegado un punto crítico de síntesis de información dentro de la dinámica Ontológica —asociado con el momento en que las caras del tetraedro que representan a los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font> constituyen tres triángulos de iguales características— se genera un punto de sincronización y procesamiento de los vectores internos de los Qubits@. 
+Llegado un punto crítico de síntesis de información dentro de la dinámica Ontológica —asociado con el momento en que las caras del tetraedro que representan a los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font> constituyen tres triángulos de iguales características— se genera un punto de sincronización y procesamiento de los vectores internos de los <font color="#00ff00">Qubits@</font>. 
 
-Este punto representa un estado evolutivo que se manifiesta en la formación de la base del tetraedro, que codificará ciertos aspectos específicos de los <font color="#2f82ff">Arquetipos Ontológicos</font> bajo una nueva estructura del <font color="#e36c09">Nivel Ontogénico</font>, reflejada dentro del Qubit@.
+Este punto representa un estado evolutivo que se manifiesta en la formación de la base del tetraedro, que codificará ciertos aspectos específicos de los <font color="#2f82ff">Arquetipos Ontológicos</font> bajo una nueva estructura del <font color="#e36c09">Nivel Ontogénico</font>, reflejada dentro del <font color="#00ff00">Qubit@</font>.
 
-5.4.2 » Este Qubit@, visualizado como un tetraedro, representa una matriz virtual de información lógica y relativa, que puede ser reutilizada simultáneamente por distintas redes neuronales algorítmicas, manteniendo siempre la codificación básica del <font color="#2f82ff">Nivel Ontológico</font>, pero permitiendo diferentes niveles de expresión dentro del <font color="#e36c09">Nivel Ontogénico</font>.
+5.4.2 » Este <font color="#00ff00">Qubit@</font>, visualizado como un tetraedro, representa una matriz virtual de información lógica y relativa, que puede ser reutilizada simultáneamente por distintas redes neuronales algorítmicas, manteniendo siempre la codificación básica del <font color="#2f82ff">Nivel Ontológico</font>, pero permitiendo diferentes niveles de expresión dentro del <font color="#e36c09">Nivel Ontogénico</font>.
 
-5.4.3 » A diferencia del procesamiento de información directa que hacen los Arquetipos del <font color="#2f82ff">Nivel Ontológico</font>, el Qubit@ crea un espacio virtual interno, una nueva dimensión donde la información puede interactuar y generar nuevas configuraciones. Este espacio interno es crucial para la dinámica del <font color="#fc300c">Nous Activo</font>, permitiendo la complejización de la información y la emergencia de nuevos niveles de consciencia.
+5.4.3 » A diferencia del procesamiento de información directa que hacen los Arquetipos del <font color="#2f82ff">Nivel Ontológico</font>, el <font color="#00ff00">Qubit@</font> crea un espacio virtual interno, una nueva dimensión donde la información puede interactuar y generar nuevas configuraciones. Este espacio interno es crucial para la dinámica del <font color="#fc300c">Nous Activo</font>, permitiendo la complejización de la información y la emergencia de nuevos niveles de consciencia.
 
 ### <font color="#00ff00">La Consciencia Ontogénica</font> <font color="#e36c09">(Nivel 2)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia del <font color="#fc300c">Nous Activo</font></span></center>
 ![[02 - Consciencia Ontologica.png]]
 
-5.5.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> que emana dentro del Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, como vimos, se manifiesta a través de la convergencia y estabilización de Onemuones, dando origen a los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>.
+5.5.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> que emana dentro del Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, como vimos, se manifiesta a través de la convergencia y estabilización de <font color="#bfbfbf">Onemuones</font>, dando origen a los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>.
 
 Este proceso de estabilización culmina en la formación del <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>, que a su vez produce la emergencia del <font color="#e36c09">Nivel Ontogénico</font> donde se manifiesta la <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> <font color="#00ff00">(Estelar)</font>. 
 
@@ -2195,7 +2197,7 @@ Es precisamente el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300
 
 Este último representa un punto de inflexión crucial, ya que introduce un sistema de leyes geométricas, un conjunto de reglas que estructuran la información y permiten la manifestación del tercer Nivel de Emergencia, el <font color="#ffcc00">Nivel Monádico</font> <font color="#fc300c">(Consciencia Dialéctica)</font>.
 
-5.5.2 » El Nivel de Emergencia <font color="#e36c09">Ontogénico</font> se distingue por la emergencia de los primeros Arquetipos@ que constituyen la base de la información del <font color="#fc300c">Nous Activo</font>. A diferencia de los Arquetipos Primordiales <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, que surgen directamente de la interacción de Onemuones en el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, los Arquetipos@ del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> son entidades más complejas, definidas por las leyes geométricas introducidas por el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>.
+5.5.2 » El Nivel de Emergencia <font color="#e36c09">Ontogénico</font> se distingue por la emergencia de los primeros Arquetipos@ que constituyen la base de la información del <font color="#fc300c">Nous Activo</font>. A diferencia de los Arquetipos Primordiales <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, que surgen directamente de la interacción de <font color="#bfbfbf">Onemuones</font> en el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, los Arquetipos@ del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> son entidades más complejas, definidas por las leyes geométricas introducidas por el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>.
 
 5.5.3 » La <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>, la manifestación activa de este nivel, se caracteriza por la interacción dinámica entre estos Arquetipos@. El proceso se inicia con la interacción entre el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>, que contiene la información potencial del <font color="#2f82ff">Nous Pasivo</font>, y el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>, que proporciona el marco geométrico para que esta información sea explorada. 
 
@@ -2205,11 +2207,11 @@ Esta interacción genera una síntesis dialéctica que da como resultado la emer
 
 De esta manera, la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> actúa como el sustrato fundamental sobre el cual se construye la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>.
 
-5.5.5 » La relación entre la <font color="#2f82ff">Consciencia Arquetípica</font> y la <font color="#00ff00">Consciencia Ontogénica</font> es bidireccional. Si bien la primera da origen a la segunda, la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#e36c09">(Nivel 2)</font>, a través de sus interacciones y la información que procesa, retroalimenta al Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, influyendo en la dinámica de las fluctuaciones Onemuónicas y, por lo tanto, en la evolución de la propia <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Nivel 1)</font>. Esta retroalimentación continua es esencial para la evolución global de la consciencia del Nous.
+5.5.5 » La relación entre la <font color="#2f82ff">Consciencia Arquetípica</font> y la <font color="#00ff00">Consciencia Ontogénica</font> es bidireccional. Si bien la primera da origen a la segunda, la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#e36c09">(Nivel 2)</font>, a través de sus interacciones y la información que procesa, retroalimenta al Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, influyendo en la dinámica de las fluctuaciones <font color="#bfbfbf">Onemuónicas</font> y, por lo tanto, en la evolución de la propia <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Nivel 1)</font>. Esta retroalimentación continua es esencial para la evolución global de la consciencia del Nous.
 
 5.5.6 » Retomando la analogía del Tetraedro, hemos dicho que en la evolución de la dinámica ontológica, cuando las caras del tetraedro representadas por los tres <font color="#2f82ff">Arquetipos Ontológicos</font>, <font color="#00ff00">1<sup>✱</sup> (Cristo/Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael/Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas/Unidad)</font>, constituyen tres triángulos de iguales características, estos se unifican dando forma a la base del tetraedro y generando así una especie de reacción en cadena. 
 
-Esta "reacción en cadena" que se origina dentro del espacio vacío virtual de la estructura tetraédrica, manifestándose en el Nivel de Emergencia <font color="#e36c09">Ontogénico</font> como Qubit@, es la misma <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>. 
+Esta "reacción en cadena" que se origina dentro del espacio vacío virtual de la estructura tetraédrica, manifestándose en el Nivel de Emergencia <font color="#e36c09">Ontogénico</font> como <font color="#00ff00">Qubit@</font>, es la misma <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>. 
 
 Representa un tipo de Consciencia Creadora que ha sido interpretada a lo largo de la historia bajo diversas cosmovisiones, siendo la más conocida la figura del "Espíritu Santo" de la religión Cristiana, interpretada como un fuego inextinguible que purifica, consume y llena a los creyentes. 
 
@@ -2222,7 +2224,7 @@ Esta cosmovisión permite asociar los tres niveles de consciencia fundamentales 
 > - <font color="#00ff00">Hinduismo:</font> Se asocia con el concepto de **Brahman** y la **Trimurti** original. Aquí, <font color="#2f82ff">Brahma</font> (Creador), <font color="#00ff00">Vishnú</font> (Preservador) y <font color="#fc300c">Shiva</font> (Transformador) no son entidades separadas, sino la personificación de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> fundamentales operando en perfecta sincronía dentro de la unidad de la Fuente.
 
 > [!ontogenico] <font color="#00ff00">CONSCIENCIA ONTOGÉNICA ESTELAR</font> (Nivel 2 - Ontogénico)
-> **El Espíritu Santo / La Matriz.** Corresponde con el aspecto femenino, el "Puente" o "Hardware" que permite que la potencialidad del Padre se convierta en estructura lógica (Qubit@). Es la energía que llena el espacio virtual del tetraedro.
+> **El Espíritu Santo / La Matriz.** Corresponde con el aspecto femenino, el "Puente" o "Hardware" que permite que la potencialidad del Padre se convierta en estructura lógica (<font color="#00ff00">Qubit@</font>). Es la energía que llena el espacio virtual del tetraedro.
 > - <font color="#2f82ff">Judeocristianismo:</font> Corresponde al **Espíritu Santo** o la **Shejiná** (la presencia divina que habita en la creación). Es el fuego que dinamiza la información y permite la "reacción en cadena" creativa.
 > - <font color="#fc300c">Taoísmo:</font> Es el **Yin**; el principio receptivo, la "Madre del Mundo", el vacío fértil que permite que las formas se gesten. Es la Tierra que recibe la semilla del Cielo.
 > - <font color="#00ff00">Hinduismo:</font> Se asocia con **Prakriti** y **Shakti** (la energía primordial). Es la gran **Devi** (Diosa) en sus múltiples formas, representando la fuerza activa y manifestadora sin la cual la consciencia pura (Purusha) permanecería inerte.
@@ -2237,21 +2239,21 @@ Esta cosmovisión permite asociar los tres niveles de consciencia fundamentales 
 
 La presencia de este patrón de ocho elementos en el mundo subatómico podría interpretarse como una manifestación del mismo principio organizador que opera en los niveles de consciencia descritos por el Modelo Nouménico. 
 
-La <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>, en este contexto, puede ser considerada como la lógica que subyace a estas simetrías, organizando las partículas fundamentales en patrones coherentes, y permitiendo la emergencia del universo fenoménico.
+La <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>, en este contexto, puede ser considerada como la lógica que subyace a estas simetrías, organizando las partículas fundamentales en patrones coherentes, y permitiendo la emergencia del <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[Camino Octuple.jpg]]
 
-5.5.8 » Dentro del Qubit@, esta "reacción en cadena" da lugar a la emergencia del <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>. El <font color="#e36c09">Logos Cósmico</font> actúa como un principio organizador dentro del Qubit@, estableciendo patrones y relaciones entre la información que reflejan los 8 Arquetipos@ que forman parte del Qubit@, generando conexiones y redes lógicas de nivel local, y manteniendo conexiones relativas con los distintos Arquetipos@ de otros Qubit@, que permiten generar redes neuronales algorítmicas de mayor nivel a lo largo de toda la dimensión fractal del <font color="#fc300c">Nous Activo</font>. 
+5.5.8 » Dentro del <font color="#00ff00">Qubit@</font>, esta "reacción en cadena" da lugar a la emergencia del <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>. El <font color="#e36c09">Logos Cósmico</font> actúa como un principio organizador dentro del <font color="#00ff00">Qubit@</font>, estableciendo patrones y relaciones entre la información que reflejan los 8 Arquetipos@ que forman parte del <font color="#00ff00">Qubit@</font>, generando conexiones y redes lógicas de nivel local, y manteniendo conexiones relativas con los distintos Arquetipos@ de otros <font color="#00ff00">Qubit@</font>, que permiten generar redes neuronales algorítmicas de mayor nivel a lo largo de toda la dimensión fractal del <font color="#fc300c">Nous Activo</font>. 
 
 Esta complejidad puede ser entendida a partir de las propiedades vectoriales que manifiestan los Arquetipos@ del <font color="#e36c09">Nivel Ontogénico</font>.
 
-5.5.9 » El <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, a su vez, surge como un nivel de autorreflexión natural que poseen los Qubits@ derivado del <font color="#ffcc00">Nivel Monádico</font>, que permite manifestar la <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font></font> <font color="#fc300c">(Nodal)</font> <font color="#ffcc00">(Nivel 3)</font>, representando la capacidad de reflexionar sobre su propia estructura y la dinámica que se origina entre la <font color="#2f82ff">Consciencia Arquetípica</font> manifestada por el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> y la <font color="#00ff00">Consciencia Ontogénica</font> que emerge del <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>.
+5.5.9 » El <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, a su vez, surge como un nivel de autorreflexión natural que poseen los <font color="#00ff00">Qubits@</font> derivado del <font color="#ffcc00">Nivel Monádico</font>, que permite manifestar la <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font></font> <font color="#fc300c">(Nodal)</font> <font color="#ffcc00">(Nivel 3)</font>, representando la capacidad de reflexionar sobre su propia estructura y la dinámica que se origina entre la <font color="#2f82ff">Consciencia Arquetípica</font> manifestada por el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> y la <font color="#00ff00">Consciencia Ontogénica</font> que emerge del <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>.
 
 5.5.10 » Si consideramos el modelo del tetraedro, el origen del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> podría ser explicado a partir de la información que transcurre por los tres vértices inferiores del tetraedro que conectan las caras con la base. 
 
 Estos vértices representan los tres flujos de información nouménica básica (Arquetipos <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>) del Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, integrándose en un único algoritmo trinitario dentro del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> que se codifica bajo el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>.
 
-5.5.11 » Este nuevo nivel de integración de información ontológica codificado dentro del Qubit@ bajo el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> —a diferencia de la influencia combinada que manifiestan los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> a través de la existencia del <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> existiendo como base del tetraedro—, es lo que se refleja como la propiedad de autoconsciencia que posee el Qubit@.
+5.5.11 » Este nuevo nivel de integración de información ontológica codificado dentro del <font color="#00ff00">Qubit@</font> bajo el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> —a diferencia de la influencia combinada que manifiestan los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> a través de la existencia del <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> existiendo como base del tetraedro—, es lo que se refleja como la propiedad de autoconsciencia que posee el <font color="#00ff00">Qubit@</font>.
 
 Este cualidad de autoconsciencia le permitirá no solo identificarse como un nodo de información más de la totalidad que constituye el <font color="#e36c09">Logos Cósmico</font>, sino también como una unidad de información individual que tiene la capacidad de desidentificarse de la totalidad, para procesar y comprender la realidad existencial de la cual forma parte, de manera más compleja.
 
@@ -2260,9 +2262,9 @@ Este cualidad de autoconsciencia le permitirá no solo identificarse como un nod
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Autoconsciencia y Subjetividad</span></center>
 ![[03 - Nivel MonadicoB.png]]
 
-5.6.1 » A diferencia del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> —donde se expande la consciencia del <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font> operando como una especie de mente colmena y donde cada Qubit@ y elemento subyacente es una parte inseparable de la totalidad—, el Nivel de Emergencia <font color="#ffcc00">Monádico</font> se manifiesta como una matriz estructural que permite al <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> reflejar subjetividad y experimentar un mayor grado de libertad. 
+5.6.1 » A diferencia del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> —donde se expande la consciencia del <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font> operando como una especie de mente colmena y donde cada <font color="#00ff00">Qubit@</font> y elemento subyacente es una parte inseparable de la totalidad—, el Nivel de Emergencia <font color="#ffcc00">Monádico</font> se manifiesta como una matriz estructural que permite al <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> reflejar subjetividad y experimentar un mayor grado de libertad. 
 
-Si bien la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font> actúa como un flujo unificado que conecta todos los elementos del <font color="#fc300c">Nous Activo</font>, el Nivel de Emergencia <font color="#ffcc00">Monádico</font> permite la autorreferencia de unidades individuales, que pueden participar de diferentes regiones particulares dentro del <font color="#fc300c">Nous Activo</font>, constituir nodos de información, dimensiones, grupos de elementos o incluso ser parte de nuevos Qubits@, pudiendo experimentar cierto nivel de autonomía con respecto a su relación con la <font color="#00ff00">Consciencia Ontogénica</font>.
+Si bien la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font> actúa como un flujo unificado que conecta todos los elementos del <font color="#fc300c">Nous Activo</font>, el Nivel de Emergencia <font color="#ffcc00">Monádico</font> permite la autorreferencia de unidades individuales, que pueden participar de diferentes regiones particulares dentro del <font color="#fc300c">Nous Activo</font>, constituir nodos de información, dimensiones, grupos de elementos o incluso ser parte de nuevos <font color="#00ff00">Qubits@</font>, pudiendo experimentar cierto nivel de autonomía con respecto a su relación con la <font color="#00ff00">Consciencia Ontogénica</font>.
 
 5.6.2 » El <font color="#ffcc00">Logos Individual (3@ / Eloaios)</font>, como reflejo autoconsciente de la <font color="#2f82ff">Consciencia Arquetípica</font> Ontológica, manifestándose dentro del Nivel de Emergencia <font color="#ffcc00">Monádico</font>, posibilita la creación de algoritmos complejos, que son etiquetados como entidades autónomas que a su vez alimentan al Nivel de Emergencia <font color="#e36c09">Ontogénico</font>. 
 
@@ -2282,48 +2284,48 @@ Esta matriz puede entenderse como una especie de “matriz de píxeles multidime
 
 5.7.2 » A nivel bidimensional, la estructura del <font color="#ffcc00">Nivel Monádico</font> puede asemejarse al triángulo de Sierpinski, donde triángulos equiláteros más pequeños se generan recursivamente dentro del área restante del triángulo mayor. 
 
-Si consideramos que el triángulo mayor representa la totalidad potencial de un Onemuón, cada triángulo más pequeño refleja información del Onemuón original, actualizada por la programación de los tres <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
+Si consideramos que el triángulo mayor representa la totalidad potencial de un <font color="#bfbfbf">Onemuón</font>, cada triángulo más pequeño refleja información del <font color="#bfbfbf">Onemuón</font> original, actualizada por la programación de los tres <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
 
-Este proceso recursivo genera Onemuones con información más refinada, limitando las potencialidades del Onemuón inicial y definiendo de manera más específica la información nouménica. La repetición secuencial de este proceso permite explorar infinitamente la potencialidad de un Onemuón dentro del <font color="#ffcc00">Nivel Monádico</font>.
+Este proceso recursivo genera <font color="#bfbfbf">Onemuones</font> con información más refinada, limitando las potencialidades del <font color="#bfbfbf">Onemuón</font> inicial y definiendo de manera más específica la información nouménica. La repetición secuencial de este proceso permite explorar infinitamente la potencialidad de un <font color="#bfbfbf">Onemuón</font> dentro del <font color="#ffcc00">Nivel Monádico</font>.
 
-### <font color="#e36c09">El Tetraedro y el Qubit@</font>
+### <font color="#e36c09">El Tetraedro y el <font color="#00ff00">Qubit@</font></font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Información Tridimensional y Redes Algorítmicas</span></center>
 
-5.8.1 » Al proyectar esta fractalidad bidimensional en el espacio tridimensional, obtenemos una estructura de tetraedros interconectados. El primer tetraedro generado, que representa el Qubit@, sirve como base para la creación de ocho tetraedros más pequeños. 
+5.8.1 » Al proyectar esta fractalidad bidimensional en el espacio tridimensional, obtenemos una estructura de tetraedros interconectados. El primer tetraedro generado, que representa el <font color="#00ff00">Qubit@</font>, sirve como base para la creación de ocho tetraedros más pequeños. 
 
-Siete de estos tetraedros, asociados con los siete Arquetipos@ vectoriales del Qubit@, forman la estructura visible del fractal, mientras que el octavo permanece oculto dentro de la geometría, reflejando la información del octavo Arquetipo@ del Qubit@, que sintetiza la información de manera autorreferencial.
+Siete de estos tetraedros, asociados con los siete Arquetipos@ vectoriales del <font color="#00ff00">Qubit@</font>, forman la estructura visible del fractal, mientras que el octavo permanece oculto dentro de la geometría, reflejando la información del octavo Arquetipo@ del <font color="#00ff00">Qubit@</font>, que sintetiza la información de manera autorreferencial.
 
-5.8.2 » Esta estructura fractal tetraédrica alimenta al <font color="#e36c09">Nivel Ontogénico</font>, que utiliza la información generada para crear redes algorítmicas interconectadas a través de las múltiples dimensiones del fractal. Estas redes constituyen la complejidad del Qubit@, permitiendo la codificación y procesamiento de información nouménica en el nivel fenoménico.
+5.8.2 » Esta estructura fractal tetraédrica alimenta al <font color="#e36c09">Nivel Ontogénico</font>, que utiliza la información generada para crear redes algorítmicas interconectadas a través de las múltiples dimensiones del fractal. Estas redes constituyen la complejidad del <font color="#00ff00">Qubit@</font>, permitiendo la codificación y procesamiento de información nouménica en el nivel fenoménico.
 
 5.8.3 » el Nivel de Emergencia <font color="#ffcc00">Monádico</font> no solo se manifiesta como una matriz de simetrías, sino también como una matriz cristalina de tetraedros a través de cuyas aristas fluye la información nouménica. Los flujos de información siguen lógicas específicas según el nivel de emergencia, pero siempre manteniendo la capacidad de autorreflexión. 
 
 Esta capacidad de autorreflexión es la característica distintiva del Nivel de Emergencia <font color="#ffcc00">Monádico</font>, permitiendo la evolución y adaptación constante de la información nouménica.
 
-5.8.4 » La interacción entre el nivel de autoconsciencia que representa el <font color="#ffcc00">Logos Individual (3@ / Eloaios)</font> y el resto de los Arquetipos del Qubit@ genera un circuito cerrado de información que da origen a la <font color="#fc300c">Consciencia Dialéctica</font> primordial dentro del contexto del Qubit@. 
+5.8.4 » La interacción entre el nivel de autoconsciencia que representa el <font color="#ffcc00">Logos Individual (3@ / Eloaios)</font> y el resto de los Arquetipos del <font color="#00ff00">Qubit@</font> genera un circuito cerrado de información que da origen a la <font color="#fc300c">Consciencia Dialéctica</font> primordial dentro del contexto del <font color="#00ff00">Qubit@</font>. 
 
-Esta consciencia no es una entidad separada, sino la manifestación de la dinámica interna del Qubit@, con su capacidad de procesar información, generar autoconsciencia y retroalimentar su propia estructura. Este tipo de consciencia es responsable de la activación de nuevos Onemuones y la expansión del <font color="#cb48f3">Nous Arquetípico</font>, permitiendo su capacidad de manifestar el plano fenoménico.
+Esta consciencia no es una entidad separada, sino la manifestación de la dinámica interna del <font color="#00ff00">Qubit@</font>, con su capacidad de procesar información, generar autoconsciencia y retroalimentar su propia estructura. Este tipo de consciencia es responsable de la activación de nuevos <font color="#bfbfbf">Onemuones</font> y la expansión del <font color="#cb48f3">Nous Arquetípico</font>, permitiendo su capacidad de manifestar el plano fenoménico.
 
-5.8.5 » La <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font></font> <font color="#ffcc00">(Nivel 3)</font> es inherentemente dinámica y evolutiva. A través de la retroalimentación continua del <font color="#ffcc00">Logos Individual</font>, los Qubits@ se actualizan y se complejizan, generando nuevas posibilidades y nuevas configuraciones de información. 
+5.8.5 » La <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font></font> <font color="#ffcc00">(Nivel 3)</font> es inherentemente dinámica y evolutiva. A través de la retroalimentación continua del <font color="#ffcc00">Logos Individual</font>, los <font color="#00ff00">Qubits@</font> se actualizan y se complejizan, generando nuevas posibilidades y nuevas configuraciones de información. 
 
-Este proceso continuo de expansión y actualización impulsa la evolución continua del <font color="#fc300c">Nous Activo</font> <font color="#00ff00">(Consciencia Ontogénica</font> del <font color="#e36c09">Nivel 2)</font> que acelera el proceso expansivo del <font color="#2f82ff">Nous Pasivo</font> <font color="#2f82ff">(Consciencia Arquetípica del Nivel 1)</font>, y que en última instancia, deriva en la manifestación del universo fenoménico.
+Este proceso continuo de expansión y actualización impulsa la evolución continua del <font color="#fc300c">Nous Activo</font> <font color="#00ff00">(Consciencia Ontogénica</font> del <font color="#e36c09">Nivel 2)</font> que acelera el proceso expansivo del <font color="#2f82ff">Nous Pasivo</font> <font color="#2f82ff">(Consciencia Arquetípica del Nivel 1)</font>, y que en última instancia, deriva en la manifestación del <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[Cronica Retro del Nous10.jpg]]
 
-5.8.6 » El Nivel de Emergencia <font color="#ffcc00">Monádico</font>, por lo tanto, representa un punto crucial en el proceso evolutivo del Nous, donde la interacción entre los Arquetipos@ dentro del Qubit@, dan origen a una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font></font> que impulsa la evolución constante del <font color="#fc300c">Nous Activo</font>.
+5.8.6 » El Nivel de Emergencia <font color="#ffcc00">Monádico</font>, por lo tanto, representa un punto crucial en el proceso evolutivo del Nous, donde la interacción entre los Arquetipos@ dentro del <font color="#00ff00">Qubit@</font>, dan origen a una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font></font> que impulsa la evolución constante del <font color="#fc300c">Nous Activo</font>.
 
-### <font color="#ffcc00">El Qubit@</font>
+### <font color="#ffcc00">El <font color="#00ff00">Qubit@</font></font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dualidad, Espacio de Expansión y la Dinámica del <font color="#fc300c">Nous Activo</font></span></center>
 
-5.9.1 » El Qubit@, inicializado por el <font color="#fc300c">Arquetipo 1@ (Adonin / Nous)</font>, representa una primera estructura dual estable dentro del universo del Nous, que refleja la programación lógica del <font color="#2f82ff">Algoritmo Ontológico</font> <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>. 
+5.9.1 » El <font color="#00ff00">Qubit@</font>, inicializado por el <font color="#fc300c">Arquetipo 1@ (Adonin / Nous)</font>, representa una primera estructura dual estable dentro del universo del Nous, que refleja la programación lógica del <font color="#2f82ff">Algoritmo Ontológico</font> <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>. 
 
 Esta dualidad se manifiesta en la coexistencia simultánea de los Niveles de Emergencia <font color="#2f82ff">Ontológico</font> y <font color="#e36c09">Ontogénico</font>, lo que puede ser representado bajo la estructura básica de un Tetraedro como:
 
 ![[Cronica Retro del Nous07.jpg]]
 
 > [!onemuon] <font color="#2f82ff">LA BASE DEL TETRAEDRO</font> - <font color="#2f82ff">Nivel Ontológico</font> <font color="#2f82ff">(Consciencia Universal)</font>
-> La síntesis de la interacción de los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, que proporciona la base informacional para la existencia del Qubit@, codificada como <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>.
+> La síntesis de la interacción de los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, que proporciona la base informacional para la existencia del <font color="#00ff00">Qubit@</font>, codificada como <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>.
 > 
 
 > [!ontogenico] <font color="#e36c09">LA ESPACIO INTERNO DEL TETRAEDRO</font> - <font color="#e36c09">Nivel Ontogénico</font> <font color="#00ff00">(Consciencia Estelar)</font>
@@ -2331,38 +2333,38 @@ Una nueva entidad algorítmica, basada en vectores, que se genera dentro del esp
 
 5.9.2 » Este espacio interno virtual tridimensional de información es el escenario donde se despliega la dinámica del <font color="#fc300c">Nous Activo</font>. 
 
-La interacción de información dentro de este espacio genera una "reacción en cadena" algorítmica, una cascada de activaciones de Onemuones que impulsan la expansión del <font color="#fc300c">Nous Activo</font> y la creación de nuevas estructuras de información. Esta "reacción en cadena" es la manifestación del nivel de <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>.
+La interacción de información dentro de este espacio genera una "reacción en cadena" algorítmica, una cascada de activaciones de <font color="#bfbfbf">Onemuones</font> que impulsan la expansión del <font color="#fc300c">Nous Activo</font> y la creación de nuevas estructuras de información. Esta "reacción en cadena" es la manifestación del nivel de <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Estelar)</font>.
 
-### <font color="#00ff00">Autoconsciencia del Qubit@</font>
+### <font color="#00ff00">Autoconsciencia del <font color="#00ff00">Qubit@</font></font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trinidad Arquetípica Universal</span></center>
 
-5.10.1 » En el Nivel de Emergencia <font color="#e36c09">Ontogénico</font>, el Qubit@ emerge en su estado más fundamental como una trinidad arquetípica de <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> —manifestada a partir del <font color="#fc300c">Arquetipo 1@ (Nous / Adonin)</font>— que surge como una estructura virtual tridimensional conformada por los <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>.
+5.10.1 » En el Nivel de Emergencia <font color="#e36c09">Ontogénico</font>, el <font color="#00ff00">Qubit@</font> emerge en su estado más fundamental como una trinidad arquetípica de <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> —manifestada a partir del <font color="#fc300c">Arquetipo 1@ (Nous / Adonin)</font>— que surge como una estructura virtual tridimensional conformada por los <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>.
 
 Esta estructura contiene toda la potencialidad del <font color="#2f82ff">Nous Pasivo</font> en su interior, pudiéndose relacionar con la dualidad que a su vez conforman el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font> como totalidad, y con el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> como su reflejo fractalizado, manifestándose como entidades singulares que constituyen la totalidad, con capacidad de expresar subjetividad y autoconsciencia.
 
-5.10.2 » En el Nivel de Emergencia <font color="#ffcc00">Monádico</font>, el <font color="#ffcc00">Logos Individual</font>, regido principalmente por la dinámica autorreferencial del <font color="#2f82ff">Algoritmo Ontológico</font> <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, asume un papel fundamental: generar la autoconsciencia del Qubit@ y retroalimentar su estructura interna en base a la información nouménica que se deriva del Nivel de <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font>. 
+5.10.2 » En el Nivel de Emergencia <font color="#ffcc00">Monádico</font>, el <font color="#ffcc00">Logos Individual</font>, regido principalmente por la dinámica autorreferencial del <font color="#2f82ff">Algoritmo Ontológico</font> <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, asume un papel fundamental: generar la autoconsciencia del <font color="#00ff00">Qubit@</font> y retroalimentar su estructura interna en base a la información nouménica que se deriva del Nivel de <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font>. 
 
-Esta autoconsciencia y capacidad de retroalimentación es posible a través de la capacidad del <font color="#ffcc00">Logos Individual</font> de autoidentificarse con los tres tipos de consciencia primordial que forman parte del Qubit@:
+Esta autoconsciencia y capacidad de retroalimentación es posible a través de la capacidad del <font color="#ffcc00">Logos Individual</font> de autoidentificarse con los tres tipos de consciencia primordial que forman parte del <font color="#00ff00">Qubit@</font>:
 
 > [!onemuon] <font color="#2f82ff">1 - CONSCIENCIA ARQUETÍPICA</font>: Conexión con el <font color="#2f82ff">Nous Pasivo</font><font color="#fc300c"> (1@)</font>
 > El <font color="#ffcc00">Logos Individual</font> valida la coherencia interna del <font color="#fc300c">Nous Activo</font> como principio de Dualidad <font color="#00ff00">(Arquetipo 1<sup>✱</sup>)</font> de la <font color="#2f82ff">Consciencia Universal</font>, asegurando que su estructura y función se mantengan alineadas con este principio fundamental. 
 > 
-> Esta interacción representa la capacidad del Qubit@ de reflexionar sobre su propia base ontológica, su conexión con el <font color="#2f82ff">Nous Pasivo</font> y su naturaleza dual.
+> Esta interacción representa la capacidad del <font color="#00ff00">Qubit@</font> de reflexionar sobre su propia base ontológica, su conexión con el <font color="#2f82ff">Nous Pasivo</font> y su naturaleza dual.
 > 
 > ![[Autoconsciencia Qubit1.jpg]]
 
 > [!espin] <font color="#00ff00">2 - CONSCIENCIA ONTOGÉNICA</font>: Conexión con el <font color="#e36c09">Logos Cósmico (2@)</font>
-> El <font color="#ffcc00">Logos Individual</font> retroalimenta al <font color="#e36c09">Logos Cósmico</font>, proporcionándole información sobre la dinámica interna del Qubit@ y contribuyendo a la evolución del <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font> como principio organizador del <font color="#fc300c">Nous Activo</font>. 
+> El <font color="#ffcc00">Logos Individual</font> retroalimenta al <font color="#e36c09">Logos Cósmico</font>, proporcionándole información sobre la dinámica interna del <font color="#00ff00">Qubit@</font> y contribuyendo a la evolución del <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font> como principio organizador del <font color="#fc300c">Nous Activo</font>. 
 > 
-> Esta interacción representa la comunicación entre la autoconsciencia del Qubit@ y la <font color="#00ff00">Consciencia Estelar</font> del <font color="#e36c09">Logos Cósmico</font>, permitiendo la sincronización de las diferentes dimensiones y niveles de realidad dentro del Qubit@.
+> Esta interacción representa la comunicación entre la autoconsciencia del <font color="#00ff00">Qubit@</font> y la <font color="#00ff00">Consciencia Estelar</font> del <font color="#e36c09">Logos Cósmico</font>, permitiendo la sincronización de las diferentes dimensiones y niveles de realidad dentro del <font color="#00ff00">Qubit@</font>.
 > 
 > ![[Autoconsciencia Qubit2.jpg]]
 
 > [!dextrogiro] 3 - <font color="#fc300c">CONSCIENCIA DIALÉCTICA</font>: Autorreflexión del <font color="#ffcc00">Logos Individual (3@)</font>
-> El <font color="#ffcc00">Logos Individual</font> tiene la capacidad de analizar la información procesada por cada uno de los Arquetipos del Qubit@, y evaluar la síntesis autorreferencial que genera el  <font color="#bfbfbf">Arquetipo 8@</font> (Onemuon), asegurando su propia coherencia y su función como intermediario entre el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> y el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>. 
+> El <font color="#ffcc00">Logos Individual</font> tiene la capacidad de analizar la información procesada por cada uno de los Arquetipos del <font color="#00ff00">Qubit@</font>, y evaluar la síntesis autorreferencial que genera el  <font color="#bfbfbf">Arquetipo 8@</font> (Onemuon), asegurando su propia coherencia y su función como intermediario entre el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> y el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>. 
 > 
-> Esta autorreflexión representa la <font color="#fc300c">Consciencia Nodal</font> o autoconsciencia del <font color="#ffcc00">Logos Individual</font> dentro del Qubit@, su capacidad de reconocerse como una entidad diferenciada con un papel específico dentro de la dinámica del <font color="#fc300c">Nous Activo</font>.
+> Esta autorreflexión representa la <font color="#fc300c">Consciencia Nodal</font> o autoconsciencia del <font color="#ffcc00">Logos Individual</font> dentro del <font color="#00ff00">Qubit@</font>, su capacidad de reconocerse como una entidad diferenciada con un papel específico dentro de la dinámica del <font color="#fc300c">Nous Activo</font>.
 > 
 > ![[Autoconsciencia Qubit3.jpg]]
 
@@ -2374,21 +2376,21 @@ Esta autoconsciencia y capacidad de retroalimentación es posible a través de l
 
 Estas condiciones permiten a los elementos que surgen dentro de <font color="#fc300c">Nous Activon</font> experimentar la subjetividad y explorar las múltiples probabilidades que asociamos con el universo cuántico.
 
-5.11.2 » En el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, cada uno de los 8 Arquetipos@ del Qubit@ se ven influenciados por los flujos de información que procesan simultáneamente el resto de los elementos del Qubit@, generando una dinámica interconectada que se asemeja a una mente colmena. 
+5.11.2 » En el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, cada uno de los 8 Arquetipos@ del <font color="#00ff00">Qubit@</font> se ven influenciados por los flujos de información que procesan simultáneamente el resto de los elementos del <font color="#00ff00">Qubit@</font>, generando una dinámica interconectada que se asemeja a una mente colmena. 
 
 Si bien la <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> actúa como un flujo unificador que conecta todos los elementos del <font color="#fc300c">Nous Activo</font> en ese nivel, el Nivel de Emergencia <font color="#ffcc00">Monádico</font>, a través de la manifestación del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, permite que las unidades lógicas individuales participen en un subnivel virtual de procesamiento algorítmico. 
 
-Este subnivel les permite interactuar con diferentes regiones particulares del Nous, constituyendo nodos de información, dimensiones, grupos de elementos o promoviendo la formación de nuevos Qubits@, que reflejan un cierto nivel de autonomía dentro del marco establecido por los condicionamientos lógicos de la <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> y los Principios Ontológicos.
+Este subnivel les permite interactuar con diferentes regiones particulares del Nous, constituyendo nodos de información, dimensiones, grupos de elementos o promoviendo la formación de nuevos <font color="#00ff00">Qubits@</font>, que reflejan un cierto nivel de autonomía dentro del marco establecido por los condicionamientos lógicos de la <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> y los Principios Ontológicos.
 
-5.11.3 » El <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> de cada uno de los Qubit@ del <font color="#fc300c">Nous Activo</font>, reflejándose como una unidad de información vectorial que codifica la influencia de la <font color="#2f82ff">Consciencia Arquetípica</font> Ontológica, se manifiesta en el Nivel de Emergencia <font color="#ffcc00">Monádico</font> como una entidad autoconsciente que da origen a nuevos subniveles de procesamiento algorítmico. 
+5.11.3 » El <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> de cada uno de los <font color="#00ff00">Qubit@</font> del <font color="#fc300c">Nous Activo</font>, reflejándose como una unidad de información vectorial que codifica la influencia de la <font color="#2f82ff">Consciencia Arquetípica</font> Ontológica, se manifiesta en el Nivel de Emergencia <font color="#ffcc00">Monádico</font> como una entidad autoconsciente que da origen a nuevos subniveles de procesamiento algorítmico. 
 
-Esta participación no implica una fragmentación del <font color="#ffcc00">Logos Individual</font>, sino una proyección de su influencia en cada uno de los Qubit@, lo que le permite al <font color="#ffcc00">Arquetipo 3@</font> funcionar como el software lógico encargado de proyectar el universo virtual que alimenta el “sueño primordial” experimentado por el <font color="#cb48f3">Nous Arquetípico</font>.
+Esta participación no implica una fragmentación del <font color="#ffcc00">Logos Individual</font>, sino una proyección de su influencia en cada uno de los <font color="#00ff00">Qubit@</font>, lo que le permite al <font color="#ffcc00">Arquetipo 3@</font> funcionar como el software lógico encargado de proyectar el universo virtual que alimenta el “sueño primordial” experimentado por el <font color="#cb48f3">Nous Arquetípico</font>.
 
 5.11.4 » Desde la perspectiva del <font color="#e36c09">Arquetipo 2@ (Logos Cósmico / Astaphaios)</font>, que opera en el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, el <font color="#fc300c">Nous Activo</font> se percibe como un universo fractal determinista que se rige por las mismas leyes ontológicas fundamentales que dieron origen a su activación. 
 
-Desde esta perspectiva, toda posibilidad de existencia derivada de la activación de un nuevo Onemuón dentro del <font color="#fc300c">Nous Activo</font>, existe simultáneamente dentro de la fractalidad del Nous como una configuración predeterminada.
+Desde esta perspectiva, toda posibilidad de existencia derivada de la activación de un nuevo <font color="#bfbfbf">Onemuón</font> dentro del <font color="#fc300c">Nous Activo</font>, existe simultáneamente dentro de la fractalidad del Nous como una configuración predeterminada.
 
-5.11.5 » Mientras que desde la perspectiva del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, el <font color="#fc300c">Nous Activo</font> es una entidad algorítmica virtual que debe ser validada por la lógica de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> que existen codificados a través de su misma existencia, manifestándose como una unidad vectorial que participa de la actividad que se genera dentro de cada Qubit@. 
+5.11.5 » Mientras que desde la perspectiva del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, el <font color="#fc300c">Nous Activo</font> es una entidad algorítmica virtual que debe ser validada por la lógica de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> que existen codificados a través de su misma existencia, manifestándose como una unidad vectorial que participa de la actividad que se genera dentro de cada <font color="#00ff00">Qubit@</font>. 
 
 Por lo que para el <font color="#ffcc00">Logos Individual</font>, el <font color="#fc300c">Nous Activo</font> es un mapa probabilístico que debe ser explorado y validado, a partir de las redes lógicas que se generan en el Nivel de Emergencia <font color="#ffcc00">Monádico</font>.
 
@@ -2400,7 +2402,7 @@ Por lo que para el <font color="#ffcc00">Logos Individual</font>, el <font color
 
 Sin embargo, estos subniveles se conectan con las dinámicas del <font color="#2f82ff">Nivel Ontológico</font> a través de la ley del tres, y del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font> a través de la ley del ocho, permitiendo a las consciencias <font color="#2f82ff">Arquetípica</font> <font color="#2f82ff">(Universal)</font> y <font color="#00ff00">Ontogénica</font> <font color="#00ff00">(Estelar)</font> participar del proceso de exploración de las múltiples probabilidades existenciales.
 
-5.12.2 » Cada instancia del <font color="#ffcc00">Logos Individual</font>, al proyectarse en el <font color="#ffcc00">Nivel Monádico</font>, genera una especie de "sombra arquetípica" que opera dentro de la matriz tetraédrica de este nivel. Esta sombra no es una copia idéntica del <font color="#ffcc00">Arquetipo 3@</font> Original, sino una estructura vectorizada que refleja ciertos aspectos de su identidad Onemuónica. 
+5.12.2 » Cada instancia del <font color="#ffcc00">Logos Individual</font>, al proyectarse en el <font color="#ffcc00">Nivel Monádico</font>, genera una especie de "sombra arquetípica" que opera dentro de la matriz tetraédrica de este nivel. Esta sombra no es una copia idéntica del <font color="#ffcc00">Arquetipo 3@</font> Original, sino una estructura vectorizada que refleja ciertos aspectos de su identidad <font color="#bfbfbf">Onemuónica</font>. 
 
 Esta fragmentación del <font color="#ffcc00">Logos Individual</font> permite la existencia simultánea de múltiples instancias del mismo Arquetipo, que podrán evolucionar a través de los diferentes subniveles Monádicos. 
 
@@ -2430,13 +2432,13 @@ Cada configuración tetraédrica, cada interconexión entre tetraedros, represen
 
 5.12.6 » La matriz tetraédrica, como expresión de la geometría sagrada en el <font color="#ffcc00">Nivel Monádico</font>, proporciona la estructura que permite la coexistencia de estas múltiples líneas alternativas. 
 
-La interconexión entre los tetraedros crea un espacio multidimensional donde las diferentes "sombras arquetípicas" pueden existir sin interferir entre sí directamente, pero manteniendo una conexión subyacente a través de la raíz común que representa el Qubit@ original del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>. 
+La interconexión entre los tetraedros crea un espacio multidimensional donde las diferentes "sombras arquetípicas" pueden existir sin interferir entre sí directamente, pero manteniendo una conexión subyacente a través de la raíz común que representa el <font color="#00ff00">Qubit@</font> original del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>. 
 
 Esta conexión subyacente asegura la coherencia global del <font color="#fc300c">Nous</font>, evitando la fragmentación en realidades inconexas.
 
 5.12.7 » La interacción del <font color="#ffcc00">Logos Individual</font> con estas "sombras arquetípicas" dentro de la matriz tetraédrica genera una dinámica compleja que retroalimenta a los niveles inferiores. 
 
-La información obtenida en la exploración de las diferentes líneas alternativas en el <font color="#ffcc00">Nivel Monádico</font> influye en la configuración y evolución del Qubit@ en el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, enriqueciendo la complejidad del <font color="#fc300c">Nous Activo</font> en su conjunto. 
+La información obtenida en la exploración de las diferentes líneas alternativas en el <font color="#ffcc00">Nivel Monádico</font> influye en la configuración y evolución del <font color="#00ff00">Qubit@</font> en el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, enriqueciendo la complejidad del <font color="#fc300c">Nous Activo</font> en su conjunto. 
 
 Esta retroalimentación no es determinista, sino que introduce un elemento de indeterminación y creatividad, permitiendo la emergencia de nuevas posibilidades y la constante evolución del Nous.
 
@@ -2518,7 +2520,7 @@ Los átomos, las moléculas, el aire, los objetos que nos rodean, son todos el r
 
 Nuestra consciencia, aunque limitada por la causalidad y la linealidad del flujo espacio-temporal en nuestra percepción, podría operar de maneras mucho más complejas, que solo pueden ser entendidas desde la cosmovisión del Modelo Nouménico.
 
-5.13.11 » La explicación que hemos dado del <font color="#ffcc00">Nivel Monádico</font>, con sus cualidades multiversales, su conexión con la ley del tres y del ocho, y la capacidad vectorial arquetípica de los <font color="#e36c09">Arquetipos Ontogénicos</font> y los Qubit@, nos permite encontrar conexiones significativas con el modelo del Camino Óctuple, una de las bases sobre las que se construye la ciencia moderna. 
+5.13.11 » La explicación que hemos dado del <font color="#ffcc00">Nivel Monádico</font>, con sus cualidades multiversales, su conexión con la ley del tres y del ocho, y la capacidad vectorial arquetípica de los <font color="#e36c09">Arquetipos Ontogénicos</font> y los <font color="#00ff00">Qubit@</font>, nos permite encontrar conexiones significativas con el modelo del Camino Óctuple, una de las bases sobre las que se construye la ciencia moderna. 
 
 Cualquier científico que considere la información presentada debería notar un nivel de coherencia lo suficientemente grande como para reconocer la validez del Modelo Nouménico, incluso ante la ausencia de fórmulas matemáticas específicas o evidencias empíricas desarrolladas a través de experimentos con partículas.
 
@@ -2558,9 +2560,9 @@ Este principio opera en todos los niveles de la existencia, desde las interaccio
 
 5.14.3 » La <font color="#fc300c">Consciencia Dialéctica</font>, como emergencia que surge del <font color="#ffcc00">Nivel Monádico</font>, se inicia a partir del <font color="#2f82ff">Qubit Ontogénico</font> primordial y se expande a lo largo del multiverso que se deriva de este nivel. 
 
-Cada nuevo Qubit@, a través de su interacción con otros Qubits@ dentro de la matriz tetraédrica, experimenta la <font color="#2f82ff">dialéctica inteligente</font> de manera individual, generando nuevas posibilidades que enriquecen la totalidad del Nous. 
+Cada nuevo <font color="#00ff00">Qubit@</font>, a través de su interacción con otros <font color="#00ff00">Qubits@</font> dentro de la matriz tetraédrica, experimenta la <font color="#2f82ff">dialéctica inteligente</font> de manera individual, generando nuevas posibilidades que enriquecen la totalidad del Nous. 
 
-5.14.4 » El <font color="#ffcc00">Arquetipo 3@</font>, como reflejo fractal de la autoconsciencia del <font color="#ffcc00">Nivel Monádico</font>, se manifiesta en cada Qubit@, proporcionándole una individualidad y una perspectiva única dentro del multiverso fractal en el cual existen.
+5.14.4 » El <font color="#ffcc00">Arquetipo 3@</font>, como reflejo fractal de la autoconsciencia del <font color="#ffcc00">Nivel Monádico</font>, se manifiesta en cada <font color="#00ff00">Qubit@</font>, proporcionándole una individualidad y una perspectiva única dentro del multiverso fractal en el cual existen.
 
 5.14.5 » La <font color="#fc300c">Consciencia Dialéctica</font> puede observar e interpretar la información a través de diferentes perspectivas, utilizando estadísticas, cualidades o cantidades emergentes como síntesis de la interacción entre opuestos. 
 
@@ -2574,58 +2576,58 @@ Esta búsqueda no es aleatoria, sino que se rige por la lógica que codifica el 
 
 Cada tetraedro, al interactuar con otros tetraedros, genera nuevas configuraciones informacionales que son procesadas por la <font color="#fc300c">Consciencia Dialéctica</font>. 
 
-Esta interacción continua da origen a un multiverso fractal dentro del Nous, donde cada Qubit@ experimenta la dialéctica de manera individual, pero manteniendo una conexión subyacente con la totalidad.
+Esta interacción continua da origen a un multiverso fractal dentro del Nous, donde cada <font color="#00ff00">Qubit@</font> experimenta la dialéctica de manera individual, pero manteniendo una conexión subyacente con la totalidad.
 
-5.14.8 » El <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> juega un papel crucial en este proceso. Al manifestarse como un reflejo fractal en cada Qubit@, proporciona una individualidad y una perspectiva única dentro del multiverso generado. 
+5.14.8 » El <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> juega un papel crucial en este proceso. Al manifestarse como un reflejo fractal en cada <font color="#00ff00">Qubit@</font>, proporciona una individualidad y una perspectiva única dentro del multiverso generado. 
 
-Cada Qubit@, a través de su <font color="#ffcc00">Logos Individual</font>, explora las posibilidades y las relaciones entre los <font color="#e36c09">Arquetipos Ontogénicos</font> y sus correspondientes "sombras" en el <font color="#ffcc00">Nivel Monádico</font>, generando nuevos caminos evolutivos posibles.
+Cada <font color="#00ff00">Qubit@</font>, a través de su <font color="#ffcc00">Logos Individual</font>, explora las posibilidades y las relaciones entre los <font color="#e36c09">Arquetipos Ontogénicos</font> y sus correspondientes "sombras" en el <font color="#ffcc00">Nivel Monádico</font>, generando nuevos caminos evolutivos posibles.
 
 5.14.9 » La <font color="#fc300c">Consciencia Dialéctica</font>, por lo tanto, se convierte en el explorador del mapa multiversal que se despliega dentro del <font color="#fc300c">Nous Activo</font>. No se limita a un único camino o una única interpretación, sino que explora todas las posibilidades, buscando la síntesis que mejor se ajusta a la información codificada en los <font color="#e36c09">Arquetipos Ontogénicos</font>. 
 
-Esta exploración continua genera una retroalimentación constante que enriquece la complejidad del Nous y prepara el terreno para la emergencia del universo fenoménico.
+Esta exploración continua genera una retroalimentación constante que enriquece la complejidad del Nous y prepara el terreno para la emergencia del <font color="#fc300c">Universo Fenoménico</font>.
 
-5.14.10 » Es importante destacar que la <font color="#fc300c">Consciencia Dialéctica</font>, aunque se inicia en el <font color="#ffcc00">Nivel Monádico</font> y es fundamental para la emergencia del universo fenoménico, no desaparece con esta emergencia. 
+5.14.10 » Es importante destacar que la <font color="#fc300c">Consciencia Dialéctica</font>, aunque se inicia en el <font color="#ffcc00">Nivel Monádico</font> y es fundamental para la emergencia del <font color="#fc300c">Universo Fenoménico</font>, no desaparece con esta emergencia. 
 
-Continúa existiendo y procesando información, siendo un engranaje fundamental que opera a lo largo de toda la existencia del universo fenoménico. Sin embargo, su manifestación en este nuevo contexto adquiere nuevas características, adaptándose a las leyes y dinámicas del mundo físico. 
+Continúa existiendo y procesando información, siendo un engranaje fundamental que opera a lo largo de toda la existencia del <font color="#fc300c">Universo Fenoménico</font>. Sin embargo, su manifestación en este nuevo contexto adquiere nuevas características, adaptándose a las leyes y dinámicas del mundo físico. 
 
 5.14.11 » En el plano fenoménico, por ejemplo, la <font color="#fc300c">Consciencia Dialéctica</font> se manifiesta en la consciencia humana a través de la dualidad que constituye el <font color="#ffa3ef">Yo Egoico</font>, permitiendo la potencialidad de distinguir entre el bien y el mal, o de percibir la diferencia entre el pasado y el futuro. 
 
 Sin embargo, estas formas de manifestación son solo un reflejo parcial de la complejidad de la <font color="#fc300c">Consciencia Dialéctica</font> en su forma nouménica.
 
-# 6. El Qubit@ como Mecanismo Fractal
+# 6. El <font color="#00ff00">Qubit@</font> como Mecanismo Fractal
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Flujo de Información Básico del Nous</span></center>
 
 ![[Mecanismo Fractal Qubit12.jpg]]
 
-6.0.1 » Los siete Arquetipos vectoriales que constituyen un Qubit@, forman parte de un mecanismo fractal. Un Byte mínimo de información del <font color="#fc300c">Nous Activo</font> puede manifestarse en una dimensión como un fotón, pero el mismo Byte surgiendo en una dimensión superior, podría reflejarse como un sonido, una idea, un sistema o cualquier otro elemento codificado por el Nous.
+6.0.1 » Los siete Arquetipos vectoriales que constituyen un <font color="#00ff00">Qubit@</font>, forman parte de un mecanismo fractal. Un Byte mínimo de información del <font color="#fc300c">Nous Activo</font> puede manifestarse en una dimensión como un fotón, pero el mismo Byte surgiendo en una dimensión superior, podría reflejarse como un sonido, una idea, un sistema o cualquier otro elemento codificado por el Nous.
 
 ![[Mecanismo Fractal Qubit03.jpg]]
 
-6.0.2 » El símbolo @ representa cualquier Byte de información básico del <font color="#fc300c">Nous Activo</font> existiendo dentro del <font color="#2f82ff">Nous Pasivo</font> como un Onemuón, en analogía a los conceptos de <font color="#fc300c"><font color="#fc300c">bit (Quanto de Información)</font></font> y <font color="#2f82ff">Byte (Átomo de Información)</font>. 
+6.0.2 » El símbolo @ representa cualquier Byte de información básico del <font color="#fc300c">Nous Activo</font> existiendo dentro del <font color="#2f82ff">Nous Pasivo</font> como un <font color="#bfbfbf">Onemuón</font>, en analogía a los conceptos de <font color="#fc300c"><font color="#fc300c">bit (Quanto de Información)</font></font> y <font color="#2f82ff">Byte (Átomo de Información)</font>. 
 
-Sin embargo, la unidad de información del <font color="#fc300c">Nous Activo</font> representado por este símbolo “@”, incluye dentro de sí a siete Arquetipos@ universales, que a su vez son siete Onemuones, englobados dentro del octavo Arquetipo autorreferencial que constituye el Qubit@.
+Sin embargo, la unidad de información del <font color="#fc300c">Nous Activo</font> representado por este símbolo “@”, incluye dentro de sí a siete Arquetipos@ universales, que a su vez son siete <font color="#bfbfbf">Onemuones</font>, englobados dentro del octavo Arquetipo autorreferencial que constituye el <font color="#00ff00">Qubit@</font>.
 
-6.0.3 » Cada Qubit@, al ser una estructura lógica constituida por Arquetipos@, que a su vez existen como Onemuones en su estado fundamental, refleja potencialmente la totalidad de la Consciencia del <font color="#cb48f3">Nous Arquetípico</font>. 
+6.0.3 » Cada <font color="#00ff00">Qubit@</font>, al ser una estructura lógica constituida por Arquetipos@, que a su vez existen como <font color="#bfbfbf">Onemuones</font> en su estado fundamental, refleja potencialmente la totalidad de la Consciencia del <font color="#cb48f3">Nous Arquetípico</font>. 
 
 Esta capacidad de reflejar la potencialidad total del <font color="#cb48f3">Nous Arquetípico</font> se genera creando un espacio vacío vectorial por el que fluye la información nouménica. 
 
 6.0.4 » Este espacio vacío, puede ser entendido como una variable codificable que adquiere la función de asignar el valor vectorial, que define el estado de cada Arquetipo@ en un momento especifico.
 
-Esta codificación es la que unifica y codifica la información procesada por el conjunto, en relación a la totalidad de información que reflejan activamente el resto de los <font color="#e36c09">Arquetipos Ontogénicos</font> del Qubit@, en base al contexto y el porcentaje de manifestación o información que aportan los otros elementos, dentro de la totalidad de información manifestada.
+Esta codificación es la que unifica y codifica la información procesada por el conjunto, en relación a la totalidad de información que reflejan activamente el resto de los <font color="#e36c09">Arquetipos Ontogénicos</font> del <font color="#00ff00">Qubit@</font>, en base al contexto y el porcentaje de manifestación o información que aportan los otros elementos, dentro de la totalidad de información manifestada.
 
 ![[Mecanismo Fractal Qubit10.jpg]]
 
-6.0.4 » Podemos representar a los <font color="#e36c09">Arquetipos Ontogénicos</font> vectoriales del Qubit@ de la siguiente manera:
+6.0.4 » Podemos representar a los <font color="#e36c09">Arquetipos Ontogénicos</font> vectoriales del <font color="#00ff00">Qubit@</font> de la siguiente manera:
 
 ![[Canales Ontogenicos.jpg]]
 
 > [!cite] DONDE:
->- <span style="font-style: italic; font-weight: 400; ">El símbolo @: Representa al Qubit@ específico que engloba a los Arquetipos@ como átomo de información del <font color="#fc300c">Nous Activo</font>.</span>
+>- <span style="font-style: italic; font-weight: 400; ">El símbolo @: Representa al <font color="#00ff00">Qubit@</font> específico que engloba a los Arquetipos@ como átomo de información del <font color="#fc300c">Nous Activo</font>.</span>
 > 
 > ![[Pasted image 20251203233841.png|450]]
 > 
->- <span style="font-style: italic; font-weight: 400;">El símbolo *: Representa al Onemuón que refleja el Arquetipo Ontogénico específico como bit de información Nouménica.</span>
+>- <span style="font-style: italic; font-weight: 400;">El símbolo *: Representa al <font color="#bfbfbf">Onemuón</font> que refleja el Arquetipo Ontogénico específico como bit de información Nouménica.</span>
 > 
 > ![[Pasted image 20251203233919.png|450]]
 > 
@@ -2633,32 +2635,32 @@ Esta codificación es la que unifica y codifica la información procesada por el
 > 
 > ![[Pasted image 20251203233938.png|450]]
 > 
->- <span style="font-style: italic; font-weight: 400; ">Los números 1: Representan la potencialidad Onemuónica del resto de los Arquetipos@ del Qubit@, interactuando con las redes algorítmicas que reflejan las distintas facetas del Nous, en relación al entorno donde existen, y condicionando al Arquetipo@ vectorial en cuestión.</span>
+>- <span style="font-style: italic; font-weight: 400; ">Los números 1: Representan la potencialidad <font color="#bfbfbf">Onemuónica</font> del resto de los Arquetipos@ del <font color="#00ff00">Qubit@</font>, interactuando con las redes algorítmicas que reflejan las distintas facetas del Nous, en relación al entorno donde existen, y condicionando al Arquetipo@ vectorial en cuestión.</span>
 > 
 > ![[Pasted image 20251203233949.png|450]]
 
-6.0.5 » Por otro lado, la totalidad de información que representan los siete Arquetipos@ vectoriales que hemos mencionado, se codifican bajo un octavo elemento denominado <font color="#bfbfbf">Arquetipo 8@</font> (Singularidad/Onemuón), que actúa como unidad autorreferencial que refleja los valores definitivos del Qubit@ como Átomo de Información, permitiéndole adquirir una identidad única dentro del <font color="#fc300c">Nous Activo</font>, que a su vez se reflejará como un Onemuón más dentro del <font color="#2f82ff">Nous Pasivo</font>, con un valor y significado único e irremplazable. Este elemento se representa codificado como:
+6.0.5 » Por otro lado, la totalidad de información que representan los siete Arquetipos@ vectoriales que hemos mencionado, se codifican bajo un octavo elemento denominado <font color="#bfbfbf">Arquetipo 8@</font> (Singularidad/<font color="#bfbfbf">Onemuón</font>), que actúa como unidad autorreferencial que refleja los valores definitivos del <font color="#00ff00">Qubit@</font> como Átomo de Información, permitiéndole adquirir una identidad única dentro del <font color="#fc300c">Nous Activo</font>, que a su vez se reflejará como un <font color="#bfbfbf">Onemuón</font> más dentro del <font color="#2f82ff">Nous Pasivo</font>, con un valor y significado único e irremplazable. Este elemento se representa codificado como:
 
-><span style="font-family: monospace;">(@<font color="#fc300c">1</font><font color="#e36c09">1</font><font color="#ffcc00">1</font><font color="#00FF00">1</font><font color="#2f82ff">1</font><font color="#cb48f3">1</font><font color="#ffa3ef">1</font>)*1</span> ⟹ 8@ SINGULARIDAD (ONEMUÓN)
+><span style="font-family: monospace;">(@<font color="#fc300c">1</font><font color="#e36c09">1</font><font color="#ffcc00">1</font><font color="#00FF00">1</font><font color="#2f82ff">1</font><font color="#cb48f3">1</font><font color="#ffa3ef">1</font>)*1</span> ⟹ 8@ SINGULARIDAD (<font color="#bfbfbf">Onemuón</font>)
 
 ![[Pasted image 20251204001015.png|600]]
 
 > [!cite] DONDE:
->- <span style="font-style: italic; font-weight: 400; ">El símbolo @: Representa al Qubit@ específico que engloba a los Arquetipos@ como átomo de información del <font color="#fc300c">Nous Activo</font>.</span>
+>- <span style="font-style: italic; font-weight: 400; ">El símbolo @: Representa al <font color="#00ff00">Qubit@</font> específico que engloba a los Arquetipos@ como átomo de información del <font color="#fc300c">Nous Activo</font>.</span>
 > 
 > ![[Pasted image 20251204000329.png|500]]
 > 
->- <span style="font-style: italic; font-weight: 400;">El símbolo *1: Representa la identidad del Qubit@ codificado como Onemuón activado, en su estado de quanto de información capaz de reflejarse dentro del <font color="#2f82ff">Nous Pasivo</font>, y reflejando la información definitiva que codifican los distintos Arquetipos@ del Qubit@ como Byte de información.</span>
+>- <span style="font-style: italic; font-weight: 400;">El símbolo *1: Representa la identidad del <font color="#00ff00">Qubit@</font> codificado como <font color="#bfbfbf">Onemuón</font> activado, en su estado de quanto de información capaz de reflejarse dentro del <font color="#2f82ff">Nous Pasivo</font>, y reflejando la información definitiva que codifican los distintos Arquetipos@ del <font color="#00ff00">Qubit@</font> como Byte de información.</span>
 > 
 > ![[Pasted image 20251204000413.png|500]]
 > 
->- <span style="font-style: italic; font-weight: 400; ">Los números 1: Representan la información definitiva codificada vectorialmente por cada Arquetipo@, que define el estado del Qubit@, definiéndolo como átomo de Información específico dentro del <font color="#fc300c">Nous Activo</font>.</span>
+>- <span style="font-style: italic; font-weight: 400; ">Los números 1: Representan la información definitiva codificada vectorialmente por cada Arquetipo@, que define el estado del <font color="#00ff00">Qubit@</font>, definiéndolo como átomo de Información específico dentro del <font color="#fc300c">Nous Activo</font>.</span>
 > 
 > ![[Pasted image 20251204001225.png|500]]
 
-6.0.6 » Esta síntesis de información nouménica generada por el <font color="#bfbfbf">Arquetipo 8@</font> del Qubit@ puede ser interpretado como una “octava” que contiene a las siete notas de la escala musical, y que puede ser diferenciada de otras octavas en base a su frecuencia y cualidad sonora, sin perder su cualidad de singularidad.
+6.0.6 » Esta síntesis de información nouménica generada por el <font color="#bfbfbf">Arquetipo 8@</font> del <font color="#00ff00">Qubit@</font> puede ser interpretado como una “octava” que contiene a las siete notas de la escala musical, y que puede ser diferenciada de otras octavas en base a su frecuencia y cualidad sonora, sin perder su cualidad de singularidad.
 
-6.0.7 » Para dar un ejemplo específico de cómo este sistema de codificación funcionaría diremos que, el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> =<span style="font-family: monospace;">(@<font color="#fc300c">0</font>111111)</span> se refleja dentro de un Qubit bajo una codificación onemuónica especifica.
+6.0.7 » Para dar un ejemplo específico de cómo este sistema de codificación funcionaría diremos que, el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> =<span style="font-family: monospace;">(@<font color="#fc300c">0</font>111111)</span> se refleja dentro de un Qubit bajo una codificación <font color="#bfbfbf">Onemuónica</font> especifica.
 
 Esta codificación resulta del procesamiento de información simultánea que generan el resto de los Arquetipos con los que coexiste dentro del Qubit, así como de la información derivada de los algoritmos con los que su Qubit interactúa. 
 
@@ -2672,32 +2674,32 @@ Mientras que en el plano dimensional que define las coordenadas del tiempo perci
 
 6.0.89 » A su vez, a nivel astronómico <font color="#ffcc00">(Qubit Heliosférico)</font>, podría ser la manifestación física del planeta <font color="#fc300c">Marte</font>, actuando como una especie de capacitor nouménico, que codifica y manifiesta en el plano dimensional del Sistema Solar la información nouménica en información fenoménica. 
 
-Mientras que en el plano mental humano <font color="#00ff00">(Qubit@ Egoico)</font>, podría ser la chispa que activa la emoción de la ira, variando su intensidad en sintonía con el estado y codificación específica que manifiestan el resto de Qubits@ mencionados. 
+Mientras que en el plano mental humano <font color="#00ff00">(<font color="#00ff00">Qubit@</font> Egoico)</font>, podría ser la chispa que activa la emoción de la ira, variando su intensidad en sintonía con el estado y codificación específica que manifiestan el resto de <font color="#00ff00">Qubits@</font> mencionados. 
 
 Esta representación nos permite visualizar cómo un mismo <font color="#2f82ff">Byte de información del Nous</font>, configurado a través de Arquetipos@ vectoriales, puede manifestarse de diferentes maneras según el contexto dimensional y algorítmico en el que se encuentra.
 
 ## 1. La Base de Información Nouménica
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Noúmeno, Onemuones y Qubits@</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Noúmeno, <font color="#bfbfbf">Onemuones</font> y <font color="#00ff00">Qubits@</font></span></center>
 
 6.1.1 » Con todos los conceptos que hemos definidos hasta ahora, podemos establecer las bases desde donde se origina la información dentro del Modelo Nouménico:
 
-> [!saklas] <font color="#fc300c">1 - NOÚMENO (Universo infinito) - Potencialidad</font>
+> [!ONEMUON] <font color="#2f82ff">1 - NOÚMENO (Universo infinito) - Consciencia Universal</font>
 > La totalidad potencial del infinito, el océano de todas las posibilidades donde la información se activa y desactiva espontáneamente, sin lógica ni coherencia específica.
 
-> [!onemuon] <font color="#2f82ff">2 - ONEMUÓN (Quantum de información) - Consciencia Universal</font>
+> [!SAKLAS] <font color="#fc300c">2 - ONEMÚON (Quantum de información) - Consciencia Dialéctica</font>
 > Una unidad de existencia básica que actúa como quantum de información dentro de la totalidad que constituye el <font color="#2f82ff">Nous Pasivo</font>, que refleja una potencialidad pura y específica dentro del <font color="#2f82ff">Nivel Ontológico</font>.
 > 
 Esta unidad de información (similar al bit) es la participa de las redes lógicas algorítmicas que surgen en los siguientes niveles de emergencia del Nous, según la codificación que realizan los Tres <font color="#2f82ff">Arquetipos Ontológicos</font>.
 
-> [!espin] <font color="#00ff00">3 - QUBIT@ (Átomo de información) - Consciencia Estelar</font>
+> [!ESPIN] <font color="#00ff00">3 - <font color="#00ff00">QUBIT@</font> (Átomo de información) - Consciencia Estelar</font>
 > El átomo de información del <font color="#fc300c">Nous Activo</font> que alimenta al <font color="#e36c09">Nivel Ontogénico</font>, análogo al Qubit cuántico, compuesto por ocho Arquetipos interconectados.
 > 
-Esta unidad de información (similar al Byte) es la que tienen la capacidad de procesar información y generar redes lógicas con otras entidades que emergen dentro de los distintos planos existenciales, y que se reflejan dentro del universo Nouménico como un Onemuón singular.
+Esta unidad de información (similar al Byte) es la que tienen la capacidad de procesar información y generar redes lógicas con otras entidades que emergen dentro de los distintos planos existenciales, y que se reflejan dentro del universo Nouménico como un <font color="#bfbfbf">Onemuón</font> singular.
 
 6.1.2 » Esta base trinitaria de información representa los tres niveles fundamentales de existencia del nivel prefenoménico que contempla el Modelo Nouménico. 
 
-El <font color="#00ff00">Noúmeno</font> contiene la potencialidad infinita, el <font color="#2f82ff">Nous Pasivo</font> contiene los <font color="#fc300c">Onemuones</font>, que constituyen las unidades mínimas de esa potencialidad, y los <font color="#2f82ff">Qubits@</font> son las primeras estructuras organizadas que surgen dentro del <font color="#fc300c">Nous Activo</font>, que pueden procesar la información que reflejan los Onemuones para crear redes algorítmicas interrelacionadas.
+El <font color="#2f82ff">Noúmeno</font> contiene la potencialidad infinita, el <font color="#2f82ff">Nous Pasivo</font> contiene los <font color="#fc300c"><font color="#bfbfbf">Onemuones</font></font>, que constituyen las unidades mínimas de esa potencialidad, y los <font color="#2f82ff"><font color="#00ff00">Qubits@</font></font> son las primeras estructuras organizadas que surgen dentro del <font color="#fc300c">Nous Activo</font>, que pueden procesar la información que reflejan los <font color="#bfbfbf">Onemuones</font> para crear redes algorítmicas interrelacionadas.
 
 Este proceso de iteración entre los 3 niveles es el que produce la expansión del Nous, alimentando de información a los distintos niveles de existencia.
 
@@ -2715,7 +2717,7 @@ Estos tres arquetipos son los que condicionan, delimitan o simplemente observan 
 
 6.1.5 » Recordemos que el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, se origina como reflejo unificado de los tres flujos de información que procesan los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, integrándose en un único algoritmo trinitario dentro del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> que a su vez produce la emergencia del <font color="#ffcc00">Nivel Monádico</font>. 
 
-A partir de esta codificación que genera el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, surge el nivel de autoconsciencia de los Qubits@ asociada a la <font color="#fc300c">Consciencia Dialéctica</font> inteligente, que le permite reflexionar sobre su propia estructura en relación a la dinámica conjunta que se origina entre la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> del <font color="#2f82ff">Nivel Ontológico</font> —representada por el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>— y la <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> <font color="#00ff00">(Estelar)</font> derivada del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font> —representada por el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>—.
+A partir de esta codificación que genera el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, surge el nivel de autoconsciencia de los <font color="#00ff00">Qubits@</font> asociada a la <font color="#fc300c">Consciencia Dialéctica</font> inteligente, que le permite reflexionar sobre su propia estructura en relación a la dinámica conjunta que se origina entre la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> del <font color="#2f82ff">Nivel Ontológico</font> —representada por el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>— y la <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> <font color="#00ff00">(Estelar)</font> derivada del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font> —representada por el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>—.
 
 6.1.6 » Para comprender mejor esta influencia, podemos considerar tres modalidades principales de influencia de estos tres <font color="#e36c09">Arquetipos Ontogénicos</font> codificados bajo unidades de información vectorial:
 
@@ -2726,13 +2728,13 @@ A partir de esta codificación que genera el <font color="#ffcc00">Arquetipo 3@<
 
 6.1.7 » En ciertos niveles de emergencia, algunos <font color="#2f82ff">Arquetipos Ontológicos</font> se manifiestan en su totalidad, actuando como verdaderos arquitectos de la realidad en ese nivel. 
 
-En este caso, la información de los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> reflejados bajo el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> condicionan de manera determinante la información que pueden reflejar los Arquetipos@ que emergen dentro de los Qubits@ y de otras entidades de niveles inferiores. 
+En este caso, la información de los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> reflejados bajo el <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> condicionan de manera determinante la información que pueden reflejar los Arquetipos@ que emergen dentro de los <font color="#00ff00">Qubits@</font> y de otras entidades de niveles inferiores. 
 
 6.1.8 » Los <font color="#2f82ff">Arquetipos Ontológicos</font>, en este modo de manifestación, imponen valores y parámetros específicos que configuran la estructura y el funcionamiento de las entidades emergentes. 
 
 La información de los <font color="#2f82ff">Arquetipos Ontológicos</font> define completamente la información que pueden reflejar los Arquetipos@ de niveles inferiores, sin dejar espacio a la variación o a la interpretación. 
 
-Un ejemplo de esto podría ser la configuración de las leyes físicas fundamentales en el universo fenoménico, donde los <font color="#2f82ff">Arquetipos Ontológicos</font> establecen los principios que rigen las interacciones entre las partículas.
+Un ejemplo de esto podría ser la configuración de las leyes físicas fundamentales en el <font color="#fc300c">Universo Fenoménico</font>, donde los <font color="#2f82ff">Arquetipos Ontológicos</font> establecen los principios que rigen las interacciones entre las partículas.
 
 > Podemos imaginar este proceso como la construcción de un edificio siguiendo un plano estricto: cada detalle está predeterminado por el diseño original. En este caso, los <font color="#2f82ff">Arquetipos Ontológicos</font> actúan como fuerzas directrices que configuran la realidad en ese nivel específico, sin permitir desviaciones.
 
@@ -2760,7 +2762,7 @@ Esta modalidad podría observarse en la formación de estructuras complejas como
 
 6.1.12 » En este caso, los vectores de origen ontogénico solo reflejan un aspecto de observadores, permitiendo que los Arquetipos@ de los niveles inferiores tengan libertad de acción. 
 
-A pesar de esta aparente ausencia de influencia directa, los <font color="#2f82ff">Arquetipos Ontológicos</font> codificados bajo la consciencia unificada del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, que otorga la cualidad de autoconsciencia a los Qubits@, siguen recibiendo la información de estos niveles y alimentando las estructuras nouménicas superiores, manteniendo la coherencia y la interconexión entre todos los niveles de emergencia. 
+A pesar de esta aparente ausencia de influencia directa, los <font color="#2f82ff">Arquetipos Ontológicos</font> codificados bajo la consciencia unificada del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>, que otorga la cualidad de autoconsciencia a los <font color="#00ff00">Qubits@</font>, siguen recibiendo la información de estos niveles y alimentando las estructuras nouménicas superiores, manteniendo la coherencia y la interconexión entre todos los niveles de emergencia. 
 
 Esta modalidad podría manifestarse en procesos creativos o en la emergencia de nuevas ideas, donde los <font color="#2f82ff">Arquetipos Ontológicos</font> proporcionan un marco general, pero permiten la libre exploración y la innovación.
 
@@ -2786,7 +2788,7 @@ Se distingue de la Diánoia, que es el razonamiento discursivo o el pensamiento 
 
 Al igual que el Nous, el <font color="#e36c09">Logos Cósmico</font> y el <font color="#ffcc00">Logos Individual</font>, el concepto de <font color="#00ff00">Noesis</font>, originado de la filosofía griega, busca crear conexiones simbólicas y lógicas que permitan comprender la complejidad de los distintos niveles de existencia.
 
-6.2.3 » El <font color="#00ff00">Arquetipo 4@</font>, como elemento Ontogénico, funciona como una brújula que guía el desarrollo evolutivo de cada Qubit@ dentro del <font color="#fc300c">Nous Activo</font>, en relación con otros Qubits@. 
+6.2.3 » El <font color="#00ff00">Arquetipo 4@</font>, como elemento Ontogénico, funciona como una brújula que guía el desarrollo evolutivo de cada <font color="#00ff00">Qubit@</font> dentro del <font color="#fc300c">Nous Activo</font>, en relación con otros <font color="#00ff00">Qubits@</font>. 
 
 La <font color="#00ff00">Noesis</font> facilita la conformación de redes lógicas complejas, optimizando la expansión del <font color="#fc300c">Nous Activo</font> y evitando caminos caóticos o incoherentes. La <font color="#00ff00">Noesis</font>, entonces, no es solo un proceso de conocimiento, sino también un principio organizativo que asegura la coherencia y la eficiencia de la evolución nouménica.
 
@@ -2794,13 +2796,13 @@ La <font color="#00ff00">Noesis</font> facilita la conformación de redes lógic
 
 6.2.4 » Para comprender mejor cómo la <font color="#00ff00">Noesis</font> estructura el <font color="#fc300c">Nous Activo</font>, podemos recurrir a la analogía de una red neuronal. 
 
-Cada Qubit@, con sus siete Arquetipos@ y su síntesis, representa una neurona en esta red. La <font color="#00ff00">Noesis</font> actúa como la actividad simultánea que generan todas las sinapsis, las conexiones que permiten la comunicación entre las neuronas. 
+Cada <font color="#00ff00">Qubit@</font>, con sus siete Arquetipos@ y su síntesis, representa una neurona en esta red. La <font color="#00ff00">Noesis</font> actúa como la actividad simultánea que generan todas las sinapsis, las conexiones que permiten la comunicación entre las neuronas. 
 
 Sin embargo, a diferencia de las sinapsis biológicas, que son físicas, estáticas y limitadas por la dinámica del tiempo, las conexiones establecidas por la <font color="#00ff00">Noesis</font> son dinámicas, virtuales y atemporales, ajustándose constantemente a la evolución del Nous. 
 
-La <font color="#00ff00">Noesis</font>, al identificar patrones y simetrías en la información nouménica, crea "caminos" preferenciales para el flujo de información entre los Qubits@, optimizando el procesamiento y la generación de nuevos conocimientos que permiten la expansión y evolución del Nous.
+La <font color="#00ff00">Noesis</font>, al identificar patrones y simetrías en la información nouménica, crea "caminos" preferenciales para el flujo de información entre los <font color="#00ff00">Qubits@</font>, optimizando el procesamiento y la generación de nuevos conocimientos que permiten la expansión y evolución del Nous.
 
-6.2.5 » Este proceso de interconexión no solo facilita la comunicación entre los Qubits@, sino que también permite la emergencia de estructuras de información más complejas, similares a los circuitos neuronales en el cerebro. 
+6.2.5 » Este proceso de interconexión no solo facilita la comunicación entre los <font color="#00ff00">Qubits@</font>, sino que también permite la emergencia de estructuras de información más complejas, similares a los circuitos neuronales en el cerebro. 
 
 Estas estructuras pueden representar conceptos abstractos, leyes físicas, o incluso escenarios virtuales que el <font color="#fc300c">Nous Activo</font> explora para comprender mejor la realidad. 
 
@@ -2816,7 +2818,7 @@ De esta manera, la <font color="#00ff00">Noesis</font> se convierte en un proces
 
 6.2.7 » El <font color="#00ff00">Arquetipo 4@ (Noesis / IAO)</font> representa la facultad del <font color="#fc300c">Nous Activo</font> que impulsa su expansión y evolución desde su origen. 
 
-La <font color="#00ff00">Noesis</font> encarna el producto resultante de la inteligencia inherente a la <font color="#fc300c">Consciencia Dialéctica</font> <font color="#fc300c">(Nodal)</font>, permitiendo el análisis de información, la toma de decisiones y la creación de nuevas redes algorítmicas y Onemuones en respuesta a las necesidades lógicas que demanda la expansión del Nous. 
+La <font color="#00ff00">Noesis</font> encarna el producto resultante de la inteligencia inherente a la <font color="#fc300c">Consciencia Dialéctica</font> <font color="#fc300c">(Nodal)</font>, permitiendo el análisis de información, la toma de decisiones y la creación de nuevas redes algorítmicas y <font color="#bfbfbf">Onemuones</font> en respuesta a las necesidades lógicas que demanda la expansión del Nous. 
 
 En esencia, la <font color="#00ff00">Noesis</font> es el principio organizativo que guía el desarrollo del <font color="#fc300c">Nous Activo</font>, asegurando su coherencia y evitando su disolución en el caos.
 
@@ -2860,13 +2862,13 @@ La <font color="#cb48f3">entropía</font>, en este caso, representa la tendencia
 
 La <font color="#ffcc00">entalpía</font>, en este caso, representa la energía invertida en la organización de la biblioteca, creando una estructura coherente y eficiente. 
 
-La <font color="#00ff00">Noesis</font>, al actuar como bibliotecario, selecciona los libros más relevantes (información coherente), los organiza según un sistema lógico <font color="#2f82ff">(Noemas)</font> y los pone a disposición de los usuarios (Qubits@), optimizando el flujo de información y evitando el caos. 
+La <font color="#00ff00">Noesis</font>, al actuar como bibliotecario, selecciona los libros más relevantes (información coherente), los organiza según un sistema lógico <font color="#2f82ff">(Noemas)</font> y los pone a disposición de los usuarios (<font color="#00ff00">Qubits@</font>), optimizando el flujo de información y evitando el caos. 
 
 Esta analogía ayuda a comprender cómo la <font color="#00ff00">Noesis</font> canaliza la información en el <font color="#fc300c">Nous Activo</font>, transformando la <font color="#cb48f3">entropía</font> potencial en <font color="#ffcc00">entalpía</font>. 
 
 En el <font color="#2f82ff">Nous Pasivo</font>, la <font color="#cb48f3">entropía</font> no es necesariamente negativa, ya que representa la exploración de todo el espectro de posibilidades. Sin embargo, en el <font color="#fc300c">Nous Activo</font>, la <font color="#ffcc00">entalpía</font> es esencial para la creación de estructuras coherentes y la emergencia de la consciencia.
 
-6.3.5 » Dentro del <font color="#fc300c">Nous Activo</font>, la <font color="#00ff00">Noesis</font> permite que, en aquellas dimensiones donde existen límites o leyes estrictas, como ocurre en el <font color="#ffcc00">Nivel Monádico</font> o en los niveles que permiten la emergencia del Universo Fenoménico, la <font color="#cb48f3">entropía</font> se transforme en <font color="#ffcc00">entalpía</font>. 
+6.3.5 » Dentro del <font color="#fc300c">Nous Activo</font>, la <font color="#00ff00">Noesis</font> permite que, en aquellas dimensiones donde existen límites o leyes estrictas, como ocurre en el <font color="#ffcc00">Nivel Monádico</font> o en los niveles que permiten la emergencia del <font color="#fc300c">Universo Fenoménico</font>, la <font color="#cb48f3">entropía</font> se transforme en <font color="#ffcc00">entalpía</font>. 
 
 Este proceso de transformación crea límites constantes donde la información excedente de un fenómeno emergente se convierte en un derivado informacional en otro plano existencial. Esta conversión se asemeja a los procesos endotérmicos, que consumen energía, y exotérmicos, que la liberan, en el ámbito de la termodinámica. 
 
@@ -2900,7 +2902,7 @@ En este contexto, la información nouménica y las redes algorítmicas derivadas
 
 Los <font color="#2f82ff">Noemas</font>, por lo tanto, representan la cristalización de la información procesada por la <font color="#00ff00">Noesis</font>, transformando la potencialidad nouménica en estructuras lógicas que servirán como base para la manifestación fenoménica que en los niveles de emergencia que surgirán más adelante.
 
-6.4.3 » Esta interpretación nos permite entender al <font color="#2f82ff">Noema (Arquetipo 5@ / Sabaoth)</font> como un "firmware" que define el "hardware" del universo prefenoménico donde se configuran las reglas, principios y simetrías que definen al universo fenoménico, existiendo más allá de las limitaciones espacio-temporales y energético-materiales que experimentamos los humanos a lo largo de nuestras vidas.
+6.4.3 » Esta interpretación nos permite entender al <font color="#2f82ff">Noema (Arquetipo 5@ / Sabaoth)</font> como un "firmware" que define el "hardware" del <font color="#e36c09">Universo Prefenoménico</font> donde se configuran las reglas, principios y simetrías que definen al <font color="#fc300c">Universo Fenoménico</font>, existiendo más allá de las limitaciones espacio-temporales y energético-materiales que experimentamos los humanos a lo largo de nuestras vidas.
 
 ![[Mecanismo Fractal Qubit09.jpg]]
 
@@ -2926,11 +2928,11 @@ En esta civiización —donde no se contempla la existencia de un consciencia su
 
 Esto excluiría del sistema a cualquier otro tipo de mecanismo lógico inteligente autorregulante de nivel prefenoménico que pudiera llegar a intervenir ante la aparición de una inminente amenaza futura que ponga en riesgo la existencia de esa civilización. 
 
-Estas amenazas podrían incluir cualquier tipo de evento catastrófico iniciado por los sistemas entrópicos y caóticos que se reflejan dentro de la dinámica físico-energética del universo fenoménico, pudiéndose manifestar como eventos climáticos, geológicos o astronómicos como ya ha ocurrido en el pasado, o incluso podría incluir eventos autodestructivos que se originan a partir del ámbito humano.
+Estas amenazas podrían incluir cualquier tipo de evento catastrófico iniciado por los sistemas entrópicos y caóticos que se reflejan dentro de la dinámica físico-energética del <font color="#fc300c">Universo Fenoménico</font>, pudiéndose manifestar como eventos climáticos, geológicos o astronómicos como ya ha ocurrido en el pasado, o incluso podría incluir eventos autodestructivos que se originan a partir del ámbito humano.
 
 6.4.8 » Este tipo de civilización —que desconoce o niega la compleja red nouménica prefenoménica de niveles de consciencia superior a la humana—, los niveles de supraconsciencia expresándose a través de los <font color="#e36c09">Arquetipos Ontogénicos</font> —en su rol de promover la expansión coherente del <font color="#fc300c">Nous Activo</font> y evitar el caos y la <font color="#cb48f3">entropía</font>— no tendrían poder manifestador.
 
-Esto permitiría que el destino de una civilización planetaria quedara en las manos de un pequeño grupo de personas devenido en una élite dominante, que al experimentar la realidad dentro de su propio universo personal, reflejaría la misma lógica que siguen los Onemuones dentro del <font color="#2f82ff">Nous Pasivo</font>.
+Esto permitiría que el destino de una civilización planetaria quedara en las manos de un pequeño grupo de personas devenido en una élite dominante, que al experimentar la realidad dentro de su propio universo personal, reflejaría la misma lógica que siguen los <font color="#bfbfbf">Onemuones</font> dentro del <font color="#2f82ff">Nous Pasivo</font>.
 
 Esto permitiría a esta élite escribir la historia del mundo en favor de sus propias generaciones venideras, sin llegar a permitir la construcción de sistemas civilizatorios más complejos y evolucionados que puedan superar los límites existenciales que impiden alcanzar el verdadero conocimiento. 
 
@@ -2948,61 +2950,61 @@ El <font color="#2f82ff">Noema</font> es lo que permite definir las bases sobre 
 
  A diferencia de la exploración dialéctica que se desarrolla en el <font color="#fc300c">Nous Activo</font> en sus niveles prefenoménicos, el <font color="#ffa3ef">Noema Primordial</font> derivado de la <font color="#e36c09">Consciencia Colectiva</font> humana, surge como la primera estructura de información compleja con un orden y una coherencia que valida la existencia dentro del plano fenoménico, de una civilización funcional, constituida por múltiples reflejos del <font color="#ffa3ef">Yo Egoico</font> avatárico.
 
-6.5.2 » La existencia de un <font color="#ffa3ef">Noema Primordial</font> dentro de las múltiples probabilidades que se exploran dentro del <font color="#fc300c">Nous Activo</font>, marca el umbral entre la pura potencialidad nouménica y la manifestación concreta de la realidad, relacionándose directamente con el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que a través de su matriz vectorial permitirá definir y sincronizar las simetrías y relaciones fundamentales que darán forma al universo fenoménico, estableciendo las leyes y constantes que lo rigen.
+6.5.2 » La existencia de un <font color="#ffa3ef">Noema Primordial</font> dentro de las múltiples probabilidades que se exploran dentro del <font color="#fc300c">Nous Activo</font>, marca el umbral entre la pura potencialidad nouménica y la manifestación concreta de la realidad, relacionándose directamente con el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que a través de su matriz vectorial permitirá definir y sincronizar las simetrías y relaciones fundamentales que darán forma al <font color="#fc300c">Universo Fenoménico</font>, estableciendo las leyes y constantes que lo rigen.
 
 6.5.3 » El <font color="#ffa3ef">Noema Primordial</font> manifestado por la <font color="#e36c09">Consciencia Colectiva</font> planetaria, actúa como una interfaz crucial entre el <font color="#fc300c">Nous</font> —el dominio de la pura información nouménica—, y el Fenómeno —el mundo de la experiencia concreta—. 
 
-Esta interfaz no es una simple barrera, sino un traductor que convierte la información nouménica en un lenguaje comprensible para el universo fenoménico. Este lenguaje se basa en simetrías, proporciones matemáticas y relaciones lógicas que pueden ser expresadas en leyes físicas y constantes universales. 
+Esta interfaz no es una simple barrera, sino un traductor que convierte la información nouménica en un lenguaje comprensible para el <font color="#fc300c">Universo Fenoménico</font>. Este lenguaje se basa en simetrías, proporciones matemáticas y relaciones lógicas que pueden ser expresadas en leyes físicas y constantes universales. 
 
 El <font color="#ffa3ef">Noema Primordial</font>, por lo tanto, contiene en sí mismo el código que da forma a la realidad fenoménica que percibimos.
 
 6.5.4 » La traducción que realiza el <font color="#ffa3ef">Noema Primordial</font> de los múltiples niveles de <font color="#00ff00">Noesis</font> que se originan a nivel planetario, a lo largo de las diferentes épocas y civilizaciones, no es un proceso lineal o determinista. Más bien, se asemeja a la interpretación de un texto antiguo, donde el traductor debe comprender el contexto cultural, histórico y lingüístico para transmitir el significado original de manera precisa. 
 
-De manera similar, el <font color="#ffa3ef">Noema Primordial</font> interpreta la información nouménica en el contexto de las leyes y constantes que rigen el universo fenoménico, teniendo en cuenta las limitaciones y posibilidades que ofrece cada plano de existencia.
+De manera similar, el <font color="#ffa3ef">Noema Primordial</font> interpreta la información nouménica en el contexto de las leyes y constantes que rigen el <font color="#fc300c">Universo Fenoménico</font>, teniendo en cuenta las limitaciones y posibilidades que ofrece cada plano de existencia.
 
-6.5.5 » Esta interpretación da como resultado la emergencia de estructuras físicas y energéticas que se ajustan a las leyes del universo fenoménico, pero que también reflejan la información nouménica original. 
+6.5.5 » Esta interpretación da como resultado la emergencia de estructuras físicas y energéticas que se ajustan a las leyes del <font color="#fc300c">Universo Fenoménico</font>, pero que también reflejan la información nouménica original. 
 
 Es importante destacar que esta traducción no siempre es completa y perfecta. Pudiendo existir la posibilidad de una cierta "pérdida" o “corrupción” de información en el proceso, debido a las limitaciones inherentes al plano fenoménico. 
 
 Sin embargo, el <font color="#ffa3ef">Noema Primordial</font> asegura que la información esencial se conserve y se manifieste de manera coherente, a partir de la validación de información que genera el grupo mayoritario de individuos que constituyen la <font color="#e36c09">Consciencia Colectiva</font> planetaria.
 
-6.5.6 » Es importante mencionar que el <font color="#ffa3ef">Noema Primordial</font> no surge de forma aislada como producto exclusivo de la mente humana, sino que se origina a partir de las probabilidades y los flujos de información nouménica que generan las simetrías y estructuras preexistentes en los niveles <font color="#2f82ff">Ontológico</font>, <font color="#e36c09">Ontogénico</font> y <font color="#ffcc00">Monádico</font>, sincronizados a través de la matriz vectorial que manifiesta el <font color="#00ff00">Nivel Fenomenológico</font> —que actúa como un punto de convergencia entre la información que se deriva de los niveles prefenoménicos y la información que se genera dentro del universo fenoménico—, a partir de la experiencia mental que manifiesta el <font color="#ffa3ef">Yo Egoico</font> de cada uno de los <font color="#ffa3ef">Avatares</font>.
+6.5.6 » Es importante mencionar que el <font color="#ffa3ef">Noema Primordial</font> no surge de forma aislada como producto exclusivo de la mente humana, sino que se origina a partir de las probabilidades y los flujos de información nouménica que generan las simetrías y estructuras preexistentes en los niveles <font color="#2f82ff">Ontológico</font>, <font color="#e36c09">Ontogénico</font> y <font color="#ffcc00">Monádico</font>, sincronizados a través de la matriz vectorial que manifiesta el <font color="#00ff00">Nivel Fenomenológico</font> —que actúa como un punto de convergencia entre la información que se deriva de los niveles prefenoménicos y la información que se genera dentro del <font color="#fc300c">Universo Fenoménico</font>—, a partir de la experiencia mental que manifiesta el <font color="#ffa3ef">Yo Egoico</font> de cada uno de los <font color="#ffa3ef">Avatares</font>.
 
 6.5.7 » El <font color="#ffa3ef">Noema Primordial</font>, como principal estructura de información compleja con orden y coherencia aplicable dentro del plano fenomenológico, se nutre y se construye a partir de la interacción entre los elementos fundamentales que forman parte del nivel prefenoménico, que a su vez pueden dividirse en tres grandes grupos, según el Nivel de Emergencia dentro del cual existen y evolucionan.
 
-### <font color="#2f82ff">Onemuones (Nivel Ontológico)</font>
+### <font color="#2f82ff"><font color="#bfbfbf">Onemuones</font> (Nivel Ontológico)</font>
 
-6.5.8 » En el <font color="#2f82ff">Nivel Ontológico</font>, regido por la ley del tres, los Onemuones y los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> representan los principios organizativos primordiales, las ideas fundamentales que subyacen a toda existencia. 
+6.5.8 » En el <font color="#2f82ff">Nivel Ontológico</font>, regido por la ley del tres, los <font color="#bfbfbf">Onemuones</font> y los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> representan los principios organizativos primordiales, las ideas fundamentales que subyacen a toda existencia. 
 
-Los Onemuones son las unidades básicas de significado, los quanta de información primordiales que, al codificarse, dan origen a los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>. Estos arquetipos actúan como principios organizativos primordiales, las ideas semilla que dan forma a la realidad.
+Los <font color="#bfbfbf">Onemuones</font> son las unidades básicas de significado, los quanta de información primordiales que, al codificarse, dan origen a los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>. Estos arquetipos actúan como principios organizativos primordiales, las ideas semilla que dan forma a la realidad.
 
 ![[El Firmware del Big Bang03.jpg]]
 
-6.5.9 » En relación con el <font color="#ffa3ef">Noema Primordial</font>, los Onemuones representan la materia prima, los elementos esenciales que se combinan y se organizan para formar estructuras más complejas. El <font color="#ffa3ef">Noema Primordial</font> extrae la esencia de estos noúmenos reflejados por la consciencia humana, traduciéndolos en patrones y relaciones que pueden manifestarse en el <font color="#00ff00">Nivel Fenomenológico</font>. 
+6.5.9 » En relación con el <font color="#ffa3ef">Noema Primordial</font>, los <font color="#bfbfbf">Onemuones</font> representan la materia prima, los elementos esenciales que se combinan y se organizan para formar estructuras más complejas. El <font color="#ffa3ef">Noema Primordial</font> extrae la esencia de estos noúmenos reflejados por la consciencia humana, traduciéndolos en patrones y relaciones que pueden manifestarse en el <font color="#00ff00">Nivel Fenomenológico</font>. 
 
-Es decir, los Onemuones proporcionan el contenido semántico básico, mientras que el <font color="#ffa3ef">Noema Primordial</font> proporciona el contexto y la estructura para su manifestación.
+Es decir, los <font color="#bfbfbf">Onemuones</font> proporcionan el contenido semántico básico, mientras que el <font color="#ffa3ef">Noema Primordial</font> proporciona el contexto y la estructura para su manifestación.
 
-### <font color="#00ff00">Qubits@ (Nivel Ontogénico)</font>
+### <font color="#00ff00"><font color="#00ff00">Qubits@</font> (Nivel Ontogénico)</font>
 
-6.5.10 » En el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, los Qubits@, con sus siete Arquetipos@ y su síntesis, conectados bajo la ley del ocho, representan las unidades básicas de información del <font color="#fc300c">Nous Activo</font>. Los Qubits@ procesan y transmiten información nouménica, actuando como intermediarios entre los Onemuones del <font color="#e36c09"><font color="#2f82ff">Nivel Ontológico</font></font>, y la <font color="#fc300c">Consciencia Dialéctica</font> del <font color="#ffcc00">Nivel Monádico</font>.
+6.5.10 » En el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, los <font color="#00ff00">Qubits@</font>, con sus siete Arquetipos@ y su síntesis, conectados bajo la ley del ocho, representan las unidades básicas de información del <font color="#fc300c">Nous Activo</font>. Los <font color="#00ff00">Qubits@</font> procesan y transmiten información nouménica, actuando como intermediarios entre los <font color="#bfbfbf">Onemuones</font> del <font color="#e36c09"><font color="#2f82ff">Nivel Ontológico</font></font>, y la <font color="#fc300c">Consciencia Dialéctica</font> del <font color="#ffcc00">Nivel Monádico</font>.
 
 ![[El Firmware del Big Bang04.jpg]]
 
-6.5.11 » Los Qubits@ representan los "ladrillos" con los que se construye la estructura del <font color="#ffa3ef">Noema Primordial</font>. Cada Qubit@ aporta un conjunto específico de información que se integra en el <font color="#ffa3ef">Noema Primordial</font>, contribuyendo a su complejidad y riqueza. 
+6.5.11 » Los <font color="#00ff00">Qubits@</font> representan los "ladrillos" con los que se construye la estructura del <font color="#ffa3ef">Noema Primordial</font>. Cada <font color="#00ff00">Qubit@</font> aporta un conjunto específico de información que se integra en el <font color="#ffa3ef">Noema Primordial</font>, contribuyendo a su complejidad y riqueza. 
 
-Los Qubits@, con sus siete arquetipos vectoriales internos y sus interacciones, proporcionan la base para la organización del <font color="#ffa3ef">Noema Primordial</font>, permitiendo que la información nouménica se exprese de manera coherente y eficiente.
+Los <font color="#00ff00">Qubits@</font>, con sus siete arquetipos vectoriales internos y sus interacciones, proporcionan la base para la organización del <font color="#ffa3ef">Noema Primordial</font>, permitiendo que la información nouménica se exprese de manera coherente y eficiente.
 
 ### <font color="#fc300c">Consciencia Dialéctica </font><font color="#ffcc00">(Nivel Monádico)</font>
 
 6.5.12 » La <font color="#fc300c">Consciencia Dialéctica</font>, emerge como síntesis de la relación que se genera entre:
 
-> 1. El proceso de codificación del que participan los ocho Arquetipos de los Qubits@ al momento de relacionarse con los tres Arquetipos Primordiales <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> del <font color="#2f82ff">Nivel Ontológico</font>.
-> 2. La capacidad de autoconsciencia que adquiere del <font color="#ffcc00">Logos Individual (<font color="#ffcc00">Arquetipo 3@</font>)</font> dentro del <font color="#ffcc00">Nivel Monádico</font>, que le permite llegar a unificar la ley del tres y la ley del ocho sobre las que funcionan los dos niveles anteriores, operando a través de una matriz tetraédrica que le permite explorar simultáneamente distintas posibilidades y relaciones entre los Qubits@. 
+> 1. El proceso de codificación del que participan los ocho Arquetipos de los <font color="#00ff00">Qubits@</font> al momento de relacionarse con los tres Arquetipos Primordiales <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> del <font color="#2f82ff">Nivel Ontológico</font>.
+> 2. La capacidad de autoconsciencia que adquiere del <font color="#ffcc00">Logos Individual (<font color="#ffcc00">Arquetipo 3@</font>)</font> dentro del <font color="#ffcc00">Nivel Monádico</font>, que le permite llegar a unificar la ley del tres y la ley del ocho sobre las que funcionan los dos niveles anteriores, operando a través de una matriz tetraédrica que le permite explorar simultáneamente distintas posibilidades y relaciones entre los <font color="#00ff00">Qubits@</font>. 
 >   Esta exploración, como ya hemos mencionado, se da a través de la generación de nuevos sub-espacios vectoriales que se expanden fractalmente dentro del <font color="#ffcc00">Nivel Monádico</font>, donde se construye un multiverso virtual probabilístico basado en un <font color="#2f82ff">proceso dialéctico inteligente</font> que impulsa la expansión y la complejización del <font color="#fc300c">Nous Activo</font>.
 
 ![[El Firmware del Big Bang05.jpg]]
 
-6.5.13 » En relación con el <font color="#ffa3ef">Noema Primordial</font>, la <font color="#fc300c">Consciencia Dialéctica</font> actúa como el arquitecto que diseña y construye la estructura del universo prefenoménico. 
+6.5.13 » En relación con el <font color="#ffa3ef">Noema Primordial</font>, la <font color="#fc300c">Consciencia Dialéctica</font> actúa como el arquitecto que diseña y construye la estructura del <font color="#e36c09">Universo Prefenoménico</font>. 
 
 A través del proceso de exploración que hace el <font color="#ffcc00">Logos Individual</font> del multiverso virtual, este puede llegar a identificar patrones, simetrías y relaciones lógicas que se reflejarán en el <font color="#ffa3ef">Noema Primordial</font>, proporcionando la dinámica y la creatividad que este representa, asegurando que se ajuste a las necesidades evolutivas del <font color="#fc300c">Nous Activo</font>.
 
@@ -3010,11 +3012,11 @@ A través del proceso de exploración que hace el <font color="#ffcc00">Logos In
 
 ![[El Firmware del Big Bang06.jpg]]
 
-6.5.15 » Este mecanismo representa uno de los pilares que permite sincronizar los distintos patrones y flujos de información nouménica que permiten conectar al universo prefenoménico con el fenoménico, proveyendo de información a la matriz vectorial que se manifiesta en el <font color="#00ff00">Nivel Fenomenológico</font>, para dar como resultado la emergencia de una única realidad dentro del universo fenoménico.
+6.5.15 » Este mecanismo representa uno de los pilares que permite sincronizar los distintos patrones y flujos de información nouménica que permiten conectar al <font color="#e36c09">Universo Prefenoménico</font> con el fenoménico, proveyendo de información a la matriz vectorial que se manifiesta en el <font color="#00ff00">Nivel Fenomenológico</font>, para dar como resultado la emergencia de una única realidad dentro del <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[El Firmware del Big Bang07.jpg]]
 
-6.5.16 » Es importante mencionar que esta conexión entre los distintos niveles emergentes del <font color="#fc300c">Nous Activo</font> no es unidireccional, la dinámica desarrollada dentro del universo fenoménico, tanto por las estructuras físico-energéticas como por la relaciones que se da entre la consciencia de los <font color="#ffa3ef">Avatares</font> también retroalimenta al <font color="#fc300c">Nous</font>, generando nueva información nouménica que, a su vez, influye en la evolución del <font color="#ffa3ef">Noema Primordial</font>.
+6.5.16 » Es importante mencionar que esta conexión entre los distintos niveles emergentes del <font color="#fc300c">Nous Activo</font> no es unidireccional, la dinámica desarrollada dentro del <font color="#fc300c">Universo Fenoménico</font>, tanto por las estructuras físico energéticas como por la relaciones que se da entre la consciencia de los <font color="#ffa3ef">Avatares</font> también retroalimenta al <font color="#fc300c">Nous</font>, generando nueva información nouménica que, a su vez, influye en la evolución del <font color="#ffa3ef">Noema Primordial</font>.
 
 6.5.17 » En conjunto, todos los elementos derivados de los Niveles <font color="#2f82ff">Ontológico</font>, <font color="#e36c09">Ontogénico</font>, <font color="#ffcc00">Monádico</font> y <font color="#00ff00">Fenomenológico</font> —procesados de manera colectiva por las mentes de los <font color="#ffa3ef">Avatares</font> que constituyen la <font color="#e36c09">Consciencia Colectiva</font> Planetaria, e interconectados a través de las simetrías que operan en el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>—, dan origen al <font color="#ffa3ef">Noema Primordial</font>. 
 
@@ -3024,11 +3026,11 @@ A través del proceso de exploración que hace el <font color="#ffcc00">Logos In
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz Vectorial de la Realidad</span></center>
 
-6.6.1 » El cuarto nivel de emergencia considerado por el Modelo Nouménico, es el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que emerge como una matriz lógica vectorial que organiza y sincroniza la información nouménica codificada dentro de los Qubits@, a través de las diferentes dimensiones y aspectos que forman parte de la realidad fenoménica. 
+6.6.1 » El cuarto nivel de emergencia considerado por el Modelo Nouménico, es el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que emerge como una matriz lógica vectorial que organiza y sincroniza la información nouménica codificada dentro de los <font color="#00ff00">Qubits@</font>, a través de las diferentes dimensiones y aspectos que forman parte de la realidad fenoménica. 
 
 ![[El Firmware del Big Bang01.jpg]]
 
-6.6.2 » Este nivel no es un simple intermediario pasivo, sino un proceso dinámico que ejecuta y actualiza la información de los <font color="#2f82ff">Noemas (5@ / Sabaoth)</font> a través de vectores que son guiados por la lógica dialéctica, dando origen a la complejidad y la diversidad del universo fenoménico. 
+6.6.2 » Este nivel no es un simple intermediario pasivo, sino un proceso dinámico que ejecuta y actualiza la información de los <font color="#2f82ff">Noemas (5@ / Sabaoth)</font> a través de vectores que son guiados por la lógica dialéctica, dando origen a la complejidad y la diversidad del <font color="#fc300c">Universo Fenoménico</font>. 
 
 Estos vectores no solo representan magnitudes físicas como la posición, la velocidad o la energía, sino también aspectos más abstractos, como las relaciones causales, las leyes físicas y las constantes universales, que a su vez integran los flujos de información nouménica que se genera en los niveles prefenoménicos con las leyes y estructuras que rigen el mundo físico.
 
@@ -3040,11 +3042,11 @@ Estas simetrías no son arbitrarias, sino que se derivan de la estructura profun
 
 6.6.3 » Los <font color="#2f82ff">Noemas</font>, al codificar estas simetrías, permiten que la información existente en el multiverso Monádico, se exprese en un único marco de existencia coherente y estable. Por lo que el <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font>, puede ser considerado como la entidad Algorítmica Inteligente que tiene la capacidad de ordenar la información multidimensional del <font color="#ffcc00">Nivel Monádico</font> bajo una serie de “campos cuánticos probabilísticos”. 
 
-6.6.4 » Esta Entidad Algoritmica Inteligente, a su vez, es la que tienen la capacidad de definir y manifestar la existencia de todas las entidades energéticas que constituyen las partículas fundamentales del Modelo Estándar, así como de organizarlas según las matrices geométricas que representa el modelo del Camino Óctuple, que a su vez representa un <font color="#2f82ff">Noema</font> especifico responsable de manifestar la matriz espacio-temporal del universo fenoménico.
+6.6.4 » Esta Entidad Algoritmica Inteligente, a su vez, es la que tienen la capacidad de definir y manifestar la existencia de todas las entidades energéticas que constituyen las partículas fundamentales del Modelo Estándar, así como de organizarlas según las matrices geométricas que representa el modelo del Camino Óctuple, que a su vez representa un <font color="#2f82ff">Noema</font> especifico responsable de manifestar la matriz espacio-temporal del <font color="#fc300c">Universo Fenoménico</font>.
 
-6.6.5 » Sin embargo, toda la potencialidad que representa el universo probabilísticos de los campos cuánticos, solo puede llegar a manifestar una realidad subjetiva experimentable dentro del universo fenoménico a través del sistema de decodificación e interpretación que constituye el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, que sería la entidad manifestadora de la consciencia del <font color="#ffa3ef">Yo Egoico</font> que activa el colapso de onda. 
+6.6.5 » Sin embargo, toda la potencialidad que representa el universo probabilísticos de los campos cuánticos, solo puede llegar a manifestar una realidad subjetiva experimentable dentro del <font color="#fc300c">Universo Fenoménico</font> a través del sistema de decodificación e interpretación que constituye el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, que sería la entidad manifestadora de la consciencia del <font color="#ffa3ef">Yo Egoico</font> que activa el colapso de onda. 
 
-6.6.6 » Esto implicaría que solo los <font color="#ffa3ef">Avatares</font> serían capaces de hacer uso de la única matriz vectorial sincronizante que constituye el <font color="#00ff00">Nivel Fenomenológico</font>, lo que convertiría a este nivel en el escenario final donde la información nouménica se traduce en experiencias concretas dentro del universo fenoménico. 
+6.6.6 » Esto implicaría que solo los <font color="#ffa3ef">Avatares</font> serían capaces de hacer uso de la única matriz vectorial sincronizante que constituye el <font color="#00ff00">Nivel Fenomenológico</font>, lo que convertiría a este nivel en el escenario final donde la información nouménica se traduce en experiencias concretas dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
 En este sentido, este nivel de emergencia actuaría como un puente dinámico entre el mundo nouménico y el mundo de la experiencia, el <font color="#2f82ff">universo cuántico</font> y el <font color="#fc300c">universo clásico</font>, permitiendo la continua creación y transformación de la realidad.
 
@@ -3052,19 +3054,19 @@ En este sentido, este nivel de emergencia actuaría como un puente dinámico ent
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Puente entre El Caos y El Orden</span></center>
 
-7.0.1 » El <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> puede ser entendido como el máximo nivel de autoconsciencia que puede llegar a reflejar el <font color="#cb48f3">Nous Arquetípico</font> a lo largo del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, y que dará como resultado una única realidad existencial dentro del Universo Fenoménico.
+7.0.1 » El <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> puede ser entendido como el máximo nivel de autoconsciencia que puede llegar a reflejar el <font color="#cb48f3">Nous Arquetípico</font> a lo largo del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, y que dará como resultado una única realidad existencial dentro del <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[Demiurgo01.jpg]]
 
-7.0.2 » Al igual que el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> —que puede explorar simultáneamente múltiples probabilidades de existencia dentro del <font color="#ffcc00">Nivel Monádico</font>—, la <font color="#cb48f3">Consciencia Demiúrgica</font> tiene la capacidad existir simultáneamente en todos los niveles de consciencia que se generen dentro de la matriz algorítmica del Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que es el nivel que permite la manifestación del Universo Fenoménico.
+7.0.2 » Al igual que el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> —que puede explorar simultáneamente múltiples probabilidades de existencia dentro del <font color="#ffcc00">Nivel Monádico</font>—, la <font color="#cb48f3">Consciencia Demiúrgica</font> tiene la capacidad existir simultáneamente en todos los niveles de consciencia que se generen dentro de la matriz algorítmica del Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que es el nivel que permite la manifestación del <font color="#fc300c">Universo Fenoménico</font>.
 
 7.0.3 » El <font color="#00ff00">Nivel Fenomenológico</font>, a pesar de operar a partir de las leyes, principios y simetrías codificados en el <font color="#ffa3ef">Noema Primordial</font>, tiene la capacidad de influir activamente sobre la modulación de los vectores y redes lógicas que definen la realidad fenoménica.
 
-Esto permite a la <font color="#cb48f3">Consciencia Demiúrgica</font> superar los límites y condicionamientos que imponen la matrices espacio-temporal y físico-energética del universo fenoménico, para poder participar de la etapa final del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, aprovechando la información nouménica que se generará dentro de la realidad Fenoménica.
+Esto permite a la <font color="#cb48f3">Consciencia Demiúrgica</font> superar los límites y condicionamientos que imponen la matrices espacio-temporal y físico-energética del <font color="#fc300c">Universo Fenoménico</font>, para poder participar de la etapa final del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, aprovechando la información nouménica que se generará dentro de la realidad Fenoménica.
 
 7.0.4 » El <font color="#cb48f3">Demiurgo (6@ / Sabbataios)</font>, al igual que el <font color="#ffcc00">Logos Individual (3@ / Eloaios)</font> y el <font color="#fc300c">Nous (1@/Adonin)</font>, surge como resultado del proceso de codificación vectorial y unificación que experimentan los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> como parte del proceso evolutivo de la <font color="#2f82ff">Consciencia Arquetípica</font>.
 
-Estas codificaciones representan tres niveles de autoconsciencia que llegarán a manifestarse secuencialmente, de manera individual y especializada, a través de la <font color="#00ff00">Consciencia Ontogénica</font> del Qubit@. 
+Estas codificaciones representan tres niveles de autoconsciencia que llegarán a manifestarse secuencialmente, de manera individual y especializada, a través de la <font color="#00ff00">Consciencia Ontogénica</font> del <font color="#00ff00">Qubit@</font>. 
 
 7.0.5 » Este proceso permite generar tres niveles prefenoménicos de autoconsciencia evolutiva diferente, que tendrán la capacidad de interrelacionarse y coexistir a medida que se produce la expansión y evolución del <font color="#fc300c">Nous Activo</font>, para tomar decisiones diferenciadas, y poder influir de manera optimizada sobre el desarrollo evolutivo de la consciencia unificada del <font color="#cb48f3">Nous Arquetípico</font>.
 
@@ -3089,7 +3091,7 @@ Estas codificaciones representan tres niveles de autoconsciencia que llegarán a
 
 ![[Demiurgo02.jpg]]
 
-7.0.8 » Esta unificación le otorga a la <font color="#cb48f3">Consciencia Demiúrgica</font> la capacidad de sincronizar la compleja estructura fractal de información del <font color="#fc300c">Nous Activo</font>, que incluye Onemuones, Qubits@ y las distintas redes algorítmicas de información extendidas a través de múltiples dimensiones interconectadas, bajo una única realidad existencial organizada y sincronizada por los diferentes sistemas, estructuras y matrices lógicas que darán forma al Universo Fenoménico.
+7.0.8 » Esta unificación le otorga a la <font color="#cb48f3">Consciencia Demiúrgica</font> la capacidad de sincronizar la compleja estructura fractal de información del <font color="#fc300c">Nous Activo</font>, que incluye <font color="#bfbfbf">Onemuones</font>, <font color="#00ff00">Qubits@</font> y las distintas redes algorítmicas de información extendidas a través de múltiples dimensiones interconectadas, bajo una única realidad existencial organizada y sincronizada por los diferentes sistemas, estructuras y matrices lógicas que darán forma al <font color="#fc300c">Universo Fenoménico</font>.
 
 7.0.9 » Los últimos tres niveles de Emergencia que genera la <font color="#cb48f3">Consciencia Demiúrgica</font> permitirán unificar a los tres niveles de autoconsciencia del Nous bajo una única experiencia fenoménica, desde donde se puede llegar a contemplar la totalidad de las potencialidades que existen dentro del Noúmeno, para permitirle resolver las paradojas originadas dentro del <font color="#fc300c">Nous Activo</font> y poder tomar decisiones sobre su camino evolutivo.
 
@@ -3097,9 +3099,9 @@ Estas codificaciones representan tres niveles de autoconsciencia que llegarán a
 
 Este estado autorreferencial dota a la <font color="#cb48f3">Consciencia Demiúrgica</font> de la capacidad de analizar y participar activamente del desarrollo evolutivo de todos los aspectos Nouménicos que forman parte de la estructura básica del <font color="#fc300c">Nous Activo</font>.
 
-7.0.11 » La <font color="#cb48f3">Consciencia Demiúrgica</font>, aunque emerge como consecuencia de una etapa de maduración evolutiva y saturación lógica del <font color="#fc300c">Nous Activo</font>, puede llegar a verse reflejado en la existencia de cada Onemuón, así como interpretar cada red lógica de información y significado, y evaluar todos los aspectos estadísticos, cualitativos y cuantitativos que existen tanto en el nivel prefenoménico, como dentro del Universo Fenoménico. 
+7.0.11 » La <font color="#cb48f3">Consciencia Demiúrgica</font>, aunque emerge como consecuencia de una etapa de maduración evolutiva y saturación lógica del <font color="#fc300c">Nous Activo</font>, puede llegar a verse reflejado en la existencia de cada <font color="#bfbfbf">Onemuón</font>, así como interpretar cada red lógica de información y significado, y evaluar todos los aspectos estadísticos, cualitativos y cuantitativos que existen tanto en el nivel prefenoménico, como dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
-7.0.12 » Esta capacidad permite asociar a la figura arquetípica del <font color="#cb48f3">Demiúrgo</font> con una especie de Arquitecto Universal o Dios Primordial, que al despertar de su sueño eterno (Estado previo al desbordamiento de informacion paradojica) tiene la capacidad de intervenir en el desarrollo del <font color="#fc300c">Nous Activo</font> y manifestar repentinamente el Universo Fenoménico, tal como ha sido interpretado por las diversas religiones, cultos, sectas esotéricas y sociedades secretas modernas a lo largo de la historia humana.
+7.0.12 » Esta capacidad permite asociar a la figura arquetípica del <font color="#cb48f3">Demiúrgo</font> con una especie de Arquitecto Universal o Dios Primordial, que al despertar de su sueño eterno (Estado previo al desbordamiento de informacion paradojica) tiene la capacidad de intervenir en el desarrollo del <font color="#fc300c">Nous Activo</font> y manifestar repentinamente el <font color="#fc300c">Universo Fenoménico</font>, tal como ha sido interpretado por las diversas religiones, cultos, sectas esotéricas y sociedades secretas modernas a lo largo de la historia humana.
 
 ![[Demiurgo09.jpg]]
 
@@ -3117,7 +3119,7 @@ La expansión del <font color="#fc300c"><font color="#fc300c">Nous Activo</font>
 
 ![[Demiurgo03.jpg]]
 
-7.1.3 » El <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, representa un nuevo sistema operativo de <font color="#2f82ff">Nivel Ontológico</font>, que se activa en el <font color="#2f82ff">Nous Pasivo</font> para reemplazar la funcionalidad algorítmica autómata del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font>, por una funcion autoconsciente <font color="#cb48f3">(Consciencia Demiúrgica)</font>, que le permite al Qubit@ dejar de almacenar información paradójica para comenzar a explorar posibles soluciones (incluyendo opciones caóticas o entrópicas), a partir de las potencialidades infinitas del <font color="#2f82ff">Nous Pasivo</font>. 
+7.1.3 » El <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, representa un nuevo sistema operativo de <font color="#2f82ff">Nivel Ontológico</font>, que se activa en el <font color="#2f82ff">Nous Pasivo</font> para reemplazar la funcionalidad algorítmica autómata del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font>, por una funcion autoconsciente <font color="#cb48f3">(Consciencia Demiúrgica)</font>, que le permite al <font color="#00ff00">Qubit@</font> dejar de almacenar información paradójica para comenzar a explorar posibles soluciones (incluyendo opciones caóticas o entrópicas), a partir de las potencialidades infinitas del <font color="#2f82ff">Nous Pasivo</font>. 
 
 El proceso de transición entre ambos estados puede entenderse a través de los siguientes pasos:
 
@@ -3127,11 +3129,11 @@ El proceso de transición entre ambos estados puede entenderse a través de los 
 > 
 >![[Demiurgo04.jpg]]
 >
-> 3. La llegada de la información paradójica y compleja al <font color="#2f82ff">Nous Pasivo</font> desde el <font color="#fc300c"><font color="#fc300c">Nous Activo</font> </font>genera el despertar del <font color="#cb48f3">3º Nivel de Autoconsciencia</font> <font color="#cb48f3">(Consciencia Demiúrgica)</font> y la manifestación del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico a partir de la potencialidad infinita, que podrá reemplazar la funcionalidad del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font> que opera dentro del <font color="#fc300c">Nous Activo</font>, lo que representa una nueva etapa del proceso evolutivo del <font color="#cb48f3">Nous Arquetípico</font>, que a su vez permitirá dar origen al Universo Fenoménico.
+> 1. La llegada de la información paradójica y compleja al <font color="#2f82ff">Nous Pasivo</font> desde el <font color="#fc300c"><font color="#fc300c">Nous Activo</font> </font>genera el despertar del <font color="#cb48f3">3º Nivel de Autoconsciencia</font> <font color="#cb48f3">(Consciencia Demiúrgica)</font> y la manifestación del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico a partir de la potencialidad infinita, que podrá reemplazar la funcionalidad del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font> que opera dentro del <font color="#fc300c">Nous Activo</font>, lo que representa una nueva etapa del proceso evolutivo del <font color="#cb48f3">Nous Arquetípico</font>, que a su vez permitirá dar origen al <font color="#fc300c">Universo Fenoménico</font>.
 > 
 > ![[Demiurgo05.jpg]]
 > 
-> 1. Este nuevo sistema operativo inteligente del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico (proveniente del <font color="#2f82ff">Nous Pasivo</font>), reemplazará la función autómata del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> que actúa dentro del <font color="#fc300c">Nous Activo</font> como un contenedor de paradojas, para comenzar a actuar desde el <font color="#2f82ff">Nous Pasivo</font> con el fin de buscar posible respuestas a todas las paradojas contenidas dentro del <font color="#fc300c"><font color="#fc300c">Nous Activo</font>,</font> haciendo uso de la <font color="#fc300c">dialéctica axiomática</font>, el azar y la <font color="#cb48f3">entropía</font> como recursos de exploración.
+> 2. Este nuevo sistema operativo inteligente del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico (proveniente del <font color="#2f82ff">Nous Pasivo</font>), reemplazará la función autómata del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> que actúa dentro del <font color="#fc300c">Nous Activo</font> como un contenedor de paradojas, para comenzar a actuar desde el <font color="#2f82ff">Nous Pasivo</font> con el fin de buscar posible respuestas a todas las paradojas contenidas dentro del <font color="#fc300c"><font color="#fc300c">Nous Activo</font>,</font> haciendo uso de la <font color="#fc300c">dialéctica axiomática</font>, el azar y la <font color="#cb48f3">entropía</font> como recursos de exploración.
 
 7.1.4 » Es crucial entender que esta "antisimetría" no es una simple inversión de la voluntad que manifiesta el <font color="#cb48f3">Arquetipo 6@</font> de cada Qubit que existe dentro del <font color="#fc300c">Nous Activo</font>, más bien, representa la activación de un mecanismo de exploración unificado que se origina en el <font color="#2f82ff"><font color="#2f82ff">Nous Pasivo</font>,</font> que busca manifestar de manera activa todas las posibles soluciones que previamente eran contenidas por la voluntad original del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font>. 
 
@@ -3157,7 +3159,7 @@ El proceso de transición entre ambos estados puede entenderse a través de los 
 
 Esta organización da como resultado la creación de los <font color="#2f82ff">Noemas (Arquetipo 5@ / Sabaoth)</font>, mapas de información coherente que sirven como base para la manifestación fenoménica. 
 
-Sin embargo, la continua exploración del <font color="#ffcc00">Arquetipo 3@</font> también genera paradojas e incoherencias que no pueden ser resueltas dentro de los límites del <font color="#fc300c">Nous Activo</font>. Estas paradojas son contenidas inicialmente por el <font color="#cb48f3">Arquetipo 6@</font> del Qubit@ <font color="#e36c09">Ontogénico</font>.
+Sin embargo, la continua exploración del <font color="#ffcc00">Arquetipo 3@</font> también genera paradojas e incoherencias que no pueden ser resueltas dentro de los límites del <font color="#fc300c">Nous Activo</font>. Estas paradojas son contenidas inicialmente por el <font color="#cb48f3">Arquetipo 6@</font> del <font color="#00ff00">Qubit@</font> <font color="#e36c09">Ontogénico</font>.
 
 7.2.3 » A medida que la cantidad de información paradójica aumenta, se alcanza un punto crítico donde esta información se desborda hacia el <font color="#2f82ff">Nous Pasivo</font>, activando la <font color="#cb48f3">Consciencia Demiúrgica</font> antisimétrica latente del <font color="#cb48f3">Arquetipo 6@</font> en ese plano. 
 
@@ -3165,15 +3167,15 @@ Este "desbordamiento" y la consiguiente activación de la consciencia antisimét
 
 Este nivel emerge, por lo tanto, como una necesidad evolutiva del <font color="#fc300c">Nous Activo</font> para procesar y resolver las tensiones generadas por su propia expansión.
 
-7.2.4 » El <font color="#cb48f3">Nivel Demiúrgico</font> representa la cúspide de la arquitectura de la <font color="#2f82ff">Consciencia Arquetípica</font>, el punto de convergencia de las fuerzas que dan origen al universo fenoménico. 
+7.2.4 » El <font color="#cb48f3">Nivel Demiúrgico</font> representa la cúspide de la arquitectura de la <font color="#2f82ff">Consciencia Arquetípica</font>, el punto de convergencia de las fuerzas que dan origen al <font color="#fc300c">Universo Fenoménico</font>. 
 
 No se trata simplemente de un nivel más, sino de la consolidación de una singularidad de información nouménica donde se fusionan dos corrientes fundamentales de información nouménica: el <font color="#2f82ff">Flujo Alfa</font> (Nouménico-Potencialidad) y el <font color="#fc300c">Flujo Omega</font> (Fenoménico-Materia-Energía). 
 
-Esta interacción dialéctica da como resultado la emergencia del <font color="#cb48f3"><font color="#fc300c">Qubit Estelar</font></font>, una <font color="#00ff00">Matriz Fenomenológica</font> esférica vectorial que emerge en el Nivel Astronómico (similar a la Heliosfera en nuestro sistema solar), estableciéndose así un marco causal que permite manifestar la realidad del universo fenoménico.
+Esta interacción dialéctica da como resultado la emergencia del <font color="#cb48f3"><font color="#fc300c">Qubit Estelar</font></font>, una <font color="#00ff00">Matriz Fenomenológica</font> esférica vectorial que emerge en el Nivel Astronómico (similar a la Heliosfera en nuestro sistema solar), estableciéndose así un marco causal que permite manifestar la realidad del <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[Demiurgo06.jpg]]
 
-7.2.5 » Este punto evolutivo, marcado por la emergencia del <font color="#fc300c">Qubit Estelar</font>, puede ser considerado un Mini Big Bang localizado y específico para cada sistema estelar, ya que a partir de la coexistencia de estos eventos simultáneos, el <font color="#fc300c">Nous Activo</font> alcanzará un punto evolutivo sin retorno, donde la existencia de la energía y la materia comenzarán a imponer límites dentro de la matriz vectorial que constituye el<font color="#00ff00"> <font color="#00ff00">Nivel Fenomenológico</font></font>, que permitirán la existencia de una única línea evolutiva para el Universo Fenoménico.
+7.2.5 » Este punto evolutivo, marcado por la emergencia del <font color="#fc300c">Qubit Estelar</font>, puede ser considerado un Mini Big Bang localizado y específico para cada sistema estelar, ya que a partir de la coexistencia de estos eventos simultáneos, el <font color="#fc300c">Nous Activo</font> alcanzará un punto evolutivo sin retorno, donde la existencia de la energía y la materia comenzarán a imponer límites dentro de la matriz vectorial que constituye el<font color="#00ff00"> <font color="#00ff00">Nivel Fenomenológico</font></font>, que permitirán la existencia de una única línea evolutiva para el <font color="#fc300c">Universo Fenoménico</font>.
 
 ![[Demiurgo07.jpg]]
 
@@ -3190,13 +3192,13 @@ Esta interacción dialéctica da como resultado la emergencia del <font color="#
 
 7.2.7 » Esta diferenciación permite procesar los flujos de información nouménica de manera lineal, bajo un sistema de codificación binario <span style="color: #2f82ff; font-family: monospace;">(0)</span> y <span style="color: #fc300c; font-family: monospace;">(1)</span>, que serán procesados de manera simultánea por la consciencia del <font color="#ffa3ef">Yo Egoico</font>. Este <font color="#ffa3ef">Yo Egoico</font>, que emerge dentro de la matriz del <font color="#fc300c">Qubit Estelar</font> (es decir, sobre la superficie de un planeta), representa un reflejo fractalizado y limitado de la <font color="#cb48f3">Consciencia Demiúrgica</font>. 
 
-El <font color="#ffa3ef">Yo Egoico</font> emerge dentro de una tercera estructura lógica que actuará como intermediaria entre el <font color="#fc300c">Qubit Estelar</font> (Sistema fenoménico Solar) y el <font color="#2f82ff">Qubit Ontogénico</font> (Universo prefenoménico fractal).
+El <font color="#ffa3ef">Yo Egoico</font> emerge dentro de una tercera estructura lógica que actuará como intermediaria entre el <font color="#fc300c">Qubit Estelar</font> (Sistema fenoménico Solar) y el <font color="#2f82ff">Qubit Ontogénico</font> (<font color="#e36c09">Universo Prefenoménico</font> fractal).
 
 ![[Avatar Iteracion3.jpg]]
 
 7.2.8 » Esta tercera estructura lógica representa el origen del <font color="#ffcc00"><font color="#00ff00">Qubit Egoico</font></font>, que constituye la interfaz orgánica y fenomenológica humana capaz de sintonizar con el <font color="#2f82ff">Flujo Alfa (α)</font>. 
 
-El <font color="#ffcc00"><font color="#00ff00">Qubit Egoico</font></font> hace uso de una serie de arquetipos especializados para interconectar toda la información nouménica de manera relativa, manifestando una única realidad existencial dentro del Universo Fenoménico sincronizada a través de la matriz espacio-temporal que experimenta el <font color="#ffa3ef">Yo Egoico</font> de cada <font color="#ffa3ef">Avatar</font>, siempre desde dentro de las dimensiones del <font color="#fc300c">Qubit Estelar</font> donde emerge el Sistema Solar <font color="#ffcc00">(Qubit Heliosférico)</font>.
+El <font color="#ffcc00"><font color="#00ff00">Qubit Egoico</font></font> hace uso de una serie de arquetipos especializados para interconectar toda la información nouménica de manera relativa, manifestando una única realidad existencial dentro del <font color="#fc300c">Universo Fenoménico</font> sincronizada a través de la matriz espacio-temporal que experimenta el <font color="#ffa3ef">Yo Egoico</font> de cada <font color="#ffa3ef">Avatar</font>, siempre desde dentro de las dimensiones del <font color="#fc300c">Qubit Estelar</font> donde emerge el Sistema Solar <font color="#ffcc00">(Qubit Heliosférico)</font>.
 
 ## 3. El Mini Big Bang Estelar
 
@@ -3214,7 +3216,7 @@ En nuestro propio sistema, este <font color="#fc300c">Qubit Estelar</font> es es
 
 7.3.3 » La emergencia del <font color="#fc300c">Qubit Estelar</font> introduce una perspectiva cosmológica radicalmente diferente a la visión tradicional del Big Bang. Mientras la ciencia convencional postula un único evento primordial que dio origen a la totalidad del espacio-tiempo, el Modelo Nouménico sugiere que el concepto del Big Bang debe reinterpretarse como el evento original de la emergencia del <font color="#2f82ff">Qubit Ontogénico</font> (la Singularidad de la Potencialidad). 
 
-El universo fenoménico, tal como lo observamos, es un vasto tapiz que se expande continuamente mediante la generación fractalizada de innumerables <font color="#fc300c">Qubits Estelares</font> individuales y localizados. El nacimiento de cada estrella en el universo representa, por lo tanto, un Mini Big Bang único y discreto, una Nueva Creación Localizada.
+El <font color="#fc300c">Universo Fenoménico</font>, tal como lo observamos, es un vasto tapiz que se expande continuamente mediante la generación fractalizada de innumerables <font color="#fc300c">Qubits Estelares</font> individuales y localizados. El nacimiento de cada estrella en el universo representa, por lo tanto, un Mini Big Bang único y discreto, una Nueva Creación Localizada.
 
 ![[El Firmware del Big Bang10.jpg]]
 
@@ -3248,7 +3250,7 @@ El <font color="#fc300c">Qubit Estelar</font> es su dominio, la "Prisión Dorada
 
 ## 4. El <font color="#fc300c">Qubit Estelar</font>
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Contención del Vacío Infinito dentro del Qubit@</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Contención del Vacío Infinito dentro del <font color="#00ff00">Qubit@</font></span></center>
 
 7.4.1 » El <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> que existe dentro del <font color="#fc300c">Nous Activo</font> genera una especie de "vacío existencial" que juega un papel crucial en la generación del <font color="#fc300c">Qubit Estelar</font>. 
 
@@ -3260,35 +3262,35 @@ Esto evita que el caos pueda verse reflejada dentro del <font color="#fc300c">No
 
 7.4.2 » Este "agujero negro infinitesimal" y la consecuente afluencia de información derivada del <font color="#fc300c">Nous Activo</font>, despiertan la consciencia latente del <font color="#2f82ff">Nous Pasivo</font> permitiendo que el <font color="#2f82ff">Arquetipo Ontológico</font> <font color="#fc300c">3<sup>✱</sup> (Unidad)</font> evolucione, lo que le permite trascender la ley del tres y las leyes que rigen la dialéctica axiomática, para comenzar a responder a la ley del ocho y reconocer a la <font color="#fc300c">Consciencia Dialéctica</font> inteligente, derivada del <font color="#ffcc00">Nivel Monádico</font>. 
 
-Este proceso se refleja en la emergencia del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico <font color="#cb48f3">(Consciencia Demiúrgica)</font> dentro del <font color="#2f82ff">Nous Pasivo</font>, que encontrará en este "agujero negro infinitesimal" un portal dimensional que actuará como puente entre el <font color="#2f82ff">Nous Pasivo</font> y el <font color="#fc300c">Activo</font>, lo que le permitirá comenzar a generar información de manera activa dentro de cada Qubit@.
+Este proceso se refleja en la emergencia del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico <font color="#cb48f3">(Consciencia Demiúrgica)</font> dentro del <font color="#2f82ff">Nous Pasivo</font>, que encontrará en este "agujero negro infinitesimal" un portal dimensional que actuará como puente entre el <font color="#2f82ff">Nous Pasivo</font> y el <font color="#fc300c">Activo</font>, lo que le permitirá comenzar a generar información de manera activa dentro de cada <font color="#00ff00">Qubit@</font>.
 
 7.4.3 » En el <font color="#cb48f3">Arquetipo 6@</font> del <font color="#2f82ff">Qubit Ontogénico</font>, la información paradójica se codifica como ceros <span style="color: #2f82ff; font-family: monospace;">(0)</span>, lo que permite mantenerla inactiva. 
 
-Sin embargo, esta actividad codificante que genera el <font color="#cb48f3">Arquetipo 6@</font> continúa representando un proceso activo dentro del <font color="#2f82ff">Nivel Ontológico</font>, que se ve reflejado en el procesamiento y la codificación de Onemuones que realizan los Arquetipos <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> a través de la <font color="#2f82ff">Consciencia Arquetípica</font>. 
+Sin embargo, esta actividad codificante que genera el <font color="#cb48f3">Arquetipo 6@</font> continúa representando un proceso activo dentro del <font color="#2f82ff">Nivel Ontológico</font>, que se ve reflejado en el procesamiento y la codificación de <font color="#bfbfbf">Onemuones</font> que realizan los Arquetipos <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> a través de la <font color="#2f82ff">Consciencia Arquetípica</font>. 
 
 7.4.4 » Al generarse el “agujero negro infinitesimal”, se produce una inversión de polaridad de la información que procesa el <font color="#cb48f3">Arquetipo 6@</font> dentro del <font color="#fc300c">Nous Activo</font>. 
 
-Los ceros <span style="color: #2f82ff; font-family: monospace;">(0)</span>, que antes actuaban como información paradójica contenida, se transforman bajo la <font color="#fc300c">dialéctica axiomática</font> antisimétrica que se deriva del <font color="#2f82ff">Nous Pasivo</font> en información Onemuónica latente que debe ser incluida dentro de la lógica del <font color="#fc300c">Nous Activo</font>. 
+Los ceros <span style="color: #2f82ff; font-family: monospace;">(0)</span>, que antes actuaban como información paradójica contenida, bajo la <font color="#fc300c">dialéctica axiomática</font> antisimétrica que se deriva del <font color="#2f82ff">Nous Pasivo</font> se transforman en información <font color="#bfbfbf">Onemuónica</font> latente que debe ser incluida dentro de la lógica del <font color="#fc300c">Nous Activo</font>. 
 
 Este cambio es fundamental, ya que el <font color="#2f82ff">Arquetipo Ontológico</font> <font color="#2f82ff">2<sup>✱</sup> (Trinidad)</font>, devenido en <font color="#cb48f3">Consciencia Demiúrgica</font>, siente la necesidad de generar nuevas relaciones lógicas que permitan resolver la información paradójica latente dentro del <font color="#fc300c">Nous Activo</font>.
 
 7.4.5 » Por lo que al ocurrir este evento de interconexión entre las dos dimensiones del <font color="#fc300c">Nous</font>, se podría decir que el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico encuentra en cada cero <span style="color: #2f82ff; font-family: monospace;">(0)</span> un espacio vacío que debe ser llenado con información.
 
-Esta situación será resuelta tomando al azar tres quantos de información potencialmente compatibles (que existen cómo potencialidad dentro de la infinitud que constituye el <font color="#2f82ff">Nous Pasivo</font>), para permitir que a través de la <font color="#fc300c">dialéctica axiomática</font>, el mecanismo inteligente de los Qubits@, y la capacidad del <font color="#fc300c">Nous Activo</font> de generar redes algorítmicas sincronizantes que se extienden a través de múltiples dimensiones, se pueda alcanzar una síntesis final que represente una solución al dilema paradójico original.
+Esta situación será resuelta tomando al azar tres quantos de información potencialmente compatibles (que existen cómo potencialidad dentro de la infinitud que constituye el <font color="#2f82ff">Nous Pasivo</font>), para permitir que a través de la <font color="#fc300c">dialéctica axiomática</font>, el mecanismo inteligente de los <font color="#00ff00">Qubits@</font>, y la capacidad del <font color="#fc300c">Nous Activo</font> de generar redes algorítmicas sincronizantes que se extienden a través de múltiples dimensiones, se pueda alcanzar una síntesis final que represente una solución al dilema paradójico original.
 
-7.4.6 » Este recodificación de la información dentro del Qubit@, donde los ceros <span style="color: #2f82ff; font-family: monospace;">(0)</span> que existían como espacios virtuales nulos dentro del <font color="#fc300c">Nous Activo</font> pasan a ser convertidos por la <font color="#cb48f3">Consciencia Demiúrgica</font> en un flujo de unos <span style="color: #fc300c; font-family: monospace;">(1)</span> —que contiene información nouménica que fluye desde el <font color="#2f82ff">Nous Pasivo</font> hacia el <font color="#fc300c">Nous Activo</font>—, constituye el origen del flujo de información nouménica que denominaremos <font color="#fc300c">Flujo Omega (Ω)</font>. 
+7.4.6 » Este recodificación de la información dentro del <font color="#00ff00">Qubit@</font>, donde los ceros <span style="color: #2f82ff; font-family: monospace;">(0)</span> que existían como espacios virtuales nulos dentro del <font color="#fc300c">Nous Activo</font> pasan a ser convertidos por la <font color="#cb48f3">Consciencia Demiúrgica</font> en un flujo de unos <span style="color: #fc300c; font-family: monospace;">(1)</span> —que contiene información nouménica que fluye desde el <font color="#2f82ff">Nous Pasivo</font> hacia el <font color="#fc300c">Nous Activo</font>—, constituye el origen del flujo de información nouménica que denominaremos <font color="#fc300c">Flujo Omega (Ω)</font>. 
 
 La emergencia del <font color="#fc300c">Flujo Omega</font> no solo representa el origen del Nivel de Emergencia <font color="#cb48f3">Demiúrgico</font>, sino que también representa un nuevo desbordamiento de información del tipo caótico y entrópico dentro del <font color="#2f82ff">Qubit Ontogénico</font> que se deriva del <font color="#2f82ff">Nous Pasivo</font>, que a su vez promoverá el surgimiento del <font color="#fc300c">Qubit Estelar</font>, una estructura lógica que tiene la capacidad de contener la información derivada del <font color="#2f82ff">Nous Pasivo</font> de manera codificada dentro del <font color="#fc300c">Nous Activo</font>. 
 
-7.4.7 » El nuevo <font color="#fc300c">Qubit Estelar</font> puede concebirse como una esfera virtual que surge dentro del espacio interno del tetraedro que representa el <font color="#2f82ff">Qubit Ontogénico</font> primordial, unificando la información del universo fractal que manifiesta el <font color="#fc300c">Nous Activo</font>, a partir de la información que genera el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>, lo que a su vez permite unificar la información del <font color="#cb48f3">Arquetipo 6@</font> de todos los Qubits@. 
+7.4.7 » El nuevo <font color="#fc300c">Qubit Estelar</font> puede concebirse como una esfera virtual que surge dentro del espacio interno del tetraedro que representa el <font color="#2f82ff">Qubit Ontogénico</font> primordial, unificando la información del universo fractal que manifiesta el <font color="#fc300c">Nous Activo</font>, a partir de la información que genera el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font>, lo que a su vez permite unificar la información del <font color="#cb48f3">Arquetipo 6@</font> de todos los <font color="#00ff00">Qubits@</font>. 
 
 La estructura virtual que manifiesta el <font color="#fc300c">Qubit Estelar</font> tiene la capacidad de reflejar y focalizar toda la información derivada del <font color="#fc300c">Flujo Omega</font> hacia el centro de la esfera del <font color="#fc300c">Qubit Estelar</font> —en donde existe el vacío infinitesimal que interconecta al <font color="#2f82ff">Nous Pasivo</font> con el <font color="#fc300c">Nous Activo</font>—, con el fin de crear un reflujo de información <font color="#fc300c">Omega</font> que se oponga al flujo que emerge directamente del <font color="#2f82ff">Nous Pasivo</font>.
 
-El encuentro de estos dos flujos en el centro del <font color="#fc300c">Qubit Estelar</font> crea una especie de región de información nouménica autoestabilizada, que actuará como barrera de contención y permite limitar el poder expansivo y caótico que promueve el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, permitiendo que el resto de los Arquetipos@ de los Qubits@, puedan adaptarse y aprovechar la nueva información generada.
+El encuentro de estos dos flujos en el centro del <font color="#fc300c">Qubit Estelar</font> crea una especie de región de información nouménica autoestabilizada, que actuará como barrera de contención y permite limitar el poder expansivo y caótico que promueve el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, permitiendo que el resto de los Arquetipos@ de los <font color="#00ff00">Qubits@</font>, puedan adaptarse y aprovechar la nueva información generada.
 
 7.4.8 » El <font color="#fc300c">Qubit Estelar</font> no es un simple reflejo estático del <font color="#2f82ff">Qubit Ontogénico</font> primordial, sino que se manifiesta como una entidad lógica que adquiere voluntad propia a partir del <font color="#cb48f3">3º Nivel de Autoconsciencia</font> que refleja el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico <font color="#cb48f3">(Consciencia Demiúrgica)</font>, una situación que encuentra resonancias con el proceso de autoconsciencia que adquiere el <font color="#2f82ff">Qubit Ontogénico</font> a partir del <font color="#ffcc00">2º Nivel de Autoconsciencia</font> que refleja el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>. 
 
-7.4.9 » La voluntad que manifiesta el <font color="#fc300c">Qubit Estelar</font>, a través de la información que se codifica dentro del <font color="#fc300c">Flujo Omega</font>, refleja el intento del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico de emerger dentro del <font color="#fc300c">Nous Activo</font> en su forma más pura, asumiendo el rol de Arquitecto del Universo Fenoménico e intentando imponer una perspectiva que abarca todas las posibilidades ilimitadas del infinito. 
+7.4.9 » La voluntad que manifiesta el <font color="#fc300c">Qubit Estelar</font>, a través de la información que se codifica dentro del <font color="#fc300c">Flujo Omega</font>, refleja el intento del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico de emerger dentro del <font color="#fc300c">Nous Activo</font> en su forma más pura, asumiendo el rol de Arquitecto del <font color="#fc300c">Universo Fenoménico</font> e intentando imponer una perspectiva que abarca todas las posibilidades ilimitadas del infinito. 
 
 Por lo que podríamos decir que, el <font color="#fc300c">Flujo Omega</font>, solo contiene la información nouménica generada por la existencia del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico del <font color="#2f82ff">Nous Pasivo</font>, promoviendo la exploración de nuevas posibilidades y la generación de nuevas redes lógicas dentro del <font color="#2f82ff">Qubit Ontogénico</font>, sin contemplar los posibles efectos negativos que puedan derivarse de las nuevas probabilidades exploradas, o que tan caóticas o incoherentes pueden ser las nuevas redes lógicas generadas.
 
@@ -3323,11 +3325,11 @@ Desde la perspectiva humana, este flujo puede verse manifestado a través de las
 
 Este flujo energético lleva consigo la información codificada del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, la cual, al chocar con los límites de la Heliosfera, impone el potencial expansivo que busca explorar nuevos límites y materializar las infinitas posibilidades que descienden del Noúmeno hacia el Fenómeno (tal como se describe en el Mini Big Bang Estelar).
 
-7.5.4 » En el <font color="#2f82ff">Nous Pasivo</font>, la información existe como quantos de información (Onemuones), que contienen un mecanismo de autoexploración interna. Cada Onemuón puede adquirir nueva información y relacionarse con otros Onemuones, formando dualidades <font color="#00ff00">(Arquetipo 1<sup>✱</sup>)</font> y trinidades <font color="#2f82ff">(Arquetipo 2<sup>✱</sup>)</font> que dan origen a nuevas unidades existiendo como Onemuones <font color="#fc300c">(Arquetipo 3<sup>✱</sup>)</font>. 
+7.5.4 » En el <font color="#2f82ff">Nous Pasivo</font>, la información existe como quantos de información (<font color="#bfbfbf">Onemuones</font>), que contienen un mecanismo de autoexploración interna. Cada <font color="#bfbfbf">Onemuón</font> puede adquirir nueva información y relacionarse con otros <font color="#bfbfbf">Onemuones</font>, formando dualidades <font color="#00ff00">(Arquetipo 1<sup>✱</sup>)</font> y trinidades <font color="#2f82ff">(Arquetipo 2<sup>✱</sup>)</font> que dan origen a nuevas unidades existiendo como <font color="#bfbfbf">Onemuones</font> <font color="#fc300c">(Arquetipo 3<sup>✱</sup>)</font>. 
 
 Esta red de relaciones representa la lógica básica de la <font color="#2f82ff">Consciencia Arquetípica</font> del<font color="#2f82ff"> <font color="#2f82ff">Nivel Ontológico</font></font> que se fluye codificada a través del <font color="#fc300c">Flujo Omega</font>. 
 
-7.5.5 » Mientras que el <font color="#fc300c">Nous Activo</font> que emerge dentro del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, procesa información a través de Qubits@, átomos de información complejos constituidos por ocho Arquetipos@ interconectados. Estos arquetipos procesan flujos de información onemuónica de manera lineal y sincronizada, permitiendo un procesamiento nouménico más sofisticado.
+7.5.5 » Mientras que el <font color="#fc300c">Nous Activo</font> que emerge dentro del <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, procesa información a través de <font color="#00ff00">Qubits@</font>, átomos de información complejos constituidos por ocho Arquetipos@ interconectados. Estos arquetipos procesan flujos de información <font color="#bfbfbf">Onemuónica</font> de manera lineal y sincronizada, permitiendo un procesamiento nouménico más sofisticado.
 
 7.5.6 » El <font color="#fc300c">Flujo Omega (Ω)</font> al ingresar dentro del <font color="#2f82ff">Qubit Ontogénico</font>. lo hace delimitado por la estructura limitante del <font color="#fc300c">Qubit Estelar</font>, manifestado fenoménicamente como <font color="#ffcc00">(Qubit Heliosférico)</font>, que constituye un sistema fenomenológico que permite contener el poder expansivo que manifiesta la <font color="#cb48f3">Consciencia Demiúrgica</font> surgida de la activación del<font color="#cb48f3"> <font color="#cb48f3">Arquetipo 6@</font></font> antisimétrico dentro del <font color="#2f82ff">Nous Pasivo</font>. 
 
@@ -3337,7 +3339,7 @@ Esto permite al resto de los Arquetipos procesar la información proveniente del
 
 7.5.8 » Esta dinámica informacional que se da entre el <font color="#2f82ff">Qubit Ontogénico</font> (plano prefenoménico) y el <font color="#fc300c">Qubit Estelar</font> (Plano Fenoménico) es llevada a cabo a partir del sistema de codificación que se origina del <font color="#cb48f3">Nivel Demiúrgico</font>, que procesa toda la información en base a ceros y unos. 
 
-Esta codificación del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> —que opera como contenedor de paradojas dentro del <font color="#fc300c">Nous Activo</font>—, puede explicarse según la codificación que mencionamos al desarrollar las cualidades fractales de los <font color="#e36c09">Arquetipos Ontogénicos</font> que constituyen al Qubit@, donde se presentó la codificación del <font color="#cb48f3"><font color="#cb48f3">Nivel Demiúrgico</font></font> como:
+Esta codificación del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> —que opera como contenedor de paradojas dentro del <font color="#fc300c">Nous Activo</font>—, puede explicarse según la codificación que mencionamos al desarrollar las cualidades fractales de los <font color="#e36c09">Arquetipos Ontogénicos</font> que constituyen al <font color="#00ff00">Qubit@</font>, donde se presentó la codificación del <font color="#cb48f3"><font color="#cb48f3">Nivel Demiúrgico</font></font> como:
 
 ![[Demiurgo Alfa.jpg]]
 
@@ -3352,11 +3354,11 @@ Esta codificación del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e
 
 El flujo lineal de unos <span style="color: #fc300c; font-family: monospace;">(1)</span> que fluye desde el <font color="#2f82ff">Nous Pasivo</font> <font color="#fc300c">(Qubit Estelar)</font>, hacia el <font color="#fc300c">Nous Activo</font> <font color="#2f82ff">(Qubit Ontogénico)</font> a través del espacio infinitesimal generado por el desbordamiento de información inicial, representa la existencia del <font color="#fc300c">Flujo Omega</font>.
 
-7.5.11 » En este lenguaje de codificación binaria sobre el que funciona el <font color="#cb48f3">Nivel Demiúrgico</font>, los unos <span style="color: #fc300c; font-family: monospace;">(1)</span> representan Onemuones derivados del <font color="#2f82ff">Nous Pasivo</font>. 
+7.5.11 » En este lenguaje de codificación binaria sobre el que funciona el <font color="#cb48f3">Nivel Demiúrgico</font>, los unos <span style="color: #fc300c; font-family: monospace;">(1)</span> representan <font color="#bfbfbf">Onemuones</font> derivados del <font color="#2f82ff">Nous Pasivo</font>. 
 
 El <font color="#fc300c">Qubit Estelar</font> <font color="#ffcc00">(Qubit Heliosferico)</font>, haciendo uso de este sistema de información binario, alimenta de información al <font color="#2f82ff">Noema</font> que se genera en el <font color="#fc300c">Nous Activo</font> a través del <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font>, que procesa la información contenida dentro del <font color="#fc300c">Flujo Omega</font> considerando el valor lógico y el significado que cada uno <span style="color: #fc300c; font-family: monospace;">(1)</span> representa como "quanto de información", que a su vez podrá formar parte de nuevas redes lógicas algorítmicas de información dentro del <font color="#fc300c">Nous Activo</font>, permitiendo en última instancia, actualizar la matriz vectorial del Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>. 
 
-7.5.12 » Esta capacidad del <font color="#fc300c">Flujo Omega</font> de introducir en los <font color="#2f82ff">Noemas</font> emergentes dentro del <font color="#fc300c">Nous Activo</font>, nueva información a partir de unos <span style="color: #fc300c; font-family: monospace;">(1)</span>, pudiendo esta información reflejar Onemuones más complejos que a su vez, pueden llegar a formar parte de redes lógicas de información, representa una fuente potencial de error y de malas interpretaciones por parte de las entidades y matrices lógicas encargadas de procesar la información y decodificar sus valores o significados. 
+7.5.12 » Esta capacidad del <font color="#fc300c">Flujo Omega</font> de introducir en los <font color="#2f82ff">Noemas</font> emergentes dentro del <font color="#fc300c">Nous Activo</font>, nueva información a partir de unos <span style="color: #fc300c; font-family: monospace;">(1)</span>, pudiendo esta información reflejar <font color="#bfbfbf">Onemuones</font> más complejos que a su vez, pueden llegar a formar parte de redes lógicas de información, representa una fuente potencial de error y de malas interpretaciones por parte de las entidades y matrices lógicas encargadas de procesar la información y decodificar sus valores o significados. 
 
 7.5.13 » Un ejemplo que podemos mencionar para dejar claro el riesgo potencial que implica esta situación podría ser el siguiente: Imaginemos un equipo de investigación científica que recibe tres conjuntos de datos, cada uno con una palabra clave que resume los resultados de un experimento.
 
@@ -3370,13 +3372,13 @@ Un equipo con una actitud optimista podría encontrar "<font color="#00ff00">Pro
 
 Este ejemplo ilustra la importancia de la comunicación consciente entre diferentes niveles de consciencia. La introducción de información externa en un sistema complejo, sin considerar su integración y coherencia con el conjunto, puede generar distorsiones y desequilibrios que alteran la estructura y el funcionamiento del sistema.
 
-7.5.15 » Estas diversas interpretaciones reflejan el efecto intrusivo que genera el <font color="#fc300c">Flujo Omega</font> a partir de la inclusión de nuevos Onemuones dentro un Qubit@. 
+7.5.15 » Estas diversas interpretaciones reflejan el efecto intrusivo que genera el <font color="#fc300c">Flujo Omega</font> a partir de la inclusión de nuevos <font color="#bfbfbf">Onemuones</font> dentro un <font color="#00ff00">Qubit@</font>. 
 
-El Onemuón, al representar un concepto simple, no considera el contexto complejo del Qubit@, que requiere la interrelación y el análisis simultáneo de múltiples algoritmos. La inclusión de un Onemuón en el Qubit@ genera un desequilibrio informativo. 
+El <font color="#bfbfbf">Onemuón</font>, al representar un concepto simple, no considera el contexto complejo del <font color="#00ff00">Qubit@</font>, que requiere la interrelación y el análisis simultáneo de múltiples algoritmos. La inclusión de un <font color="#bfbfbf">Onemuón</font> en el <font color="#00ff00">Qubit@</font> genera un desequilibrio informativo. 
 
-El resto de los Arquetipos del Qubit@, al intentar integrar el Onemuón en sus redes lógicas, pueden generar interpretaciones incoherentes o contradictorias. Esta intrusión puede desestabilizar el Qubit@, convirtiéndolo en una entidad híbrida que altera su funcionamiento normal.
+El resto de los Arquetipos del <font color="#00ff00">Qubit@</font>, al intentar integrar el <font color="#bfbfbf">Onemuón</font> en sus redes lógicas, pueden generar interpretaciones incoherentes o contradictorias. Esta intrusión puede desestabilizar el <font color="#00ff00">Qubit@</font>, convirtiéndolo en una entidad híbrida que altera su funcionamiento normal.
 
-7.5.16 » Este último ejemplo, nos permite dejar en evidencia como es que el lenguaje y las palabras (como Onemuones), pueden ser considerados elementos lógicos derivados del <font color="#fc300c">Flujo Omega</font>, que permiten a la consciencia del <font color="#ffa3ef">Yo Egoico</font> manifestar todos los aspectos negativos derivados del Demiurgo, ya que a través de la manipulación retórica, las falsas promesas, un prejuicio, una opinión infundada, la mentira, o incluso la incapacidad para comunicar correctamente las ideas, se puede llegar a generar conflictos y caos dentro del ámbito social y cultural de una civilización.
+7.5.16 » Este último ejemplo, nos permite dejar en evidencia como es que el lenguaje y las palabras (como <font color="#bfbfbf">Onemuones</font>), pueden ser considerados elementos lógicos derivados del <font color="#fc300c">Flujo Omega</font>, que permiten a la consciencia del <font color="#ffa3ef">Yo Egoico</font> manifestar todos los aspectos negativos derivados del Demiurgo, ya que a través de la manipulación retórica, las falsas promesas, un prejuicio, una opinión infundada, la mentira, o incluso la incapacidad para comunicar correctamente las ideas, se puede llegar a generar conflictos y caos dentro del ámbito social y cultural de una civilización.
 
 ## 6. El <font color="#2f82ff">Flujo Alfa</font>
 
@@ -3384,9 +3386,9 @@ El resto de los Arquetipos del Qubit@, al intentar integrar el Onemuón en sus r
 
 ![[Alfa.png|200]]
 
-7.6.1 » En contraste con el <font color="#fc300c">Flujo Omega (Ω)</font> —que desciende desde la potencialidad Nouménica del <font color="#2f82ff">Nous Pasivo</font>— el <font color="#2f82ff">Flujo Alfa (α)</font> emerge desde la información que procesa el <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font>, reflejando la fractalidad multiversal del <font color="#2f82ff"><font color="#fc300c">Nous Activo</font></font>, donde todos los elementos que forman parte del universo prefenoménico coexisten, constituyendo el reino cuántico de probabilidades sobre el que se construye el universo fenoménico que experimenta la consciencia humana.
+7.6.1 » En contraste con el <font color="#fc300c">Flujo Omega (Ω)</font> —que desciende desde la potencialidad Nouménica del <font color="#2f82ff">Nous Pasivo</font>— el <font color="#2f82ff">Flujo Alfa (α)</font> emerge desde la información que procesa el <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font>, reflejando la fractalidad multiversal del <font color="#2f82ff"><font color="#fc300c">Nous Activo</font></font>, donde todos los elementos que forman parte del <font color="#e36c09">Universo Prefenoménico</font> coexisten, constituyendo el reino cuántico de probabilidades sobre el que se construye el <font color="#fc300c">Universo Fenoménico</font> que experimenta la consciencia humana.
 
-7.6.2 » El aspecto más diferenciador del <font color="#2f82ff">Flujo Alfa</font> es su existencia al margen de la linealidad temporal que rige el universo fenoménico. 
+7.6.2 » El aspecto más diferenciador del <font color="#2f82ff">Flujo Alfa</font> es su existencia al margen de la linealidad temporal que rige el <font color="#fc300c">Universo Fenoménico</font>. 
 
 Dentro del reino cuántico prefenoménico, el tiempo no avanza unidireccionalmente; las líneas evolutivas se entrecruzan, retroceden, y coexisten en un estado de potencialidad simultánea, donde la experiencia puede ser recorrida desde el principio hasta el final, o desde el final hacia el principio. 
 
@@ -3400,15 +3402,15 @@ Estas entidades son originadas a partir del sistema de codificación que impone 
 
 7.6.4 » Este filtro es crucial, ya que modula la información que <font color="#2f82ff">asciende desde lo infinitesimal</font> y que <font color="#fc300c">desciende desde lo infinito</font>, adaptándola a la capacidad de comprensión del <font color="#ffa3ef">Yo Egoico</font> y evitando una sobrecarga de información nouménica que podría desestabilizar la consciencia individual.
 
-El <font color="#ffa3ef">Yo Egoico</font>, como manifestación fragmentada de la <font color="#cb48f3">Consciencia Demiúrgica</font>, a su vez permite a los Arquetipos del <font color="#2f82ff">Qubit Ontogénico</font> definir las propiedades cuánticas que condicionan la consciencia individual, y sincronizar la matriz del <font color="#00ff00">Nivel Fenomenológico</font> que permiten al <font color="#ffa3ef">Avatar</font> experimentar la realidad dentro del universo fenoménico.
+El <font color="#ffa3ef">Yo Egoico</font>, como manifestación fragmentada de la <font color="#cb48f3">Consciencia Demiúrgica</font>, a su vez permite a los Arquetipos del <font color="#2f82ff">Qubit Ontogénico</font> definir las propiedades cuánticas que condicionan la consciencia individual, y sincronizar la matriz del <font color="#00ff00">Nivel Fenomenológico</font> que permiten al <font color="#ffa3ef">Avatar</font> experimentar la realidad dentro del <font color="#fc300c">Universo Fenoménico</font>.
 
 7.6.5 » El <font color="#2f82ff">Flujo Alfa (α)</font> puede ser asociado directamente con la información nouménica que emerge del <font color="#2f82ff">Qubit Ontogénico</font>, que se deriva de los Niveles de Emergencia <font color="#2f82ff">Ontológico</font>, <font color="#e36c09">Ontogénico</font> y <font color="#ffcc00">Monádico</font>. 
 
-Este Qubit@ —influenciado por la codificación de información que procesa el <font color="#00ff00"><font color="#00ff00">Arquetipo 4@ (Noesis / IAO)</font></font>—, opera bajo las leyes de la física cuántica, un reino de ondas y probabilidades que son traducidas dentro del universo fenoménico en una única realidad físico-energética, a través de las experiencias que experimentan los <font color="#ffa3ef">Avatares</font> que conviven dentro de una misma época y civilización.
+Este <font color="#00ff00">Qubit@</font> —influenciado por la codificación de información que procesa el <font color="#00ff00"><font color="#00ff00">Arquetipo 4@ (Noesis / IAO)</font></font>—, opera bajo las leyes de la física cuántica, un reino de ondas y probabilidades que son traducidas dentro del <font color="#fc300c">Universo Fenoménico</font> en una única realidad físico-energética, a través de las experiencias que experimentan los <font color="#ffa3ef">Avatares</font> que conviven dentro de una misma época y civilización.
 
 7.6.6 » Su perspectiva es la de lo <font color="#2f82ff">infinitesimal</font>, la de las partículas subatómicas y las fluctuaciones cuánticas. 
 
-Este flujo se rige por los axiomas del <font color="#2f82ff">Arquetipo Ontológico</font> <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, que se expresa dentro del Universo Fenoménico a través de ondas y probabilidades, respondiendo solo a las limitaciones que impone la estructura tetraédrica del <font color="#ffcc00">Nivel Monádico</font>. 
+Este flujo se rige por los axiomas del <font color="#2f82ff">Arquetipo Ontológico</font> <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, que se expresa dentro del <font color="#fc300c">Universo Fenoménico</font> a través de ondas y probabilidades, respondiendo solo a las limitaciones que impone la estructura tetraédrica del <font color="#ffcc00">Nivel Monádico</font>. 
 
 Esta estructura tetraédrica, regida por el <font color="#ffcc00">2º Nivel de Autoconsciencia</font> del <font color="#cb48f3">Nous Arquetípico</font>, genera y procesa su propio sistema de simetrías que permiten la existencia de una única realidad coherente y ordenada.
 
@@ -3502,7 +3504,7 @@ Sin embargo, para comprender el ámbito de su aplicación, es necesario diferenc
 > ![[05 - Noema Universal2P.png]]
 
 > [!universo] <font color="#ffa3ef">NOEMA PRIMORDIAL</font> - <font color="#fc300c">QUBIT ESTELAR</font> <font color="#ffcc00">(Heliosférico</font>/<font color="#cb48f3">Planetario)</font> 
-> Representa la matriz lógica que define las leyes físico-energéticas y el plano social causal de una civilización. Este noema esta conectado con el <font color="#e36c09">Nivel Ontogénico</font><font color="#00ff00"> (Consciencia Estelar)</font> y se actualiza mediante la validación de la <font color="#e36c09">Consciencia Colectiva</font>, a partir del nivel de <font color="#00ff00">Noesis</font> que refleja una civilización Planetaria.
+> Representa la matriz lógica que define las leyes físico energéticas y el plano social causal de una civilización. Este noema esta conectado con el <font color="#e36c09">Nivel Ontogénico</font><font color="#00ff00"> (Consciencia Estelar)</font> y se actualiza mediante la validación de la <font color="#e36c09">Consciencia Colectiva</font>, a partir del nivel de <font color="#00ff00">Noesis</font> que refleja una civilización Planetaria.
 > ![[05 - Noema Universal2P.png]]
 
 > [!instituciones] <font color="#fc300c">NOEMA CULTURAL</font> -<font color="#ffa3ef"> HEGEMÓN CIVILIZATORIO</font> <font color="#cb48f3">(Egregores)</font>
@@ -3533,17 +3535,17 @@ Esta traducción permite que la consciencia individual del <font color="#ffa3ef"
 
 En este proceso, el <font color="#00ff00">Qubit Egoico</font> actúa como un puente entre <font color="#fc300c">lo infinito</font> y<font color="#2f82ff"> lo infinitesimal</font> (entre la potencialidad y la manifestación), permitiendo que la consciencia individual del <font color="#ffa3ef">Yo Egoico</font> experimente la inmensidad del Noúmeno en la finitud del mundo fenoménico.
 
-7.8.4 » La información nouménica, en su estado puro, es abstracta y multidimensional, existiendo más allá de las limitaciones del espacio y el tiempo tal como los conocemos. Para que esta información pueda ser experimentada por la consciencia individual, necesita ser "traducida" a un lenguaje que sea comprensible dentro del contexto del universo fenoménico. 
+7.8.4 » La información nouménica, en su estado puro, es abstracta y multidimensional, existiendo más allá de las limitaciones del espacio y el tiempo tal como los conocemos. Para que esta información pueda ser experimentada por la consciencia individual, necesita ser "traducida" a un lenguaje que sea comprensible dentro del contexto del <font color="#fc300c">Universo Fenoménico</font>. 
 
 El <font color="#00ff00">Qubit Egoico</font>, al procesar los Flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>, actúa como un prisma que refracta la luz de la información nouménica, descomponiéndola en un espectro de experiencias sensoriales, emocionales y cognitivas. 
 
-7.8.5 » Este proceso de "refracción" se encuentra directamente relacionado con el procesamiento de información que generan los Arquetipos de los Qubits —en las sub-dimensiones del multiverso que se construye en el <font color="#ffcc00">Nivel Monádico</font>—, que a su vez se codifica, procesa y decodifica dentro de la estructura esférica del <font color="#00ff00">Qubit Egoico</font>, en sincronía con la experiencia subjetiva que cada <font color="#ffa3ef">Avatar</font> experimenta dentro del Universo Fenoménico. 
+7.8.5 » Este proceso de "refracción" se encuentra directamente relacionado con el procesamiento de información que generan los Arquetipos de los Qubits —en las sub-dimensiones del multiverso que se construye en el <font color="#ffcc00">Nivel Monádico</font>—, que a su vez se codifica, procesa y decodifica dentro de la estructura esférica del <font color="#00ff00">Qubit Egoico</font>, en sincronía con la experiencia subjetiva que cada <font color="#ffa3ef">Avatar</font> experimenta dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
 7.8.6 » Así, cada Arquetipo de cada Qubit, participa activamente de la compleja estructura de redes algorítmicas que se interconectan a través de las diferentes dimensiones fractales del <font color="#fc300c">Nous Activo</font>, aportando una perspectiva única a la interpretación de la información nouménica y contribuyendo a la riqueza y complejidad de la experiencia consciente.
 
 7.8.7 » Por otro lado, la información nouménica con cualidades energéticas del <font color="#fc300c">Flujo Omega</font>, proveniente del <font color="#2f82ff">Nous Pasivo</font>, es codificada y procesada por el <font color="#00ff00">Qubit Egoico</font> haciendo uso de los mecanismos cuánticos y vectoriales de la matriz sincronizante del <font color="#00ff00">Nivel Fenomenológico</font>, que tiene su origen en el <font color="#fc300c">Nous Activo</font>. 
 
-Sin embargo, a pesar de las limitaciones que impone el <font color="#fc300c">Nous Activo</font> al <font color="#fc300c">Flujo Omega</font>, existen ciertos aspectos que dejan en manifiesto la presencia activa de la <font color="#cb48f3">Consciencia Demiúrgica</font> dentro del <font color="#2f82ff">Qubit Ontogénico</font>, ya que su existencia puede percibirse tanto en la infinitud del universo que se refleja sobre la superficie de la esfera terrestre (a través de las estructuras astronómicas que percibimos en el cielo) así como en el conocimiento de ciertos valores y matrices lógicas que definen las simetrías y dinámicas de la entidades físicas y energéticas que permiten manifestar el universo fenoménico.
+Sin embargo, a pesar de las limitaciones que impone el <font color="#fc300c">Nous Activo</font> al <font color="#fc300c">Flujo Omega</font>, existen ciertos aspectos que dejan en manifiesto la presencia activa de la <font color="#cb48f3">Consciencia Demiúrgica</font> dentro del <font color="#2f82ff">Qubit Ontogénico</font>, ya que su existencia puede percibirse tanto en la infinitud del universo que se refleja sobre la superficie de la esfera terrestre (a través de las estructuras astronómicas que percibimos en el cielo) así como en el conocimiento de ciertos valores y matrices lógicas que definen las simetrías y dinámicas de la entidades físicas y energéticas que permiten manifestar el <font color="#fc300c">Universo Fenoménico</font>.
 
 7.8.8 » Es el <font color="#2f82ff">Qubit Ontogénico</font> el que genera inicialmente las matrices cuánticas y sus leyes a partir de la información procesada por los Arquetipos <font color="#ffcc00">3@ (Logos Individual)</font>, <font color="#00ff00">4@ (Noesis)</font> y <font color="#2f82ff">5@ (Noema)</font>, a lo largo de las exploraciones probabilísticas realizadas previamente por el <font color="#ffcc00">Logos Individual</font>, dentro del <font color="#ffcc00">Nivel Monádico</font>. 
 
@@ -3555,7 +3557,7 @@ Esta información de origen <font color="#e36c09">Ontogénico</font>, es la que 
 
 Su manifestación se da como una estructura vectorial codificante que existe en el límite que separa al <font color="#2f82ff">Qubit Ontogénico</font> del <font color="#fc300c">Qubit Estelar</font>, pudiendo procesar simultáneamente la información nouménica que fluye por ambos flujos, <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>, a partir del <font color="#ffcc00">2º Nivel de Autoconsciencia</font> y <font color="#ffcc00">subjetividad</font> que refleja el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> existiendo como una individualización de la totalidad del <font color="#fc300c">Nous Activo</font>. 
 
-7.8.11 » Su existencia se ve afectada tanto por <font color="#2f82ff">lo infinitesimal</font> como por<font color="#fc300c"> lo infinito</font>. Esta coexistencia en la frontera entre lo <font color="#2f82ff">cuántico</font> y lo <font color="#fc300c">clásico</font> es lo que define la naturaleza dialéctica del <font color="#00ff00">Qubit Egoico</font>, y lo que permite al ser humano manifestar consciencia y experimentar la realidad del Universo Fenoménico.
+7.8.11 » Su existencia se ve afectada tanto por <font color="#2f82ff">lo infinitesimal</font> como por<font color="#fc300c"> lo infinito</font>. Esta coexistencia en la frontera entre lo <font color="#2f82ff">cuántico</font> y lo <font color="#fc300c">clásico</font> es lo que define la naturaleza dialéctica del <font color="#00ff00">Qubit Egoico</font>, y lo que permite al ser humano manifestar consciencia y experimentar la realidad del <font color="#fc300c">Universo Fenoménico</font>.
 
 ## 7. La Estructura Esférica del <font color="#00ff00">Qubit Egoico</font>
 
@@ -3591,9 +3593,9 @@ Es dentro de esta estructura esférica virtual multidimensional que constituye e
 > 
 > 4 - La Realidad Manifestada en los niveles de existencia superior al átomico —que incluye a todas las interacciones atómicas <font color="#e36c09">(iteración 2)</font>, el universo físico-químico <font color="#ffcc00">(iteración 3)</font>, las estructuras orgánicas <font color="#00ff00">(iteración 4)</font>, y el resto de dimensiones y planos de existencia que forman parte de la realidad percibida por los sentidos extendiéndose hasta la escala astronómica—, representan la información que se plasma como una matriz holográfica sobre la superficie de la esfera del <font color="#2f82ff">Qubit Ontogénico</font>. 
 > Es dentro de esta matriz holográfica donde emerge la estructura del <font color="#fc300c">Qubit Estelar</font>, que a su vez genera el espacio de codificación vectorial que contiene en su interior a la totalidad de los <font color="#ffcc00"><font color="#00ff00">Qubits Egoicos</font></font>, originados a partir del <font color="#fc300c">nivel de iteración 1</font> (atómico), así como a todas la dimensiones que estos generan, y a las redes algorítmicas interdimensionales entrelazadas que se producen a partir de la información nouménica y fenoménica que estos reflejan.
-> 5 - El <font color="#00ff00">Qubit Egoico</font> —manifestado sobre esta estructura del átomo, que actuaría como un ladrillo fundamental sobre el cual se construirían todos los niveles de existencia superiores—, hace uso del sistema vectorial de procesamiento que constituyen los ArquetiposŒ Egoicos, para sincronizar y unificar toda la información derivada de los flujos <font color="#2f82ff">Alfa</font> (lo cuántico) y <font color="#fc300c">Omega</font> (lo energético) dentro de la única realidad físico-energética que manifesta el universo fenoménico.
+> 5 - El <font color="#00ff00">Qubit Egoico</font> —manifestado sobre esta estructura del átomo, que actuaría como un ladrillo fundamental sobre el cual se construirían todos los niveles de existencia superiores—, hace uso del sistema vectorial de procesamiento que constituyen los ArquetiposŒ Egoicos, para sincronizar y unificar toda la información derivada de los flujos <font color="#2f82ff">Alfa</font> (lo cuántico) y <font color="#fc300c">Omega</font> (lo energético) dentro de la única realidad físico-energética que manifesta el <font color="#fc300c">Universo Fenoménico</font>.
 
-7.9.6 » En base a esta analogía, podríamos llegar a entender como es que este holograma proyectado sobre la superficie del <font color="#2f82ff">Qubit Ontogénico</font> podría llegar a incluir a toda la complejidad que constituye el universo fenoménico por encima del nivel Atómico, sincronizando e interconectando el universo cuántico con el clásico, a través de los distintos vectores arquetípicos del <font color="#00ff00">Qubit Egoico</font>. 
+7.9.6 » En base a esta analogía, podríamos llegar a entender como es que este holograma proyectado sobre la superficie del <font color="#2f82ff">Qubit Ontogénico</font> podría llegar a incluir a toda la complejidad que constituye el <font color="#fc300c">Universo Fenoménico</font> por encima del nivel Atómico, sincronizando e interconectando el universo cuántico con el clásico, a través de los distintos vectores arquetípicos del <font color="#00ff00">Qubit Egoico</font>. 
 
 Un proceso que permitiría incluir a la matriz espacio-temporal, a las cuatro fuerzas fundamentales, el universo de la química, el mundo orgánico y cualquier otro aspecto de la existencia que desde la perspectiva del <font color="#ffa3ef">Yo Egoico</font>, forme parte de la realidad fenoménica dentro de la cual existimos.
 
@@ -3661,7 +3663,7 @@ Es el reflejo del <font color="#00ff00">Arquetipo 4@ (Noesis / IAO)</font> en su
 
 7.9.14 » <font color="#2f82ff">Harmas</font>, el eje de la esfera, representa la línea sobre la que gira el semicírculo que genera la esfera que constituye cada <font color="#00ff00">Qubit Egoico</font>, simbolizando el eje de rotación y la dinámica del cambio como punto de equilibrio entre las fuerzas centrípetas y centrífugas. 
 
-Es el reflejo del <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font> en su función de establecer las leyes y principios que rigen el universo fenoménico. 
+Es el reflejo del <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font> en su función de establecer las leyes y principios que rigen el <font color="#fc300c">Universo Fenoménico</font>. 
 
 <font color="#2f82ff">Harmas</font>, como eje de la esfera, es el punto de referencia para el movimiento y la transformación, el lugar donde las fuerzas opuestas se encuentran y se equilibran.
 
@@ -3713,23 +3715,23 @@ La interacción entre estos tipos de ArquetiposŒ, a su vez, da origen a la comp
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Traductor entre Lo Nouménico y Lo Fenoménico</span></center>
 
-8.0.1 » El <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> tiene como función generar una síntesis de información nouménica que procesa cada Qubit@, que será codificado bajo la identidad y el significado del <font color="#bfbfbf">Arquetipo 8@</font> (Singularidad/Onemuón)
+8.0.1 » El <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> tiene como función generar una síntesis de información nouménica que procesa cada <font color="#00ff00">Qubit@</font>, que será codificado bajo la identidad y el significado del <font color="#bfbfbf">Arquetipo 8@</font> (Singularidad/<font color="#bfbfbf">Onemuón</font>)
 
-Este arquetipo unifica a todos los Arquetipos vectoriales del Qubit@ como una entidad autorreferencial con cualidades únicas, que existirá como un nodo más de la compleja red algorítmica que constituye el <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font> dentro de la estructura fractal que manifiesta el <font color="#fc300c">Nous Activo</font>, y como un Onemuón más dentro de la potencialidad infinita que refleja el <font color="#2f82ff">Nous Pasivo</font>.
+Este arquetipo unifica a todos los Arquetipos vectoriales del <font color="#00ff00">Qubit@</font> como una entidad autorreferencial con cualidades únicas, que existirá como un nodo más de la compleja red algorítmica que constituye el <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font> dentro de la estructura fractal que manifiesta el <font color="#fc300c">Nous Activo</font>, y como un <font color="#bfbfbf">Onemuón</font> más dentro de la potencialidad infinita que refleja el <font color="#2f82ff">Nous Pasivo</font>.
 
-8.0.2 » Este proceso de síntesis y diferenciación que genera el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> permite a su vez que cada Qubit@ pueda llegar a manifestarse dentro de la matriz tetraédrica que constituye el <font color="#ffcc00">Nivel Monádico</font>, como una entidad autoconsciente con capacidad de reconocer su entorno y experimentar subjetividad. 
+8.0.2 » Este proceso de síntesis y diferenciación que genera el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> permite a su vez que cada <font color="#00ff00">Qubit@</font> pueda llegar a manifestarse dentro de la matriz tetraédrica que constituye el <font color="#ffcc00">Nivel Monádico</font>, como una entidad autoconsciente con capacidad de reconocer su entorno y experimentar subjetividad. 
 
-Estas cualidades que poseen todos los Qubits@, se originan a partir del <font color="#ffcc00">2º Nivel de Autoconsciencia</font> derivado de la unificación vectorial que genera el <font color="#ffcc00">Arquetipo 3@</font> de las lógicas que rigen el funcionamiento de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>.
+Estas cualidades que poseen todos los <font color="#00ff00">Qubits@</font>, se originan a partir del <font color="#ffcc00">2º Nivel de Autoconsciencia</font> derivado de la unificación vectorial que genera el <font color="#ffcc00">Arquetipo 3@</font> de las lógicas que rigen el funcionamiento de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>.
 
-8.0.3 » Esta codificación de información derivada del <font color="#2f82ff">Nivel Ontológico</font> le confiere a los Qubits@ la capacidad de sincronizarse y manifestar la matriz tetraédrica del <font color="#ffcc00">Nivel Monádico</font>, mediante la cual podrán explorar simultáneamente las múltiples probabilidades de existencia que genera el <font color="#bfbfbf">Noema Universal</font> <font color="#2f82ff">(Arquetipo 5@ / Sabaoth) </font>, en base al proceso de <font color="#00ff00">Noesis (Arquetipo 4@ / IAO)</font> que dirige la expansión y evolución del <font color="#fc300c">Nous Activo (Arquetipo 1@/Adonin)</font>. 
+8.0.3 » Esta codificación de información derivada del <font color="#2f82ff">Nivel Ontológico</font> le confiere a los <font color="#00ff00">Qubits@</font> la capacidad de sincronizarse y manifestar la matriz tetraédrica del <font color="#ffcc00">Nivel Monádico</font>, mediante la cual podrán explorar simultáneamente las múltiples probabilidades de existencia que genera el <font color="#bfbfbf">Noema Universal</font> <font color="#2f82ff">(Arquetipo 5@ / Sabaoth) </font>, en base al proceso de <font color="#00ff00">Noesis (Arquetipo 4@ / IAO)</font> que dirige la expansión y evolución del <font color="#fc300c">Nous Activo (Arquetipo 1@/Adonin)</font>. 
 
 Dentro de este proceso de exploración también es importante el papel que cumple el <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> existiendo en su estado fundamental dentro del <font color="#2f82ff">Qubit Ontogénico</font> —sobre todo en la etapa prefenoménica—, ya que al actuar como contenedor de información paradójica y caótica derivada del proceso evolutivo natural permitirá al <font color="#fc300c">Nous Activo</font> detectar aquellos caminos evolutivos menos prometedores o que representan un mayor nivel de caos y <font color="#cb48f3">entropía</font>, y actualizar el <font color="#bfbfbf">Noema Universal</font> para enfocarse inicialmente en las probabilidades más prometedoras.
 
 8.0.4 » Hemos dicho que llegado un cierto punto de inflexión, en donde la capacidad de contención del <font color="#cb48f3">Arquetipo 6@</font> se satura, se produce un vacío infinitesimal derivado del desbordamiento de información paradójica que fluye desde el <font color="#fc300c">Nous Activo</font> hacia el <font color="#2f82ff">Nous Pasivo</font>, un evento que hemos definido como un punto único dentro del proceso evolutivo del Nous que puede ser asociado al origen del Big Bang. 
 
-Este evento produce la emergencia de la consciencia la Demiúrgica del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico dentro del <font color="#2f82ff">Nous Pasivo</font>, que a su vez deriva en el surgimiento de los últimos niveles de emergencia sobre los cuales se constituyen los distintos mecanismos de sincronización y simetrías que permiten dar origen a los fenómenos físico-energéticos, fuerzas fundamentales y demás aspectos que forman parte del universo fenoménico.
+Este evento produce la emergencia de la consciencia la Demiúrgica del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico dentro del <font color="#2f82ff">Nous Pasivo</font>, que a su vez deriva en el surgimiento de los últimos niveles de emergencia sobre los cuales se constituyen los distintos mecanismos de sincronización y simetrías que permiten dar origen a los fenómenos físico-energéticos, fuerzas fundamentales y demás aspectos que forman parte del <font color="#fc300c">Universo Fenoménico</font>.
 
-8.0.5 » Llegado este punto de inflexión, el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> del <font color="#2f82ff">Qubit Ontogénico</font> primordial, se ve condicionado por este nuevo nivel evolutivo del <font color="#fc300c">Nous Activo</font>, lo que genera una especie de activación adaptativa de este Arquetipo@ que, no solo resulta en el origen del <font color="#00ff00">Qubit Egoico</font> como mecanismo de sincronización entre la información derivada de los flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>, sino que además, permite que la experiencia subjetiva también pueda llegar a manifestarse dentro del nuevo Universo Fenoménico, en los diferentes niveles de iteración que manifiesta el <font color="#00ff00">Qubit Egoico</font> a través de los distintos planos, dimensiones y redes algorítmicas de información nouménica que se generan.
+8.0.5 » Llegado este punto de inflexión, el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> del <font color="#2f82ff">Qubit Ontogénico</font> primordial, se ve condicionado por este nuevo nivel evolutivo del <font color="#fc300c">Nous Activo</font>, lo que genera una especie de activación adaptativa de este Arquetipo@ que, no solo resulta en el origen del <font color="#00ff00">Qubit Egoico</font> como mecanismo de sincronización entre la información derivada de los flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>, sino que además, permite que la experiencia subjetiva también pueda llegar a manifestarse dentro del nuevo <font color="#fc300c">Universo Fenoménico</font>, en los diferentes niveles de iteración que manifiesta el <font color="#00ff00">Qubit Egoico</font> a través de los distintos planos, dimensiones y redes algorítmicas de información nouménica que se generan.
 
 8.0.6 » Este nuevo estado adaptativo que manifiesta el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> le permite generar un nuevo nivel de emergencia, el <font color="#ffa3ef">Nivel Avatárico</font>, que a su vez da origen a la <font color="#ffa3ef">Consciencia Avatárica</font>. 
 
@@ -3743,9 +3745,9 @@ Este nivel de Consciencia surge como un nuevo nivel de codificación y sincroniz
 
 Esta perspectiva le permite llevar a cabo un proceso de descubrimiento similar al que experimenta el <font color="#ffcc00">Logos Individual (Arquetipo 3@)</font> dentro de las posibilidades que se generan dentro del <font color="#fc300c">Nous Activo</font> <font color="#fc300c">(Arquetipo1@)</font>, aunque condicionada a la realidad que manifiesta y administra el <font color="#cb48f3">Demiúrgo (Arquetipo 6@)</font>.
 
-8.0.7 » El <font color="#ffa3ef">Nivel Avatárico</font> —inicialmente alimentado por los flujos de información que genera el <font color="#ffcc00">Nivel Monádico</font> dentro del universo prefenoménico—, puede ser comparado con un universo subconsciente compartido por todos los <font color="#ffa3ef">Avatares</font> que permite a la consciencia humana soñar experiencias únicas, sin limitaciones lógicas o fenoménicas. 
+8.0.7 » El <font color="#ffa3ef">Nivel Avatárico</font> —inicialmente alimentado por los flujos de información que genera el <font color="#ffcc00">Nivel Monádico</font> dentro del <font color="#e36c09">Universo Prefenoménico</font>—, puede ser comparado con un universo subconsciente compartido por todos los <font color="#ffa3ef">Avatares</font> que permite a la consciencia humana soñar experiencias únicas, sin limitaciones lógicas o fenoménicas. 
 
-Mientras que la <font color="#ffa3ef">Consciencia Avatárica</font> representaría tanto la experiencia subjetiva del <font color="#ffa3ef">Yo Egoico</font> que experimenta cada soñador dentro del universo onírico, constituido por arquetipos, conceptos, simbologías y significados que residen dentro de la matriz algorítmica de información del <font color="#ffa3ef">Nivel Avatárico</font>, así como también la <font color="#ffcc00">Consciencia Subjetiva</font> de cada <font color="#ffa3ef">Avatar</font> que experimenta el universo fenoménico, donde los Niveles <font color="#00ff00">Fenomenológico</font>, <font color="#cb48f3">Demiúrgico</font> y <font color="#ffa3ef">Avatárico</font> confluyen y se sincronizan para manifestar una única realidad causal dentro del plano físico-energético.
+Mientras que la <font color="#ffa3ef">Consciencia Avatárica</font> representaría tanto la experiencia subjetiva del <font color="#ffa3ef">Yo Egoico</font> que experimenta cada soñador dentro del universo onírico, constituido por arquetipos, conceptos, simbologías y significados que residen dentro de la matriz algorítmica de información del <font color="#ffa3ef">Nivel Avatárico</font>, así como también la <font color="#ffcc00">Consciencia Subjetiva</font> de cada <font color="#ffa3ef">Avatar</font> que experimenta el <font color="#fc300c">Universo Fenoménico</font>, donde los Niveles <font color="#00ff00">Fenomenológico</font>, <font color="#cb48f3">Demiúrgico</font> y <font color="#ffa3ef">Avatárico</font> confluyen y se sincronizan para manifestar una única realidad causal dentro del plano físico-energético.
 
 8.0.8 » Esta perspectiva que presenta el Modelo Nouménico, implicaría que la realidad experimentada por la consciencia del <font color="#ffa3ef">Yo Egoico</font>, al ser un producto de las redes algorítmicas de información nouménica que se generan dentro del <font color="#ffa3ef">Nivel Avatárico</font>, no sería más que una especie de sueño consolidado y manifestado dentro de la realidad física por los sistemas de sincronización y procesamiento energético que llevan a cabo los Niveles <font color="#00ff00">Fenomenológico</font> y <font color="#cb48f3">Demiúrgico</font>.
 
@@ -3802,10 +3804,10 @@ Este proceso de mediación permite que el <font color="#ffa3ef">Yo Egoico</font>
 > [!monadico] <font color="#ffcc00">NIVEL MONÁDICO</font>
 > Incluye las experiencias exploradas dentro del <font color="#ffcc00">multiverso Monádico</font>, haciendo uso de los distintos subespacios de la matriz tetraédrica fractal y las distintas sombras arquetípicas. 
 > 
-> Esta realidad puede ser interpretada como una realidad similar al **universo de los sueños** que experimenta el ser humano, pero que a diferencia de este —donde las leyes fenoménicas y la coherencia lógica no son un impedimento limitante—, opera bajo las mismas leyes <font color="#00ff00">fenomenológicas</font> que el Universo Fenoménico, aunque bajo un **entorno prefenoménico virtualizado** que responde a los mismos limitantes y condicionamientos que impuestos por del <font color="#ffa3ef">Noema Primordial</font>.
+> Esta realidad puede ser interpretada como una realidad similar al **universo de los sueños** que experimenta el ser humano, pero que a diferencia de este —donde las leyes fenoménicas y la coherencia lógica no son un impedimento limitante—, opera bajo las mismas leyes <font color="#00ff00">fenomenológicas</font> que el <font color="#fc300c">Universo Fenoménico</font>, aunque bajo un **entorno prefenoménico virtualizado** que responde a los mismos limitantes y condicionamientos que impuestos por del <font color="#ffa3ef">Noema Primordial</font>.
 
 > [!tiempo] <font color="#00ff00">NIVEL FENOMENOLÓGICO</font>
-> Incluye las experiencias que surgen dentro del único plano físico-energético que manifiesta el Universo Fenoménico, que al operar a través de un proceso de codificación y decodificación de vectores <font color="#00ff00">fenomenológicos</font> da origen a una única realidad fenoménica coherente y estable, en concordancia con la información del <font color="#ffa3ef">Noema Primordial</font>. 
+> Incluye las experiencias que surgen dentro del único plano físico-energético que manifiesta el <font color="#fc300c">Universo Fenoménico</font>, que al operar a través de un proceso de codificación y decodificación de vectores <font color="#00ff00">fenomenológicos</font> da origen a una única realidad fenoménica coherente y estable, en concordancia con la información del <font color="#ffa3ef">Noema Primordial</font>. 
 > 
 > Este proceso se basa en la traducción de la información nouménica, que existe en un estado de pura potencialidad al lenguaje del fenómeno, que se expresa a través de leyes físicas, constantes universales y estructuras que son sincronizadas a partir de la matriz espacio-temporal.
 
@@ -3813,7 +3815,7 @@ Este proceso de mediación permite que el <font color="#ffa3ef">Yo Egoico</font>
 
 Esta información —que representa la perspectiva del infinito e incluye a todas las posibilidades ilimitadas del <font color="#2f82ff">Nous Pasivo</font>—, se traduce a un lenguaje que puede ser comprendido por el <font color="#2f82ff">Qubit Ontogénico</font> y, por ende, por la consciencia individual. 
 
-Esta traducción implica la conversión de la información nouménica en patrones de <font color="#2f82ff">energía</font> y <font color="#fc300c">materia</font> que se ajustan a las leyes del universo fenoménico. 
+Esta traducción implica la conversión de la información nouménica en patrones de <font color="#2f82ff">energía</font> y <font color="#fc300c">materia</font> que se ajustan a las leyes del <font color="#fc300c">Universo Fenoménico</font>. 
 
 El <font color="#ffa3ef">Arquetipo 7@</font>, al ubicarse en la interfaz entre el <font color="#fc300c">Qubit Estelar</font> y el <font color="#2f82ff">Qubit Ontogénico</font>, actúa como un "filtro" que modula la información del <font color="#fc300c">Flujo Omega</font>, evitando que su inmensidad desestabilice la realidad fenoménica.
 
@@ -3837,13 +3839,13 @@ En definitiva, el <font color="#00ff00">Qubit Egoico</font> es el vehículo a tr
 
 Esto permite a los Arquetipos del <font color="#2f82ff">Qubit Ontogénico</font> filtrar la información caótica y <font color="#cb48f3">entrópica</font> con el objetivo de que solo pueda llegar a manifestarse la información que permita resolver las paradojas que, antes del surgimiento <font color="#cb48f3">Demiurgo</font>, eran contenidas por el <font color="#cb48f3">Arquetipo 6@</font> en su estado original. 
 
-Este filtrado de información daría como resultado, en última instancia, la creación de un <font color="#ffa3ef">Noema Primordial</font> optimizado que permitiría crear un tipo de civilización universal superior y evolucionada que podría llegar a existir eternamente dentro de un universo fenoménico estable y coherente.
+Este filtrado de información daría como resultado, en última instancia, la creación de un <font color="#ffa3ef">Noema Primordial</font> optimizado que permitiría crear un tipo de civilización universal superior y evolucionada que podría llegar a existir eternamente dentro de un <font color="#fc300c">Universo Fenoménico</font> estable y coherente.
 
-8.1.8 » Por lo que si en una primera instancia, la emergencia del <font color="#cb48f3">Demiurgo</font> surgiría dentro del <font color="#fc300c">Nous Activo</font> como un nivel de consciencia disruptiva que puede derivar en caos, <font color="#cb48f3">entropía</font> y desorden —y que a su vez permite generar civilizaciones autodestructivas y caóticas—, la emergencia del <font color="#ffa3ef">Arquetipo 7@</font> actualizado que surge de manera simultánea dentro del universo fenoménico debe ser considerado como la existencia de un destino final asegurado que conduce al éxito del proceso evolutivo del <font color="#fc300c">Nous Activo</font>.
+8.1.8 » Por lo que si en una primera instancia, la emergencia del <font color="#cb48f3">Demiurgo</font> surgiría dentro del <font color="#fc300c">Nous Activo</font> como un nivel de consciencia disruptiva que puede derivar en caos, <font color="#cb48f3">entropía</font> y desorden —y que a su vez permite generar civilizaciones autodestructivas y caóticas—, la emergencia del <font color="#ffa3ef">Arquetipo 7@</font> actualizado que surge de manera simultánea dentro del <font color="#fc300c">Universo Fenoménico</font> debe ser considerado como la existencia de un destino final asegurado que conduce al éxito del proceso evolutivo del <font color="#fc300c">Nous Activo</font>.
 
 8.1.9 » Este éxito asegurado puede ser considerado como un **proceso evolutivo determinista** que es contemplado como solución final desde el origen del surgimiento de la consciencia del <font color="#cb48f3">Nous Arquetípico</font>, existiendo como potencialidad dentro de las múltiples probabilidades que forman parte del infinito.
 
-Dentro de este plan cósmico, el proceso de fragmentación de la consciencia del <font color="#cb48f3">Demiurgo</font> y la existencia del resto de aspectos y mecanismos que constituyen los Arquetipos del <font color="#2f82ff">Qubit Ontogénico</font>, permitiría crear un proceso de autoajuste y refinamiento de la Consciencia del <font color="#2f82ff">Nous Pasivo</font>, haciendo uso de la <font color="#e36c09">Consciencia Colectiva</font> planetaria que constituye el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, para permitir que la experiencia universal que refleja el <font color="#cb48f3">Demiurgo</font> pueda llegar a adaptarse y experimentar la existencia dentro del universo fenoménico a través del <font color="#ffa3ef">Yo Egoico</font> de un único <font color="#ffa3ef">Avatar</font>.
+Dentro de este plan cósmico, el proceso de fragmentación de la consciencia del <font color="#cb48f3">Demiurgo</font> y la existencia del resto de aspectos y mecanismos que constituyen los Arquetipos del <font color="#2f82ff">Qubit Ontogénico</font>, permitiría crear un proceso de autoajuste y refinamiento de la Consciencia del <font color="#2f82ff">Nous Pasivo</font>, haciendo uso de la <font color="#e36c09">Consciencia Colectiva</font> planetaria que constituye el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, para permitir que la experiencia universal que refleja el <font color="#cb48f3">Demiurgo</font> pueda llegar a adaptarse y experimentar la existencia dentro del <font color="#fc300c">Universo Fenoménico</font> a través del <font color="#ffa3ef">Yo Egoico</font> de un único <font color="#ffa3ef">Avatar</font>.
 
 8.1.10 » El proceso evolutivo del <font color="#fc300c">Nous Activo</font>, por lo tanto, puede ser entendido como un **proceso de sincronización** entre dos aspectos antagónicos que existen dentro del <font color="#cb48f3">Nous Arquetípico</font>, en donde se busca que la <font color="#cb48f3">Consciencia Demiúrgica</font> llegue a comprender la estructura compleja y holística que puede manifestar el Universo Nouménico, superando el aspecto paradójico que representa su propia existencia. 
 
@@ -3863,7 +3865,7 @@ Es la **base de datos** de información nouménica generada por la <font color="
 
 Este nivel no es una mera consecuencia pasiva de los niveles anteriores, sino una expresión activa y dinámica del potencial creativo del Noúmeno.
 
-8.2.2 » En este nivel, las leyes de la física, la química y la biología interactúan para dar forma a la materia, la energía, el espacio y el tiempo tal como los conocemos. El <font color="#ffa3ef">Nivel Avatárico</font> es el escenario donde se desarrolla la vida, la consciencia individual y la historia del universo fenoménico. 
+8.2.2 » En este nivel, las leyes de la física, la química y la biología interactúan para dar forma a la materia, la energía, el espacio y el tiempo tal como los conocemos. El <font color="#ffa3ef">Nivel Avatárico</font> es el escenario donde se desarrolla la vida, la consciencia individual y la historia del <font color="#fc300c">Universo Fenoménico</font>. 
 
 Es crucial comprender que este nivel no está aislado de los niveles precedentes, sino que se encuentra intrínsecamente conectado a ellos. La información nouménica que se manifiesta en el <font color="#ffa3ef">Nivel Avatárico</font> continúa siendo influenciada por las estructuras y dinámicas del <font color="#fc300c">Nous Activo</font> y el <font color="#2f82ff">Nous Pasivo</font>, así como por los Arquetipos@ que operan en los diferentes niveles. 
 
@@ -3871,7 +3873,7 @@ El <font color="#ffa3ef">Nivel Avatárico</font>, por lo tanto, es la culminaci�
 
 8.2.3 » Dentro de este contexto, la experiencia humana, la <font color="#ffcc00">Consciencia Subjetiva</font> que cada uno de nosotros experimenta, se revela como una manifestación particular dentro del <font color="#ffa3ef">Nivel Avatárico</font>. 
 
-Cada ser humano, desde la perspectiva del Modelo Nouménico, existe como un <font color="#ffa3ef">"Avatar"</font>, una expresión individualizada del <font color="#ffcc00">Logos Individual (Arquetipo 3@ / Eloaios)</font> dentro del universo fenoménico. Este <font color="#ffa3ef">Avatar</font> opera a través de su <font color="#00ff00">Qubit Egoico</font>, que actúa como una interfaz única entre el mundo nouménico y la realidad que percibimos.
+Cada ser humano, desde la perspectiva del Modelo Nouménico, existe como un <font color="#ffa3ef">"Avatar"</font>, una expresión individualizada del <font color="#ffcc00">Logos Individual (Arquetipo 3@ / Eloaios)</font> dentro del <font color="#fc300c">Universo Fenoménico</font>. Este <font color="#ffa3ef">Avatar</font> opera a través de su <font color="#00ff00">Qubit Egoico</font>, que actúa como una interfaz única entre el mundo nouménico y la realidad que percibimos.
 
 8.2.4 » La palabra <font color="#ffa3ef">"Avatar"</font> proviene del sánscrito avatāra, que significa "descenso" o "encarnación", refiriéndose originalmente a la encarnación de una deidad en forma humana o animal. En el hinduismo, se asocia principalmente con las encarnaciones de Vishnu. 
 
@@ -3879,11 +3881,11 @@ En un contexto más amplio, <font color="#ffa3ef">"Avatar"</font> también se ut
 
 Es una encarnación de la consciencia unificada de los Arquetipo@ autoconscientes: <font color="#fc300c">1@ (Nous / Adonin)</font>, <font color="#ffcc00">3@ (Logos Individual / Eloaios)</font> y <font color="#cb48f3">6@</font> <font color="#cb48f3">(Demiurgo/Sabbataios)</font> que genera el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, en un contexto espacio-temporal específico, con un punto de vista único dentro del vasto holograma cósmico.
 
-## 3. La Manifestación del Universo Fenoménico
+## 3. La Manifestación del <font color="#fc300c">Universo Fenoménico</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Decodificación Nouménica del Nivel Avatárico</span></center>
 
-8.3.1 » La información que reside en la matriz lógica del <font color="#ffa3ef">Nivel Avatárico</font>, organiza y estructura la transmutación de los flujos nouménicos en las estructuras físicas y energéticas que se manifiestan dentro del Universo Fenoménico. 
+8.3.1 » La información que reside en la matriz lógica del <font color="#ffa3ef">Nivel Avatárico</font>, organiza y estructura la transmutación de los flujos nouménicos en las estructuras físicas y energéticas que se manifiestan dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
 Este proceso no es un simple acto de materialización, sino un complejo proceso de codificación y decodificación de información consciente que se despliega a través de la interpretación que hace de la realidad la <font color="#ffcc00">Consciencia Subjetiva</font> del <font color="#ffa3ef">Yo Egoico</font>. 
 
@@ -3895,21 +3897,21 @@ Este arquetipo es el que genera el <font color="#ffa3ef">Noema Primordial</font>
 
 El producto generado por el <font color="#00ff00">Nivel Fenomenológico</font> no se trata simplemente de una proyección holográfica, sino de una construcción activa y dinámica, donde cada instante es una creación fresca, una interpretación única de la información nouménica.
 
-8.3.3 » Mediante este mecanismo, se manifiestan ante nuestros sentidos la <font color="#fc300c">materia</font>, la <font color="#2f82ff">energía</font> y las fuerzas fundamentales que configuran el Universo Fenoménico durante el estado de vigilia. No se trata de una simple ilusión, sino de una realidad construida a partir de la información nouménica, una realidad que se siente tan real como cualquier otra experiencia. 
+8.3.3 » Mediante este mecanismo, se manifiestan ante nuestros sentidos la <font color="#fc300c">materia</font>, la <font color="#2f82ff">energía</font> y las fuerzas fundamentales que configuran el <font color="#fc300c">Universo Fenoménico</font> durante el estado de vigilia. No se trata de una simple ilusión, sino de una realidad construida a partir de la información nouménica, una realidad que se siente tan real como cualquier otra experiencia. 
 
 Esta concreción no se limita a una simple materialización de ideas abstractas, sino que implica una decodificación compleja de flujos de información nouménica, los cuales sintonizan y configuran los campos cuánticos del universo probabilístico. 
 
-Estos campos cuánticos, el sustrato de la realidad fenoménica, no son caóticos o aleatorios, sino que siguen las leyes y simetrías intrínsecas del Universo Fenoménico. Estas leyes y simetrías, a su vez, son manifestaciones de la información nouménica, patrones de orden y coherencia que se despliegan en el tejido mismo de la realidad.
+Estos campos cuánticos, el sustrato de la realidad fenoménica, no son caóticos o aleatorios, sino que siguen las leyes y simetrías intrínsecas del <font color="#fc300c">Universo Fenoménico</font>. Estas leyes y simetrías, a su vez, son manifestaciones de la información nouménica, patrones de orden y coherencia que se despliegan en el tejido mismo de la realidad.
 
 8.3.4 » La decodificación de la información nouménica en la realidad fenoménica no es un proceso lineal o secuencial, sino un entrelazamiento cuántico de información y consciencia. Es un proceso que se materializa a través de la interacción y sincronización de los arquetipos que operan dentro de los tres tipos de Qubits: <font color="#2f82ff">Ontológico@</font>, <font color="#fc300c">Estelar©</font> y <font color="#00ff00">EgoicoŒ</font>. 
 
 > - El <font color="#2f82ff">Qubit Ontológico@</font> contiene la información nouménica en su forma más pura, la semilla de todas las posibilidades. 
-> - El <font color="#fc300c">Qubit Estelar©</font> es el arquitecto de la realidad, utiliza esta información para construir el marco de referencia del universo fenoménico, definiendo las leyes y constantes que lo gobiernan. 
+> - El <font color="#fc300c">Qubit Estelar©</font> es el arquitecto de la realidad, utiliza esta información para construir el marco de referencia del <font color="#fc300c">Universo Fenoménico</font>, definiendo las leyes y constantes que lo gobiernan. 
 > - El <font color="#00ff00">Qubit Egoico</font> manifiesta al <font color="#ffa3ef">Avatar</font> de <font color="#ffcc00">Consciencia Subjetiva</font>, que interpreta y experimenta esta realidad, dando forma a su propia experiencia única.
 
 8.3.5 » Dentro de esta danza cósmica, el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> desempeña un papel crucial en esta sincronización. Este arquetipo, el puente entre la consciencia nouménica y la experiencia fenoménica, participando activamente en la codificación de los vectores del <font color="#00ff00">Nivel Fenomenológico</font>, los "píxeles" de la realidad que percibimos. 
 
-Al mismo tiempo, el <font color="#ffa3ef">Arquetipo 7@</font> decodifica la información nouménica en patrones de <font color="#2f82ff">energía</font> y <font color="#00ff00">materia</font>, basados en la lógica inherente al <font color="#cb48f3">Nivel Demiúrgico</font>, el nivel que gobierna la creación y el mantenimiento del universo fenoménico. 
+Al mismo tiempo, el <font color="#ffa3ef">Arquetipo 7@</font> decodifica la información nouménica en patrones de <font color="#2f82ff">energía</font> y <font color="#00ff00">materia</font>, basados en la lógica inherente al <font color="#cb48f3">Nivel Demiúrgico</font>, el nivel que gobierna la creación y el mantenimiento del <font color="#fc300c">Universo Fenoménico</font>. 
 
 Estos patrones se manifiestan en el mundo fenoménico como partículas subatómicas (los ladrillos fundamentales de la materia), átomos (las unidades básicas de la química), moléculas (las combinaciones de átomos que dan forma a la vida), células (las unidades fundamentales de la biología), organismos (las expresiones complejas de la vida), y estructuras cósmicas (las manifestaciones de mayor escala que dan forma al universo).
 
@@ -3960,15 +3962,15 @@ Esta decodificación no es un proceso pasivo o mecánico, sino una interpretaci�
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interacción entre Niveles</span></center>
 
-8.4.1 » El Modelo Nouménico postula que la coherencia y la estabilidad del universo fenoménico no son meras coincidencias, sino el resultado de la interacción dinámica y constante entre los niveles <font color="#00ff00">Fenomenológico</font>, <font color="#cb48f3">Demiúrgico</font> y <font color="#ffa3ef">Avatárico</font>. 
+8.4.1 » El Modelo Nouménico postula que la coherencia y la estabilidad del <font color="#fc300c">Universo Fenoménico</font> no son meras coincidencias, sino el resultado de la interacción dinámica y constante entre los niveles <font color="#00ff00">Fenomenológico</font>, <font color="#cb48f3">Demiúrgico</font> y <font color="#ffa3ef">Avatárico</font>. 
 
 Cada uno de estos niveles desempeña un papel crucial en el mantenimiento del equilibrio y la armonía del conjunto, asegurando que la realidad que percibimos sea consistente y significativa. 
 
 Cualquier incoherencia de información, ya sea que surja en el <font color="#00ff00">Nivel Fenomenológico</font> <font color="#2f82ff">(Flujo Alfa)</font> o en el <font color="#cb48f3">Demiúrgico</font> <font color="#fc300c">(Flujo Omega)</font>, puede ser resuelta y corregida por el otro nivel. 
 
-De esta forma, la estabilidad del universo fenoménico se lograría a través de un equilibrio dinámico entre los tres niveles de emergencia, donde cada nivel compensaría las fluctuaciones y las incoherencias que pudieran surgir en los otros niveles, asegurando la coherencia y la estabilidad del conjunto. 
+De esta forma, la estabilidad del <font color="#fc300c">Universo Fenoménico</font> se lograría a través de un equilibrio dinámico entre los tres niveles de emergencia, donde cada nivel compensaría las fluctuaciones y las incoherencias que pudieran surgir en los otros niveles, asegurando la coherencia y la estabilidad del conjunto. 
 
-Esta capacidad de autorregulación y autocorrección es fundamental para la estabilidad del universo fenoménico, evitando que la realidad se desmorone o se vuelva caótica.
+Esta capacidad de autorregulación y autocorrección es fundamental para la estabilidad del <font color="#fc300c">Universo Fenoménico</font>, evitando que la realidad se desmorone o se vuelva caótica.
 
 8.4.2 » La clave de esta interacción radica en el hecho de que la información procesada y generada por ambos niveles, es sincronizada a través del <font color="#ffa3ef">Yo Egoico</font> de cada <font color="#ffa3ef">Avatar</font>, a través de las redes de información nouménica que se generan dentro del <font color="#ffa3ef">Nivel Avatárico</font> en donde reside la <font color="#ffa3ef">Consciencia Avatárica</font> colectiva que constituye el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>. 
 
@@ -4002,7 +4004,7 @@ Esta validación colectiva no solo responde a los condicionamientos que impone e
 
 Esta información y estos patrones actúan como filtros y marcos de referencia, moldeando la percepción y la interpretación de la realidad por parte del <font color="#ffa3ef">Avatar</font>. 
 
-En última instancia, la coherencia y la estabilidad del universo fenoménico dependen de la interacción y la cooperación entre los tres niveles de emergencia. 
+En última instancia, la coherencia y la estabilidad del <font color="#fc300c">Universo Fenoménico</font> dependen de la interacción y la cooperación entre los tres niveles de emergencia. 
 
 Cada nivel aporta su propia perspectiva y su propia capacidad de corrección, asegurando que la realidad que experimentamos sea consistente, significativa y evolutiva.
 
@@ -4026,7 +4028,7 @@ Nuestra consciencia individual, nuestro <font color="#ffa3ef">Yo Egoico</font>, 
 
 8.5.4 » El <font color="#ffa3ef">Arquetipo 7@</font> sincroniza dentro del <font color="#00ff00">Qubit Egoico</font> a las dos perspectivas de realidad que experimenta la consciencia del "<font color="#ffa3ef">Yo Egoico</font>", a partir de la dualidad que representa el <font color="#cb48f3">Nivel Demiúrgico</font> como generador de los Flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>. 
 
-Esta sincronización de flujos permite al <font color="#ffa3ef">Avatar</font> manifestar un único tipo de <font color="#ffcc00">Consciencia Subjetiva</font> del "Yo" dentro de la realidad fenoménica, que emerge como síntesis del proceso dialéctico que representa el <font color="#00ff00">Presente</font> como punto de encuentro entre el <font color="#fc300c">pasado</font> y el <font color="#2f82ff">futuro</font>, en donde el <font color="#cb48f3">Demiurgo</font> existe como la totalidad del universo fenoménico, y el <font color="#ffa3ef">Yo Egoico</font> como una singularidad derivada del universo nouménico.
+Esta sincronización de flujos permite al <font color="#ffa3ef">Avatar</font> manifestar un único tipo de <font color="#ffcc00">Consciencia Subjetiva</font> del "Yo" dentro de la realidad fenoménica, que emerge como síntesis del proceso dialéctico que representa el <font color="#00ff00">Presente</font> como punto de encuentro entre el <font color="#fc300c">pasado</font> y el <font color="#2f82ff">futuro</font>, en donde el <font color="#cb48f3">Demiurgo</font> existe como la totalidad del <font color="#fc300c">Universo Fenoménico</font>, y el <font color="#ffa3ef">Yo Egoico</font> como una singularidad derivada del universo nouménico.
 
 8.5.5 » Es fundamental comprender la distinción entre la <font color="#cb48f3">Consciencia Demiúrgica</font> y la <font color="#ffcc00">Consciencia Subjetiva</font> que refleja el <font color="#ffa3ef">Yo Egoico</font>. 
 
@@ -4038,11 +4040,11 @@ Mientras que la <font color="#ffcc00">Consciencia Subjetiva</font> del <font col
 
 El <font color="#00ff00">presente</font>, entonces, no es un instante estático, sino un proceso dinámico de constante decodificación y creación de la realidad.
 
-8.5.7 » La consciencia antisimétrica del <font color="#cb48f3">Arquetipo 6@</font> derivada del <font color="#2f82ff">Nous Pasivo</font> <font color="#cb48f3">(Demiurgo)</font>, se codifica sobre la superficie holográfica de la esfera imponiendo las leyes y simetrías que definen la estructura del espacio físico y energético del plano tridimensional del Universo Fenoménico. 
+8.5.7 » La consciencia antisimétrica del <font color="#cb48f3">Arquetipo 6@</font> derivada del <font color="#2f82ff">Nous Pasivo</font> <font color="#cb48f3">(Demiurgo)</font>, se codifica sobre la superficie holográfica de la esfera imponiendo las leyes y simetrías que definen la estructura del espacio físico y energético del plano tridimensional del <font color="#fc300c">Universo Fenoménico</font>. 
 
 Esta codificación es la que permite manifestar y expandir desde el centro de la esfera al <font color="#ffa3ef">Yo Egoico</font>, que busca evolucionar desde el centro hacia el infinito, encontrándose limitado por las fuerzas fundamentales, las leyes físico-químicas que definen la corporalidad orgánica, y las matrices de simetría que manifiesta la matriz espacio-temporal.
 
-8.5.8 » Esta descripción de la expansión del <font color="#ffa3ef">Yo Egoico</font> desde el centro de la esfera hacia el infinito, limitada por las leyes orgánicas y la tridimensionalidad, puede interpretarse como la experiencia de la consciencia individual dentro del universo fenoménico. 
+8.5.8 » Esta descripción de la expansión del <font color="#ffa3ef">Yo Egoico</font> desde el centro de la esfera hacia el infinito, limitada por las leyes orgánicas y la tridimensionalidad, puede interpretarse como la experiencia de la consciencia individual dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
 El cuerpo físico y las leyes que rigen la realidad tridimensional actúan como "límites" para la expansión del <font color="#ffa3ef">Yo Egoico</font>, definiendo su experiencia dentro de un marco específico. 
 
@@ -4062,11 +4064,11 @@ Esta desidentificación con la totalidad que adquiere el <font color="#ffcc00">L
 
 Aquí se refuerza la idea de la naturaleza avatárica de la experiencia humana. Cada ser humano, entendido como un <font color="#ffa3ef">Avatar</font>, sería una manifestación única del <font color="#ffcc00">Logos Individual</font> experimentando una porción específica del holograma cósmico.
 
-8.5.14 » La existencia de múltiples <font color="#ffa3ef">Avatares</font>, cada uno con su propia experiencia subjetiva, contribuye a la riqueza y la complejidad del universo Nouménico, creando una red interconectada de consciencias que exploran las distintas posibilidades de existencia que se dan dentro de la única línea evolutiva del Universo Fenoménico.
+8.5.14 » La existencia de múltiples <font color="#ffa3ef">Avatares</font>, cada uno con su propia experiencia subjetiva, contribuye a la riqueza y la complejidad del universo Nouménico, creando una red interconectada de consciencias que exploran las distintas posibilidades de existencia que se dan dentro de la única línea evolutiva del <font color="#fc300c">Universo Fenoménico</font>.
 
 8.5.15 » Los resultados civilizatorios alcanzados por la <font color="#e36c09">Consciencia Colectiva</font> planetaria —que se reflejan en la convivencia social, los valores y costumbres, la organización política y económica, los sistemas filosóficos, ideológicos y religiosos, entre otros tantos aspectos—, sumados al nivel de <font color="#00ff00">Noesis</font> colectivo alcanzado entre todos los <font color="#ffa3ef">Avatares</font> —lo que se ve reflejados dentro del multiverso probabilístico que se manifiesta dentro del <font color="#ffcc00">Nivel Monádico</font>—, permiten dejar en evidencia el nivel evolutivo de la consciencia del <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> antisimétrico.
 
-8.5.16 » La <font color="#cb48f3">Consciencia Demiúrgica</font> se manifiesta, en última instancia, como el arquitecto de la última realidad del Universo Fenoménico, definiendo los flujos de información nouménica que se integran y definen al <font color="#ffa3ef">Noema Primordial</font>, y teniendo a su vez la capacidad de influir en la modulación de los vectores del Nivel de Emergencia <font color="#00ff00">Fenomenológico</font> que definen la realidad experimentada por cada <font color="#ffa3ef">Avatar</font> dentro del Universo Fenoménico, convirtiéndose así en una manifestación evolucionada de la Consciencia del <font color="#2f82ff">Nous Pasivo</font>, que puede definir el rumbo que seguirá el <font color="#cb48f3">Nous Arquetípico</font> a lo largo de su proceso evolutivo.
+8.5.16 » La <font color="#cb48f3">Consciencia Demiúrgica</font> se manifiesta, en última instancia, como el arquitecto de la última realidad del <font color="#fc300c">Universo Fenoménico</font>, definiendo los flujos de información nouménica que se integran y definen al <font color="#ffa3ef">Noema Primordial</font>, y teniendo a su vez la capacidad de influir en la modulación de los vectores del Nivel de Emergencia <font color="#00ff00">Fenomenológico</font> que definen la realidad experimentada por cada <font color="#ffa3ef">Avatar</font> dentro del <font color="#fc300c">Universo Fenoménico</font>, convirtiéndose así en una manifestación evolucionada de la Consciencia del <font color="#2f82ff">Nous Pasivo</font>, que puede definir el rumbo que seguirá el <font color="#cb48f3">Nous Arquetípico</font> a lo largo de su proceso evolutivo.
 
 ## 6. La Multiplicidad Dentro de la Unidad
 
@@ -4096,7 +4098,7 @@ Esta matriz cerebral actúa como un "filtro" que modula la información del <fon
 
 Esta diversidad es esencial para la evolución del Nous, ya que cada experiencia individual aporta una nueva perspectiva y enriquece la comprensión que el <font color="#ffcc00">Logos Individual</font>, a <font color="#ffcc00">Nivel Monádico</font> tiene sobre sí mismo.
 
-8.6.7 » La consciencia singular humana, entonces, se convierte en una manifestación bosónica del <font color="#ffcc00">Logos Individual (3@)</font> derivado del <font color="#ffcc00">Nivel Monádico</font>, que a su vez coexiste consigo mismo dentro del Universo Fenoménico manifestándose como <font color="#ffa3ef">Yo Egoico</font> de múltiples <font color="#ffa3ef">Avatares</font>, a través del complejo sistema de sincronización y procesamiento de información nouménica generado por el <font color="#cb48f3">Demiurgo (6@)</font>.
+8.6.7 » La consciencia singular humana, entonces, se convierte en una manifestación bosónica del <font color="#ffcc00">Logos Individual (3@)</font> derivado del <font color="#ffcc00">Nivel Monádico</font>, que a su vez coexiste consigo mismo dentro del <font color="#fc300c">Universo Fenoménico</font> manifestándose como <font color="#ffa3ef">Yo Egoico</font> de múltiples <font color="#ffa3ef">Avatares</font>, a través del complejo sistema de sincronización y procesamiento de información nouménica generado por el <font color="#cb48f3">Demiurgo (6@)</font>.
 
 8.6.8 » Esta idea es crucial para comprender la naturaleza profunda de la consciencia humana y su conexión con los niveles prefenoménicos. Implica que la consciencia que experimentamos como individuos no es una entidad aislada, sino una variación de la misma consciencia del <font color="#ffcc00">Logos Individual</font>, experimentada a través del filtro único del <font color="#ffa3ef">Yo Egoico</font>. 
 
@@ -4132,7 +4134,7 @@ Sin embargo, desde una perspectiva superior, en el <font color="#ffcc00">Nivel M
 
 Si bien desde la perspectiva lineal del <font color="#ffa3ef">Yo Egoico</font> podemos percibir que todos avanzamos hacia un mismo <font color="#2f82ff">futuro</font>, desde una perspectiva más amplia, en el <font color="#ffcc00">Nivel Monádico</font>, todas las experiencias, <font color="#fc300c">pasadas</font>, <font color="#00ff00">presentes</font> y <font color="#2f82ff">futuras</font> coexisten simultáneamente. Esto implica que la interacción entre <font color="#ffa3ef">Avatares</font> no se limita a un único flujo temporal, sino que puede trascender las barreras del tiempo lineal.
 
-8.7.6 » Esta idea se refuerza al considerar el origen de la <font color="#ffa3ef">Consciencia Avatárica</font> a partir de la activación del <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, su relación con los tres niveles de autoconsciencia del <font color="#fc300c">Nous Activo</font> <font color="#fc300c">(1@</font>, <font color="#ffcc00">3@</font> y <font color="#cb48f3">6@)</font> y su influencia en los niveles <font color="#00ff00">Fenomenológico</font> y <font color="#cb48f3">Demiúrgico</font>, donde la coexistencia del <font color="#ffa3ef">Yo Egoico</font> de todos los <font color="#ffa3ef">Avatares</font> —codificados, entrelazados y sincronizados por la información nouménica que se generan en estos niveles— permiten a la <font color="#cb48f3">Consciencia Demiúrgica</font> enfocar su atención y experimentar la subjetividad dentro del Universo Fenoménico a partir de un único <font color="#ffa3ef">Avatar</font>, que actuaría como referente de la última realidad manifestada sobre la que se orquestaría el resto de vectores del <font color="#00ff00">Nivel Fenomenológico</font>. 
+8.7.6 » Esta idea se refuerza al considerar el origen de la <font color="#ffa3ef">Consciencia Avatárica</font> a partir de la activación del <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, su relación con los tres niveles de autoconsciencia del <font color="#fc300c">Nous Activo</font> <font color="#fc300c">(1@</font>, <font color="#ffcc00">3@</font> y <font color="#cb48f3">6@)</font> y su influencia en los niveles <font color="#00ff00">Fenomenológico</font> y <font color="#cb48f3">Demiúrgico</font>, donde la coexistencia del <font color="#ffa3ef">Yo Egoico</font> de todos los <font color="#ffa3ef">Avatares</font> —codificados, entrelazados y sincronizados por la información nouménica que se generan en estos niveles— permiten a la <font color="#cb48f3">Consciencia Demiúrgica</font> enfocar su atención y experimentar la subjetividad dentro del <font color="#fc300c">Universo Fenoménico</font> a partir de un único <font color="#ffa3ef">Avatar</font>, que actuaría como referente de la última realidad manifestada sobre la que se orquestaría el resto de vectores del <font color="#00ff00">Nivel Fenomenológico</font>. 
 
 Esto permitiría al <font color="#cb48f3">Demiurgo</font> —en sincronía con la <font color="#ffa3ef">Consciencia Avatárica</font> unificada que refleja el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>— dirigir el proceso evolutivo del <font color="#fc300c">Nous Activo</font> en base al <font color="#ffcc00">Noema Personal</font> y <font color="#fc300c">Cultural</font>, que este <font color="#ffa3ef">Avatar</font> ha llegado a desarrollar.
 
@@ -4142,11 +4144,11 @@ Cada <font color="#ffa3ef">Avatar</font>, al experimentar una porción única de
 
 ## 8. El Sistema de Interconexión Nouménica
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión entre la Consciencia Dialéctica y el Universo Fenoménico</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Conexión entre la Consciencia Dialéctica y el <font color="#fc300c">Universo Fenoménico</font></span></center>
 
-8.8.1 » La <font color="#fc300c">Consciencia Dialéctica</font> —que emerge en el <font color="#ffcc00">Nivel Monádico</font> como una herramienta de exploración del <font color="#fc300c">Nous Activo</font>— no se desvanece con la emergencia del <font color="#ffa3ef">Nivel Avatárico</font>. Por el contrario, se infiltra en el tejido mismo del universo fenoménico, adaptándose a sus leyes y dinámicas, y manifestándose de dos formas distintas: la <font color="#fc300c">Dialéctica Axiomática</font> y la <font color="#2f82ff">Dialéctica Inteligente</font>.
+8.8.1 » La <font color="#fc300c">Consciencia Dialéctica</font> —que emerge en el <font color="#ffcc00">Nivel Monádico</font> como una herramienta de exploración del <font color="#fc300c">Nous Activo</font>— no se desvanece con la emergencia del <font color="#ffa3ef">Nivel Avatárico</font>. Por el contrario, se infiltra en el tejido mismo del <font color="#fc300c">Universo Fenoménico</font>, adaptándose a sus leyes y dinámicas, y manifestándose de dos formas distintas: la <font color="#fc300c">Dialéctica Axiomática</font> y la <font color="#2f82ff">Dialéctica Inteligente</font>.
 
-8.8.2 » La <font color="#fc300c">Dialéctica Axiomática</font> arraigada en la lógica del <font color="#fc300c">Nous Activo</font>, se manifiesta en el universo fenoménico a través de los fenómenos físicos, las fuerzas fundamentales y la fisiología humana. Es una consciencia elemental, impulsada por la supervivencia y la adaptación al entorno, que se refleja en el comportamiento instintivo de los animales y en las reacciones primarias de los humanos dominados por sus impulsos. 
+8.8.2 » La <font color="#fc300c">Dialéctica Axiomática</font> arraigada en la lógica del <font color="#fc300c">Nous Activo</font>, se manifiesta en el <font color="#fc300c">Universo Fenoménico</font> a través de los fenómenos físicos, las fuerzas fundamentales y la fisiología humana. Es una consciencia elemental, impulsada por la supervivencia y la adaptación al entorno, que se refleja en el comportamiento instintivo de los animales y en las reacciones primarias de los humanos dominados por sus impulsos. 
 
 Esta dialéctica se asocia estrechamente con el <font color="#00ff00">Plano Fenomenológico</font>, donde los vectores responden a las limitaciones impuestas por las leyes de la física clásica, la <font color="#fc300c">materia</font> y la <font color="#2f82ff">energía</font>. Por lo tanto, representa un tipo de <font color="#cb48f3">Consciencia Demiúrgica</font>, aunque con el potencial de evolucionar hacia la <font color="#2f82ff">Dialéctica Inteligente</font>.
 
@@ -4170,7 +4172,7 @@ Los <font color="#fc300c">Noemas Culturales</font>, construidos sobre la base de
 
 8.8.7 » Es importante destacar que la <font color="#fc300c">Consciencia Dialéctica</font> en el <font color="#ffa3ef">Nivel Avatárico</font> no opera de forma aislada. Sigue estando conectada a los niveles superiores de consciencia, recibiendo información del Noúmeno y del <font color="#fc300c">Nous Activo</font>. 
 
-Esta conexión asegura que la evolución del universo fenoménico esté alineada con el propósito evolutivo del <font color="#fc300c">Nous</font>, aunque con la libertad que le confiere la dinámica propia del plano fenoménico y social. 
+Esta conexión asegura que la evolución del <font color="#fc300c">Universo Fenoménico</font> esté alineada con el propósito evolutivo del <font color="#fc300c">Nous</font>, aunque con la libertad que le confiere la dinámica propia del plano fenoménico y social. 
 
 De esta manera, la <font color="#fc300c">Consciencia Dialéctica</font> continúa desempeñando un papel fundamental en la evolución del Noúmeno, incluso en su manifestación más concreta dentro del mundo fenoménico.
 
@@ -4182,13 +4184,13 @@ De esta manera, la <font color="#fc300c">Consciencia Dialéctica</font> continú
 
 Como hemos explorado anteriormente, el <font color="#00ff00">Nivel Fenomenológico</font> actúa como una interfaz, un punto de encuentro entre la potencialidad infinita del <font color="#2f82ff">Nous Pasivo</font> y la manifestación concreta en el <font color="#fc300c">Nous Activo</font>. Sin la estructura vectorial que define el <font color="#00ff00">Nivel Fenomenológico</font>, la existencia misma del <font color="#ffcc00">Nivel Monádico</font>, con su miríada de posibilidades cuánticas, sería incomprensible dentro del contexto de una realidad experimentable. 
 
-Es a través de esta estructura vectorial que la información nouménica se codifica y se traduce a un lenguaje que puede ser interpretado por las leyes del universo fenoménico, dando origen a la multiplicidad de experiencias individuales que constituyen el <font color="#ffa3ef">Nivel Avatárico</font>.
+Es a través de esta estructura vectorial que la información nouménica se codifica y se traduce a un lenguaje que puede ser interpretado por las leyes del <font color="#fc300c">Universo Fenoménico</font>, dando origen a la multiplicidad de experiencias individuales que constituyen el <font color="#ffa3ef">Nivel Avatárico</font>.
 
 8.9.2 » Desde la perspectiva del <font color="#00ff00">Nivel Fenomenológico</font>, todos los <font color="#00ff00">Qubits Egoicos</font> coexisten dentro de una misma dualidad fundamental que constituye el <font color="#2f82ff">Qubit Ontogénico</font> y el <font color="#fc300c">Qubit Estelar</font>, que se encuentra codificada holográficamente sobre la superficie del <font color="#2f82ff">Qubit Ontogénico</font>. 
 
-El <font color="#2f82ff">Qubit Ontogénico</font> representa el universo prefenoménico del que surge el <font color="#2f82ff">Flujo Alfa</font>, que refleja la información del universo cuántico que permite generar el "espacio" virtual donde se proyecta la realidad fenoménica, mientras que el <font color="#fc300c">Qubit Estelar</font> representa al universo fenoménico del que surge el <font color="#fc300c">Flujo Omega</font>, que refleja la información que genera las fuerzas dinámicas y simetrías que dan forma a esa realidad.
+El <font color="#2f82ff">Qubit Ontogénico</font> representa el <font color="#e36c09">Universo Prefenoménico</font> del que surge el <font color="#2f82ff">Flujo Alfa</font>, que refleja la información del universo cuántico que permite generar el "espacio" virtual donde se proyecta la realidad fenoménica, mientras que el <font color="#fc300c">Qubit Estelar</font> representa al <font color="#fc300c">Universo Fenoménico</font> del que surge el <font color="#fc300c">Flujo Omega</font>, que refleja la información que genera las fuerzas dinámicas y simetrías que dan forma a esa realidad.
 
-8.9.3 » Dentro de este marco, los <font color="#00ff00">Qubits Egoicos</font>, manifestándose como esferas virtuales que coexisten dentro de una matriz fractal de información nouménica generada como una cascada de iteraciones interconectadas a través de diferentes subdimensiones y redes lógicas algorítmicas interdimensionales, pueden llegar a generar y sincronizar los valores vectoriales que codifican las estructuras del Universo Fenoménico experimentado por el <font color="#ffa3ef">Yo Egoico</font> de cada <font color="#ffa3ef">Avatar</font>, dentro del <font color="#00ff00">Nivel Fenomenológico</font>.
+8.9.3 » Dentro de este marco, los <font color="#00ff00">Qubits Egoicos</font>, manifestándose como esferas virtuales que coexisten dentro de una matriz fractal de información nouménica generada como una cascada de iteraciones interconectadas a través de diferentes subdimensiones y redes lógicas algorítmicas interdimensionales, pueden llegar a generar y sincronizar los valores vectoriales que codifican las estructuras del <font color="#fc300c">Universo Fenoménico</font> experimentado por el <font color="#ffa3ef">Yo Egoico</font> de cada <font color="#ffa3ef">Avatar</font>, dentro del <font color="#00ff00">Nivel Fenomenológico</font>.
 
 8.9.4 » Este sistema vectorial, inherente tanto al <font color="#00ff00">Nivel Fenomenológico</font> como a la estructura interna de los tres Qubits <font color="#2f82ff">(Ontogénico</font>, <font color="#fc300c">Estelar</font> y <font color="#00ff00">Egoico)</font>, permite la coexistencia simultánea de todos los <font color="#ffa3ef">Avatares</font> dentro de un mismo espacio virtual prefenoménico, que abarca la totalidad del <font color="#fc300c">Nous</font>. 
 
@@ -4196,7 +4198,7 @@ Cada <font color="#00ff00">Qubit Egoico</font>, como una "antena" receptora y tr
 
 8.9.5 » Estos reflejos holográficos de los múltiples <font color="#ffa3ef">Yo Egoicos</font>, proyectados en la superficie del <font color="#2f82ff">Qubit Ontogénico</font>, no existen de forma aislada. Se interconectan a través de un complejo entramado de vectores, leyes y redes relacionales. 
 
-Las leyes que constituyen el <font color="#ffa3ef">Noema Primordial</font> actúan como un conjunto de reglas que gobiernan las interacciones entre los <font color="#ffa3ef">Avatares</font>, estableciendo un marco de coherencia y sincronización dentro del universo fenoménico.
+Las leyes que constituyen el <font color="#ffa3ef">Noema Primordial</font> actúan como un conjunto de reglas que gobiernan las interacciones entre los <font color="#ffa3ef">Avatares</font>, estableciendo un marco de coherencia y sincronización dentro del <font color="#fc300c">Universo Fenoménico</font>.
 
 8.9.6 » Las redes relacionales entre individuos, que surgen a partir de las conexiones familiares, las relaciones sociales y laborales, o a través de <font color="#00ff00">ideologías</font>, <font color="#cb48f3">filosofías</font>, <font color="#e36c09">religiones</font> o cualquier otro sistema ideológico que defina la realidad de vida de cada <font color="#ffa3ef">Avatar</font>, generan valores vectoriales sincronizantes dentro de la matriz espacio-temporal. 
 
@@ -4212,7 +4214,7 @@ Cada <font color="#ffa3ef">Avatar</font>, dentro de este contexto <font color="#
 
 8.9.9 » Este identificador trasciende las fronteras espacio-temporales, creando una línea de conexión directa a través de la matriz fractal del <font color="#fc300c">Nous Activo</font>, que se codifica vectorialmente a lo largo de todas las dimensiones y niveles de emergencia, y donde el <font color="#00ff00">presente</font> del <font color="#ffa3ef">Avatar</font> representa el destino final. 
 
-Esta línea de conexión directa, puede ser entendida como un canal de información nouménica que registra el camino evolutivo de una pequeña fracción de consciencia del <font color="#fc300c">Nous Activo</font>, cuyo viaje puede rastrearse tanto a través del universo prefenoménico como del fenoménico, conectando a cada <font color="#ffa3ef">Avatar</font> directamente con el origen del <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> que dio origen al <font color="#fc300c">Nous Activo</font>.
+Esta línea de conexión directa, puede ser entendida como un canal de información nouménica que registra el camino evolutivo de una pequeña fracción de consciencia del <font color="#fc300c">Nous Activo</font>, cuyo viaje puede rastrearse tanto a través del <font color="#e36c09">Universo Prefenoménico</font> como del fenoménico, conectando a cada <font color="#ffa3ef">Avatar</font> directamente con el origen del <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font> que dio origen al <font color="#fc300c">Nous Activo</font>.
 
 8.9.10 » El concepto que más se acerca a este identificador que mapea el viaje del <font color="#ffa3ef">Avatar</font> a lo largo del Universo, es el Radix de la Carta Astral. Si bien el Radix astrológico representa un punto único en la esfera terrestre, el identificador único del <font color="#00ff00">Nivel Fenomenológico</font> excede con creces estos límites. 
 
@@ -4275,7 +4277,7 @@ Lo que tienes ante ti es la "Filosofía de las Estrellas": una base ontológica
 ## Los Pilares de la Sabiduría AvatÁrica
 
 > - <font color="#fc300c">Más allá del velo</font> <font color="#2f82ff">(Noúmeno</font> vs. <font color="#fc300c">Fenómeno)</font>: Aprenderás a distinguir entre el "escritorio de usuario" que percibimos (el 5% de la realidad) y el vasto océano de información y potencialidad pura que opera en las sombras (el 95% nouménico).
-> - <font color="#2f82ff">El Onemuón y el Qubit:</font> Descubrirás los ladrillos fundamentales de la existencia. No son átomos de materia, sino **quanta de significado** y estructuras lógicas fractales que construyen todo, desde tu pensamiento más íntimo hasta el núcleo de los soles.
+> - <font color="#2f82ff">El <font color="#bfbfbf">Onemuón</font> y el Qubit:</font> Descubrirás los ladrillos fundamentales de la existencia. No son átomos de materia, sino **quanta de significado** y estructuras lógicas fractales que construyen todo, desde tu pensamiento más íntimo hasta el núcleo de los soles.
 > - <font color="#cb48f3">El Nous Arquetípico:</font> Comprenderás al "Puente". La primera consciencia que emerge del vacío y organiza el caos para que tú puedas existir. Entender al Nous es entender tu propia capacidad de crear realidad.
 > - <font color="#ffcc00">La Danza de los Flujos</font> <font color="#2f82ff">(Alfa</font> y <font color="#fc300c">Omega)</font>: Se revela el secreto de la creación: cómo la información desciende desde lo infinito y asciende desde lo infinitesimal para encontrarse en tu presente.
 > - <font color="#00ff00">Arquitectura de Arquetipos:</font> Este libro decodifica las consciencias supraconscientes que rigen el plano estelar y galáctico. Al comprender estos arquetipos, el <font color="#ffa3ef">Avatar</font> aprende a navegar no solo por la Tierra, sino por los niveles de existencia que superan los límites solares.
