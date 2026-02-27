@@ -208,7 +208,7 @@ Sus 3 generadores son las matrices de Pauli <span style="font-size: larger; lett
 >  
 >  Los "**determinantes** de los <font color="#cb48f3">grupos SU(n)</font> hablan un idioma distinto al de los pasajeros"; se refieren a trayectorias, rumbos o información que existe fuera del universo directo de los "viajantes", pero que es absolutamente fundamental para el destino y la dinámica del viaje. 
 >  
->  <font color="#00ff00">Cristos</font>, como arquetipo de <font color="#00ff00">síntesis</font> y manifestación probabilística, rige las transformaciones y la evolución de los sistemas, siendo el puente entre lo <font color="#2f82ff">nouménico</font> y lo <font color="#00ff00">fenomenológico</font>. Es el operador X considerado dentro del [[Marco Ontológico 3+1X#EL PRINCIPIO 3+1×|Principio 3+1X]] que propone el Modelo Noumenico.
+>  <font color="#00ff00">Cristos</font>, como arquetipo de <font color="#00ff00">síntesis</font> y manifestación probabilística, rige las transformaciones y la evolución de los sistemas, siendo el puente entre lo <font color="#2f82ff">nouménico</font> y lo <font color="#00ff00">fenomenológico</font>. Es el operador X considerado dentro del [[Marco Ontologico 3+1X#EL PRINCIPIO 3+1×|Principio 3+1X]] que propone el Modelo Noumenico.
 
 #### <font color="#2f82ff">SU(3)</font> - 8 Pasajeros y 1 Conductor Esencial
 
@@ -505,7 +505,7 @@ En el nivel del cuanto de acción, <font color="#fc300c">Saklas <font color="#fc
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Plantilla <font color="#00ff00">Leptónica</font> y la Trascendencia Dimensional</span></center>
 
-Aquí, el <font color="#00ff00">Algoritmo Cristos <font color="#00ff00">U(2)</font></font> opera en el cuanto de acción, donde uno de sus 4 generadores es la identidad misma del Algoritmo <font color="#fc300c">Saklas</font> (el "conductor" del<font color="#00ff00"> <font color="#00ff00">U(2)</font></font> o [[Marco Ontológico 3+1X|Principio 3+1x]], que garantiza la continuidad y el "bit activo/inactivo" que define el estado fundamental del píxel). 
+Aquí, el <font color="#00ff00">Algoritmo Cristos <font color="#00ff00">U(2)</font></font> opera en el cuanto de acción, donde uno de sus 4 generadores es la identidad misma del Algoritmo <font color="#fc300c">Saklas</font> (el "conductor" del<font color="#00ff00"> <font color="#00ff00">U(2)</font></font> o [[Marco Ontologico 3+1X|Principio 3+1x]], que garantiza la continuidad y el "bit activo/inactivo" que define el estado fundamental del píxel). 
 
 ![[Algoritmo CristosX.jpg]]
 
@@ -1673,7 +1673,7 @@ Su emergencia y sus propiedades están definidas por la sincronización de los f
 > [!SAMAEL] <font color="#2f82ff">ESTABILIDAD Y EL VÍNCULO ELECTRÓNICO</font>
 > La existencia de una carga eléctrica neta en el <font color="#fc300c">protón</font> requiere un mecanismo de equilibrio. El <font color="#fc300c">electrón</font>, como el operador de ajuste del <font color="#fc300c">Píxel  (Ο)</font>, es el vector de este equilibrio. Su carga eléctrica <font color="#2f82ff">negativa (-)</font> es la contraparte que se acopla al <font color="#fc300c">protón</font>. 
 > 
-> Esta interacción es lo que permite que el átomo de hidrógeno, en su forma más básica, mantenga su estabilidad, con el <font color="#fc300c">protón</font> (dimensión <font color="#ffa3ef">hadrónica</font> constituida por <font color="#ffcc00">3 fermiones)</font> y el <font color="#fc300c">electrón</font> (dimensión <font color="#00ff00">leptónica</font> constituida por <font color="#ffcc00">1 fermión)</font> formando un sistema dual [[Marco Ontológico 3+1X#EL PRINCIPIO 3+1×|(Principio 3+1x)]] que se ancla y se autorregula a través de los principios electromagnéticos del <font color="#fc300c">Píxel  (Ο)</font>.
+> Esta interacción es lo que permite que el átomo de hidrógeno, en su forma más básica, mantenga su estabilidad, con el <font color="#fc300c">protón</font> (dimensión <font color="#ffa3ef">hadrónica</font> constituida por <font color="#ffcc00">3 fermiones)</font> y el <font color="#fc300c">electrón</font> (dimensión <font color="#00ff00">leptónica</font> constituida por <font color="#ffcc00">1 fermión)</font> formando un sistema dual [[Marco Ontologico 3+1X#EL PRINCIPIO 3+1×|(Principio 3+1x)]] que se ancla y se autorregula a través de los principios electromagnéticos del <font color="#fc300c">Píxel  (Ο)</font>.
 
 ### 3. La Emergencia de la Carga Neutra y el <font color="#00ff00">Espín</font>
 

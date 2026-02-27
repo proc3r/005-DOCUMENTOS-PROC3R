@@ -693,7 +693,7 @@ Desde esta perspectiva, el "quinto elemento" no es una nueva categoría ontológ
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Simbolización Primordial de los Modos de Ser</span></center>
 
-La [[Marco Ontológico 3+1X#1. Los 4 ELementos Clásicos|tetrada griega]] <font color="#00ff00">(tierra</font>, <font color="#2F82FF">agua</font>, <font color="#FFCC00">aire</font> y <font color="#FC300C">fuego)</font> constituye la instancia mitopoiética del principio 3+1X. 
+La [[Marco Ontologico 3+1X#1. Los 4 ELementos Clásicos|tetrada griega]] <font color="#00ff00">(tierra</font>, <font color="#2F82FF">agua</font>, <font color="#FFCC00">aire</font> y <font color="#FC300C">fuego)</font> constituye la instancia mitopoiética del principio 3+1X. 
 
 > - En este nivel, la <font color="#00ff00">tierra</font> representa la sincronización coherente y estática, el modo en que la información se "solidifica" en estructuras rígidas de máxima redundancia simétrica. 
 > - El <font color="#2F82FF">agua</font> introduce la fluidez resonante, donde la información mantiene compromisos dinámicos de corto alcance que permiten adaptación sin pérdida de identidad colectiva. 
@@ -706,7 +706,7 @@ En este marco, el <font color="#FC300C">fuego</font> es el X elemental, el princ
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Formalización Epistemológica de los Planos de Conservación</span></center>
 
-El [[Marco Ontológico 3+1X#2. Las 4 Dimensiones Fenoménicas|segundo marco]] —<font color="#2F82FF">cuántico</font>, <font color="#FC300C">físico</font>, <font color="#FFCC00">químico</font> y <font color="#00ff00">vectorial</font>— eleva la intuición mítica al formalismo epistemológico. 
+El [[Marco Ontologico 3+1X#2. Las 4 Dimensiones Fenoménicas|segundo marco]] —<font color="#2F82FF">cuántico</font>, <font color="#FC300C">físico</font>, <font color="#FFCC00">químico</font> y <font color="#00ff00">vectorial</font>— eleva la intuición mítica al formalismo epistemológico. 
 
 > - Aquí, la <font color="#2F82FF">sincronización cuántica</font> (modo unitario) es la <font color="#00ff00">tierra</font> solidificada del plano informacional: coherencia de fase, superposición mantenida, identidad pura. 
 > - La <font color="#FC300C">sincronización física </font>(modo conservativo) es el <font color="#2f82ff">agua</font>: fluye entre invariantes de Noether, adaptándose a simetrías sin perder contabilidad energética. 
@@ -719,7 +719,7 @@ Sin este plano, los tres modos serían incomunicables; con él, forman una jerar
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Materialización Física de los Operadores Gauge</span></center>
 
-El [[Marco Ontológico 3+1X#3. Las 4 Fuerzas Fundamentales|tercer marco]] es el de las fuerzas fundamentales —<font color="#FC300C">electromagnética</font>, <font color="#00ff00">débil</font>, <font color="#2F82FF">fuerte</font> y <font color="#FFCC00">gravitatoria</font>—, operando para permitir la manifestación física de los principios anteriores. Las tres fuerzas gauge son protocolos de corrección de error que operan dentro del espacio de Hilbert predefinido por el plano vectorial. 
+El [[Marco Ontologico 3+1X#3. Las 4 Fuerzas Fundamentales|tercer marco]] es el de las fuerzas fundamentales —<font color="#FC300C">electromagnética</font>, <font color="#00ff00">débil</font>, <font color="#2F82FF">fuerte</font> y <font color="#FFCC00">gravitatoria</font>—, operando para permitir la manifestación física de los principios anteriores. Las tres fuerzas gauge son protocolos de corrección de error que operan dentro del espacio de Hilbert predefinido por el plano vectorial. 
 
 > - La <font color="#FC300C">electromagnética U(1)</font> es la <font color="#00ff00">tierra</font>: lineal, unitaria, coherente. 
 > - La <font color="#00ff00">débil SU(2) </font>es el <font color="#2f82ff">agua</font>: simétrica pero quebrada, generando masa y direccionalidad. 
@@ -734,7 +734,7 @@ Es el <font color="#fc300c">fuego</font> físico, la transmutación que permite 
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Comprensión Sincrética de la Transducción</span></center>
 
-El [[Marco Ontológico 3+1X#2. Reinterpretando E=mc²|cuarto marco]] —expresado en la ecuación <span style="font-size: larger; letter-spacing: 2px; color: #FFCC00; font-family: 'MJXTEX';">E=mc²</span>— es la comprensión de los tres anteriores. No añade nueva física, sino que traduce los tres modos de sincronización <font color="#2F82FF">(energía</font>, <font color="#FC300C">masa</font> y <font color="#00ff00">momentum)</font> a través del operador de reescritura <span style="font-size: larger; letter-spacing: 2px; color: #FFCC00; font-family: 'MJXTEX';">(c)</span>. 
+El [[Marco Ontologico 3+1X#2. Reinterpretando E=mc²|cuarto marco]] —expresado en la ecuación <span style="font-size: larger; letter-spacing: 2px; color: #FFCC00; font-family: 'MJXTEX';">E=mc²</span>— es la comprensión de los tres anteriores. No añade nueva física, sino que traduce los tres modos de sincronización <font color="#2F82FF">(energía</font>, <font color="#FC300C">masa</font> y <font color="#00ff00">momentum)</font> a través del operador de reescritura <span style="font-size: larger; letter-spacing: 2px; color: #FFCC00; font-family: 'MJXTEX';">(c)</span>. 
 
 Es el metaoperador que permite que la información pase del Plano Nouménico <font color="#00ff00">(frecuencia)</font> al Plano Fenomenológico <font color="#FC300C">(masa</font>-<font color="#2F82FF">energía)</font> y viceversa. Es el <font color="#fc300c">fuego</font> de <font color="#fc300c">fuegos</font>, el X que comprende a los otros X locales.
 
