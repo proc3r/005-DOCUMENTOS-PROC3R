@@ -3,6 +3,7 @@ soundtrack: VO_LcRkkyWo
 indexar: true
 ---
 
+
 ![[Tetrahedro Fractal06.JPG]]
 
 ![[Modelo Noumenico3.mp3]]
