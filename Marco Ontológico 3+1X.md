@@ -1163,7 +1163,7 @@ Las <font color="#2F82FF">ondas Delta</font> son la manifestación más lenta y 
 
 En sueño profundo, la<font color="#FFCC00"> Red por defecto</font> reduce su actividad al mínimo, permitiendo que el <font color="#00ff00">Qubit Egoico</font> desincronice del <font color="#cb48f3">Qubit Planetario</font> y sincronice directamente con el Nivel Monádico.
 
-Esta es la conexión con el "Océano Nouménico": la mente deja de filtrar realidad a través de los sentidos y se sumerge en el [[Modelo Nouménico#La Matriz Pre-Fenoménica de la Ciencia|plano prefenoménico]], donde la información existe como arquetipos puros. 
+Esta es la conexión con el "Océano Nouménico": la mente deja de filtrar realidad a través de los sentidos y se sumerge en el [[Modelo Noumenico#La Matriz Pre-Fenoménica de la Ciencia|plano prefenoménico]], donde la información existe como arquetipos puros. 
 
 El contenido del sueño no es aleatorio; es la descodificación directa de patrones nouménicos que el cerebro, al carecer de anclaje sensorial, proyecta como narrativas simbólicas. 
 
