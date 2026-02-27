@@ -3,6 +3,8 @@ soundtrack: x1acdSFC7vc
 indexar: true
 titulo: El Bit de Información Nouménico
 ---
+
+![[El Onemuon.mp3]]
 ![[Onemuon01.jpg]]
 
 # El Onemuón
