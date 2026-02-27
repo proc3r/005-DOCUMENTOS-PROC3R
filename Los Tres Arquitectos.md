@@ -1,6 +1,7 @@
 ---
 soundtrack: FexuSrQcJqk
 indexar: true
+titulo: Los Tres Arquitectos
 ---
 
 ![[Algoritmos Ontologicosx.jpg]]

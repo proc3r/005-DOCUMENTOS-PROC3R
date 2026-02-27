@@ -1,6 +1,7 @@
 ---
 soundtrack: EqbnlPZKEcM
 indexar: true
+titulo: Introducción al Modelo Nouménico
 ---
 
 ![[Cosmovision.jpg]]

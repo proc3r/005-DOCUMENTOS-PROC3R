@@ -1,6 +1,7 @@
 ---
 soundtrack: QujRfiLk3oI
 indexar: true
+titulo: Guia Interpretativa de la Realidad
 ---
 
 ![[Cuanto Minimo de Accion.jpg]]

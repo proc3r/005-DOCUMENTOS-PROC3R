@@ -1,6 +1,7 @@
 ---
 soundtrack: oNocVBCWeuc
 indexar: true
+titulo: Escala de Civilizaciones Nouménicas
 ---
 
 ![[Niveles Civilizacion.jpg]]

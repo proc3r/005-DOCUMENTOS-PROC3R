@@ -1,6 +1,7 @@
 ---
 soundtrack: USz9cwVSaqg
 indexar: true
+titulo: Sοplάris
 ---
 
 ![[Soplarisx.jpg]]

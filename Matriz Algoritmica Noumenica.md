@@ -1,6 +1,7 @@
 ---
 soundtrack: APLjtX7PxJQ
 indexar: true
+titulo: Matriz Algorítmica Nouménica
 ---
 
 ![[Matriz Algoritmica.jpg]]

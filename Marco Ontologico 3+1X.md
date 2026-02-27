@@ -1,6 +1,7 @@
 ---
 soundtrack: lcy_MF_jGdE
 indexar: true
+titulo: Marco Ontológico 3+1X
 ---
 
 ![[004 - Evolucion Noumenica2.jpg]]

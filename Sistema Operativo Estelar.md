@@ -1,6 +1,7 @@
 ---
 soundtrack: JhERNwS9qOQ
 indexar: true
+titulo: Sistema Operativo Estelar
 ---
 
 ![[Desvelando el cosmos2.jpg]]
