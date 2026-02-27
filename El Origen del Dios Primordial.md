@@ -1,7 +1,7 @@
 ---
 soundtrack: USz9cwVSaqg
 indexar: true
-titulo: El Nous Arquetípico
+titulo: El Origen del Dios Primordial
 ---
 
 ![[El Nous Arquetipico.mp3]]
@@ -398,7 +398,7 @@ A lo largo de sus secciones, se exploran temas cruciales como:
 > - <font color="#2f82ff">La Virtualidad Prefenoménica:</font> Cómo puede existir una realidad antes del espacio, el tiempo y la materia.
 > - <font color="#ffcc00">El Sueño Humano como Analogía:</font> Una herramienta para comprender cómo la consciencia puede proyectar universos enteros sin necesidad de soporte físico.
 > - <font color="#00ff00">La Dualidad del Nous: </font>La distinción entre el **Nous Pasivo**, como explorador del infinito, y el **Nous Activo**, como el arquitecto que impone orden, lógica y simetría a través de unidades de información como los Onemuones y los Qubits Ontogénicos.
-> - <font color="#fc300c">El Estado Pre-Big Bang:</font> Una redefinición del origen del universo como una transformación en la estructura de la información nouménica.
+> - <font color="#fc300c">El Estado Pre Big Bang:</font> Una redefinición del origen del universo como una transformación en la estructura de la información nouménica.
 
 ### ¿Por qué leer este documento?
 
