@@ -81,7 +81,7 @@ Estas inteligencias participan activamente en su proceso evolutivo, guiando el c
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del <font color="#fc300c">Nous Activo</font></span></center>
 
-La manifestación del <font color="#fc300c">Nous Activo</font> se da como resultado de la interacción de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> del <font color="#2f82ff">Nous Pasivo</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>.
+La manifestación del <font color="#fc300c">Nous Activo</font> se da como resultado de la interacción de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> del <font color="#2f82ff">Nous Pasivo</font>: <font color="#00ff00">1<sup>✱</sup> (Cristos / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>.
 
 Su manifestación puede ser explicado a través del **Modelo del Tetraedro**. Este modelo representa un algoritmo arquetípico básico que, al interrelacionarse en distintos niveles y dimensiones, da lugar a los diferentes niveles de emergencia y consciencia que forman parte del <font color="#fc300c">Nous Activo</font>. 
 
@@ -89,7 +89,7 @@ Su manifestación puede ser explicado a través del **Modelo del Tetraedro**. Es
 
 Estos niveles emergen y se interrelacionan para totalizar la consciencia del <font color="#fc300c">Nous Activo</font>, la entidad estructuradora y generadora de la existencia fenoménica. En este contexto, exploraremos el <font color="#2f82ff">Nivel Ontológico</font> utilizando el Tetraedro como modelo.
 
-La interacción entre el Arquetipo <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font> y el Arquetipo <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> genera un flujo ascendente de información nouménica, reflejada por el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, que se expande manifestándose como una unidad coherente. Este proceso ocurre en el universo del <font color="#2f82ff">Nous Pasivo</font>, previamente a la emergencia del <font color="#fc300c">Nous Activo</font>. 
+La interacción entre el Arquetipo <font color="#00ff00">1<sup>✱</sup> (Cristos / Dualidad)</font> y el Arquetipo <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> genera un flujo ascendente de información nouménica, reflejada por el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, que se expande manifestándose como una unidad coherente. Este proceso ocurre en el universo del <font color="#2f82ff">Nous Pasivo</font>, previamente a la emergencia del <font color="#fc300c">Nous Activo</font>. 
 
 La relación entre los Arquetipos <font color="#00ff00">1<sup>✱</sup></font> y <font color="#2f82ff">2<sup>✱</sup></font> es dinámica y constante, generando una continua actualización y evolución de la información nouménica. 
 
@@ -105,7 +105,7 @@ En este <font color="#2f82ff">Nivel Ontológico</font>, el Tetraedro no represen
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tetraedro Ontológico</span></center>
 
-En el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, dos <font color="#bfbfbf">Onemuones</font> concretos —que representan a los Arquetipos <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font> y <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>— interactúan generando una resonancia algorítmica que se refleja como el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
+En el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, dos <font color="#bfbfbf">Onemuones</font> concretos —que representan a los Arquetipos <font color="#00ff00">1<sup>✱</sup> (Cristos / Dualidad)</font> y <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>— interactúan generando una resonancia algorítmica que se refleja como el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
 
 Visualizamos esta interacción utilizando un Tetraedro, donde cada cara representa a un arquetipo participando en esta dinámica:
 
@@ -321,7 +321,7 @@ Esta matriz puede entenderse como una especie de “matriz de píxeles multidime
 
 A nivel bidimensional, la estructura del <font color="#ffcc00">Nivel Monádico</font> puede asemejarse al triángulo de Sierpinski, donde triángulos equiláteros más pequeños se generan recursivamente dentro del área restante del triángulo mayor. 
 
-Si consideramos que el triángulo mayor representa la totalidad potencial de un <font color="#bfbfbf">Onemuón</font>, cada triángulo más pequeño refleja información del <font color="#bfbfbf">Onemuón</font> original, actualizada por la programación de los tres <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
+Si consideramos que el triángulo mayor representa la totalidad potencial de un <font color="#bfbfbf">Onemuón</font>, cada triángulo más pequeño refleja información del <font color="#bfbfbf">Onemuón</font> original, actualizada por la programación de los tres <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristos / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
 
 Este proceso recursivo genera <font color="#bfbfbf">Onemuones</font> con información más refinada, limitando las potencialidades del <font color="#bfbfbf">Onemuón</font> inicial y definiendo de manera más específica la información nouménica. La repetición secuencial de este proceso permite explorar infinitamente la potencialidad de un <font color="#bfbfbf">Onemuón</font> dentro del <font color="#ffcc00">Nivel Monádico</font>.
 
@@ -357,7 +357,7 @@ El Nivel de Emergencia <font color="#ffcc00">Monádico</font>, por lo tanto, rep
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dualidad, Espacio de Expansión y la Dinámica del <font color="#fc300c">Nous Activo</font></span></center>
 
-El <font color="#00ff00">Qubit@</font> inicializado por el <font color="#fc300c">Arquetipo 1@ (Adonin / Nous)</font> representa una primera estructura dual estable dentro del universo del <font color="#fc300c">Nous Activo</font>, que refleja la programación lógica del <font color="#2f82ff">Algoritmo Ontológico</font> <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>. 
+El <font color="#00ff00">Qubit@</font> inicializado por el <font color="#fc300c">Arquetipo 1@ (Adonin / Nous)</font> representa una primera estructura dual estable dentro del universo del <font color="#fc300c">Nous Activo</font>, que refleja la programación lógica del <font color="#2f82ff">Algoritmo Ontológico</font> <font color="#00ff00">1<sup>✱</sup> (Cristos / Dualidad)</font>. 
 
 Esta dualidad se manifiesta en la coexistencia simultánea de los Niveles de Emergencia <font color="#2f82ff">Ontológico</font> y <font color="#e36c09">Ontogénico</font>, lo que puede ser representado bajo la estructura básica de un Tetraedro como:
 
@@ -378,7 +378,7 @@ La interacción de información dentro de este espacio genera una "reacción en 
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trinidad Arquetípica Universal</span></center>
 
-En el Nivel de Emergencia <font color="#e36c09">Ontogénico</font> el <font color="#00ff00">Qubit@</font> emerge en su estado más fundamental como una trinidad arquetípica de <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> —manifestada a partir del <font color="#fc300c">Arquetipo 1@ (Nous / Adonin)</font>— que surge como una estructura virtual tridimensional conformada por los <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>.
+En el Nivel de Emergencia <font color="#e36c09">Ontogénico</font> el <font color="#00ff00">Qubit@</font> emerge en su estado más fundamental como una trinidad arquetípica de <font color="#00ff00"><font color="#00ff00">Consciencia Ontogénica</font></font> —manifestada a partir del <font color="#fc300c">Arquetipo 1@ (Nous / Adonin)</font>— que surge como una estructura virtual tridimensional conformada por los <font color="#2f82ff">Arquetipos Ontológicos</font>: <font color="#00ff00">1<sup>✱</sup> (Cristos / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>.
 
 Esta estructura contiene toda la potencialidad del <font color="#2f82ff">Nous Pasivo</font> en su interior, pudiéndose relacionar con la <font color="#00ff00">dualidad</font> que a su vez conforman el <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font> como totalidad, y con el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> como su reflejo fractalizado, manifestándose como entidades singulares que constituyen la totalidad, con capacidad de expresar subjetividad y autoconsciencia.
 
