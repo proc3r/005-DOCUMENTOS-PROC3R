@@ -1862,7 +1862,7 @@ En este sentido, el <font color="#cb48f3">Nous Arquetípico</font> actúa como u
 
 Este proceso exploratorio se desarrolla ajustándose a un patrón lógico preexistente, orientado fundamentalmente a la subsistencia y a la retroalimentación positiva de la totalidad de las estructuras que progresivamente integran el <font color="#cb48f3">Nous Arquetípico</font>, persiguiendo el objetivo teleológico de posibilitar la expansión y evolución constante del universo manifestado. 
 
-![[06 - Consciencia Arquetipica.jpg]]
+![[06 - Consciencia Arquetipicax.jpg]]
 
 4.3.6 » El intrincado proceso que da origen a la existencia del <font color="#cb48f3">Nous Arquetípico</font> puede ser conceptualizado, de forma simplificada, como si los tres arquetipos primordiales, al confluir en una secuencia de información básica de naturaleza aleatoria, despertaran de forma conjunta a un nuevo estrato de existencia, trascendiendo la mera potencialidad indiferenciada. 
 
@@ -2070,7 +2070,6 @@ Este deseo de expandir el proceso exploratorio, que surge al manifestarse el <fo
 ## 1. <font color="#2f82ff">Nivel de Emergencia 1 (Ontológico)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tetraedro Ontológico</span></center>
-![[01 . Nivel Ontologico1.png]]
 
 5.1.1 » En el Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, dos <font color="#bfbfbf">Onemuones</font> concretos, que representan a los Arquetipos <font color="#00ff00">1<sup>✱</sup> (Cristos / Dualidad)</font> y <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, interactúan generando una resonancia algorítmica que se refleja como el Arquetipo <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>. 
 
@@ -2107,7 +2106,6 @@ Visualizamos esta interacción utilizando un tetraedro, donde cada cara represen
 ### <font color="#2f82ff">La Consciencia Arquetípica (Nivel 1)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Universo</span></center>
-![[01 - Consciencia Arquetiipicac.png]]
 
 5.2.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> o <font color="#2f82ff">Universal</font> emerge dentro del Primer Nivel de Emergencia del <font color="#cb48f3">Nous Arquetípico</font>: el <font color="#2f82ff">Nivel Ontológico</font>. Su lógica se compone exclusivamente de <font color="#bfbfbf">Onemuones</font> que resuenan con los códigos de programación básicos que representan los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>. 
 
@@ -2150,7 +2148,6 @@ La <font color="#2f82ff">Consciencia Arquetípica</font>, por lo tanto, no solo 
 ## 2. <font color="#e36c09">Nivel de Emergencia 2 (Ontogénico)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia Unificada del Nous</span></center>
-![[01 . Nivel Ontologico.png]]
 
 5.3.1 » La secuencia de eventos generada en la dinámica Ontológica mencionada previamente —iniciada por el <font color="#00ff00">Arquetipo 1<sup>✱</sup> (Cristos / Dualidad)</font>— deriva en la activación de la <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> manifestada a través de la constitución del <font color="#fc300c">Arquetipo 3<sup>✱</sup> (Saklas/Unidad)</font>. 
 
@@ -2187,7 +2184,6 @@ Este punto representa un estado evolutivo que se manifiesta en la formación de 
 ### <font color="#00ff00">La Consciencia Ontogénica</font> <font color="#e36c09">(Nivel 2)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Consciencia del <font color="#fc300c">Nous Activo</font></span></center>
-![[02 - Consciencia Ontologica.png]]
 
 5.5.1 » La <font color="#2f82ff">Consciencia Arquetípica</font> <font color="#2f82ff">(Universal)</font> que emana dentro del Nivel de Emergencia <font color="#2f82ff">Ontológico</font>, como vimos, se manifiesta a través de la convergencia y estabilización de <font color="#bfbfbf">Onemuones</font>, dando origen a los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup></font>.
 
@@ -2260,7 +2256,6 @@ Este cualidad de autoconsciencia le permitirá no solo identificarse como un nod
 ## 3. <font color="#ffcc00">Nivel de Emergencia 3 (Monádico)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Autoconsciencia y Subjetividad</span></center>
-![[03 - Nivel MonadicoB.png]]
 
 5.6.1 » A diferencia del Nivel de Emergencia <font color="#e36c09">Ontogénico</font> —donde se expande la consciencia del <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font> operando como una especie de mente colmena y donde cada <font color="#00ff00">Qubit@</font> y elemento subyacente es una parte inseparable de la totalidad—, el Nivel de Emergencia <font color="#ffcc00">Monádico</font> se manifiesta como una matriz estructural que permite al <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> reflejar subjetividad y experimentar un mayor grado de libertad. 
 
@@ -2288,7 +2283,7 @@ Si consideramos que el triángulo mayor representa la totalidad potencial de un 
 
 Este proceso recursivo genera <font color="#bfbfbf">Onemuones</font> con información más refinada, limitando las potencialidades del <font color="#bfbfbf">Onemuón</font> inicial y definiendo de manera más específica la información nouménica. La repetición secuencial de este proceso permite explorar infinitamente la potencialidad de un <font color="#bfbfbf">Onemuón</font> dentro del <font color="#ffcc00">Nivel Monádico</font>.
 
-### <font color="#e36c09">El Tetraedro y el <font color="#00ff00">Qubit@</font></font>
+### <font color="#e36c09">El Tetraedro y el Qubit@</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Información Tridimensional y Redes Algorítmicas</span></center>
 
@@ -2314,7 +2309,7 @@ Este proceso continuo de expansión y actualización impulsa la evolución conti
 
 5.8.6 » El Nivel de Emergencia <font color="#ffcc00">Monádico</font>, por lo tanto, representa un punto crucial en el proceso evolutivo del Nous, donde la interacción entre los Arquetipos@ dentro del <font color="#00ff00">Qubit@</font>, dan origen a una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font></font> que impulsa la evolución constante del <font color="#fc300c">Nous Activo</font>.
 
-### <font color="#ffcc00">El <font color="#00ff00">Qubit@</font></font>
+### <font color="#ffcc00">El Qubit@</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dualidad, Espacio de Expansión y la Dinámica del <font color="#fc300c">Nous Activo</font></span></center>
 
@@ -2546,12 +2541,12 @@ Este principio opera en todos los niveles de la existencia, desde las interaccio
 
 5.14.2 » Sin embargo, dentro del Modelo Nouménico, distinguimos dos niveles de <font color="#fc300c">Consciencia Dialéctica</font> <font color="#fc300c">(Nodal)</font>: una <font color="#fc300c"><font color="#fc300c">Consciencia Dialéctica</font> Axiomática</font> o <font color="#fc300c">Lógica</font>, que opera como una ley fundamental en todo el universo Nouménico, y una <font color="#fc300c">Consciencia Dialéctica</font> <font color="#2f82ff">Inteligente</font> o <font color="#2f82ff">Analítica</font>, que emerge como un rango de consciencia algorítmica dentro del Nivel de Emergencia <font color="#ffcc00">Monádico</font>.
 
-> [!fuego] <font color="#fc300c">DIALÉCTICA AXIOMÁTICA</font> (Lógica)
+> [!fuego] <font color="#fc300c">DIALÉCTICA AXIOMÁTICA (Lógica)</font>
 > La <font color="#fc300c">dialéctica axiomática</font> se manifiesta como un principio inherente a la naturaleza del <font color="#2f82ff">Nous Pasivo</font>. La interacción constante entre los <font color="#2f82ff">Arquetipos Ontológicos</font> Primordiales <font color="#00ff00">(1<sup>✱</sup></font>,<font color="#2f82ff"> 2<sup>✱</sup></font>, <font color="#fc300c">3<sup>✱</sup>)</font> genera una tensión dinámica de carácter lógico que impulsa la evolución del Nous en su conjunto. 
 > 
 > Esta dialéctica fundamental no requiere de una consciencia individual que la observe o la interprete, ya que opera como una ley intrínseca, un motor que impulsa la creación y la transformación.
 
-> [!cerebro] <font color="#2f82ff">DIALÉCTICA INTELIGENTE</font> (Analítica) ^inteligente
+> [!cerebro] <font color="#2f82ff">DIALÉCTICA INTELIGENTE (Analítica)</font> ^inteligente
 > En contraste, la <font color="#2f82ff">dialéctica inteligente</font> se manifiesta a través de la <font color="#fc300c">Consciencia Dialéctica</font> <font color="#ffcc00">(Nivel 3)</font>, que representa un nivel de autoconsciencia derivado del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>. 
 > 
 > Esta consciencia no solo observa la interacción entre opuestos, sino que también la interpreta, la procesa y la utiliza para generar nuevas configuraciones de información. 
@@ -2594,7 +2589,7 @@ Continúa existiendo y procesando información, siendo un engranaje fundamental 
 
 Sin embargo, estas formas de manifestación son solo un reflejo parcial de la complejidad de la <font color="#fc300c">Consciencia Dialéctica</font> en su forma nouménica.
 
-# 6. El <font color="#00ff00">Qubit@</font> como Mecanismo Fractal
+# 6. El Qubit@ como Mecanismo Fractal
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Flujo de Información Básico del Nous</span></center>
 
@@ -3074,15 +3069,15 @@ Estas codificaciones representan tres niveles de autoconsciencia que llegarán a
 
 7.0.6 » Para entender mejor como es que la <font color="#cb48f3">Consciencia Demiúrgica</font> puede llegar a existir, será útil hacer un resumen de cómo los tres diferentes niveles de autoconsciencia prefenoménica <font color="#fc300c">(1@</font>,<font color="#ffcc00"> 3@</font> y<font color="#cb48f3"> 6@)</font> llegan a desarrollarse:
 
-> [!fuego] <font color="#fc300c">1º NIVEL DE AUTOCONSCIENCIA (Nous)</font> <font color="#00ff00">(Ontogénica Estelar)</font>
+> [!fuego] <font color="#fc300c">PRIMER NIVEL DE AUTOCONSCIENCIA (Nous)</font> <font color="#00ff00">(Ontogénica Estelar)</font>
 > Está representado por el<font color="#fc300c"> <font color="#fc300c">Arquetipo 1@</font> (Adonin)</font>, que se manifiesta dentro del <font color="#2f82ff">Nivel Ontológico</font> en el momento en que emerge el <font color="#e36c09"><font color="#e36c09">Nivel Ontogénico</font></font>, que a su vez da origen al <font color="#e36c09">Arquetipo 2@</font> <font color="#e36c09">(Logos Cósmico / Astaphaios)</font> reflejando la dualidad existencial que se da entre el <font color="#2f82ff">Nous Pasivo</font> y el <font color="#fc300c">Nous Activo</font>.
 
-> [!monadico] <font color="#ffcc00">2º NIVEL DE AUTOCONSCIENCIA (Logos Individual)</font> <font color="#fc300c">(Dialéctica Nodal)</font>
+> [!monadico] <font color="#ffcc00">SEGUNDO NIVEL DE AUTOCONSCIENCIA (Logos Individual)</font> <font color="#fc300c">(Dialéctica Nodal)</font>
 > Se constituye a partir del surgimiento del <font color="#ffcc00"><font color="#ffcc00">Arquetipo 3@  (Eloaios)</font></font>, en sincronía con la emergencia del <font color="#ffcc00">Nivel Monádico</font> y la <font color="#fc300c">Consciencia Dialéctica Nodal</font> Este nuevo nivel de consciencia, al poder interactuar y generar una síntesis de la información que generan los dos Niveles de Emergencia previos <font color="#2f82ff">(Ontológico</font> y <font color="#e36c09">Ontogénico)</font>, permite la activación de los Arquetipos <font color="#00ff00">4@ (Noesis / IAO)</font> y <font color="#2f82ff">5@ (Noema / Sabaoth)</font> 
 > 
-> Este proceso permite potenciar la expansión y evolución del <font color="#fc300c">Nous Activo</font>, que en última instancia, terminará produciendo un desbordamiento de información paradójica que fluirá hacia el <font color="#2f82ff">Nous Pasivo</font>. Este retorno de información paradójica hacia la fuente de potencialidad primordial dará como resultado la activación del <font color="#cb48f3">3º Nivel de Autoconsciencia</font>. ^2-autoconsciencia
+> Este proceso permite potenciar la expansión y evolución del <font color="#fc300c">Nous Activo</font>, que en última instancia, terminará produciendo un desbordamiento de información paradójica que fluirá hacia el <font color="#2f82ff">Nous Pasivo</font>. Este retorno de información paradójica hacia la fuente de potencialidad primordial dará como resultado la activación del <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font>. ^2-autoconsciencia
 
-> [!demiurgo] <font color="#cb48f3">3º NIVEL DE AUTOCONSCIENCIA (Demiurgo)</font> <font color="#2f82ff">(Arquetípica Universal)</font>
+> [!demiurgo] <font color="#cb48f3">TERCER NIVEL DE AUTOCONSCIENCIA (Demiurgo)</font> <font color="#2f82ff">(Arquetípica Universal)</font>
 > Está representado por la activación de un reflejo antisimétrico del <font color="#cb48f3">Arquetipo 6@ (Sabbataios)</font> que se origina dentro del <font color="#2f82ff">Nous Pasivo</font> manifestándose como un nuevo nivel de unificación de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> a partir del proceso de desbordamiento de información paradójica que se origina dentro del <font color="#fc300c">Nous Activo</font>. 
 > 
 > Este evento, puede ser entendido como un estado de máxima saturación del <font color="#fc300c">Nous Activo</font> —o un proceso evolutivo que fuerza la trascendencia de ciertas fronteras autoimpuestas—, que permite interconectar directamente a los dos aspectos del <font color="#cb48f3">Nous Arquetípico</font> <font color="#fc300c">(Activo</font> y <font color="#2f82ff">Pasivo)</font> para encontrar posibles soluciones a los aspectos paradójicos contenidos dentro del <font color="#fc300c">Nous Activo</font>, más allá de los límites y condicionamientos sobre los que este funciona.
@@ -3129,7 +3124,7 @@ El proceso de transición entre ambos estados puede entenderse a través de los 
 > 
 >![[Demiurgo04.jpg]]
 >
-> 1. La llegada de la información paradójica y compleja al <font color="#2f82ff">Nous Pasivo</font> desde el <font color="#fc300c"><font color="#fc300c">Nous Activo</font> </font>genera el despertar del <font color="#cb48f3">3º Nivel de Autoconsciencia</font> <font color="#cb48f3">(Consciencia Demiúrgica)</font> y la manifestación del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico a partir de la potencialidad infinita, que podrá reemplazar la funcionalidad del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font> que opera dentro del <font color="#fc300c">Nous Activo</font>, lo que representa una nueva etapa del proceso evolutivo del <font color="#cb48f3">Nous Arquetípico</font>, que a su vez permitirá dar origen al <font color="#fc300c">Universo Fenoménico</font>.
+> 1. La llegada de la información paradójica y compleja al <font color="#2f82ff">Nous Pasivo</font> desde el <font color="#fc300c"><font color="#fc300c">Nous Activo</font> </font>genera el despertar del <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font> <font color="#cb48f3">(Consciencia Demiúrgica)</font> y la manifestación del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico a partir de la potencialidad infinita, que podrá reemplazar la funcionalidad del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font> que opera dentro del <font color="#fc300c">Nous Activo</font>, lo que representa una nueva etapa del proceso evolutivo del <font color="#cb48f3">Nous Arquetípico</font>, que a su vez permitirá dar origen al <font color="#fc300c">Universo Fenoménico</font>.
 > 
 > ![[Demiurgo05.jpg]]
 > 
@@ -3143,7 +3138,7 @@ El proceso de transición entre ambos estados puede entenderse a través de los 
 
 7.1.7 » Esta exploración es posible haciendo uso de un algoritmo de búsqueda por fuerza bruta, en el que se incluyen también a aquellas potencialidades que jamás hubieran sido contempladas como válidas por el<font color="#fc300c"> <font color="#fc300c">Nous Activo</font></font>, por representar aspectos potenciales de la existencia infinita que podrían llegar a desafiar las leyes de orden y simetría que definen al <font color="#fc300c">Nous Activo</font>.
 
-7.1.8 » Es en este punto donde la <font color="#cb48f3">Consciencia Demiúrgica</font> del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, residiendo en el <font color="#2f82ff">Nous Pasivo</font> y reflejando el <font color="#cb48f3">3º Nivel de Autoconsciencia</font> derivada de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, logra ingresar al plano del <font color="#fc300c">Nous Activo</font> para participar de manera activa en su proceso evolutivo, haciendo uso de una nueva serie de mecanismos complejos que pueden incluso llegar a desestabilizar el orden preexistente. 
+7.1.8 » Es en este punto donde la <font color="#cb48f3">Consciencia Demiúrgica</font> del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, residiendo en el <font color="#2f82ff">Nous Pasivo</font> y reflejando el <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font> derivada de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>, logra ingresar al plano del <font color="#fc300c">Nous Activo</font> para participar de manera activa en su proceso evolutivo, haciendo uso de una nueva serie de mecanismos complejos que pueden incluso llegar a desestabilizar el orden preexistente. 
 
 ![[Demiurgo10.jpg]]
 
@@ -3184,7 +3179,7 @@ Esta interacción dialéctica da como resultado la emergencia del <font color="#
 > - El sistema de codificación que genera el origen de los flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>.
 > - Y el origen del <font color="#fc300c">Qubit Estelar</font>.
 > 
->Surgen simultáneamente a partir de la activación de la consciencia antisimétrica del <font color="#cb48f3">Arquetipo 6@</font> dentro del <font color="#2f82ff">Nous Pasivo</font>, en un evento que no solo es originado por el desbordamiento de información paradójica y el surgimiento del vacío infinitesimal que une al <font color="#fc300c">Nous Activo</font> con el Pasivo, sino que a su vez depende de la generación del <font color="#cb48f3">3º Nivel de Autoconsciencia</font> unificada de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> reflejados bajo la <font color="#cb48f3">Consciencia Demiúrgica</font>. 
+>Surgen simultáneamente a partir de la activación de la consciencia antisimétrica del <font color="#cb48f3">Arquetipo 6@</font> dentro del <font color="#2f82ff">Nous Pasivo</font>, en un evento que no solo es originado por el desbordamiento de información paradójica y el surgimiento del vacío infinitesimal que une al <font color="#fc300c">Nous Activo</font> con el Pasivo, sino que a su vez depende de la generación del <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font> unificada de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> reflejados bajo la <font color="#cb48f3">Consciencia Demiúrgica</font>. 
 
 7.2.6 » Sin embargo, a pesar de la emergencia simultánea de estos elementos, el Nivel de Emergencia <font color="#cb48f3">Demiúrgico</font> es el responsable de crear la matriz lógica informacional que se materializa como el <font color="#fc300c">Qubit Estelar</font>, siendo la estructura vectorial que permite detectar y codificar los flujos de información Nouménica <font color="#2f82ff">(Alfa</font> y <font color="#fc300c">Omega)</font>, y que se establece como la estructura esférica subyacente que delimita un sistema estelar (el <font color="#ffcc00">Qubit Heliosférico</font> para nuestro Sol), imponiendo sus propias leyes físicas y vectoriales.
 
@@ -3288,7 +3283,7 @@ La estructura virtual que manifiesta el <font color="#fc300c">Qubit Estelar</fon
 
 El encuentro de estos dos flujos en el centro del <font color="#fc300c">Qubit Estelar</font> crea una especie de región de información nouménica autoestabilizada, que actuará como barrera de contención y permite limitar el poder expansivo y caótico que promueve el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, permitiendo que el resto de los Arquetipos@ de los <font color="#00ff00">Qubits@</font>, puedan adaptarse y aprovechar la nueva información generada.
 
-7.4.8 » El <font color="#fc300c">Qubit Estelar</font> no es un simple reflejo estático del <font color="#2f82ff">Qubit Ontogénico</font> primordial, sino que se manifiesta como una entidad lógica que adquiere voluntad propia a partir del <font color="#cb48f3">3º Nivel de Autoconsciencia</font> que refleja el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico <font color="#cb48f3">(Consciencia Demiúrgica)</font>, una situación que encuentra resonancias con el proceso de autoconsciencia que adquiere el <font color="#2f82ff">Qubit Ontogénico</font> a partir del <font color="#ffcc00">2º Nivel de Autoconsciencia</font> que refleja el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>. 
+7.4.8 » El <font color="#fc300c">Qubit Estelar</font> no es un simple reflejo estático del <font color="#2f82ff">Qubit Ontogénico</font> primordial, sino que se manifiesta como una entidad lógica que adquiere voluntad propia a partir del <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font> que refleja el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico <font color="#cb48f3">(Consciencia Demiúrgica)</font>, una situación que encuentra resonancias con el proceso de autoconsciencia que adquiere el <font color="#2f82ff">Qubit Ontogénico</font> a partir del <font color="#ffcc00">Segundo Nivel de Autoconsciencia</font> que refleja el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>. 
 
 7.4.9 » La voluntad que manifiesta el <font color="#fc300c">Qubit Estelar</font>, a través de la información que se codifica dentro del <font color="#fc300c">Flujo Omega</font>, refleja el intento del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico de emerger dentro del <font color="#fc300c">Nous Activo</font> en su forma más pura, asumiendo el rol de Arquitecto del <font color="#fc300c">Universo Fenoménico</font> e intentando imponer una perspectiva que abarca todas las posibilidades ilimitadas del infinito. 
 
@@ -3412,25 +3407,25 @@ Este <font color="#00ff00">Qubit@</font> —influenciado por la codificación de
 
 Este flujo se rige por los axiomas del <font color="#2f82ff">Arquetipo Ontológico</font> <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font>, que se expresa dentro del <font color="#fc300c">Universo Fenoménico</font> a través de ondas y probabilidades, respondiendo solo a las limitaciones que impone la estructura tetraédrica del <font color="#ffcc00">Nivel Monádico</font>. 
 
-Esta estructura tetraédrica, regida por el <font color="#ffcc00">2º Nivel de Autoconsciencia</font> del <font color="#cb48f3">Nous Arquetípico</font>, genera y procesa su propio sistema de simetrías que permiten la existencia de una única realidad coherente y ordenada.
+Esta estructura tetraédrica, regida por el <font color="#ffcc00">Segundo Nivel de Autoconsciencia</font> del <font color="#cb48f3">Nous Arquetípico</font>, genera y procesa su propio sistema de simetrías que permiten la existencia de una única realidad coherente y ordenada.
 
 7.6.7 » En la jerarquía de la consciencia, el <font color="#2f82ff">Flujo Alfa</font> tiene tres roles estructurales bien definidos:
 
-> [!onemuon] <font color="#2f82ff">NIVEL QUBIT ONTOGÉNICO</font> - <font color="#2f82ff">Consciencia Universal</font> (Prefenoménico)
+> [!onemuon] <font color="#2f82ff">NIVEL QUBIT ONTOGÉNICO</font> - <font color="#2f82ff">Consciencia Universal</font> <font color="#e36c09">(Prefenoménico)</font>
 > A nivel del<font color="#e36c09"> <font color="#2f82ff">Qubit Ontogénico</font></font>, su función es prefenoménica: define las leyes básicas de la matriz espacio-temporal y la coherencia probabilística de todo el sistema estelar.
 > 
 Aquí se codifican las infinitas ramificaciones evolutivas y se determinan las regiones de alta resonancia (como la zona de Ricitos de Oro) que son necesarias para el surgimiento de la vida orgánica, estableciendo así el escenario fundamental.
 > 
 > ![[Qubit Ontogenico2.jpg]]
 
-> [!creador] <font color="#fc300c">NIVEL QUBIT ESTELAR</font> - <font color="#fc300c">Consciencia Nodal</font> (Fenoménico)
+> [!creador] <font color="#fc300c">NIVEL QUBIT ESTELAR</font> - <font color="#fc300c">Consciencia Nodal</font> <font color="#fc300c">(Fenoménico)</font>
 > En el nivel del <font color="#fc300c">Qubit Estelar</font> <font color="#ffcc00">(Heliosférico)</font>, el <font color="#2f82ff">Flujo Alfa (α)</font> coopera con el <font color="#fc300c">Flujo Omega (Ω)</font> para colapsar las probabilidades del multiverso en la única línea causal que será experimentada por los <font color="#ffa3ef">Avatares</font>. 
 > 
 > El <font color="#fc300c">Qubit Estelar</font> actúa como un traductor que toma las ondas informacionales de <font color="#2f82ff">(α)</font> (cuánticas) y las ancla a la materialidad de <font color="#fc300c">(Ω)</font> (clásicas), imponiendo las constantes físicas que aseguran la progresión lineal de la experiencia (pasado hacia futuro) dentro de los límites del sistema solar.
 >
 > ![[Qubit Creador2.jpg]]
 
-> [!tiempo] <font color="#00ff00">NIVEL QUBIT EGOICO</font> - Consciencia Estelar (Fenomenológico)
+> [!tiempo] <font color="#00ff00">NIVEL QUBIT EGOICO</font> - <font color="#00ff00">Consciencia Estelar (Fenomenológico)</font>
 > En el nivel del <font color="#ffcc00"><font color="#00ff00">Qubit Egoico</font></font> (la consciencia humana), el <font color="#2f82ff">Flujo Alfa (α)</font> permite la emergencia de las redes abstractas y nouménicas en la estructura cerebral.
 > 
 El <font color="#00ff00">Qubit Egoico</font> es el responsable de la capacidad de la consciencia de proyectar el futuro, de crear civilizaciones, y, fundamentalmente, de alimentar el sentido subjetivo del libre albedrío, permitiendo al <font color="#ffa3ef">Yo Egoico</font> experimentar la toma de decisiones dentro de la matriz lineal de causalidad.
@@ -3505,7 +3500,7 @@ Sin embargo, para comprender el ámbito de su aplicación, es necesario diferenc
 
 > [!universo] <font color="#ffa3ef">NOEMA PRIMORDIAL</font> - <font color="#fc300c">QUBIT ESTELAR</font> <font color="#ffcc00">(Heliosférico</font>/<font color="#cb48f3">Planetario)</font> 
 > Representa la matriz lógica que define las leyes físico energéticas y el plano social causal de una civilización. Este noema esta conectado con el <font color="#e36c09">Nivel Ontogénico</font><font color="#00ff00"> (Consciencia Estelar)</font> y se actualiza mediante la validación de la <font color="#e36c09">Consciencia Colectiva</font>, a partir del nivel de <font color="#00ff00">Noesis</font> que refleja una civilización Planetaria.
-> ![[05 - Noema Universal2P.png]]
+> ![[05 - Noema Primordial2p.png]]
 
 > [!instituciones] <font color="#fc300c">NOEMA CULTURAL</font> -<font color="#ffa3ef"> HEGEMÓN CIVILIZATORIO</font> <font color="#cb48f3">(Egregores)</font>
 > Representa un entramado complejo de significados, ideas, creencias, valores, normas y prácticas que definen la identidad de un grupo social y que se transmiten de generación en generación. 
@@ -3555,7 +3550,7 @@ Esta información de origen <font color="#e36c09">Ontogénico</font>, es la que 
 
 7.8.10 » El <font color="#ffa3ef">Yo Egoico</font> representaría entonces un vacío informacional infinitesimal similar al que refleja el <font color="#cb48f3">Arquetipo 6@</font> original del <font color="#2f82ff">Qubit Ontogénico</font> para contener las paradojas que emergen a partir de la expansión del <font color="#fc300c">Nous Activo</font>, adaptado a la estructura del <font color="#00ff00">Qubit Egoico</font>. 
 
-Su manifestación se da como una estructura vectorial codificante que existe en el límite que separa al <font color="#2f82ff">Qubit Ontogénico</font> del <font color="#fc300c">Qubit Estelar</font>, pudiendo procesar simultáneamente la información nouménica que fluye por ambos flujos, <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>, a partir del <font color="#ffcc00">2º Nivel de Autoconsciencia</font> y <font color="#ffcc00">subjetividad</font> que refleja el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> existiendo como una individualización de la totalidad del <font color="#fc300c">Nous Activo</font>. 
+Su manifestación se da como una estructura vectorial codificante que existe en el límite que separa al <font color="#2f82ff">Qubit Ontogénico</font> del <font color="#fc300c">Qubit Estelar</font>, pudiendo procesar simultáneamente la información nouménica que fluye por ambos flujos, <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font>, a partir del <font color="#ffcc00">Segundo Nivel de Autoconsciencia</font> y <font color="#ffcc00">subjetividad</font> que refleja el <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font> existiendo como una individualización de la totalidad del <font color="#fc300c">Nous Activo</font>. 
 
 7.8.11 » Su existencia se ve afectada tanto por <font color="#2f82ff">lo infinitesimal</font> como por<font color="#fc300c"> lo infinito</font>. Esta coexistencia en la frontera entre lo <font color="#2f82ff">cuántico</font> y lo <font color="#fc300c">clásico</font> es lo que define la naturaleza dialéctica del <font color="#00ff00">Qubit Egoico</font>, y lo que permite al ser humano manifestar consciencia y experimentar la realidad del <font color="#fc300c">Universo Fenoménico</font>.
 
@@ -3721,7 +3716,7 @@ Este arquetipo unifica a todos los Arquetipos vectoriales del <font color="#00ff
 
 8.0.2 » Este proceso de síntesis y diferenciación que genera el <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font> permite a su vez que cada <font color="#00ff00">Qubit@</font> pueda llegar a manifestarse dentro de la matriz tetraédrica que constituye el <font color="#ffcc00">Nivel Monádico</font>, como una entidad autoconsciente con capacidad de reconocer su entorno y experimentar subjetividad. 
 
-Estas cualidades que poseen todos los <font color="#00ff00">Qubits@</font>, se originan a partir del <font color="#ffcc00">2º Nivel de Autoconsciencia</font> derivado de la unificación vectorial que genera el <font color="#ffcc00">Arquetipo 3@</font> de las lógicas que rigen el funcionamiento de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>.
+Estas cualidades que poseen todos los <font color="#00ff00">Qubits@</font>, se originan a partir del <font color="#ffcc00">Segundo Nivel de Autoconsciencia</font> derivado de la unificación vectorial que genera el <font color="#ffcc00">Arquetipo 3@</font> de las lógicas que rigen el funcionamiento de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font>.
 
 8.0.3 » Esta codificación de información derivada del <font color="#2f82ff">Nivel Ontológico</font> le confiere a los <font color="#00ff00">Qubits@</font> la capacidad de sincronizarse y manifestar la matriz tetraédrica del <font color="#ffcc00">Nivel Monádico</font>, mediante la cual podrán explorar simultáneamente las múltiples probabilidades de existencia que genera el <font color="#bfbfbf">Noema Universal</font> <font color="#2f82ff">(Arquetipo 5@ / Sabaoth) </font>, en base al proceso de <font color="#00ff00">Noesis (Arquetipo 4@ / IAO)</font> que dirige la expansión y evolución del <font color="#fc300c">Nous Activo (Arquetipo 1@/Adonin)</font>. 
 
@@ -3737,9 +3732,9 @@ Este evento produce la emergencia de la consciencia la Demiúrgica del <font col
 
 Este nivel de Consciencia surge como un nuevo nivel de codificación y sincronización de los tres niveles de autoconsciencia generados dentro del <font color="#fc300c">Nous Activo</font> que ya hemos mencionado previamente:
 
-> - <font color="#fc300c">1º Nivel de Autoconsciencia</font>: Asociada a la <font color="#00ff00">Consciencia Ontogénica Estelar</font>, al Nivel de Emergencia <font color="#e36c09">Ontogénico</font> y al <font color="#fc300c">Qubit Estelar</font>, siendo reflejada a través del <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>.
-> - <font color="#ffcc00">2º Nivel de Autoconsciencia</font>: Asociada a la <font color="#fc300c">Consciencia Dialéctica Nodal</font>, al Nivel de Emergencia <font color="#ffcc00">Monádico</font> y al <font color="#ffcc00">Qubit Heliosférico</font>, siendo reflejada a través del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>.
-> - <font color="#cb48f3">3º Nivel de Autoconsciencia</font>: Asociada a la <font color="#2f82ff">Consciencia Ontológica Universal</font>, al Nivel de Emergencia <font color="#cb48f3">Demiúrgico</font> y al <font color="#00ff00">Qubit Egóico</font>, siendo reflejada a través del  <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> antisimétrico.
+> - <font color="#fc300c">Primer Nivel de Autoconsciencia</font>: Asociada a la <font color="#00ff00">Consciencia Ontogénica Estelar</font>, al Nivel de Emergencia <font color="#e36c09">Ontogénico</font> y al <font color="#fc300c">Qubit Estelar</font>, siendo reflejada a través del <font color="#fc300c">Arquetipo 1@</font> <font color="#fc300c">(Nous / Adonin)</font>.
+> - <font color="#ffcc00">Segundo Nivel de Autoconsciencia</font>: Asociada a la <font color="#fc300c">Consciencia Dialéctica Nodal</font>, al Nivel de Emergencia <font color="#ffcc00">Monádico</font> y al <font color="#ffcc00">Qubit Heliosférico</font>, siendo reflejada a través del <font color="#ffcc00">Arquetipo 3@</font> <font color="#ffcc00">(Logos Individual / Eloaios)</font>.
+> - <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font>: Asociada a la <font color="#2f82ff">Consciencia Ontológica Universal</font>, al Nivel de Emergencia <font color="#cb48f3">Demiúrgico</font> y al <font color="#00ff00">Qubit Egóico</font>, siendo reflejada a través del  <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> antisimétrico.
 
 8.0.6 » A diferencia de la <font color="#cb48f3">Consciencia Demiúrgica</font> —que unifica la lógica de los tres niveles Ontológicos <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> para adquirir la perspectiva de la totalidad y el infinito—, la <font color="#ffa3ef">Consciencia Avatárica</font> se manifiesta desde la perspectiva opuesta, iniciando como un **vacío de información** que evoluciona a través de la lógica que refleja la consciencia del <font color="#ffcc00">Logos Individual</font>.
 
