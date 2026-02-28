@@ -157,7 +157,7 @@ Esta cuantización del flujo de información no es simplemente una limitación, 
 
 De manera simbólica, podríamos imaginar a un <font color="#bfbfbf">Onemuón</font> que tiene 11 dimensiones internas en él, cada dimensión correspondiendo a uno de los valores cuantizados que hemos mencionado (1, 1/2, 1/4, 1/8, etc.). 
 
-Es en la undécima dimensión —cuando el valor fraccionado alcanza 1/1024—, cuando la información se unifica para generar un nuevo <font color="#bfbfbf">Onemuón</font> —la dualidad se convierte en unidad—, para volver a comenzar todo el proceso de exploración desde 1. 
+Es en la undécima dimensión —al llegar a la fracción 1/1024—, cuando la información se unifica para generar un nuevo <font color="#bfbfbf">Onemuón</font> —la dualidad se convierte en unidad—, para volver a comenzar todo el proceso de exploración desde 1. 
 
 Estas dimensiones no son dimensiones espaciales en el sentido fenoménico, sino dimensiones informacionales abstractas, modos diferenciados de procesamiento y organización de la información.
 
@@ -243,7 +243,7 @@ El centro puntual del <font color="#bfbfbf">Onemuón</font>, infinitesimalmente 
 
 Para visualizar esta conexión infinitesimal-infinito, podemos recurrir a una analogía imaginativa: la del "viajero infinitesimal". Imaginemos un ser diminuto, un viajero de escala nouménica, capaz de recorrer el camino vectorial que representa la secuencia de Phi dentro del <font color="#bfbfbf">Onemuón</font>. 
 
-![[Onemuon 2 Viajero.jpg]]
+![[Onemuon x Viajero.jpg]]
 
 > 1. Este viajero iniciando su periplo en el centro mismo de la esfera <font color="#bfbfbf">Onemuónica</font>, comienza a desenrollar la secuencia decimal de Phi a medida que avanza por el camino vectorial, leyendo la información codificada en cada punto decimal. 
 > 2. A medida que el viajero infinitesimal se desplaza hacia el exterior, siguiendo los decimales irracionales de Phi, llega eventualmente a alcanzar la superficie de la esfera <font color="#bfbfbf">Onemuónica</font>. 

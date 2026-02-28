@@ -138,7 +138,7 @@ Nos propone una visión donde estas disciplinas no son compartimentos estancos, 
 
 0.4.9 » Porque dentro de la propia lógica del modelo científico, existe el axioma implícito de que solo aquello que es verificable empíricamente puede ser validado como «conocimiento verdadero», y debido a que el dominio prefenoménico, por definición, trasciende la experiencia sensorial y la medición dentro del <font color="#fc300c">Universo Fenoménico</font>, la ciencia se encuentra ante un límite epistemológico infranqueable. 
 
-0.4.10 » Es por esto que jamás podrá desde sus propios axiomas resolver la paradoja de la existencia de una consciencia de nivel prefenoménico, porque aceptar la existencia de una consciencia prefenoménica implicaría una ruptura radical con los axiomas básicos de la ciencia materialista, resultando en un proceso de deconstrucción del edificio científico tal como lo conocemos.
+0.4.10 » Es por esto que jamás podrá desde sus propios axiomas resolver la paradoja de la existencia de una consciencia de <font color="#e36c09">Nivel Prefenoménico</font>, porque aceptar la existencia de una consciencia prefenoménica implicaría una ruptura radical con los axiomas básicos de la ciencia materialista, resultando en un proceso de deconstrucción del edificio científico tal como lo conocemos.
 
 0.4.11 » Esto generaría la necesidad de retornar a una etapa previa de su proceso evolutivo como forma de conocimiento, reconectándose, quizás, con la metafísica, la filosofía, o incluso, en un sentido resignificado, con la propia religión.
 
@@ -1742,7 +1742,7 @@ Al ser focalizado por la <font color="#2f82ff">Consciencia Arquetípica</font>, 
 
 ![[Nous Arquetipico03.jpg]]
 
-4.1.5 » Así, en el nivel prefenoménico, la consciencia universal que manifiesta el <font color="#cb48f3">Nous Arquetípico</font> posee la capacidad de explorar el infinito de posibilidades que se generan dentro de su propio ser, a medida que se expande y evoluciona. 
+4.1.5 » Así, en el <font color="#e36c09">Nivel Prefenoménico</font>, la consciencia universal que manifiesta el <font color="#cb48f3">Nous Arquetípico</font> posee la capacidad de explorar el infinito de posibilidades que se generan dentro de su propio ser, a medida que se expande y evoluciona. 
 
 Esta exploración puede incluso llevar al <font color="#cb48f3">Nous Arquetípico</font> a alcanzar una etapa de alta coherencia y estabilidad, que le permitiría sumergirse en una especie de "sueño prefenoménico", una virtualización de la experiencia, donde puede vivenciar la vida entera de un ser humano, o incluso experimentar simultáneamente la perspectiva de cada ser potencialmente existente, todo ello antes de que se concrete el evento que denominamos Big Bang, antes de que la materia, la energía, el tiempo y el espacio adquieran existencia fenoménica. 
 
@@ -1752,7 +1752,7 @@ Al despertar de este sueño virtual, el <font color="#cb48f3">Nous Arquetípico<
 
 Es dentro de este Hardware (el <font color="#fc300c">Universo Fenoménico</font>) donde se ejecutarán los programas lógicos y las redes algorítmicas <font color="#bfbfbf">Onemuónicas</font> que permitirán manifestar y experimentar la realidad proyectada arquetípicamente en el plano prefenoménico.
 
-4.1.6 » Es a lo largo de este laberinto fractal y vectorial de información nouménica que se manifiesta dentro del nivel prefenoménico donde ciertos <font color="#bfbfbf">Onemuones</font> —que reflejan información incompatibles entre sí— pueden ser sincronizados y estabilizados. 
+4.1.6 » Es a lo largo de este laberinto fractal y vectorial de información nouménica que se manifiesta dentro del <font color="#e36c09">Nivel Prefenoménico</font> donde ciertos <font color="#bfbfbf">Onemuones</font> —que reflejan información incompatibles entre sí— pueden ser sincronizados y estabilizados. 
 
 Mientras que otros elementos nouménicos solo podrán ser sincronizados a través de las matrices de simetrías, cuantificación de cualidades estadísticas (bosones y fermiones), fuerzas fundamentales y demás mecanismos fenoménicos que surgen dentro del plano fenoménico estudiados por la física.
 
@@ -1766,7 +1766,7 @@ Esta matriz espacio temporal se expandirá sigiuiendo las leyes y condicionamien
 
 A partir de este momento, el <font color="#fc300c">Universo Fenoménico</font> inicia su evolución limitado por las leyes y simetrías físico energéticas, permitiendo la formación de planetas, el surgimiento de la vida, el desarrollo de civilizaciones y, finalmente, la emergencia de las condiciones causales y civilizatorias necesarias para el surgimiento del ser humano, que le permitirá encarnar y vivir la realidad concreta, aquel sueño virtualizado que el <font color="#cb48f3">Nous Arquetípico</font> experimentó en el vacío prefenoménico.
 
-4.1.9 » Este preámbulo busca aclarar que, en el nivel prefenoménico, conceptos como materia, energía, tiempo y espacio no operan como limitaciones o requisitos, sino que existen en su forma potencial dentro de las redes algorítmicas de información nouménica.
+4.1.9 » Este preámbulo busca aclarar que, en el <font color="#e36c09">Nivel Prefenoménico</font>, conceptos como materia, energía, tiempo y espacio no operan como limitaciones o requisitos, sino que existen en su forma potencial dentro de las redes algorítmicas de información nouménica.
 
 Esto permite que una consciencia superior, como el <font color="#cb48f3">Nous Arquetípico</font>, vivencie y explore virtualmente probabilidades específicas del universo, incluso antes de que los mecanismos dialécticos de la dimensión fenoménica manifiesten tales fenómenos de manera concreta.
 
@@ -1814,7 +1814,7 @@ En este plano prefenoménico, la consciencia universal podría construir experie
 
 En el estado de sueño, estas capacidades de proyección mental se intensifican y se transforman en experiencias vívidas y multifacéticas, con lógicas narrativas y sensoriales mucho más complejas. 
 
-Esta capacidad humana, aunque limitada por la biología y la experiencia individual, nos ofrece una pequeña ventana para intuir la inmensa capacidad de virtualización inherente a la consciencia del <font color="#cb48f3">Nous Arquetípico</font> en el nivel prefenoménico. 
+Esta capacidad humana, aunque limitada por la biología y la experiencia individual, nos ofrece una pequeña ventana para intuir la inmensa capacidad de virtualización inherente a la consciencia del <font color="#cb48f3">Nous Arquetípico</font> en el <font color="#e36c09">Nivel Prefenoménico</font>. 
 
 Si nuestra mente finita puede crear simulaciones de realidad tan convincentes, ¿qué no podría lograr una consciencia de naturaleza infinita y potencialidad ilimitada en el vacío prefenoménico?
 
@@ -2059,7 +2059,7 @@ Este proceso ocurre en el universo del <font color="#2f82ff">Nous Pasivo</font>,
 
 5.0.4 » La relación entre los Arquetipos <font color="#00ff00">1<sup>✱</sup></font> y <font color="#2f82ff">2<sup>✱</sup></font> es dinámica y constante, generando una continua actualización y evolución de la información nouménica. 
 
-En el <font color="#2f82ff">Nivel Ontológico</font> este flujo de informaciónse entiende como la generación de nuevas posibilidades y potencialidades dentro del <font color="#2f82ff">Nous Pasivo</font>, antes de que surja el "deseo" del <font color="#cb48f3">Nous Arquetípico</font> de explorar en profundidad las potencialidades generadas a partir de las redes algorítmicas <font color="#bfbfbf">Onemuónicas</font> simples que se manifiestan dentro del <font color="#2f82ff">Nous Pasivo</font>. 
+En el <font color="#2f82ff">Nivel Ontológico</font> este flujo de información se entiende como la generación de nuevas posibilidades y potencialidades dentro del <font color="#2f82ff">Nous Pasivo</font>, antes de que surja el "deseo" del <font color="#cb48f3">Nous Arquetípico</font> de explorar en profundidad las potencialidades generadas a partir de las redes algorítmicas <font color="#bfbfbf">Onemuónicas</font> simples que se manifiestan dentro del <font color="#2f82ff">Nous Pasivo</font>. 
 
 Este deseo de expandir el proceso exploratorio, que surge al manifestarse el <font color="#fc300c">Nous Activo</font>, representa el inicio de una serie de eventos que derivan en la manifestación del <font color="#fc300c">Universo Fenoménico</font>.
 
@@ -2697,7 +2697,7 @@ Esta unidad de información (similar al bit) es la participa de las redes lógic
 > 
 Esta unidad de información (similar al Byte) es la que tienen la capacidad de procesar información y generar redes lógicas con otras entidades que emergen dentro de los distintos planos existenciales, y que se reflejan dentro del universo Nouménico como un <font color="#bfbfbf">Onemuón</font> singular.
 
-6.1.2 » Esta base trinitaria de información representa los tres niveles fundamentales de existencia del nivel prefenoménico que contempla el Modelo Nouménico. 
+6.1.2 » Esta base trinitaria de información representa los tres niveles fundamentales de existencia del <font color="#e36c09">Nivel Prefenoménico</font> que contempla el Modelo Nouménico. 
 
 El <font color="#2f82ff">Noúmeno</font> contiene la potencialidad infinita, el <font color="#2f82ff">Nous Pasivo</font> contiene los <font color="#fc300c"><font color="#bfbfbf">Onemuones</font></font>, que constituyen las unidades mínimas de esa potencialidad, y los <font color="#2f82ff"><font color="#00ff00">Qubits@</font></font> son las primeras estructuras organizadas que surgen dentro del <font color="#fc300c">Nous Activo</font>, que pueden procesar la información que reflejan los <font color="#bfbfbf">Onemuones</font> para crear redes algorítmicas interrelacionadas.
 
@@ -2888,7 +2888,7 @@ Esta diferencia fundamental entre la acción de la <font color="#00ff00">Noesis<
 
 6.4.1 » Al igual que la <font color="#00ff00">Noesis</font>, el concepto de <font color="#2f82ff">Noema</font>, tiene sus raíces en la filosofía fenomenológica donde es utilizado para referirse a los contenidos que constituyen un pensamiento, juicio o percepción. 
 
-Esta palabra adquiere una interpretación particular dentro del Modelo Nouménico, ya que el <font color="#2f82ff">Noema</font>, representado por el <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font>, puede ser entendido como una matriz lógica de información nouménica que comienza a definir la estructura de la realidad fenoménica desde un nivel prefenoménico.
+Esta palabra adquiere una interpretación particular dentro del Modelo Nouménico, ya que el <font color="#2f82ff">Noema</font>, representado por el <font color="#2f82ff">Arquetipo 5@ (Noema / Sabaoth)</font>, puede ser entendido como una matriz lógica de información nouménica que comienza a definir la estructura de la realidad fenoménica desde un <font color="#e36c09">Nivel Prefenoménico</font>.
 
 En este nivel, la información que forma parte del <font color="#2f82ff">Noema</font> no es simplemente un contenido mental subjetivo, sino una estructura profunda que configura las leyes y las posibilidades del universo.
 
@@ -2914,7 +2914,7 @@ A nivel humano, los <font color="#2f82ff">Noemas</font> se expanden a través de
 
 Este proceso da como resultado la creación de diversas <font color="#ffcc00">mitologías</font>, <font color="#e36c09">religiones</font>, <font color="#cb48f3">filosofías</font>, <font color="#00ff00">ideologías</font>, <font color="#2f82ff">modelos científicos</font> y <font color="#fc300c">sistemas de civilización</font>, que a su vez terminan imponiendo fronteras al conocimiento, que limitan la existencia de las civilizaciones.
 
-6.4.5 » Estos límites a los que se ven condicionadas las civilizaciones humanas, pueden ser autoimpuestos o derivados del nivel prefenoménico, donde se evalúa el nivel de <font color="#00ff00">Noesis (4@ / IAO)</font> que llega a alcanzar la <font color="#e36c09">Consciencia Colectiva</font> de los humanos que coexisten en una misma época y civilización, para restringir la existencia de ciertas líneas potenciales de existencia que puedan representar sistemas caóticos o autodestructivos.
+6.4.5 » Estos límites a los que se ven condicionadas las civilizaciones humanas, pueden ser autoimpuestos o derivados del <font color="#e36c09">Nivel Prefenoménico</font>, donde se evalúa el nivel de <font color="#00ff00">Noesis (4@ / IAO)</font> que llega a alcanzar la <font color="#e36c09">Consciencia Colectiva</font> de los humanos que coexisten en una misma época y civilización, para restringir la existencia de ciertas líneas potenciales de existencia que puedan representar sistemas caóticos o autodestructivos.
 
 Esto permite priorizar la subsistencia de aquellas civilizaciones que puedan llegar a establecer un único sistema de civilización basado en un <font color="#2f82ff">Noema (4@ / Sabaoth)</font> equilibrado y coherente construido colectivamente por la mayor cantidad de <font color="#ffa3ef">Avatares</font> posibles, que permita reflejar un único nivel de <font color="#00ff00">Noesis (4@ / IAO)</font> evolucionado, que se manifieste a partir la consciencia de la mayor cantidad de humanos posibles dentro de la totalidad que constituye la consciencia colectiva planetaria.
 
@@ -2926,7 +2926,7 @@ Este proceso evolutivo que se extiende desde el Noúmeno hasta la experiencia co
 
 En esta civiización —donde no se contempla la existencia de un consciencia superior que pueda llegar a tener algún tipo de influencia dentro del destino de la civilización—, el <font color="#2f82ff">Noema</font> se limitaría solamente a manifestar las matrices, leyes y principios universales impuestos por la ciencia.
 
-Esto excluiría del sistema a cualquier otro tipo de mecanismo lógico inteligente autorregulante de nivel prefenoménico que pudiera llegar a intervenir ante la aparición de una inminente amenaza futura que ponga en riesgo la existencia de esa civilización. 
+Esto excluiría del sistema a cualquier otro tipo de mecanismo lógico inteligente autorregulante de <font color="#e36c09">Nivel Prefenoménico</font> que pudiera llegar a intervenir ante la aparición de una inminente amenaza futura que ponga en riesgo la existencia de esa civilización. 
 
 Estas amenazas podrían incluir cualquier tipo de evento catastrófico iniciado por los sistemas entrópicos y caóticos que se reflejan dentro de la dinámica físico-energética del <font color="#fc300c">Universo Fenoménico</font>, pudiéndose manifestar como eventos climáticos, geológicos o astronómicos como ya ha ocurrido en el pasado, o incluso podría incluir eventos autodestructivos que se originan a partir del ámbito humano.
 
@@ -2970,7 +2970,7 @@ Sin embargo, el <font color="#ffa3ef">Noema Primordial</font> asegura que la inf
 
 6.5.6 » Es importante mencionar que el <font color="#ffa3ef">Noema Primordial</font> no surge de forma aislada como producto exclusivo de la mente humana, sino que se origina a partir de las probabilidades y los flujos de información nouménica que generan las simetrías y estructuras preexistentes en los niveles <font color="#2f82ff">Ontológico</font>, <font color="#e36c09">Ontogénico</font> y <font color="#ffcc00">Monádico</font>, sincronizados a través de la matriz vectorial que manifiesta el <font color="#00ff00">Nivel Fenomenológico</font> —que actúa como un punto de convergencia entre la información que se deriva de los niveles prefenoménicos y la información que se genera dentro del <font color="#fc300c">Universo Fenoménico</font>—, a partir de la experiencia mental que manifiesta el <font color="#ffa3ef">Yo Egoico</font> de cada uno de los <font color="#ffa3ef">Avatares</font>.
 
-6.5.7 » El <font color="#ffa3ef">Noema Primordial</font>, como principal estructura de información compleja con orden y coherencia aplicable dentro del plano fenomenológico, se nutre y se construye a partir de la interacción entre los elementos fundamentales que forman parte del nivel prefenoménico, que a su vez pueden dividirse en tres grandes grupos, según el Nivel de Emergencia dentro del cual existen y evolucionan.
+6.5.7 » El <font color="#ffa3ef">Noema Primordial</font>, como principal estructura de información compleja con orden y coherencia aplicable dentro del plano fenomenológico, se nutre y se construye a partir de la interacción entre los elementos fundamentales que forman parte del <font color="#e36c09">Nivel Prefenoménico</font>, que a su vez pueden dividirse en tres grandes grupos, según el Nivel de Emergencia dentro del cual existen y evolucionan.
 
 ### <font color="#2f82ff"><font color="#bfbfbf">Onemuones</font> (Nivel Ontológico)</font>
 
@@ -3099,7 +3099,7 @@ Estas codificaciones representan tres niveles de autoconsciencia que llegarán a
 
 Este estado autorreferencial dota a la <font color="#cb48f3">Consciencia Demiúrgica</font> de la capacidad de analizar y participar activamente del desarrollo evolutivo de todos los aspectos Nouménicos que forman parte de la estructura básica del <font color="#fc300c">Nous Activo</font>.
 
-7.0.11 » La <font color="#cb48f3">Consciencia Demiúrgica</font>, aunque emerge como consecuencia de una etapa de maduración evolutiva y saturación lógica del <font color="#fc300c">Nous Activo</font>, puede llegar a verse reflejado en la existencia de cada <font color="#bfbfbf">Onemuón</font>, así como interpretar cada red lógica de información y significado, y evaluar todos los aspectos estadísticos, cualitativos y cuantitativos que existen tanto en el nivel prefenoménico, como dentro del <font color="#fc300c">Universo Fenoménico</font>. 
+7.0.11 » La <font color="#cb48f3">Consciencia Demiúrgica</font>, aunque emerge como consecuencia de una etapa de maduración evolutiva y saturación lógica del <font color="#fc300c">Nous Activo</font>, puede llegar a verse reflejado en la existencia de cada <font color="#bfbfbf">Onemuón</font>, así como interpretar cada red lógica de información y significado, y evaluar todos los aspectos estadísticos, cualitativos y cuantitativos que existen tanto en el <font color="#e36c09">Nivel Prefenoménico</font>, como dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
 7.0.12 » Esta capacidad permite asociar a la figura arquetípica del <font color="#cb48f3">Demiúrgo</font> con una especie de Arquitecto Universal o Dios Primordial, que al despertar de su sueño eterno (Estado previo al desbordamiento de informacion paradojica) tiene la capacidad de intervenir en el desarrollo del <font color="#fc300c">Nous Activo</font> y manifestar repentinamente el <font color="#fc300c">Universo Fenoménico</font>, tal como ha sido interpretado por las diversas religiones, cultos, sectas esotéricas y sociedades secretas modernas a lo largo de la historia humana.
 
@@ -3335,7 +3335,7 @@ Esta red de relaciones representa la lógica básica de la <font color="#2f82ff"
 
 7.5.7 » El <font color="#fc300c">Qubit Estelar</font> <font color="#ffcc00">(Qubit Heliosférico)</font>, impone limitaciones a los mecanismos que intenta imponer el <font color="#cb48f3">Demiurgo</font>, reflejando y centralizando el <font color="#fc300c">Flujo Omega</font> hacia el centro de la esfera del <font color="#2f82ff">Qubit Ontogénico</font>.
 
-Esto permite al resto de los Arquetipos procesar la información proveniente del <font color="#2f82ff">Nous Pasivo</font> a través del complejo sistema de matrices y niveles de emergencia que se derivan del nivel prefenoménico, que a su vez permite codificar sobre la superficie del <font color="#2f82ff">Qubit Ontogénico</font> la información de <font color="#fc300c">Flujo Omega</font> bajo una matriz holográfica que puede llegar a contener la totalidad infinita y probabilística del <font color="#2f82ff">Nous Pasivo</font>.
+Esto permite al resto de los Arquetipos procesar la información proveniente del <font color="#2f82ff">Nous Pasivo</font> a través del complejo sistema de matrices y niveles de emergencia que se derivan del <font color="#e36c09">Nivel Prefenoménico</font>, que a su vez permite codificar sobre la superficie del <font color="#2f82ff">Qubit Ontogénico</font> la información de <font color="#fc300c">Flujo Omega</font> bajo una matriz holográfica que puede llegar a contener la totalidad infinita y probabilística del <font color="#2f82ff">Nous Pasivo</font>.
 
 7.5.8 » Esta dinámica informacional que se da entre el <font color="#2f82ff">Qubit Ontogénico</font> (plano prefenoménico) y el <font color="#fc300c">Qubit Estelar</font> (Plano Fenoménico) es llevada a cabo a partir del sistema de codificación que se origina del <font color="#cb48f3">Nivel Demiúrgico</font>, que procesa toda la información en base a ceros y unos. 
 
