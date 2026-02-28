@@ -3,7 +3,7 @@ soundtrack: USz9cwVSaqg
 indexar: true
 titulo: El Universo Prefenoménico
 ---
-
+![[El Universo Prefenomenico.mp3]]
 ![[Tetrahedro Fractal01.jpg]]
 
 # Introducción
@@ -67,7 +67,7 @@ En dicho documento se abordan los conceptos de la física moderna bajo la lente 
 
 Es allí donde se explica que lo que la ciencia denomina "Big Bang" no es un evento universal absoluto, sino el nacimiento local de nuestro propio <font color="#2f82ff">Nodo Estelar</font>.
 
-Si su interés radica en comprender cómo se codifica el "hardware" y el "software" de nuestro mundo una vez que la realidad fenoménica se ha manifestado, los documentos esenciales son **"Sistema Operativo Estelar"** y **"Sοplάris"**. 
+Si su interés radica en comprender cómo se codifica el "hardware" y el "software" de nuestro mundo una vez que la realidad fenoménica se ha manifestado, los documentos esenciales son: **Sistema Operativo Estelar** y **Sοplάris**. 
 
 En estas obras se detalla cómo el flujo del <font color="#fc300c">Nous Activo</font> se materializa en la estructura del sistema solar, los planetas y la Tierra, culminando en la emergencia de la civilización y la intrincada experiencia subjetiva del <font color="#ffa3ef">Avatar</font>.
 
@@ -81,11 +81,11 @@ Estas inteligencias participan activamente en su proceso evolutivo, guiando el c
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del <font color="#fc300c">Nous Activo</font></span></center>
 
-La manifestación del <font color="#fc300c">Nous Activo</font> se da como resultado de la interacción de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> que definen la dinámica del <font color="#2f82ff">Nous Pasivo</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>, y puede ser explicado a través del **Modelo del Tetraedro**. 
+La manifestación del <font color="#fc300c">Nous Activo</font> se da como resultado de la interacción de los tres <font color="#2f82ff">Arquetipos Ontológicos</font> del <font color="#2f82ff">Nous Pasivo</font>: <font color="#00ff00">1<sup>✱</sup> (Cristo / Dualidad)</font>, <font color="#2f82ff">2<sup>✱</sup> (Samael / Trinidad)</font> y <font color="#fc300c">3<sup>✱</sup> (Saklas / Unidad)</font>.
+
+Su manifestación puede ser explicado a través del **Modelo del Tetraedro**. Este modelo representa un algoritmo arquetípico básico que, al interrelacionarse en distintos niveles y dimensiones, da lugar a los diferentes niveles de emergencia y consciencia que forman parte del <font color="#fc300c">Nous Activo</font>. 
 
 ![[Nous Arquetipico Tetrahedro.jpg]]
-
-Este modelo representa un algoritmo arquetípico básico que, al interrelacionarse en distintos niveles y dimensiones, da lugar a los diferentes niveles de emergencia y consciencia que forman parte del Nous. 
 
 Estos niveles emergen y se interrelacionan para totalizar la consciencia del <font color="#fc300c">Nous Activo</font>, la entidad estructuradora y generadora de la existencia fenoménica. En este contexto, exploraremos el <font color="#2f82ff">Nivel Ontológico</font> utilizando el Tetraedro como modelo.
 
