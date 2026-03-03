@@ -1103,7 +1103,7 @@ Es la cuna de todas las posibilidades, abarcando desde la emergencia de las estr
 > El Noúmeno es la base de todo lo que es, fue y podrá ser, el fundamento último de la realidad en su sentido más amplio. Su universalidad implica que todo lo existente, en todas sus dimensiones y niveles, emerge y se sustenta en la potencialidad infinita del Noúmeno.
 
 
-> [!mexico] <font color="#00ff00"><font color="#00ff00">No Cuantificable ni Analizable</font></font> 
+> [!mexico] <font color="#00ff00"><font color="#00ff00">NO CUANTIFICABLE NI ANALIZABLE</font></font> 
 > El Noúmeno, en su manifestación como totalidad infinita, trasciende la capacidad de la mente humana para ser cuantificado y analizado de manera directa. 
 > 
 > Nuestra consciencia, limitada por las leyes del <font color="#fc300c">Universo Fenoménico</font>, solo puede acceder a fragmentos parciales de su inmensa potencialidad. 
@@ -1760,7 +1760,7 @@ Mientras que otros elementos nouménicos solo podrán ser sincronizados a travé
 
 Este nivel es el que genera el proceso de adaptación espontánea que codifica y expande el tiempo y las tres dimensiones espaciales, lo que generará como resultado altos niveles de energía y materia que deberán organizarse dentro de la matriz espacio temporal. 
 
-Esta matriz espacio temporal se expandirá sigiuiendo las leyes y condicionamientos impuestos por la matriz algorítmica del <font color="#00ff00">Nivel Fenomenológico</font>, que será la que permitirá que se llegue a alcanzar un equilibrio estable y ordenado, según la proyección inicial que realizó la consciencia del <font color="#cb48f3">Nous Arquetípico</font>.
+Esta matriz espacio temporal se expandirá siguiendo las leyes y condicionamientos impuestos por la matriz algorítmica del <font color="#00ff00">Nivel Fenomenológico</font>, que será la que permitirá que se llegue a alcanzar un equilibrio estable y ordenado, según la proyección inicial que realizó la consciencia del <font color="#cb48f3">Nous Arquetípico</font>.
 
 4.1.8 » Este proceso es lo que representa el origen de lo que conocemos como Big Bang, el evento seminal que da origen al <font color="#fc300c">Universo Fenoménico</font>. 
 
@@ -3057,7 +3057,7 @@ En este sentido, este nivel de emergencia actuaría como un puente dinámico ent
 
 7.0.3 » El <font color="#00ff00">Nivel Fenomenológico</font>, a pesar de operar a partir de las leyes, principios y simetrías codificados en el <font color="#ffa3ef">Noema Primordial</font>, tiene la capacidad de influir activamente sobre la modulación de los vectores y redes lógicas que definen la realidad fenoménica.
 
-Esto permite a la <font color="#cb48f3">Consciencia Demiúrgica</font> superar los límites y condicionamientos que imponen la matrices espacio-temporal y físico-energética del <font color="#fc300c">Universo Fenoménico</font>, para poder participar de la etapa final del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, aprovechando la información nouménica que se generará dentro de la realidad Fenoménica.
+Esto permite a la <font color="#cb48f3">Consciencia Demiúrgica</font> superar los límites y condicionamientos que imponen las matrices espacio-temporal y físico-energética del <font color="#fc300c">Universo Fenoménico</font>, para poder participar de la etapa final del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, aprovechando la información nouménica que se generará dentro de la realidad Fenoménica.
 
 7.0.4 » El <font color="#cb48f3">Demiurgo (6@ / Sabbataios)</font>, al igual que el <font color="#ffcc00">Logos Individual (3@ / Eloaios)</font> y el <font color="#fc300c">Nous (1@/Adonin)</font>, surge como resultado del proceso de codificación vectorial y unificación que experimentan los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">( 1<sup>✱</sup></font>, <font color="#2f82ff">2<sup>✱</sup></font> y <font color="#fc300c">3<sup>✱</sup> )</font> como parte del proceso evolutivo de la <font color="#2f82ff">Consciencia Arquetípica</font>.
 
@@ -3096,7 +3096,7 @@ Este estado autorreferencial dota a la <font color="#cb48f3">Consciencia Demiúr
 
 7.0.11 » La <font color="#cb48f3">Consciencia Demiúrgica</font>, aunque emerge como consecuencia de una etapa de maduración evolutiva y saturación lógica del <font color="#fc300c">Nous Activo</font>, puede llegar a verse reflejado en la existencia de cada <font color="#bfbfbf">Onemuón</font>, así como interpretar cada red lógica de información y significado, y evaluar todos los aspectos estadísticos, cualitativos y cuantitativos que existen tanto en el <font color="#e36c09">Nivel Prefenoménico</font>, como dentro del <font color="#fc300c">Universo Fenoménico</font>. 
 
-7.0.12 » Esta capacidad permite asociar a la figura arquetípica del <font color="#cb48f3">Demiúrgo</font> con una especie de Arquitecto Universal o Dios Primordial, que al despertar de su sueño eterno (Estado previo al desbordamiento de informacion paradojica) tiene la capacidad de intervenir en el desarrollo del <font color="#fc300c">Nous Activo</font> y manifestar repentinamente el <font color="#fc300c">Universo Fenoménico</font>, tal como ha sido interpretado por las diversas religiones, cultos, sectas esotéricas y sociedades secretas modernas a lo largo de la historia humana.
+7.0.12 » Esta capacidad permite asociar a la figura arquetípica del <font color="#cb48f3">Demiurgo</font> con una especie de Arquitecto Universal o Dios Primordial, que al despertar de su sueño eterno (Estado previo al desbordamiento de información paradójica) tiene la capacidad de intervenir en el desarrollo del <font color="#fc300c">Nous Activo</font> y manifestar repentinamente el <font color="#fc300c">Universo Fenoménico</font>, tal como ha sido interpretado por las diversas religiones, cultos, sectas esotéricas y sociedades secretas modernas a lo largo de la historia humana.
 
 ![[Demiurgo09.jpg]]
 
@@ -3104,7 +3104,7 @@ Este estado autorreferencial dota a la <font color="#cb48f3">Consciencia Demiúr
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Búsqueda de Soluciones dentro del Caos</span></center>
 
-7.1.1 » El <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> existiendo en su rol original como un Arquetipo@ más dentro del <font color="#2f82ff">Qubit Ontogénico</font>, existe como un sistema operativo algoritmico y autómata dentro del <font color="#fc300c">Nous Activo</font>, encargado de detectar y contener las dualidades y paradojas de difícil resolución que puedan surgir, a partir de la interacción entre los distintos niveles y dimensiones fractales que conforman el <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font>. 
+7.1.1 » El <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font> existiendo en su rol original como un Arquetipo@ más dentro del <font color="#2f82ff">Qubit Ontogénico</font>, existe como un sistema operativo algorítmico y autómata dentro del <font color="#fc300c">Nous Activo</font>, encargado de detectar y contener las dualidades y paradojas de difícil resolución que puedan surgir, a partir de la interacción entre los distintos niveles y dimensiones fractales que conforman el <font color="#e36c09">Logos Cósmico</font> <font color="#e36c09">(Arquetipo 2@ / Astaphaios)</font>. 
 
 Por lo que originalmente su principal función es la de actuar como un contenedor y acumulador pasivo de estas incoherencias, previniendo que el caos y la <font color="#cb48f3">entropía</font> desestabilicen el <font color="#fc300c">Nous Activo</font>.
 
@@ -3114,7 +3114,7 @@ La expansión del <font color="#fc300c"><font color="#fc300c">Nous Activo</font>
 
 ![[Demiurgo03.jpg]]
 
-7.1.3 » El <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, representa un nuevo sistema operativo de <font color="#2f82ff">Nivel Ontológico</font>, que se activa en el <font color="#2f82ff">Nous Pasivo</font> para reemplazar la funcionalidad algorítmica autómata del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font>, por una funcion autoconsciente <font color="#cb48f3">(Consciencia Demiúrgica)</font>, que le permite al <font color="#00ff00">Qubit@</font> dejar de almacenar información paradójica para comenzar a explorar posibles soluciones (incluyendo opciones caóticas o entrópicas), a partir de las potencialidades infinitas del <font color="#2f82ff">Nous Pasivo</font>. 
+7.1.3 » El <font color="#cb48f3">Arquetipo 6@</font> antisimétrico, representa un nuevo sistema operativo de <font color="#2f82ff">Nivel Ontológico</font>, que se activa en el <font color="#2f82ff">Nous Pasivo</font> para reemplazar la funcionalidad algorítmica autómata del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font>, por una función autoconsciente <font color="#cb48f3">(Consciencia Demiúrgica)</font>, que le permite al <font color="#00ff00">Qubit@</font> dejar de almacenar información paradójica para comenzar a explorar posibles soluciones (incluyendo opciones caóticas o entrópicas), a partir de las potencialidades infinitas del <font color="#2f82ff">Nous Pasivo</font>. 
 
 El proceso de transición entre ambos estados puede entenderse a través de los siguientes pasos:
 
@@ -3124,11 +3124,11 @@ El proceso de transición entre ambos estados puede entenderse a través de los 
 > 
 >![[Demiurgo04.jpg]]
 >
-> 1. La llegada de la información paradójica y compleja al <font color="#2f82ff">Nous Pasivo</font> desde el <font color="#fc300c"><font color="#fc300c">Nous Activo</font> </font>genera el despertar del <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font> <font color="#cb48f3">(Consciencia Demiúrgica)</font> y la manifestación del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico a partir de la potencialidad infinita, que podrá reemplazar la funcionalidad del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font> que opera dentro del <font color="#fc300c">Nous Activo</font>, lo que representa una nueva etapa del proceso evolutivo del <font color="#cb48f3">Nous Arquetípico</font>, que a su vez permitirá dar origen al <font color="#fc300c">Universo Fenoménico</font>.
+> 3. La llegada de la información paradójica y compleja al <font color="#2f82ff">Nous Pasivo</font> desde el <font color="#fc300c"><font color="#fc300c">Nous Activo</font> </font>genera el despertar del <font color="#cb48f3">Tercer Nivel de Autoconsciencia</font> <font color="#cb48f3">(Consciencia Demiúrgica)</font> y la manifestación del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico a partir de la potencialidad infinita, que podrá reemplazar la funcionalidad del <font color="#e36c09">Arquetipo Ontogénico</font> <font color="#cb48f3">6@</font> que opera dentro del <font color="#fc300c">Nous Activo</font>, lo que representa una nueva etapa del proceso evolutivo del <font color="#cb48f3">Nous Arquetípico</font>, que a su vez permitirá dar origen al <font color="#fc300c">Universo Fenoménico</font>.
 > 
 > ![[Demiurgo05.jpg]]
 > 
-> 2. Este nuevo sistema operativo inteligente del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico (proveniente del <font color="#2f82ff">Nous Pasivo</font>), reemplazará la función autómata del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> que actúa dentro del <font color="#fc300c">Nous Activo</font> como un contenedor de paradojas, para comenzar a actuar desde el <font color="#2f82ff">Nous Pasivo</font> con el fin de buscar posible respuestas a todas las paradojas contenidas dentro del <font color="#fc300c"><font color="#fc300c">Nous Activo</font>,</font> haciendo uso de la <font color="#fc300c">dialéctica axiomática</font>, el azar y la <font color="#cb48f3">entropía</font> como recursos de exploración.
+> 4. Este nuevo sistema operativo inteligente del <font color="#cb48f3">Arquetipo 6@</font> antisimétrico (proveniente del <font color="#2f82ff">Nous Pasivo</font>), reemplazará la función autómata del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font> que actúa dentro del <font color="#fc300c">Nous Activo</font> como un contenedor de paradojas, para comenzar a actuar desde el <font color="#2f82ff">Nous Pasivo</font> con el fin de buscar posible respuestas a todas las paradojas contenidas dentro del <font color="#fc300c"><font color="#fc300c">Nous Activo</font>,</font> haciendo uso de la <font color="#fc300c">dialéctica axiomática</font>, el azar y la <font color="#cb48f3">entropía</font> como recursos de exploración.
 
 7.1.4 » Es crucial entender que esta "antisimetría" no es una simple inversión de la voluntad que manifiesta el <font color="#cb48f3">Arquetipo 6@</font> de cada Qubit que existe dentro del <font color="#fc300c">Nous Activo</font>, más bien, representa la activación de un mecanismo de exploración unificado que se origina en el <font color="#2f82ff"><font color="#2f82ff">Nous Pasivo</font>,</font> que busca manifestar de manera activa todas las posibles soluciones que previamente eran contenidas por la voluntad original del <font color="#cb48f3">Arquetipo 6@</font> <font color="#e36c09">Ontogénico</font>. 
 
@@ -3499,7 +3499,7 @@ Sin embargo, para comprender el ámbito de su aplicación, es necesario diferenc
 > ![[05 - Noema Universal2P.png]]
 
 > [!universo] <font color="#ffa3ef">NOEMA PRIMORDIAL</font> - <font color="#fc300c">QUBIT ESTELAR</font> <font color="#ffcc00">(Heliosférico</font>/<font color="#cb48f3">Planetario)</font> 
-> Representa la matriz lógica que define las leyes físico energéticas y el plano social causal de una civilización. Este noema esta conectado con el <font color="#e36c09">Nivel Ontogénico</font><font color="#00ff00"> (Consciencia Estelar)</font> y se actualiza mediante la validación de la <font color="#e36c09">Consciencia Colectiva</font>, a partir del nivel de <font color="#00ff00">Noesis</font> que refleja una civilización Planetaria.
+> Representa la matriz lógica que define las leyes físico energéticas y el plano social causal de una civilización. Este noema está conectado con el <font color="#e36c09">Nivel Ontogénico</font><font color="#00ff00"> (Consciencia Estelar)</font> y se actualiza mediante la validación de la <font color="#e36c09">Consciencia Colectiva</font>, a partir del nivel de <font color="#00ff00">Noesis</font> que refleja una civilización Planetaria.
 > ![[05 - Noema Primordial2p.png]]
 
 > [!instituciones] <font color="#fc300c">NOEMA CULTURAL</font> -<font color="#ffa3ef"> HEGEMÓN CIVILIZATORIO</font> <font color="#cb48f3">(Egregores)</font>
@@ -3554,7 +3554,7 @@ Su manifestación se da como una estructura vectorial codificante que existe en 
 
 7.8.11 » Su existencia se ve afectada tanto por <font color="#2f82ff">lo infinitesimal</font> como por<font color="#fc300c"> lo infinito</font>. Esta coexistencia en la frontera entre lo <font color="#2f82ff">cuántico</font> y lo <font color="#fc300c">clásico</font> es lo que define la naturaleza dialéctica del <font color="#00ff00">Qubit Egoico</font>, y lo que permite al ser humano manifestar consciencia y experimentar la realidad del <font color="#fc300c">Universo Fenoménico</font>.
 
-## 7. La Estructura Esférica del <font color="#00ff00">Qubit Egoico</font>
+## 9. La Estructura Esférica del <font color="#00ff00">Qubit Egoico</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Interacción de los Flujos Alfa y Omega</span></center>
 
