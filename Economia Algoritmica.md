@@ -3,6 +3,7 @@ soundtrack: USz9cwVSaqg
 indexar: true
 titulo: Economía Algorítmica
 ---
+![[Economia Algoritmica.mp3]]
 
 ![[Matriz Economica.jpg]]
 # La Matriz Algorítmica Económica
