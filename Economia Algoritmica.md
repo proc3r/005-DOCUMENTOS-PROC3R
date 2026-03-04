@@ -3,9 +3,11 @@ soundtrack: USz9cwVSaqg
 indexar: true
 titulo: Economía Algorítmica
 ---
-![[Economia Algoritmica.mp3]]
 
 ![[Matriz Economica.jpg]]
+
+![[Economia Algoritmica.mp3]]
+
 # La Matriz Algorítmica Económica
 
 Este documento no es un tratado de economía convencional, ni busca proponer una nueva teoría que compita con las existentes. Su propósito es realizar una **revisión hermenéutica del fenómeno económico** bajo la lente del **Modelo Nouménico**. 
