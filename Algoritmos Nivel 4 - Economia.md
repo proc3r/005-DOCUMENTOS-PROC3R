@@ -4,9 +4,8 @@ indexar: true
 titulo: Economía Algorítmica
 ---
 
-![[Matriz Economica.jpg]]
-
 ![[Economia Algoritmica.mp3]]
+![[Matriz Economica.jpg]]
 
 # La Matriz Algorítmica Económica
 
