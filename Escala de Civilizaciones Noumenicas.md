@@ -328,7 +328,7 @@ height: 360
 
 1.2.8 » En este nivel civilizatorio, los individuos apenas intervienen en el desarrollo de la consciencia de nivel global. Sus acciones son de bajo impacto y el egregor que se forma es mínimo, casi imperceptible para el sistema planetario. Son simplemente células primitivas dentro del organismo del planeta, sin una <font color="#e36c09">Consciencia Colectiva</font> o un propósito unificado.
 
-### <font color="#bfbfbf">Sistema Familiar</font>
+## <font color="#bfbfbf">Sistema Familiar</font>
 
 1.2.9 » El <font color="#bfbfbf">Sistema Familiar</font> es el algoritmo más primitivo y fundamental de la existencia. Es un grupo de individuos, usualmente unidos por lazos de parentesco, que interactúan entre sí y comparten un entorno común, donde cada miembro desempeña roles y funciones específicas.
 

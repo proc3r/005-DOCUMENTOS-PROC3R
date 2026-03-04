@@ -1740,7 +1740,7 @@ titulo: Matriz Algorítmica Nouménica
 
 # <font color="#00ff00">8. Algoritmos Nivel 4 (Economía)</font>
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fisiología, flujo y omnipresencia algoritmica</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fisiología, Flujo y Omnipresencia Algoritmica</span></center>
 
 8.0.1 » El <font color="#00ff00">Nivel 4 (Ámbito Económico)</font> representa el segundo nivel de la arquitectura de la <font color="#00ff00">Civilización Tipo 2</font>, y es el más crucial para la supervivencia fenomenológica de la Mónada. Si el <font color="#ffcc00">Nivel 3</font> definió el cuerpo organizado (Estructura Política y Social) de la Mónada Estatal, el <font color="#00ff00">Nivel 4</font> establece su fisiología material y circulatoria. La economía es el flujo sanguíneo algorítmico que conecta cada célula <font color="#fc300c">(ciudadano)</font> con el organismo <font color="#ffcc00">(Nación)</font>, y a este con el planeta <font color="#cb48f3">(Hegemón Global)</font>.
 
@@ -2669,12 +2669,12 @@ titulo: Matriz Algorítmica Nouménica
 
 8.7.50 » Es por esto que el bienestar del ciudadano solo puede alcanzarse si el gobierno opera como un administrador consciente de su <font color="#ffcc00">Mónada Nacional</font>. Esto implica:
 
-> [!tierra] A <font color="#00ff00">NIVEL MACRO</font>
+> [!tierra] <font color="#00ff00">A NIVEL MACRO</font>
 > Comprender que cualquier nación, asi opere como aliado, enemigo o se abstenga de tratar con la nación hegemónica, siempre es un <font color="#ffcc00">Nodo Periférico</font> más del sistema <font color="#00ff00">«Mesoeconómico»</font> del <font color="#cb48f3">Hegemón</font>. 
 > 
 > Por lo que es necesario negociar y relacionarse con el resto de los agentes del plano macro (las corrientes del <font color="#fc300c">Mar</font>), sabiendo que todas las acciones impuestas a nivel <font color="#ffa3ef">Macroeconómico</font> buscan, en última instancia, favorecer la economía hegemónica.
 
-> [!monadico] A <font color="#ffcc00">NIVEL MICRO</font>
+> [!monadico] <font color="#ffcc00">A NIVEL MICRO</font>
 > Poder adoptar la función de administración consciente de la economía local (la <font color="#2f82ff">Laguna</font>), definiendo un equilibrio sin caer en los extremos del estatismo totalitario<font color="#fc300c"> (izquierda)</font> o el fundamentalismo de mercado <font color="#2f82ff">(derecha)</font>. 
 > 
 > Para lograr este objetivo es necesario que la <font color="#ffcc00">Mónada Nacional</font> aplique un modelo económico a medida que encuentre el equilibrio local, basándose en la realidad interna de la Nación, sus límites globales y sus fortalezas estructurales, rechazando la manipulación ideológica del <font color="#cb48f3">Hegemón</font>.
@@ -2687,7 +2687,7 @@ titulo: Matriz Algorítmica Nouménica
 
 8.7.54 » En conclusión, el <font color="#ffa3ef">Algoritmo Macroeconómico</font> es el mecanismo que, mediante la coerción ideológica y la asimetría dimensional, garantiza la supervivencia y el enriquecimiento de la <font color="#ffa3ef">Nación Hegemónica dominante</font>, a costa de la soberanía y el bienestar de los <font color="#ffcc00">Nodos Periféricos</font>.
 
-## Análisis del Fenómeno Económico
+## <font color="#ffa3ef">Análisis del Fenómeno Económico</font>
 
 8.8.1 » El <font color="#00ff00">Nivel 4 (Ámbito Económico)</font> representa la fisiología material y circulatoria de la <font color="#ffcc00">Mónada Nacional</font>, siendo el flujo sanguíneo algorítmico que conecta a todos los ciudadanos de una Nación, y a esta con el sistema global que administra el <font color="#cb48f3">Hegemón Global</font>. 
 
@@ -2709,7 +2709,7 @@ titulo: Matriz Algorítmica Nouménica
 > - <font color="#00ff00">Interacción y Respuesta</font>: En este nivel el ciudadano experimenta la economía a través de la escasez o abundancia de bienes, siendo el último eslabón donde se materializan los efectos generados por las políticas fiscales, monetarias y los flujos macroeconómicos descendentes.
 
 > [!espiritu] <font color="#e36c09">2 - NIVEL INTERMEDIO</font> (Productor y Mercado Local)
-> En este nivel el análisis se enfoca en los agentes de producción (empresas, comercios) que operan en la Microeconomía. El enfoque cambia de la subsistencia a la rentabilidad, la gestión del riesgo y la expansión deL mercado. 
+> En este nivel el análisis se enfoca en los agentes de producción (empresas, comercios) que operan en la Microeconomía. El enfoque cambia de la subsistencia a la rentabilidad, la gestión del riesgo y la expansión del mercado. 
 > 
 > Esta es la visión que abordan los empresarios y comerciantes al momento de analizar la economía y la funcionalidad del gobierno. Su enfoque está en:
 >- <font color="#fc300c">Precios y Rentabilidad</font> (Oferta): Los precios son un instrumento de maximización de beneficios y una señal de mercado. El foco se pone en la estructura de costos, la eficiencia logística y la competencia.
