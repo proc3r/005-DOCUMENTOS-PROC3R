@@ -4,6 +4,8 @@ indexar: true
 titulo: Algoritmos Nivel 3 (Estado)
 ---
 ![[Algoritmos Estado.mp3]]
+![[Estado.jpg]]
+
 # El Despertar De La Célula Nacional
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Espejismo de la Libertad Ciudadana</span></center>
