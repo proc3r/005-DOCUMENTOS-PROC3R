@@ -1,7 +1,7 @@
 ---
 soundtrack: USz9cwVSaqg
 indexar: true
-titulo: Economía Algorítmica
+titulo: Algoritmos Nivel 4 (Economía)
 ---
 
 ![[Economia Algoritmica.mp3]]
