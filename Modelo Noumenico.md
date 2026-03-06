@@ -949,7 +949,7 @@ Esta perspectiva nos invita a contemplar la maravilla de nuestra propia existenc
 
 En este dominio fundamental, los <font color="#bfbfbf">Onemuones</font>, quanta básicos de significado, existen en un estado de incesante dinamismo, activándose y desactivándose espontáneamente, vibrando en una danza primordial de potencialidades que aún no se han concretado en formas definitivas. 
 
-Para visualizar esta actividad primordial, podemos recurrir a una analogía binaria, un lenguaje simple pero poderoso que nos permite comprender la esencia de este proceso. Imaginemos cada <font color="#bfbfbf">Onemuón</font> como un interruptor binario, capaz de oscilar entre dos estados fundamentales: <span style="color: #2f82ff; font-family: monospace;">(0)</span> y <span style="color: #fc300c; font-family: monospace;">(1)</span>.
+Para visualizar esta actividad primordial, podemos recurrir a una analogía binaria, un lenguaje simple pero poderoso que nos permite comprender la esencia de este proceso. Imaginemos cada <font color="#bfbfbf">Onemuón</font> como un interruptor binario, capaz de oscilar entre dos estados fundamentales: <font color="#e36c09"><span style="color: #2f82ff; font-family: monospace;">(0)</span> y <span style="color: #fc300c; font-family: monospace;">(1)</span></font>.
 
 2.2.2 » En el estado <span style="color: #2f82ff; font-family: monospace;">(0)</span>, el <font color="#bfbfbf">Onemuón</font> se encuentra desactivado, inmerso en la latencia de la potencialidad infinita del Noúmeno. En este estado "cero", el <font color="#bfbfbf">Onemuón</font> se disuelve, se funde nuevamente con la totalidad del Noúmeno, reintegrándose a la unidad indiferenciada de la potencialidad pura. 
 
