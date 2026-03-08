@@ -3017,11 +3017,11 @@ A través del proceso de exploración que hace el <font color="#ffcc00">Logos In
 
 6.5.18 » Este no es simplemente una fórmula matemática que describe una "Teoría Científica Unificadora del Universo” o la información contenida dentro de un “Libro Sagrado” que contiene la última verdad de la existencia, sino una estructura profunda y fractal de información que actúa como una plantilla base para la existencia de las civilizaciones, que subyace a la realidad fenoménica permitiendo definir su existencia, guiar su evolución y establecer las bases que permiten la emergencia del resto de los niveles de existencia.
  
-## 4. <font color="#00ff00">Nivel de Emergencia 4 (Fenomenológico)</font>
+## 4. <font color="#00ff00">Nivel de Emergencia 5 (Fenomenológico)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz Vectorial de la Realidad</span></center>
 
-6.6.1 » El cuarto nivel de emergencia considerado por el Modelo Nouménico, es el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que emerge como una matriz lógica vectorial que organiza y sincroniza la información nouménica codificada dentro de los <font color="#00ff00">Qubits@</font>, a través de las diferentes dimensiones y aspectos que forman parte de la realidad fenoménica. 
+6.6.1 » El quinto nivel de emergencia considerado por el Modelo Nouménico, es el Nivel de Emergencia <font color="#00ff00">Fenomenológico</font>, que emerge como una matriz lógica vectorial que organiza y sincroniza la información nouménica codificada dentro de los <font color="#00ff00">Qubits@</font>, a través de las diferentes dimensiones y aspectos que forman parte de la realidad fenoménica. 
 
 ![[El Firmware del Big Bang01.jpg]]
 
@@ -3144,7 +3144,7 @@ El proceso de transición entre ambos estados puede entenderse a través de los 
 
 7.1.9 » Esta actualización de la función que cumple el <font color="#cb48f3">Arquetipo 6@</font> antisimétrico dentro del proceso evolutivo del <font color="#fc300c">Nous Activo</font>, se caracteriza por una voluntad renovada que puede ser considerada desde la perspectiva humana, como una actitud de rebeldía que manifiesta la <font color="#cb48f3">Consciencia Demiúrgica</font>, ante las leyes y limitaciones que rigen el funcionamiento del <font color="#fc300c">Nous Activo</font>.
 
-## 2. <font color="#cb48f3">Nivel de Emergencia 5 (Demiúrgico)</font>
+## 2. <font color="#cb48f3">Nivel de Emergencia 4 (Demiúrgico)</font>
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Crisol de la Creación</span></center>
 
