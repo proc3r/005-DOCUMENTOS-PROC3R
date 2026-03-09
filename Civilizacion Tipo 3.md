@@ -584,7 +584,7 @@ Solo aquel que es capaz de sentarse en silencio a reflexionar sobre la naturalez
 
 Para que el <font color="#ffa3ef">Avatar</font> pueda configurar una realidad coherente en el <font color="#cb48f3">Nivel 6</font>, su Sistema Filosófico no puede ser una simple colección de opiniones. Debe ser una arquitectura modular que cubra todos los ángulos de la existencia. 
 
-A diferencia del Noema Científico (que fragmenta la realidad para especializarse en una sola pieza) o del Noema Religioso (que ignora los datos que contradicen su dogma), la Filosofía opera como un campo de unificación.
+A diferencia del<font color="#2f82ff"> Noema Científico</font> (que fragmenta la realidad para especializarse en una sola pieza) o del <font color="#e36c09">Noema Religioso</font> (que ignora los datos que contradicen su dogma), la <font color="#cb48f3">Filosofía</font> opera como un campo de unificación.
 
 Cada disciplina filosófica actúa como un "driver" o controlador específico en la CPU del <font color="#ffa3ef">Avatar</font>, permitiéndole computar diferentes niveles de la <font color="#00ff00">Matriz Fenomenológica</font>:
 
