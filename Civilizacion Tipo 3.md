@@ -6,7 +6,7 @@ titulo: Civilización Tipo 3
 
 ![[Civilizacion Tipo 3x.jpg]]
 
-
+![[Civilizacion Tipo 3.mp3]]
 
 # Introducción
 
