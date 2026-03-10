@@ -4,8 +4,7 @@ indexar: true
 titulo: Escala de Civilizaciones Nouménicas
 ---
 
-![[Niveles Civilizacion.jpg]]
-
+![[Cuadro Civilizaciones.jpg]]
 
 ![[Nueve Niveles Civilizatorios.mp3]]
 # Introducción
