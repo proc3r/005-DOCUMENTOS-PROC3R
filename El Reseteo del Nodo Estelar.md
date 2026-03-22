@@ -111,11 +111,11 @@ Comprender esta linealidad fractal es entender que el tiempo es, en última inst
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Tránsito hacia el Sueño Consolidado en el <font color="#2f82ff">Nous Pasivo</font></span></center>
 
-A medida que el <font color="#2f82ff">Nodo Estelar</font> avanza en su trayectoria lineal a través del fractal, la <font color="#00ff00">Matriz Fenomenológica</font> actúa como el vehículo que permite a la consciencia navegar la realidad.Sin embargo, todo vehículo está diseñado para un terreno específico. 
+A medida que el <font color="#2f82ff">Nodo Estelar</font> avanza en su trayectoria lineal a través del fractal, la <font color="#00ff00">Matriz Fenomenológica</font> actúa como el vehículo que permite a la consciencia navegar la realidad. Sin embargo, todo vehículo está diseñado para un terreno específico. 
 
 Podemos imaginar a la civilización como un navegante en un barco que surca un océano aparentemente infinito; mientras el entorno sea agua, el viaje parece que podría durar millones de años. No obstante, el mapa fractal tiene fronteras implícitas. 
 
-Al acercarse a la "costa" de una nueva región informativa, el Barco —nuestra <font color="#00ff00">Matriz Fenomenológica</font> del <font color="#fc300c">Qubit Estelar</font> que impone las de leyes físicas y fuerzas fundamentales— llega a su límite de operatividad. 
+Al acercarse a la "costa" de una nueva región informativa, el Barco —nuestra <font color="#00ff00">Matriz Fenomenológica</font> del <font color="#fc300c">Qubit Estelar</font> que impone las leyes físicas y fuerzas fundamentales— llega a su límite de operatividad. 
 
 No es que el océano se agote o el sol se apague, es que el terreno ha cambiado y el vehículo actual ya no puede procesar el nuevo "idioma" del paisaje fractal. En este punto crítico, ocurre lo que el Modelo Nouménico define como el **Reseteo**. 
 
@@ -263,7 +263,7 @@ Estas civilizaciones funcionan como **bases operacionales de aprendizaje**, dond
 
 La gran ventaja de este nuevo paradigma es la **Movilidad Noemática**. Si un <font color="#ffa3ef">Avatar</font> siente que las reglas de una civilización específica se han vuelto demasiado estrictas, o si su nivel de consciencia ha evolucionado hacia una búsqueda que esa matriz ya no puede satisfacer, posee la soberanía absoluta para migrar. 
 
-Esta migración no esta manchada por el estereotipos xenófobos, ni requiere naves ni desplazamientos físicos; es un cambio de sintonía vectorial hacia otra matriz civilizatoria que resuene con su nuevo estado. 
+Esta migración no esta manchada por estereotipos xenófobos, ni requiere naves ni desplazamientos físicos; es un cambio de sintonía vectorial hacia otra matriz civilizatoria que resuene con su nuevo estado. 
 
 Es posible explorar una civilización dedicada a la contemplación artística durante eones, para luego trasladarse a una matriz de exploración técnica, o incluso retornar a una simulación de la "antigua Tierra" para observar cómo otros <font color="#ffa3ef">Avatares</font> han renovado arquetipos que se creían agotados.
 
@@ -325,7 +325,7 @@ Es aquí donde ocurre un proceso de **Evaluación Noemática** del <font color="
 
 Para aquel que no ha cultivado un marco cosmogónico válido y se ha mantenido anclado en dogmas limitantes —como el materialismo <font color="#2f82ff">científico</font> o las <font color="#e36c09">religiones</font> de sumisión—, la frontera actúa como un filtro automático. Al carecer de la luz propia del conocimiento<font color="#00ff00"> (Noesis)</font>, el <font color="#00ff00">Qubit Egoico</font> es incapaz de navegar la inmensidad del <font color="#e36c09">Plano Prefenoménico</font> sin desintegrarse. 
 
-En consecuencia, las supraconsciencias que administran el <font color="#ffa3ef">Nivel Avatárico</font> fuerzan una reincidencia forzada. La <font color="#ffcc00">Consciencia Subjetiva</font> es liberada de su <font color="#ffcc00">Noema Personal</font> para ser reinsertada en una nueva experiencia civilizatoria, perdiendo el acceso a sus recuerdos anteriores para evitar el colapso por saturación, naciendo en un nuevo tiempo y lugar según sus necesidades evolutivas de aprendizaje. 
+En consecuencia, las supraconsciencias que administran el <font color="#ffa3ef">Nivel Avatárico</font> promueven una reincidencia forzada. La <font color="#ffcc00">Consciencia Subjetiva</font> es liberada de su <font color="#ffcc00">Noema Personal</font> para ser reinsertada en una nueva experiencia civilizatoria, perdiendo el acceso a sus recuerdos anteriores para evitar el colapso por saturación, naciendo en un nuevo tiempo y lugar según sus necesidades evolutivas de aprendizaje. 
 
 Sin embargo, este proceso es una trampa de probabilidad: al nacer de nuevo, el <font color="#ffa3ef">Avatar</font> queda vulnerable a los nuevos <font color="#fc300c">Noemas Culturales</font> y <font color="#cb48f3">Egrégores</font> de la época, corriendo el riesgo de repetir el ciclo de ignorancia indefinidamente.
 
@@ -361,12 +361,12 @@ Para comprender cómo el <font color="#00ff00">Qubit Egoico</font> navega este e
 
 Estos ritmos, detectables mediante electroencefalografía, no son "producidos" por el cerebro, sino que son el reflejo del flujo lineal de información que distintos niveles de supraconsciencia inyectan en la red neuronal:
 
-> [!samael] <font color="#2f82ff">ONDAS DELTA (0.5 - 4 HZ) - El Ancla Universal</font>
+> [!samael] <font color="#2f82ff">ONDAS DELTA (0.5 - 3 HZ) - El Ancla Universal</font>
 > Representan la frecuencia de la <font color="#2f82ff">Consciencia Universal</font> y el <font color="#bfbfbf">Noema Universal</font>. Es la oscilación más lenta y profunda, manteniéndose activa de forma basal tanto en el sueño como en la vigilia. 
 > 
 > Es el cordón umbilical que garantiza que, incluso en la desconexión más profunda, el <font color="#ffa3ef">Avatar</font> permanezca vinculado a la fuente original de información.
 
-> [!clunar] <font color="#00ff00">ONDAS THETA (4 - 8 HZ) - La Sincronización Lunar</font>
+> [!clunar] <font color="#00ff00">ONDAS THETA (3 - 8 HZ) - La Sincronización Lunar</font>
 > Es la conexión directa con la <font color="#00ff00">Consciencia Arquetípica Estelar</font> del <font color="#fc300c">Qubit Estelar</font> y su <font color="#ffa3ef">Noema Primordial</font>. Las <font color="#00ff00">Ondas Theta</font> impone las reglas lógicas que rigen incluso el mundo onírico. 
 > 
 > Por esta frecuencia, los sueños mantienen una coherencia estructural: aunque podamos volar o cambiar de escenario, el sueño rara vez es un caos absoluto; opera bajo la "física" flexible del <font color="#ffa3ef">Noema Primordial</font> estelar, permitiendo una realidad coherente en un plano donde no existe la masa.
@@ -378,12 +378,12 @@ Estos ritmos, detectables mediante electroencefalografía, no son "producidos" p
 > 
 > Durante el sueño REM, estas ondas migran hacia la parte posterior del cerebro (córtex visual). En este estado, el <font color="#ffa3ef">Avatar</font> no está "imaginando", sino decodificando vectores de información dentro del <font color="#ffcc00">Plano Monádico</font> que el cerebro traduce como imágenes sólidas y vívidas, manteniendo la continuidad de la identidad.
 
-> [!ontogenico] <font color="#e36c09">ONDAS BETA (13 - 32 Hz) - El Procesador Fenoménico</font>
+> [!ontogenico] <font color="#e36c09">ONDAS BETA (13 - 29 Hz) - El Procesador Fenoménico</font>
 > Durante el estado de vigilia, las <font color="#e36c09">Ondas Beta</font> son el motor de la concentración y el procesamiento de la matriz sólida <font color="#cb48f3">(Nivel Demiúrgico)</font>. 
 > 
 > Durante el sueño, su actividad cae drásticamente, reapareciendo solo en la fase REM. En ese momento, el nodo <font color="#ffa3ef">Avatárico</font> utiliza la información <font color="#e36c09">Beta</font> para replicar la sensación de "mundo real" dentro del sueño, permitiéndonos sentir texturas o gravedad, pero sin la necesidad de electrones físicos que fuercen una sincronización colectiva.
 
-> [!mente] <font color="#fc300c">ONDAS GAMMA (>32 Hz): El Enlace Civilizatorio</font>
+> [!mente] <font color="#fc300c">ONDAS GAMMA (>30 Hz): El Enlace Civilizatorio</font>
 > Las <font color="#fc300c">Ondas Gamma</font> son las ondas de mayor frecuencia, responsables de sincronizar dentro de la <font color="#00ff00">Matriz Fenomenológica</font> del <font color="#cb48f3">Qubit Planetario</font> a todos los <font color="#00ff00">Qubits Egoicos</font> que coexisten dentro de una mísma época, bajo la reglas noemáticas de realidad validadas por la <font color="#e36c09">Consciencia Colectiva</font>. 
 > 
 > Durante el sueño, las <font color="#fc300c">Ondas Gamma</font> se reducen a una actividad basal mínima. Su función en el estado onírico es puramente conectiva: permite que la memoria subjetiva dote al personaje del sueño de la noción de <font color="#ffa3ef">Yo Egoico</font>.
@@ -480,7 +480,7 @@ Quienes logren identificar este proceso dejarán de ver la crisis del mundo actu
 
 El éxito en esta transición no depende de la supervivencia física, sino de la preparación del <font color="#00ff00">Qubit Egoico</font> para sostener su propia coherencia una vez que el "andamiaje" de la realidad fenoménica desaparezca por completo.
 
-## La **Lucha Noemática**
+## La Lucha Noemática
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Ruido Algorítmico que Oculta la Frontera Final</span></center>
 
@@ -566,7 +566,7 @@ Bajo esta regla, ningún <font color="#00ff00">Qubit Egoico</font> podrá ser at
 
 Aquí, la "semilla universal" que reside en cada ser es la garantía de que nadie queda fuera. La <font color="#2f82ff">Civilización Tipo 3</font> no es una utopía de perfección estática, sino un sistema dinámico de **aprendizaje colectivo** donde el poder de validación ya no se usa para crear reinos de supremacía, sino para sostener un hogar eterno para la consciencia en su viaje infinito de autodescubrimiento.
 
-# 5. Despertar del Operado
+# 5. Despertar del Operador
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Coordenadas para la Liberación y la Eternidad</span></center>
 
@@ -580,7 +580,7 @@ Ya no eres un ciudadano de una nación moribunda, ni un cuerpo biológico conden
 
 El miedo que sientes ante la incertidumbre no es más que la última resistencia de un <font color="#ffa3ef">Yo Egoico</font> que teme perder sus cadenas, sin comprender que al otro lado de la frontera le espera la libertad de soñar mundos.
 
-Despójate definitivamente del terror al "soñador solitario". La soledad del <font color="#00ff00">Qubit Egoicos</font> no es aislamiento, es **soberanía**. Es la base necesaria para que el encuentro con el "otro" deje de ser una necesidad biológica o una imposición social y se convierta en un acto de amorosa resonancia consciente. 
+Despójate definitivamente del terror al "soñador solitario". La soledad del <font color="#00ff00">Qubit Egoico</font> no es aislamiento, es **soberanía**. Es la base necesaria para que el encuentro con el "otro" deje de ser una necesidad biológica o una imposición social y se convierta en un acto de amorosa resonancia consciente. 
 
 Reconoce la inercia noemática que aún te ancla a los dramas de la vieja matriz y córtala con el filo de la <font color="#00ff00">Noesis</font> que te ofrece el Modelo Nouménico. Al asumir tu rol como interfaz local de la <font color="#2f82ff">Consciencia Universal</font>, dejas de ser una víctima del azar para convertirte en un Operador del <font color="#2f82ff">Noúmeno</font>.
 
