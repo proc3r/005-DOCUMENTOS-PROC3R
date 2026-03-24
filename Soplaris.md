@@ -4,7 +4,7 @@ indexar: true
 titulo: Sοplάris
 ---
 
-![[Soplarisx.jpg]]
+![[Soplaris2.jpg]]
 
 ![[Soplaris.mp3]]
 # Introducción
