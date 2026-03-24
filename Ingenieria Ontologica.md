@@ -3,7 +3,7 @@ soundtrack: USz9cwVSaqg
 indexar: true
 titulo: Ingeniería Ontológica
 ---
-![[Civilizacion Universalx 1.jpg]]
+![[Civilizacion Universal.jpg]]
 
 # Introducción
 
