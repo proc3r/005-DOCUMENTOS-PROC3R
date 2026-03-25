@@ -996,11 +996,9 @@ Visualicemos el <font color="#ffcc00">Píxel Σ·Τ</font> como un micro-cubo co
 Este vórtice es el punto de entrada de la <font color="#2f82ff">energía</font>, y la forma en que esta <font color="#2f82ff">energía</font> se expande y se refleja en las "paredes" del micro-cubo define los vectores en los tres ejes <font color="#fc300c">(X</font>, <font color="#2f82ff">Y</font>, <font color="#00ff00">Z)</font>. Cada uno de estos ejes codifica información asociada a un <font color="#00ff00">leptón</font>, y su activación depende del nivel energético del píxel:
 
 > [!n-electron] <font color="#fc300c">RANGO DEL ELECTRÓN</font> <font color="#fc300c">Subpixel (Ο)</font> (0.511 MeV/c²) 
-Si la energía entrante está en el rango del <font color="#fc300c">Electrón</font>, el <font color="#ffcc00">Píxel Σ·Τ</font> opera en su estado de menor energía, siendo el <font color="#fc300c">eje X</font> el principal director del flujo.
+> Si la energía entrante está en el rango del <font color="#fc300c">Electrón</font>, el <font color="#ffcc00">Píxel Σ·Τ</font> opera en su estado de menor energía, siendo el <font color="#fc300c">eje X</font> el principal director del flujo.
 >- <font color="#fc300c">Eje X:</font> Codifica los "fotones vectoriales", o "<font color="#fc300c">bits eléctricos</font>" de información, que se expanden desde el vórtice central. Estos <font color="#00ff00">fotones</font> son las unidades de información que la onda electromagnética usa para propagarse.
->
 >- <font color="#2f82ff">Eje Y</font>: Codifica la información de un "<font color="#2f82ff">byte magnético</font>" que, en este nivel de energía, es conceptualmente <font color="#2f82ff">muónico</font> (un sistema de 8 bits constituidos por los "fotones vectoriales" del <font color="#fc300c">eje X</font>). Este byte define el tamaño del píxel y su potencial de contracción.
->
 >- <font color="#00ff00">Eje Z</font>: Codifica un "valor vectorial <font color="#00ff00">tauónico</font> de <font color="#fc300c">Nivel 1</font>". Este valor es el encargado de sincronizar el byte magnético del <font color="#2f82ff">eje Y</font> con los bits eléctricos del <font color="#fc300c">eje X</font>, asegurando la coherencia entre el flujo <font color="#fc300c">eléctrico</font> y <font color="#2f82ff">magnético</font> del píxel.
 
 > [!n-muon] <font color="#2f82ff">RANGO DEL MUÓN</font> <font color="#2f82ff">Subpixel (Υ)</font> (105.66 MeV/c²)
@@ -1041,10 +1039,10 @@ Las <font color="#ffcc00">cualidades intrínsecas</font> de las partículas disc
 > [!masa] <font color="#fc300c">MASA</font>
 > La <font color="#fc300c">masa</font> no es una propiedad <font color="#ffcc00">intrínseca</font>, sino la manifestación de la energía que el vórtice Eta <span style="font-size: larger; letter-spacing: 2px;color: #00ffff; font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">(H)</span> (el núcleo del <font color="#ffcc00">Píxel Σ·Τ</font>) puede contener y procesar de manera coherente, en un balance dinámico entre los flujos de información del <font color="#2f82ff">eje Y</font><font color="#2f82ff"> (magnético)</font> y el<font color="#fc300c"> eje X</font> <font color="#fc300c">(electrónico)</font>.
 
-> [!espin] <font color="#00ff00">ESPÍN</font>
+> [!espin] <font color="#00ff00">ESPÍN </font>
 > El <font color="#00ff00">espín</font> es el resultado de la dirección de los flujos de información en los ejes <font color="#fc300c">X</font>, <font color="#2f82ff">Y</font> y <font color="#00ff00">Z</font> del <font color="#ffcc00">Píxel Σ·Τ</font>. Es la manifestación de la helicidad de las ondas armónicas nouménicas que dan origen al <font color="#ffcc00">Píxel Σ·Τ</font>, lo que explica la quiralidad de los <font color="#e36c09">neutrinos</font> y la naturaleza <font color="#ffcc00">intrínseca</font> del <font color="#00ff00">espín</font> en todas las partículas.
 
-> [!carga] <font color="#2f82ff">CARGA</font>
+> [!carga] <font color="#2f82ff">CARGA ELÉCTRICA</font>
 > La <font color="#2f82ff">carga</font> es la manifestación del vector de ajuste direccional de los bosones <font color="#fc300c">W+</font> y <font color="#2f82ff">W-</font>, y de la polaridad de los flujos de información eléctrica en el <font color="#fc300c">eje X</font>, que se sincronizan para generar un campo de coherencia que experimentamos como <font color="#2f82ff">carga</font> <font color="#fc300c">eléctrica</font>.
 
 De esta manera, el Modelo Nouménico desmantela la visión de las partículas como entidades sólidas con propiedades fijas, y las redefine como fenómenos emergentes de una compleja danza vectorial de información que tiene lugar en la unidad más fundamental de la realidad: el <font color="#ffcc00">Píxel Σ·Τ</font>. 
