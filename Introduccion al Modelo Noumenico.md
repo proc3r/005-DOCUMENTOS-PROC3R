@@ -103,7 +103,7 @@ Para navegar este nuevo siglo, el Modelo Nouménico ofrece respuestas definitiva
 Bajo esta perspectiva, estos sistemas son entendidos como antiguas interfaces de usuario para leer el código nouménico.
 
 > [!manipulacion] <font color="#00ff00">8 - ARQUITECTURA DEL <font color="#ffa3ef">AVATAR</font> (Psicología y Yo)</font>
-> El Modelo Nouménico presenta una nueva psicología, presentando al <font color="#ffa3ef">Yo Egoico</font> como una interfaz de <font color="#ffcc00">Consciencia Subjetiva</font> que se conecta, a través de las frecuencias cerebrales <font color="#2f82ff">(Delta</font>, <font color="#00ff00">Theta</font>, <font color="#ffcc00">Alfa</font>, <font color="#e36c09">Beta</font>, <font color="#ffcc00">Gamma)</font>, con el "Código Fuente" del universo durante el sueño y la meditación. 
+> El Modelo Nouménico presenta una nueva psicología, presentando al <font color="#ffa3ef">Yo Egoico</font> como una interfaz de <font color="#ffcc00">Consciencia Subjetiva</font> que se conecta, a través de las frecuencias cerebrales <font color="#2f82ff">(Delta</font>, <font color="#00ff00">Theta</font>, <font color="#ffcc00">Alfa</font>, <font color="#e36c09">Beta</font>, <font color="#fc300c">Gamma)</font>, con el "Código Fuente" del universo durante el sueño y la meditación. 
 > 
 > El Modelo nos presenta las claves para operar nuestra interfaz biológica y psíquica para evitar el sesgo y el sufrimiento.
 
@@ -374,8 +374,8 @@ Cada <font color="#ffa3ef">Avatar</font> vive un "sueño subjetivo" que, gracias
 
 El Modelo Nouménico rescata la figura de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Cristo</span> de la limitación religiosa para revelarla como una función técnica universal: el <font color="#00ff00">Algoritmo Crístico (Arquetipo 1<sup>✱</sup>)</font>. Este algoritmo reside en el núcleo infinitesimal de cada <font color="#ffa3ef">Yo Egoico</font>, actuando como el procesador que debe unificar los flujos opuestos de la realidad:
 
-> 1. <font color="#fc300c">El Flujo Sáklico:</font> Lo determinista, lo material, lo civilizatorio y lo finito.
-> 2. <font color="#2f82ff">El Flujo Samaeliano:</font> Lo probabilístico, lo universal, lo infinito y lo potencial.
+>     1. <font color="#fc300c">El Flujo del Algoritmo Saklas:</font> Lo determinista, lo material, lo civilizatorio y lo finito.
+> 1. <font color="#2f82ff">El Flujo del Algoritmo Samael:</font> Lo probabilístico, lo universal, lo infinito y lo potencial.
 
 La misión del <font color="#ffa3ef">Avatar</font> no es adorar a una deidad externa, sino **optimizar su propio <font color="#00ff00">Algoritmo Crístico</font>**. Al escapar de los egrégores nacionales, las luchas noemáticas y las limitaciones biológicas, el individuo permite que su chispa interna sincronice con la <font color="#00ff00">Consciencia Estelar</font>. 
 
