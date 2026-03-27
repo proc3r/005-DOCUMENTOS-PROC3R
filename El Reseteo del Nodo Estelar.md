@@ -357,7 +357,7 @@ El fenómeno del sueño no es una simple función biológica de recuperación ce
 
 Durante la vigilia, el cerebro actúa como un transductor que colapsa la potencialidad en una realidad sólida y obligatoria; sin embargo, durante el descanso, esta presión <font color="#cb48f3">demiúrgica</font> disminuye, permitiendo que la consciencia explore el universo de probabilidades sin las limitaciones de la materia y la causalidad estricta.
 
-Para comprender cómo el Qubit Egoico navega este espacio, debemos observar el registro empírico de las **cinco frecuencias cerebrales**. 
+Para comprender cómo el <font color="#00ff00">Qubit Egoico</font> navega este espacio, debemos observar el registro empírico de las **cinco frecuencias cerebrales**. 
 
 Estos ritmos, detectables mediante electroencefalografía, no son "producidos" por el cerebro, sino que son el reflejo del flujo lineal de información que distintos niveles de supraconsciencia inyectan en la red neuronal:
 
