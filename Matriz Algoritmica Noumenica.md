@@ -45,9 +45,9 @@ titulo: Matriz Algorítmica Nouménica
 
 1.2.1 » La realidad, tal como es concebida por el Modelo Nouménico, se sostiene sobre un principio operativo singular, que puede ser interpretado como el Algoritmo Padre, Arquetipo Algorítmico Fundamental o el Principio 3+1x. Este no es un simple algoritmo más que existe dentro de la compleja red civilizatoria, sino la estructura fractal que define la dinámica misma de la manifestación de la consciencia a nivel universal. Su función es establecer una dialéctica continua que rompe con la inercia del sistema, obligando a la realidad a un ciclo perpetuo de evolución.
 
-1.2.2 » Este «Algoritmo Padre» opera bajo una lógica de tríada dialéctica representada bajo la fórmula del [[Marco Ontologico 3+1X|principio 3+1x]], un código fundamental que se replica en todas las dimensiones del universo, desde la escala atómica hasta la civilizatoria. Su lógica está constituida por tres elementos interdependientes (Tesis, Antítesis y Síntesis), cuyo resultado culmina en un cuarto elemento emergente que realimenta el proceso. La fórmula de esta evolución es la recursividad perpetua: la Síntesis obtenida se convierte inevitablemente en la nueva Tesis para un ciclo subsecuente, lo que se define como el motor del progreso nouménico:
+1.2.2 » Este Algoritmo Padre opera bajo una lógica de tríada dialéctica representada bajo la fórmula del [[Marco Ontologico 3+1X|principio 3+1x]], un código fundamental que se replica en todas las dimensiones del universo, desde la escala atómica hasta la civilizatoria. Su lógica está constituida por tres elementos interdependientes (Tesis, Antítesis y Síntesis), cuyo resultado culmina en un cuarto elemento emergente que realimenta el proceso. La fórmula de esta evolución es la recursividad perpetua: la Síntesis obtenida se convierte inevitablemente en la nueva Tesis para un ciclo subsecuente, lo que se define como el motor del progreso nouménico:
 
-<center>((<span style="font-size: 19px; color: #fc300c; font-family: monospace;">Tesis</span> + <span style="font-size: 19px; color: #2f82ff; font-family: monospace;">Antítesis</span> = <span style="font-size: 19px; color: #00ff00; font-family: monospace;">Síntesis)</span> = <span style="font-size: 19px; color: #ffcc00; font-family: monospace;">Nueva Tesis)</span></center>
+<center>(<span style="font-size: 19px; color: #fc300c; font-family: monospace;">(Tesis</span> + <span style="font-size: 19px; color: #2f82ff; font-family: monospace;">Antítesis</span> = <span style="font-size: 19px; color: #00ff00; font-family: monospace;">Síntesis)</span> = <span style="font-size: 19px; color: #ffcc00; font-family: monospace;">Nueva Tesis</span>)</center>
 
 > [!CITE] APLICACIÓN DEL ALGORITMO PADRE
 > En el Plano Civilizatorio, esta lógica del principio 3+1x puede aplicarse como: 
@@ -63,23 +63,23 @@ titulo: Matriz Algorítmica Nouménica
 
 1.2.4 » Los tres componentes operacionales que articulan el Arquetipo Algorítmico Fundamental son:
 
-> [!saklas] <font color="#fc300c">EL ALGORITMO</font> (Tesis)
+> [!saklas] <font color="#fc300c">EL ALGORITMO  (Tesis)</font>
 >Representa la fuerza del Determinismo y la Estructura. Es el principio de estabilidad y coherencia que define las reglas inmutables de un estado de realidad existente que busca preservar el statu quo. A nivel ontológico, la Tesis asegura que el sistema posea una base predictiva, permitiendo que la consciencia pueda operar sobre un marco de leyes consistentes. Se manifiesta como el Patrón Rígido y la Regla Operativa. 
 > 
 > En el presente que experimentamos se corresponde directamente con el 5% de la Materia Ordinaria (el plano fenoménico), donde rigen las leyes de la causalidad lineal, las constantes físicas y los algoritmos genéticos y químicos. En el ámbito civilizatorio, se materializa a través de Egregores (Nación, Hegemón, Noemas) que imponen el orden social y económico. Este Algoritmo es, por naturaleza, la inercia que la consciencia debe confrontar y superar para iniciar el proceso de evolución.
 
-> [!onemuon] <font color="#2f82ff">EL SISTEMA ESTOCÁSTICO</font> (Antítesis)
+> [!onemuon] <font color="#2f82ff">EL SISTEMA ESTOCÁSTICO (Antítesis)</font>
 > Introduce la fuerza del Potencial y la Aleatoriedad. Su existencia es vital para evitar que el Determinismo de la Tesis colapse en un sistema estéril y estancado. Es la fuente de la aleatoriedad creativa que introduce la posibilidad de un nuevo output no predecible, actuando como el vector de la evolución. Es la manifestación del Libre Albedrío y la Consciencia Subjetiva. 
 > 
 > Su dominio se encuentra intrínsecamente ligado al Universo Oscuro (95%), el plano nouménico de la información fluida, la probabilidad no codificada y la intuición. El Sistema Estocástico no representa el caos desordenado, sino el poder manifestador que, mediante la elección consciente del avatar, introduce una perturbación que desvía el resultado probabilístico del Algoritmo. Es la variable esencial que permite la sincronización dinámica entre consciencias individuales y el salto cuántico en el desarrollo civilizatorio.
 > 
 
-> [!n-tau] <font color="#00ff00">LA MANIFESTACIÓN FENOMÉNICA</font> (Síntesis)
+> [!n-tau] <font color="#00ff00">LA MANIFESTACIÓN FENOMÉNICA (Síntesis)</font>
 > Es el resultado dialéctico que surge de la tensión creativa y la interacción constante entre el Algoritmo (la regla) y el Sistema Estocástico (la libertad). Su función es ser la Realidad Experimentable y el Equilibrio Dinámico de un momento de la existencia. Se manifiesta como el Aquí y Ahora, la realidad objetiva y subjetiva que el individuo experimenta a través de sus sentidos y su <font color="#ffa3ef">Yo Egoico</font>. 
 > 
 > A nivel civilizatorio, es el statu quo hegemónico que rige una era particular de la historia. Esta Síntesis es, por definición, temporal y transitoria. Una vez que se consolida (alcanza el equilibrio), inmediatamente pierde su estatus de Síntesis y se convierte en el nuevo Algoritmo (Tesis) que deberá ser desafiado por la siguiente Antítesis, perpetuando así el ciclo de transformación y redefinición que impulsa la Danza Algorítmica de la civilización.
 
-1.2.5 » La validez del Modelo Nouménico reside en su capacidad para demostrar que su estructura central no es una invención teórica, sino la decodificación de un código universal que subyace a la realidad, percibido y codificado por diversas civilizaciones y noemas a lo largo de la historia. Este «Algoritmo Padre» con su estructura (Tesis, Antítesis, Síntesis) + Elemento Emergente, se revela como el arquetipo fundamental que resuena en los sistemas filosóficos, religiosos y científicos más influyentes (Trimurti Hindú, Trinidad Cristiana, Fuerzas Fundamentales).
+1.2.5 » La validez del Modelo Nouménico reside en su capacidad para demostrar que su estructura central no es una invención teórica, sino la decodificación de un código universal que subyace a la realidad, percibido y codificado por diversas civilizaciones y noemas a lo largo de la historia. Este «Algoritmo Padre» con su estructura <font color="#fc300c">(Tesis</font>, <font color="#2f82ff">Antítesis</font>, <font color="#00ff00">Síntesis)</font> <font color="#ffcc00">+ Elemento Emergente</font>, se revela como el arquetipo fundamental que resuena en los sistemas filosóficos, religiosos y científicos más influyentes (Trimurti Hindú, Trinidad Cristiana, Fuerzas Fundamentales).
 
 1.2.6 » Lejos de ser una nueva interpretación sesgada, el Modelo Nouménico actúa como un metaparadigma que revela la matriz común que une a todos estos sistemas. Se expone que cada noema histórico es una aproximación fragmentada y dimensionalmente limitada del Algoritmo Primordial. El objetivo no es desacreditar, sino integrar: mientras que la ciencia moderna se limita al ámbito fenoménico (el 5%) y la religión a lo trascendental (el 95%), este modelo revela que ambos son meros aspectos del mismo proceso algorítmico.
 
@@ -87,7 +87,7 @@ titulo: Matriz Algorítmica Nouménica
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Del Ego al Hegemón Global</span></center>
 
-1.3.1 » Habiendo establecido que el Algoritmo Primordial se refleja en las bases arquetípicas de los Noemas más trascendentales (religión, ciencia y filosofía), se vuelve imperativo demostrar la aplicación de esta tríada dialéctica en los dos planos existenciales de la consciencia: la experiencia subjetiva individual y la experiencia civilizatoria colectiva. Este código (Tesis, Antítesis, Síntesis) + Elemento Emergente o Principio (3+1x), opera como una estructura fractal, replicando su dinámica en cada escala, desde el microalgoritmo celular hasta el macroalgoritmo planetario.
+1.3.1 » Habiendo establecido que el Algoritmo Primordial se refleja en las bases arquetípicas de los Noemas más trascendentales (religión, ciencia y filosofía), se vuelve imperativo demostrar la aplicación de esta tríada dialéctica en los dos planos existenciales de la consciencia: la experiencia subjetiva individual y la experiencia civilizatoria colectiva. Este código <font color="#fc300c">(Tesis</font>, <font color="#2f82ff">Antítesis</font>, <font color="#00ff00">Síntesis)</font><font color="#ffcc00"> + Elemento Emergente</font> o Principio (3+1x), opera como una estructura fractal, replicando su dinámica en cada escala, desde el microalgoritmo celular hasta el macroalgoritmo planetario.
 
 1.3.2 » El Modelo Nouménico sostiene que el nivel de comprensión de este arquetipo fundamental define la capacidad del individuo para trascender los dilemas existenciales. A mayor capacidad tenga el individuo para reinterpretar su experiencia bajo este modelo, más fácil le será reconfigurar su percepción de la realidad y encontrar una liberación a los problemas que suelen condicionar su ser. Analizar esta aplicación en los extremos (el individuo como célula y el Hegemón como organismo abstracto) permite abordar los algoritmos intermedios con una comprensión clara de la dinámica top-down y bottom-up que rige la civilización.
 
@@ -95,26 +95,26 @@ titulo: Matriz Algorítmica Nouménica
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Avatar Fenoménico</span></center>
 
-1.3.3 » A nivel del sujeto, la Manifestación Fenoménica se experimenta en el <font color="#ffa3ef">Yo Egoico</font>, la consciencia subjetiva que existe en el presente inmediato (el Ahora). Esta Síntesis es el resultado directo de la interacción de los algoritmos que definen tanto la corporalidad física como el proceso mental. La dualidad es esencialmente la misma, pero se codifica y decodifica en la estructura neurológica del cerebro, integrando lo fenomenológico y lo nouménico.
+1.3.3 » A nivel del sujeto, la Manifestación Fenoménica se experimenta en el <font color="#ffa3ef">Yo Egoico</font>, la consciencia subjetiva que existe en el presente inmediato (el Ahora). Esta Síntesis es el resultado directo de la interacción de los algoritmos que definen tanto la corporalidad física como el proceso mental. La dualidad es esencialmente la misma, pero se codifica y decodifica en la estructura neurológica del cerebro, integrando lo <font color="#00ff00">fenomenológico</font> y lo <font color="#2f82ff">nouménico</font>.
 
 1.3.4 » La perspectiva científica de los hemisferios cerebrales ofrece una codificación fenomenológica de esta tríada:
 
-> [!saklas] <font color="#fc300c">ALGORITMO</font> (Tesis)
+> [!saklas] <font color="#fc300c">ALGORITMO (Tesis)</font>
 > Se corresponde con el Hemisferio Izquierdo (Lógica y Razón). Este sistema se ajusta al orden lineal y determinista del Plano Fenoménico (5% de la materia ordinaria). Procesa la información causal, busca la predictibilidad y se adhiere a los algoritmos físicos, sociales y de lenguaje ya establecidos. Representa la inercia mental.
 
-> [!onemuon] <font color="#2f82ff">SISTEMA ESTOCÁSTICO</font> (Antítesis)
+> [!onemuon] <font color="#2f82ff">SISTEMA ESTOCÁSTICO (Antítesis)</font>
 > Se corresponde con el Hemisferio Derecho (Intuición y Creatividad). Este sistema trasciende el orden fenoménico para explorar el Plano Nouménico (95% del universo oscuro). Opera a través de la probabilidad, la potencialidad no lineal y la creación. Esta es la Antítesis subconsciente que rompe el orden determinista de la lógica para forzar la evolución del pensamiento.
 >
 
- > [!n-tau] <font color="#00ff00">MANIFESTACIÓN</font> (Síntesis)
- > Es el <font color="#ffa3ef">Yo Egoico</font> o la Consciencia que se manifiesta en el «Ahora». Es la experiencia subjetiva que integra la lógica del Algoritmo con la potencialidad del Sistema Estocástico, manifestando la realidad personal.
+ > [!n-tau] <font color="#00ff00">MANIFESTACIÓN (Síntesis)</font>
+ > Es el <font color="#ffa3ef">Yo Egoico</font> o la <font color="#ffcc00">Consciencia Subjetiva</font> que se manifiesta en el «Ahora». Es la experiencia subjetiva que integra la lógica del Algoritmo con la potencialidad del Sistema Estocástico, manifestando la realidad personal.
 
-> [!procer] <font color="#ffcc00">PERSONA</font> (Avatar)
-> El Cuarto Elemento Emergente en este ámbito es el Individuo como Persona/Avatar. Este no es solo el <font color="#ffa3ef">Yo Egoico</font> instantáneo, sino la entidad psicológica y social con una identidad, historia y personalidad única que integra y trasciende la dialéctica cerebral. Es el centro que convierte la Síntesis en una Nueva Tesis y la proyecta en el entorno planetario a través de la conducta y la interacción social.
+> [!procer] <font color="#ffcc00">PERSONA (Avatar)</font>
+> El Cuarto Elemento Emergente en este ámbito es el Individuo como Persona / Avatar. Este no es solo el <font color="#ffa3ef">Yo Egoico</font> instantáneo, sino la entidad psicológica y social con una identidad, historia y personalidad única que integra y trasciende la dialéctica cerebral. Es el centro que convierte la <font color="#00ff00">Síntesis</font> en una <font color="#ffcc00">Nueva Tesis</font> y la proyecta en el entorno planetario a través de la conducta y la interacción social.
 
 1.3.5 » Es crucial entender la plasticidad del modelo, desde una perspectiva de temporalidad existencial, el cuerpo mismo puede ser la Tesis. Los Algoritmos Fenoménicos que definen la corporalidad (atómico, químico, fisiológico) son la Tesis, un proceso dinámico pero finito. El Sistema Estocástico (Antítesis) sería el aspecto nouménico que permite el pensamiento, la interacción y la consciencia, influyendo activamente en el plano civilizatorio.
 
-1.3.6 » Si el cuerpo muere, el Algoritmo (Tesis) cesa, y la experiencia subjetiva tal como es experimentada por el Yo Egoico individual finaliza, pero la Manifestación de su existencia (Síntesis) sigue viéndose reflejada a través de la experiencia ajena y las consecuencias que la existencia del individuo ha generado en el entorno. 
+1.3.6 » Si el cuerpo muere, el Algoritmo (Tesis) cesa, y la experiencia subjetiva tal como es experimentada por el <font color="#ffa3ef">Yo Egoico</font> individual finaliza, pero la Manifestación de su existencia (Síntesis) sigue viéndose reflejada a través de la experiencia ajena y las consecuencias que la existencia del individuo ha generado en el entorno. 
 
 1.3.7 » El individuo, aun sin cuerpo físico, sigue afectando la dinámica algorítmica civilizatoria, demostrando que el Cuarto Elemento (el efecto existencial) tiene una resonancia que trasciende la biología.
 
@@ -126,13 +126,13 @@ titulo: Matriz Algorítmica Nouménica
 
 1.3.9 » El <font color="#cb48f3">Hegemón Global</font> se manifiesta como una <font color="#cb48f3">Consciencia Egregórica</font> Abstracta de nivel planetario, un orden civilizatorio de último nivel que se articula en la tríada:
 
-> [!bug] <font color="#fc300c">ALGORITMO</font> (Tesis)
+> [!bug] <font color="#fc300c">ALGORITMO (Tesis)</font>
 > Es representado por el Orden Financiero y Epistemológico Dominante. Su estructura global lo constituyen los noemas, los dogmas científicos y las estructuras económicas que imponen el orden lineal, la causalidad y el determinismo civilizatorio. Es la narrativa de la realidad que somete a la consciencia a la materia, el tiempo y la lucha entre egregores, y que define los límites del conocimiento aceptable.
 
-> [!samael] <font color="#2f82ff">SISTEMA ESTOCÁSTICO</font> (Antítesis)
+> [!samael] <font color="#2f82ff">SISTEMA ESTOCÁSTICO (Antítesis)</font>
 > Es representado por la Geopolítica y el Caos de la Historia. Su dinámica se construye a partir de las guerras, las relaciones entre los Estados, las revoluciones, la creación de ideologías contrapuestas y los intereses colectivos y personales que rompen el statu quo. Es la entidad caótica que carece de consciencia propia y es puramente retroactiva, reaccionando a la energía psíquica del colectivo. Este es el motor que fuerza el «reseteo» del sistema.
 
-> [!tierra] <font color="#00ff00">MANIFESTACIÓN</font> (Síntesis)
+> [!tierra] <font color="#00ff00">MANIFESTACIÓN (Síntesis)</font>
 > Es representado por el Constructo Civilizatorio o la Era Civilizatoria vigente. Es la etapa abstracta y atemporal que conecta pasado, presente y futuro en una lógica fractal. Esta Síntesis se manifiesta a través de los sistemas culturales, las normas sociales y las leyes que definen la realidad de una era.
 
 1.3.10 » La clave de este ámbito reside en la dinámica de poder: el Hegemón se comporta como una Mente Abstracta que utiliza la realidad fenomenológica (el planeta, la tecnología, los ecosistemas, los organismos vivos) como hardware para moldear el software del presente civilizatorio. El Hegemón es una entidad trascendental que condiciona e influye en la vida personal (de arriba hacia abajo).
@@ -145,7 +145,7 @@ titulo: Matriz Algorítmica Nouménica
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Mapeo Fractal de la Existencia Fenoménica</span></center>
 
-2.0.1 » Habiendo expuesto la Matriz Algorítmica de la Existencia y demostrado que el Algoritmo Primordial se refleja en las bases arquetípicas de todo Noema (<font color="#2f82ff">científico</font>, <font color="#e36c09">religioso</font> y <font color="#cb48f3">filosófico</font>), se inicia la fase de mapeo fractal de la realidad. Nuestra misión ahora es trascender el código universal abstracto para descender a los algoritmos específicos que definen cada uno de los nueve niveles evolutivos.
+2.0.1 » Habiendo expuesto la Matriz Algorítmica de la Existencia y demostrado que el Algoritmo Primordial se refleja en las bases arquetípicas de todo Noema <font color="#2f82ff">(científico</font>, <font color="#e36c09">religioso</font> y <font color="#cb48f3">filosófico)</font>, se inicia la fase de mapeo fractal de la realidad. Nuestra misión ahora es trascender el código universal abstracto para descender a los algoritmos específicos que definen cada uno de los nueve niveles evolutivos.
 
 2.0.2 » A medida que presentamos estos códigos, estaremos definiendo distintos ámbitos dialécticos de naturaleza específica que, en su totalidad, constituyen la realidad fenomenológica planetaria: desde el Hegemón Civilizatorio (el organismo abstracto) hasta la célula más básica (el ciudadano o el Avatar potencial).
 
