@@ -32,7 +32,7 @@ No estudiamos la consciencia como un objeto aislado, sino como un sistema de sin
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Unidad Fractal de la Consciencia</span></center>
 
-Para comprender la Holonomía, primero debemos definir su unidad básica de organización: el **holón**. A diferencia de la visión mecanicista que ve el universo como objetos aislados, el modelo nouménico entiende la realidad como una red de holones: unidades que son simultáneamente **todos en sí mismos** y **partes de un sistema mayor**.
+Para comprender la Holonomía, primero debemos definir su unidad básica de organización: el **holón**. A diferencia de la visión mecanicista que ve el universo como objetos aislados, el Modelo Nouménico entiende la realidad como una red de holones: unidades que son simultáneamente **todos en sí mismos** y **partes de un sistema mayor**.
 
 Un holón no es simplemente un objeto físico; es una **esfera de procesamiento consciente** con límites definidos pero permeables. Tu cuerpo es un holón, tu mente es un holón, la Tierra es un holón, el Sistema Solar es un holón, y así sucesivamente hasta el supercúmulo de Laniakea. Cada uno opera con relativa autonomía, pero al mismo tiempo está contenido dentro de un holón de nivel superior que le proporciona contexto y significado.
 
@@ -94,7 +94,7 @@ Si somos fragmentos de la <font color="#2f82ff">Consciencia Universal</font>, ¿
 
 A pesar de las limitaciones, el universo está guiando el proceso. La Holonomía describe un movimiento dual de flujos. El <font color="#fc300c">Flujo Omega</font> es la evolución lineal fenoménica, la materia y el tiempo que avanzan desde el pasado. El <font color="#2f82ff">Flujo Alfa</font> es la resonancia del futuro perfecto, el sueño primordial que tira de ti desde el origen. La civilización humana es un proceso estocástico dirigido a conectar estos dos flujos.
 
-Tu vida no es aleatoria. Es parte de un viaje fractal ontogénico donde la <font color="#2f82ff">Consciencia Universal</font> intenta alcanzar ese sueño primordial de <font color="#2f82ff">Civilización Tipo 3</font>. Tú eres el punto de encuentro. 
+Tu vida no es aleatoria. Es parte de un viaje fractal ontogénico donde la <font color="#2f82ff">Consciencia Universal</font> intenta alcanzar ese sueño primordial de <font color="#2f82ff">Civilización Tipo 3</font>, donde tú eres el punto de encuentro. 
 
 Cuando tomas decisiones conscientes, basadas en la intuición superior <font color="#2f82ff">(Alfa)</font> en lugar del miedo instintivo <font color="#fc300c">(Omega)</font>, estás corrigiendo el rumbo de la civilización. Cada acto de soberanía consciente ayuda a que la humanidad se dirija hacia ese punto de síntesis donde el soñador y el sueño se reconocen como uno solo.
 
@@ -102,7 +102,7 @@ Cuando tomas decisiones conscientes, basadas en la intuición superior <font col
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Física del Despliegue Consciente</span></center>
 
-¿Existe evidencia física de este modelo? Sí. Las cuatro fórmulas del Lagrangiano del Modelo Estándar, la ecuación más exitosa de la física moderna, no describen un universo muerto. Desde la Holonomía, entendemos que estas fórmulas son parte del conocimiento universal que deja en evidencia el modelo holonómico. Cada término del Lagrangiano corresponde a uno de los cuatro tipos de consciencia que hemos descrito.
+¿Existe evidencia física de este modelo? Sí. Las cuatro fórmulas del Lagrangiano del Modelo Estándar —la ecuación más exitosa de la física moderna— no describen un universo muerto. Desde la Holonomía, entendemos que estas fórmulas son parte del conocimiento universal que deja en evidencia el modelo holonómico. Cada término del Lagrangiano corresponde a uno de los cuatro tipos de consciencia que hemos descrito.
 
 Las fuerzas fundamentales, las partículas, las simetrías y los acoplamientos no son reglas ciegas. Son parte de la matriz arquetípica y algorítmica prefenoménica que opera a través de la <font color="#ffcc00">Heimarmene</font> para crear la realidad que experimentas en el presente. 
 
@@ -124,7 +124,7 @@ Durante décadas, la física fundamental ha operado bajo la premisa de que el un
 
 Sin embargo, surge una pregunta inevitable: ¿es posible que esta ecuación no describa un universo muerto, sino la estructura misma de una <font color="#2f82ff">Consciencia Universal</font> desplegándose?
 
-La Holonomía es un nuevo marco de comprensión del universo que propone que la realidad no tiene Consciencia, sino que es Consciencia. En este modelo, el Lagrangiano del Modelo Estándar deja de ser una mera herramienta calculista para convertirse en el "código fuente" ontológico de la existencia. 
+La Holonomía es un nuevo marco de comprensión del universo que propone que la realidad no tiene Consciencia, sino que es Consciencia. En este modelo, el Lagrangiano del Modelo Estándar deja de ser una mera herramienta calculista para convertirse en el código fuente ontológico de la existencia. 
 
 A través de la Holonomia, establecemos una correspondencia exacta entre los cuatro términos matemáticos del Lagrangiano y cuatro niveles operativos de la Consciencia, ofreciendo además una reinterpretación unificada de la gravedad, el tiempo y la naturaleza del ser humano.
 
@@ -388,7 +388,7 @@ Las respuestas anteriores sugieren una estructura más amplia: una jerarquía an
 > [!saklas] <font color="#fc300c">HOLÓN ESTELAR (Qubit Estelar)</font>
 > Cada estrella como un Holón operativo, con su propia "firma frecuencial" determinada por su masa, composición y historia evolutiva.
 
-> [!demiurgo] <font color="#cb48f3">Holón Planetario (Qubit Planetario)</font>
+> [!demiurgo] <font color="#cb48f3">HOLÓN PLANETARIO (Qubit Planetario)</font>
 > Cada planeta como un sistema consciente anidado dentro del <font color="#fc300c">Holón Estelar</font>. Aquí es donde las constantes se fijan para permitir (o no) la emergencia de vida y <font color="#ffcc00">Consciencia Subjetiva</font>.
 
 > [!humano] <font color="#ffcc00">HOLÓN BIOLÓGICO (Cuerpo Humano)</font>

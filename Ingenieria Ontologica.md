@@ -751,7 +751,7 @@ Durante la vigilia, la intensidad de los flujos <font color="#e36c09">Beta</font
 Toda esta sinfonía de ondas <font color="#e36c09">(Beta</font>, <font color="#ffcc00">Alfa</font>, <font color="#fc300c">Gamma)</font> tiene un único propósito: mantener el flujo de datos convergiendo hacia el centro del <font color="#00ff00">Qubit Egoico</font>. La realidad no se siente en las neuronas, se experimenta en el vacío del centro, donde el ruido eléctrico se silencia para convertirse en percepción pura.
 
 
-# 5 La Física del Presente
+# 5. La Física del Presente
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Singularidad del Encuentro y el Colapso de la Realidad</span></center>
 
