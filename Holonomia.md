@@ -492,7 +492,7 @@ Las respuestas presentadas aquí no son especulaciones gratuitas; son inferencia
 
 Bajo la lente de la Holonomía las tres generaciones de fermiones no son copias redundantes, sino iteraciones conscientes de la tríada <font color="#fc300c">Acléptica</font> / <font color="#00ff00">Dialéctica</font> / <font color="#2f82ff">Triadémica</font>, con la primera generación representando la estabilidad unitaria, la segunda la tensión transitoria, y la tercera la síntesis efímera.
 
-La constante de estructura fina <span style="font-size: 19px; font-style: italic;font-family: monospace;">α</span> ≈ 1/137 no es una constante universal absoluta, sino la firma frecuencial de nuestro <font color="#fc300c">Holón Estelar</font> / Planetario, optimizada para permitir complejidad consciente. Otros Holones podrían tener valores diferentes, creando realidades paralelas invisibles mutuamente debido al Principio de Invisibilidad Mutua Inter-Holónica.
+La constante de estructura fina <span style="font-size: 19px; font-style: italic;font-family: monospace;">α</span> ≈ 1/137 no es una constante universal absoluta, sino la firma frecuencial de nuestro <font color="#fc300c">Holón Estelar</font> / <font color="#cb48f3">Planetario</font>, optimizada para permitir complejidad consciente. Otros Holones podrían tener valores diferentes, creando realidades paralelas invisibles mutuamente debido al Principio de Invisibilidad Mutua Inter-Holónica.
 
 La masa del Higgs de 125 GeV no es un accidente del ajuste fino, sino el punto de anclaje exacto donde la Consciencia se estabiliza en forma material dentro de nuestro <font color="#cb48f3">Holón Planetario</font>. Representa el equilibrio preciso entre resistencia y fluidez que permite la emergencia de vida consciente.
 

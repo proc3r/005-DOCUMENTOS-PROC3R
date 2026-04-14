@@ -3,8 +3,8 @@ soundtrack: USz9cwVSaqg
 indexar: true
 titulo: Ingeniería Ontológica
 ---
-![[Civilizacion Universal.jpg]]
 
+![[Holonomia UniversalX.jpg]]
 # Introducción
 
 El estudio de la consciencia humana ha permanecido, durante milenios, atrapado en la dicotomía entre el materialismo biológico y el misticismo abstracto. El Modelo Nouménico se presenta como la síntesis necesaria: una ingeniería de la consciencia que vincula la física de los supercúmulos galácticos con la neurofisiología de la terminal biológica. 
