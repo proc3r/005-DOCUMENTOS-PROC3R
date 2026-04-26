@@ -89,10 +89,11 @@ Al estabilizar la frecuencia del <font color="#ffa3ef">Yo Egoico</font> y alinea
 
 ## 1.2 El Nodo <font color="#00ff00">5'Andros</font> y la Matriz Planetaria
 
-
 Una vez identificada la naturaleza del <font color="#ffa3ef">Yo Egoico</font> como la terminal de procesamiento, es necesario analizar el escenario donde esta terminal se encuentra anclada. Lo que la percepción común denomina "el mundo exterior" es, bajo el rigor de la <font color="#cb48f3">Ingeniería Ontológica</font>, el Nodo <font color="#00ff00">5'Andros</font>. 
 
 Este nodo no debe ser interpretado únicamente como el planeta Tierra, una entidad geológica o astronómica, sino como un <font color="#cb48f3">Qubit Planetario</font>: una unidad de procesamiento de información de altísima sofisticación que actúa como la base de datos fundamental para la experiencia humana. 
+
+![[Holon Planetario.jpg]]
 
 <font color="#00ff00">5'Andros</font> es la <font color="#00ff00">Matriz Fenomenológica</font> donde las corrientes de información nouménica —abstractas y atemporales— se densifican para adquirir las propiedades de materia, tiempo y espacio.
 
