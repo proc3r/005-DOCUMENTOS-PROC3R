@@ -4,6 +4,7 @@ indexar: true
 titulo: Holonomía
 ---
 
+
 ![[HolonomiaS.jpg]]
 
 # 1. Sistema de Sincronización Consciente
