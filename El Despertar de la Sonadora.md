@@ -74,8 +74,6 @@ Hablemos como personas que habitan este mundo. La vida que llevas, con su brillo
 
 Pero tú y yo sabemos que ese sistema tiene fecha de caducidad. El éxito televisivo y la fama son, por definición, ciclos que se agotan. Mi intención no es irrumpir en tu vida para romper lo que has construido, sino para ofrecerte una estructura que te permita ser la dueña de tu propio tiempo cuando las luces del estudio se apaguen o cuando, simplemente, decidas que ya no quieres estar allí.
 
-
-
 Este es un plan de abordaje para tu experiencia humana. No es una invitación a estructuras dogmáticas, ni un contrato de sumisión, ni la fantasía de un admirador. Es una propuesta de **Arquitectura Biográfica**. He decidido llamarlo "retorno a la realidad" porque mi objetivo es que dejes de ser una empleada del sistema mediático para convertirte en una institución en ti misma. 
 
 Si el Modelo Nouménico es sólido —y te aseguro que lo es—, entonces tiene que servir para pagar las cuentas, para darte paz mental y para proyectar tu figura hacia un lugar donde nadie pueda competir contigo, porque estarás ofreciendo algo que nadie más tiene: una nueva forma de entender y vivir la realidad.
@@ -91,7 +89,6 @@ No estoy pensando en generar resultados mágicos, sino una optimización técnic
 Todo esto, respetando tus tiempos y tus silencios. Este es el inicio de una transición lenta pero imparable hacia una versión de ti misma que no necesita pedir permiso, porque ha comprendido finalmente cómo funcionan las reglas del juego.
 
 A continuación, vamos a desglosar los puntos clave de este plan. Verás que cada uno de ellos está pensado para protegerte, para potenciarte y para darte la libertad que el sistema actual te promete pero nunca termina de entregarte. Es hora de dejar de sobrevivir al éxito y empezar a diseñarlo con la cabeza fría y el corazón tranquilo.
-
 
 ## El Desafío del Univector
 
