@@ -3,8 +3,7 @@ soundtrack: oNocVBCWeuc
 indexar: true
 titulo: Escala de Civilizaciones Nouménicas
 ---
-
-![[Cuadro Civilizaciones.jpg]]
+![](https://i.ibb.co/mVZswWHH/Cuadro-Civilizaciones.jpg)
 
 ![[Nueve Niveles Civilizatorios.mp3]]
 # Introducción
@@ -2332,30 +2331,3 @@ Esta nueva tendencia permite a los gobiernos dejar de operar en base a promesas 
 
 3.3.23 » El conocimiento acumulado a través de millones de años de evolución consciente se integra en una comprensión unificada que trasciende las limitaciones de la materia ordinaria, permitiendo al universo mismo convertirse en una entidad autoconsciente capaz de autorrefinarse y evolucionar hacia estados de existencia aún más elevados.
 
-# Sinopsis
-
-La Escala de Civilizaciones Nouménicas es una propuesta revolucionaria que busca superar las viejas ideas científicas. Aquí no medimos vatios, medimos la capacidad de una sociedad para despertar. 
-
-Es, literalmente, el manual que una civilización avanzada de otra galaxia usaría para decidir si la Tierra es un "bosque silvestre" primitivo o una sociedad lista para integrarse a la red del cosmos.
-
-## ¿Qué vas a descubrir en este viaje?
-
-Este libro te invita a ver la historia humana desde una "vista de pájaro" cósmica. Entenderás cómo empezamos siendo grupos que solo buscaban sobrevivir, cómo nos convertimos en naciones enfrentadas y por qué hoy vivimos en este caos de globalización fragmentada, donde parece que tenemos toda la información pero ninguna respuesta.
-
-A través de sus páginas, verás cómo la sociedad ha ido construyendo "redes invisibles" (algoritmos) que hoy nos mantienen atrapados en el consumo y la lucha política. Pero lo más fascinante es que el libro nos revela que estamos en un punto de quiebre. La humanidad ha llegado a su examen final:
-
-> 1. O seguimos repitiendo los mismos errores hasta nuestra autodestrucción.
-> 2. O damos el salto a la <font color="#2f82ff">Civilización Tipo 3</font>, un estado donde cada uno de nosotros puede convertirse en un **Avatar**, un ser que entiende que la realidad es mucho más que lo que vemos y que la verdadera evolución empieza en nuestra propia mente.
-
-## ¿Por qué deberías leerlo?
-
-Si sientes que el sistema actual ya no tiene sentido, si intuyes que hay una realidad oculta tras las noticias y la economía, este libro es tu brújula. No es solo teoría; es una herramienta holística para entender quiénes somos como especie y hacia dónde vamos.
-
-Es hora de dejar de ser simples "habitantes" de un planeta para convertirnos en los arquitectos de una nueva era. ¿Estamos listos para el salto solar o nos quedaremos atrapados en la sombra? La respuesta está en entender nuestra escala.
-
-Este documento es Ideal para quienes:
-
-> - Sienten curiosidad por el futuro de la humanidad y la vida en otros mundos.
-> - Buscan una visión que una la ciencia con la espiritualidad y la sociología. 
-> - Quieren entender por qué el mundo actual está tan fragmentado y cómo superarlo.
-> - Desean prepararse para el próximo paso en la evolución de nuestra consciencia.

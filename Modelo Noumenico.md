@@ -4,8 +4,7 @@ indexar: true
 titulo: Modelo Nouménico
 ---
 
-
-![[Tetrahedro Fractal06.JPG]]
+![](https://i.ibb.co/hF24YFNh/Tetrahedro-Fractal06.jpg)
 
 ![[Modelo Noumenico3.mp3]]
 
@@ -3579,7 +3578,7 @@ Es dentro de esta estructura esférica virtual multidimensional que constituye e
 > 1 - El <font color="#fc300c">Qubit Átomo</font> manifestado como una entidad singular de una <font color="#fc300c">Dimensión 1</font>, representaría un nivel de <font color="#fc300c">iteración 1</font> de la esfera del <font color="#00ff00">Qubit Egoico</font>, constituyendo a su vez una primera dimensión de información que unifica a los Flujos <font color="#2f82ff">Alfa</font> y <font color="#fc300c">Omega</font> que interactuan en el <font color="#e36c09">plano físico</font> <font color="#e36c09">(Iteración 2)</font>. 
 > ![[Q Atomico.png]]
 > 2 - El <font color="#cb48f3">Núcleo</font> del átomo, como centro de la esfera —con sus <font color="#2f82ff">neutrones</font> y <font color="#fc300c">protones</font>—, representa el punto de convergencia entre el <font color="#2f82ff">Flujo Alfa</font> —información de cualidades cuánticas que asciende desde lo infinitesimal y es codificada en forma de <font color="#2f82ff">Neutrones</font>—, y el <font color="#fc300c">Flujo Omega</font> —información de cualidades energéticas que desciende desde lo Infinito y se codifica en forma de <font color="#fc300c">Protones</font>—.
-> A nivel atómico, el <font color="#cb48f3">Nucleo</font>  representa la singularidad que surge de la unión entre la información proveniente de los Qubits <font color="#2f82ff">Ontogénico</font> y <font color="#fc300c">Creador</font>. Esta síntesis constituye una <font color="#cb48f3">Dimensión 0</font> dentro del <font color="#fc300c">nivel de iteración 1 </font> (Átomos). 
+> A nivel atómico, el <font color="#cb48f3">Nucleo</font>  representa la singularidad que surge de la unión entre la información proveniente de los Qubits <font color="#2f82ff">Ontogénico</font> y <font color="#fc300c">Estelar</font>. Esta síntesis constituye una <font color="#cb48f3">Dimensión 0</font> dentro del <font color="#fc300c">nivel de iteración 1 </font> (Átomos). 
 > ![[Q Nucleo2.png]]
 > 
 > 3 - Los <font color="#00ff00">Electrones</font>, con las múltiples órbitas que forman parte del átomo, se manifiestan en múltiples capas (siete como máximo), siguiendo diferentes patrones probabilísticos (cualidades cuánticas), que permiten sincronizar las fuerzas y relaciones generadas en los diferentes niveles de existencia superior (cualidades energéticas). 
@@ -3777,7 +3776,7 @@ A su vez, la consciencia del <font color="#ffa3ef">Yo Egoico</font> manifestada 
 
 Esta regencia del <font color="#ffcc00">Logos Individual</font> sobre el <font color="#fc300c">Nous Activo</font> es posible gracias a la lógica derivada del <font color="#ffcc00">Segundo Nivel de Autoconsciencia</font>, generado a partir de la unificación vectorial de los <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#00ff00">1</font>, <font color="#2f82ff">2</font> y <font color="#fc300c">3</font>.
 
-8.0.15 » El <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, al manifestarse dentro del <font color="#fc300c">Qubit Estelar</font> produce la emergencia del <font color="#ffa3ef">Nivel Avatárico</font>, produce una red algorítmica de información y significados interconectada que se genera a partir del procesamiento de información nouménica, la interpretación de ideas y conceptos, y las experiencias individuales y colectivas experimentadas por el <font color="#ffa3ef">Yo Egoico</font> de cada uno de los <font color="#ffa3ef">Avatares</font> a lo largo de su existencia.
+8.0.15 » El <font color="#ffa3ef">Arquetipo 7@ (Avatar / Horaios)</font>, al manifestarse dentro del <font color="#fc300c">Qubit Estelar</font> produce la emergencia del <font color="#ffa3ef">Nivel Avatárico</font>, una red algorítmica de información y significados interconectada que se genera a partir del procesamiento de información nouménica, la interpretación de ideas y conceptos, y las experiencias individuales y colectivas experimentadas por el <font color="#ffa3ef">Yo Egoico</font> de cada uno de los <font color="#ffa3ef">Avatares</font> a lo largo de su existencia.
 
 Esta red algoritmica resultante constituye una <font color="#e36c09">Consciencia Colectiva</font> que refleja el estado evolutivo del <font color="#2f82ff">Qubit Ontogénico</font>. Es a través de esta red de información nouménica que el <font color="#ffa3ef">Yo Egoico</font> puede decodificar la realidad percibida por los sentidos y darle sentido a la experiencia que experimenta en el <font color="#00ff00">presente</font>, ya que se manifiesta de forma latente como información subconsciente que alimenta la mente de los <font color="#ffa3ef">Avatares</font>. 
 
@@ -4332,38 +4331,3 @@ La clave para alcanzar un estado de mayor armonía civilizatorio reside en la co
 Este <font color="#2f82ff">Noema</font> debería permitir que todos los <font color="#ffa3ef">Avatares</font> que participan del proceso expansivo del <font color="#fc300c">Nous</font> puedan llegar a convivir bajo un mismo sistema civilizatorio justo y equilibrado, que permita a cada <font color="#ffa3ef">Avatar</font> experimentar una existencia óptima y enriquecedora, evitando experiencias de sufrimiento, escasez, sometimiento o cualquier otro aspecto negativo que la civilización humana ya haya experimentado a lo largo de su historia. 
 
 Este cambio implica dejar atrás todos aquellos aspectos negativos y paradójicos que derivan en conflictos y enfrentamientos, pero sin dejar de lado los avances modernos que la humanidad ha llegado a alcanzar, que permiten crear una civilización global moderna, tecnológica e informatizada, que le ofrece a cada <font color="#ffa3ef">Avatar</font> la potencialidad de ser parte de una <font color="#e36c09">Consciencia Colectiva</font> planetaria unificada que existe bajo una única cosmovisión, que promueva la autosuperación, la convivencia y la evolución del ser.
-
-# Sinopsis
-
-## El Manual Maestro de la Realidad
-
-Si los otros libros te enseñaron cómo funciona la sociedad y en qué nivel estamos, este libro te abre la puerta a lo que existe antes de que el mundo aparezca ante tus ojos.
-
-El Modelo Nouménico no es solo un tratado filosófico, es la guía definitiva para aquel que ha decidido dejar de ser un simple espectador de la vida para convertirse en un <font color="#ffa3ef">Avatar</font>.
-
-Este es el manual técnico y espiritual que te prepara para una misión que desafía todo lo que creías saber. Aquí, la ciencia y la religión quedan atrás como mapas incompletos. 
-
-Lo que tienes ante ti es la "Filosofía de las Estrellas": una base ontológica que te otorga los conocimientos de un ser interdimensional, permitiéndote comprender el universo desde su código fuente.
-
-## Los Pilares de la Sabiduría AvatÁrica
-
-> - <font color="#fc300c">Más allá del velo</font> <font color="#2f82ff">(Noúmeno</font> vs. <font color="#fc300c">Fenómeno)</font>: Aprenderás a distinguir entre el "escritorio de usuario" que percibimos (el 5% de la realidad) y el vasto océano de información y potencialidad pura que opera en las sombras (el 95% nouménico).
-> - <font color="#2f82ff">El <font color="#bfbfbf">Onemuón</font> y el Qubit:</font> Descubrirás los ladrillos fundamentales de la existencia. No son átomos de materia, sino **quanta de significado** y estructuras lógicas fractales que construyen todo, desde tu pensamiento más íntimo hasta el núcleo de los soles.
-> - <font color="#cb48f3">El Nous Arquetípico:</font> Comprenderás al "Puente". La primera consciencia que emerge del vacío y organiza el caos para que tú puedas existir. Entender al Nous es entender tu propia capacidad de crear realidad.
-> - <font color="#ffcc00">La Danza de los Flujos</font> <font color="#2f82ff">(Alfa</font> y <font color="#fc300c">Omega)</font>: Se revela el secreto de la creación: cómo la información desciende desde lo infinito y asciende desde lo infinitesimal para encontrarse en tu presente.
-> - <font color="#00ff00">Arquitectura de Arquetipos:</font> Este libro decodifica las consciencias supraconscientes que rigen el plano estelar y galáctico. Al comprender estos arquetipos, el <font color="#ffa3ef">Avatar</font> aprende a navegar no solo por la Tierra, sino por los niveles de existencia que superan los límites solares.
-
-
-### ¿Por qué este libro cambiará tu existencia?
-
-Comprender el **Modelo Nouménico** es adquirir la visión de un arquitecto cósmico. El lector que asimila este manual deja de estar limitado por las leyes biológicas y sociales de un solo planeta. Se prepara para un proceso evolutivo donde la consciencia se libera de la "prisión dorada" de la materia.
-
-Al terminar esta lectura, no solo entenderás el universo; estarás listo para **trascender hacia el plano de las estrellas**. El <font color="#ffa3ef">Avatar</font> no busca respuestas en el mundo; el <font color="#ffa3ef">Avatar</font> sabe que las respuestas son los algoritmos que él mismo está listo para programar.
-
-Este documento es ideal para lectores que:
-
-> - Sienten que la ciencia tradicional y la religión ya no explican la complejidad del cosmos.
-> - Buscan una transformación radical de su consciencia y su identidad (el paso del Yo Egoico al <font color="#ffa3ef">Avatar</font>).
-> - Desean comprender las estructuras matemáticas y lógicas que sostienen la existencia interdimensional.
-> - Están listos para asumir su rol en la evolución del <font color="#cb48f3">Nous Arquetípico</font>.
-

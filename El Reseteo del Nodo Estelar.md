@@ -4,7 +4,8 @@ indexar: true
 titulo: El Reseteo del Nodo Estelar
 ---
 ![[El Reseteo del Nodo Estelar.mp3]]
-![[Reset Backup.jpg]]
+![](https://i.ibb.co/Z1mX0FGG/Reset-Backup.jpg)
+
 
 # Introducción
 

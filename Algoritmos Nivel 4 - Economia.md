@@ -806,7 +806,7 @@ Su existencia es inherente a toda civilización y ha operado históricamente en 
 
 La emergencia de este algoritmo surge porque todo sistema formal, condicionado a las leyes y normas basadas en la ética y la moralidad, deja cuatro tipos de espacios de oportunidad que la acción humana, impulsada por el aspecto <font color="#ffcc00">Psicoeconómico</font> (el egoísmo y la necesidad), llenará ineludiblemente:
 
-> [!ilegalidad] <font color="#2f82ff">ESPACIOS DESATENDIDOS</font> (Ilegalidad/Informalidad)
+> [!ilegalidad] <font color="#2f82ff">ESPACIOS DESATENDIDOS</font> (Ilegalidad / Informalidad)
 > Son áreas donde emerge la subsistencia y el comercio básico que la Mónada ignora o no puede administrar eficientemente (pobreza, exceso de burocracia, impuestos altos).
 
 > [!crimen] <font color="#fc300c">ESPACIOS ILÍCITOS</font> (Criminalidad)

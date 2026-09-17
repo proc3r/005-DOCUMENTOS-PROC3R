@@ -3,8 +3,8 @@ soundtrack: EqbnlPZKEcM
 indexar: true
 titulo: Introducción al Modelo Nouménico
 ---
+![](https://i.ibb.co/dsHFTPTv/Cosmovision.jpg)
 
-![[Cosmovision.jpg]]
 
 ![[Introduccion Modelo Noumenico.mp3]]
 

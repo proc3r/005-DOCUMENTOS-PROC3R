@@ -5,7 +5,7 @@ titulo: Holonomía
 ---
 
 
-![[HolonomiaS.jpg]]
+![](https://i.ibb.co/VcgqB7Cg/Holonomia-S.jpg)
 
 # 1. Sistema de Sincronización Consciente
 
