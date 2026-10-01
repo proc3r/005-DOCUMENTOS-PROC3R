@@ -624,8 +624,7 @@ height: 360
 2.0.22 » En las <font color="#00ff00">Civilizaciones Tipo 2</font> se desarrollan los tres niveles evolutivos de la civilización que permiten crear un entorno planetario globalizado:
 
 > [!monadico] <font color="#ffcc00">NIVEL 3</font> (Estados)
-> En este nivel el egregor planetario global se fragmenta en <font color="#ffcc00">Estado Nacionales</font> con fronteras definidas que permiten unificar a múltiples <font color="#e36c09">grupos étnicos</font> bajo un solo sistema civilizatorio independiente.
-> El objetivo principal es la creación de los «sistemas de gobierno».
+> En este nivel el egregor planetario global se fragmenta en <font color="#ffcc00">Estado Nacionales</font> con fronteras definidas que permiten unificar a múltiples <font color="#e36c09">grupos étnicos</font> bajo un solo sistema civilizatorio independiente. El objetivo principal es la creación de los «sistemas de gobierno».
 
 > [!mercados] <font color="#00ff00"> NIVEL 4</font> (Globalización Fragmentada)
 > En esta etapa los <font color="#ffcc00">Estados</font> que conforman la civilización planetaria conviven y coexisten bajo un sistema de Globalización Fragmentada, que permite aplicar los principios de soberanía y autonomía aceptados comúnmente por todas las naciones. 
