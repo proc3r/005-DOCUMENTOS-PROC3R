@@ -3,7 +3,7 @@ soundtrack: QujRfiLk3oI
 indexar: true
 titulo: Holonomía
 ---
-![[Holonomia Full.png]]
+![[Holonomia FullX.jpg]]
 
 # 1. Sistema de Sincronización Consciente
 
