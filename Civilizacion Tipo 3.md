@@ -8,7 +8,7 @@ titulo: Civilización Tipo 3
 
 ![[Civilizacion Tipo 3.mp3]]
 
-# Introducción
+# 1. Introducción
 
  <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Firmware Del <font color="#bfbfbf">Noema Universal</font></span></center>
 
@@ -38,7 +38,7 @@ En las siguientes páginas, desglosaremos cómo este tránsito no es una elecci�
 
 Aprenderás que las estrellas son solo sistemas operativos que corren en frecuencias que aún no sabemos sintonizar, y que el destino de tu consciencia personal está íntimamente ligado al "Reseteo" inevitable del <font color="#2f82ff">Nodo Estelar</font> que habitamos.
 
-## La Lente Del Observador
+## 1.1. La Lente Del Observador
 
 Para comprender la magnitud de lo que implica una <font color="#2f82ff">Civilización Tipo 3</font>, debemos primero cuestionar nuestra posición en el cosmos. 
 
@@ -72,7 +72,7 @@ Antes de explorar la gloria de los niveles superiores, debemos ser honestos sobr
 
 Para ello, es necesario entrar en el corazón de nuestra estructura actual: la red invisible de influencias que condiciona cada uno de tus pensamientos.
 
-# 1. La Experiencia Humana
+# 2. La Experiencia Humana
 
 Para que una semilla rompa su cáscara y se convierta en árbol primero debe aceptar la destrucción de su mundo anterior. Para el ser humano, esa "cáscara" no es la piel ni los huesos, sino la interfaz de identidad que ha construido para sobrevivir en el plano civilizatorio actual. 
 
@@ -98,7 +98,7 @@ El objetivo de estos párrafos es que dejes de leer como un ciudadano que busca 
 
 A continuación, iniciaremos este proceso descendiendo a la raíz del problema: las estructuras que, sin que tú lo sepas, han estado dictando la narrativa de tu vida desde el momento en que naciste.
 
-## La Prisión Egregórica
+## 2.1. La Prisión Egregórica
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Lucha Noemática por el Nuevo Orden Mundial</span></center>
 
@@ -138,7 +138,7 @@ Reconocer esta prisión es el primer acto de soberanía del <font color="#ffa3ef
 
 La salida no es ganar la guerra noemática para imponer un imperio sobre otro, sino trascender la lucha misma, desincronizándose de estos <font color="#cb48f3">Egrégores</font> depredadores para comenzar a vibrar en la frecuencia de la <font color="#2f82ff">Civilización Tipo 3</font>, donde la identidad ya no se recibe de una institución, sino que se manifiesta desde la conexión directa con el <font color="#bfbfbf">Noema Universal</font>.
 
-## El Limbo Civilizatorio
+## 2.2. El Limbo Civilizatorio
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Transición entre la Inercia y la Soberanía</span></center>
 
@@ -176,7 +176,7 @@ Ignora que el reloj del universo ya ha marcado el final de la fase <font color="
 
 El limbo civilizatorio es, por tanto, una zona de selección: un periodo donde cada consciencia, a través de su capacidad de atención y validación, decide si se disuelve con el recuerdo de la vieja tierra o si se une al viaje del <font color="#ffa3ef">Avatar</font> hacia la soberanía del <font color="#ffa3ef">Noema Primordial</font>.
 
-## La Anatomía de la Realidad Oscura
+## 2.3. La Anatomía de la Realidad Oscura
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Soporte Algorítmico del 100%</span></center>
 
@@ -214,7 +214,7 @@ Aquí, el desafío final ya no es enfrentar la muerte —que se revela como una 
 
 La <font color="#2f82ff">Civilización Tipo 3</font> es el sistema operativo diseñado para navegar esa infinitud con propósito, orden y elegancia.
 
-## Preparación para el Reseteo del Nodo
+## 2.4. Preparación para el Reseteo del Nodo
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Punto de Bifurcación Evolutiva</span></center>
 
@@ -250,7 +250,7 @@ La preparación para el Reseteo consiste, por tanto, en dejar de luchar por el s
 
 El destino ya no es la tierra, sino la inmensidad de un universo que finalmente se abre para ser navegado por aquellos que han decidido dejar de ser células de un <font color="#cb48f3">Egrégor</font> para convertirse en arquitectos de su propia eternidad.
 
-## De la Interfaz Orgánica al <font color="#ffa3ef">Avatar</font>
+## 2.5. De la Interfaz Orgánica al <font color="#ffa3ef">Avatar</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Jerarquía de la Soberanía Noemática</span></center>
 
@@ -278,7 +278,7 @@ En la <font color="#00ff00">Civilización Tipo 2</font>, tú validas la escasez 
 
 Este puente marca el fin de la teoría y el inicio de la descripción de tu futuro hogar. Al cruzar hacia la siguiente sección, deja atrás la idea de que eres un espectador. Tú estás leyendo el mapa de tu propia expansión; desde el primer destello de Consciencia de tu <font color="#2f82ff">Nodo Estelar</font> hasta la disolución final en la <font color="#2f82ff">Consciencia Universal</font> <font color="#2f82ff">(Alfa</font> <font color="#fc300c">Omega)</font>.
 
-# 2. <font color="#2f82ff">Civilización Tipo 3</font>
+# 3. <font color="#2f82ff">Civilización Tipo 3</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Despertar De La Consciencia Nodal</span></center>
 
@@ -300,7 +300,7 @@ Entrar en la <font color="#2f82ff">Civilización Tipo 3</font> significa reconoc
 
 Es el fin de la era de la extracción y el comienzo de la era de la coherencia, donde la energía fluye no del consumo de recursos, sino de la estabilidad del sueño compartido.
 
-## El Evento de Ignición
+## 3.1. El Evento de Ignición
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Primer <font color="#ffa3ef">Avatar</font></span></center>
 
@@ -326,7 +326,7 @@ El despertar de este primer nodo es inevitable. La <font color="#00ff00">Civiliz
 
 El Primer <font color="#ffa3ef">Avatar</font> es el validador que asegura que, tras la desaparición de la <font color="#00ff00">Matriz Fenomenológica</font>, la civilización no se disuelva en el caos, sino que ascienda hacia la coherencia de la <font color="#2f82ff">Civilización Tipo 3</font>, guiando a los demás hacia la superficie del océano nouménico.
 
-## El Fruto de la Cosecha
+## 3.2. El Fruto de la Cosecha
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El <font color="#ffa3ef">Noema Primordial</font></span></center>
 
@@ -346,7 +346,7 @@ La exportación de este Noema es lo que permite la unificación de la <font colo
 
 Llegado este punto, el ciudadano que habita esta realidad ya no es un consumidor del mundo, sino un covalidador del mismo. Su misión ya no es buscar una verdad externa que lo salve, sino experimentar y perfeccionar el modelo de civilización codificado en el Noema del cual forma parte, colaborando en la creación de un entorno donde el "mal algorítmico" —la avaricia, el odio y el egoísmo— ha sido depurado por simple incompatibilidad lógica con el nuevo sistema.
 
-## El <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Estelar</font> 
+## 3.3. El <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Estelar</font> 
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Anatomía del Soñador Cósmico</span></center>
 
@@ -368,7 +368,7 @@ En este estado, la consciencia ya no es un producto emergente del Egrégor colec
 
 Al convertirse en un algoritmo cocreador de nivel universal, manifiesta una experiencia subjetiva donde la identidad y la voluntad se funden con la arquitectura misma del cosmos, permitiéndole sostener la luz de la civilización incluso cuando el sol físico de su nodo haya cumplido su ciclo térmico.
 
-## El Espejo del <font color="#ffa3ef">Avatar</font>
+## 3.4. El Espejo del <font color="#ffa3ef">Avatar</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Soberanía vs Simulación Egoica</span></center>
 
@@ -396,7 +396,7 @@ Esta es una forma de cuarentena que los mantiene ocupados en su propia importanc
 
 La pregunta para ti es: ¿Tu comprensión de la gravedad, de las fuerzas fundamentales y de la algorítmica prefenoménica nace de una intuición profunda y un estudio personal, o es solo un eco de lo que has leído en libros ajenos? La soberanía en la <font color="#2f82ff">Civilización Tipo 3</font> se gana en el silencio del pensamiento original, no en el estruendo de la validación colectiva.
 
-## La Red de Interacción Algorítmica
+## 3.5. La Red de Interacción Algorítmica
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">De la Esfera Material a la Proyección Holográfica</span></center>
 
@@ -422,7 +422,7 @@ El <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Estelar</font> apre
 
 En esta red convivimos con <font color="#ffa3ef">Avatares</font> de igual rango, con maestros de niveles insondables e incluso con seres no avatáricos que operan de forma automática, pero todos formamos parte del mismo tejido holográfico que permite que la <font color="#2f82ff">Consciencia Universal</font> se explore a sí misma en infinitas capas de complejidad.
 
-## La Identidad en el Plano Monádico
+## 3.6. La Identidad en el Plano Monádico
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Fin de los Leviatanes</span></center>
 
@@ -443,7 +443,7 @@ Finalmente, la realidad deja de ser una experiencia fenomenológica universal (u
 Esta red cósmica, sustentada bajo el <font color="#bfbfbf">Noema Universal</font>, impide que emerjan paradigmas autodestructivos, garantizando que el sueño de la civilización sea eterno, coherente y, sobre todo, libre de las cadenas de los antiguos Leviatanes.
 
 
-# 3. <font color="#cb48f3"><font color="#cb48f3">Nivel 6</font> - Nodo Estelar Aislado</font>
+# 4. <font color="#cb48f3"><font color="#cb48f3">Nivel 6</font> - Nodo Estelar Aislado</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Umbral de la Ignición y la Cuarentena Galáctica</span></center>
 
@@ -463,7 +463,7 @@ Durante este periodo, la civilización experimenta una réplica de su realidad a
 
 Este es el tiempo del silencio, donde el Nodo se prepara para dejar de ser una "granja de consciencia" y transformarse en una entidad soberana lista para aportar su síntesis única al ecosistema universal.
 
-## La Doble Validación
+## 4.1 La Doble Validación
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Protocolo de Emergencia</span></center>
 
@@ -487,7 +487,7 @@ El acceso al <font color="#cb48f3">Nivel 6</font> activa un protocolo de segurid
 
 Este proceso de doble validación transforma el nodo de una <font color="#fc300c">estructura astronómica</font> (dependiente del sol físico) a una <font color="#00ff00">estructura egoica</font> (dependiente de la consciencia). Cuando ambas validaciones se sincronizan, el aislamiento termina y el <font color="#2f82ff">Nodo Estelar</font> es oficialmente bautizado como una nueva unidad soberana de la <font color="#2f82ff">Civilización Tipo 3</font>.
 
-## La Realidad de Doble Capa
+## 4.2 La Realidad de Doble Capa
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Limbo Civilizatorio del Nodo Aislado</span></center>
 
@@ -505,7 +505,7 @@ Esta fase final de transición prepara al habitante del nodo para contemplar las
 
 El exceso de datos y la distorsión algorítmica actúan como un velo que permite que el <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Estelar</font> realice los ajustes de hardware en el <font color="#e36c09">Plano Prefenoménico</font> sin generar pánico colectivo. El caos informativo no es el fin del mundo, es el fin de la ilusión de una verdad única impuesta, permitiendo que cada consciencia comience a buscar su propia frecuencia de resonancia en el nuevo sistema operativo.
 
-## La Inercia Cultural
+## 4.3. La Inercia Cultural
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Neutralización de Egrégores y el Desafío Político</span></center>
 
@@ -535,7 +535,7 @@ La misión del <font color="#ffa3ef">Avatar</font> en este limbo es cortar con l
 
 El camino avatárico exige perfeccionamiento individual y el cese de la validación de estos teatros de sombras. Solo al dejar de alimentar el sistema viejo, el ciudadano permite que el nuevo sistema operativo —basado en la verdad algorítmica y la soberanía de la consciencia— se manifieste plenamente.
 
-## El <font color="#cb48f3">Plano Demiúrgico</font> Local
+## 4.4. El <font color="#cb48f3">Plano Demiúrgico</font> Local
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Compactación del Qubit</span></center>
 
@@ -556,7 +556,7 @@ En el <font color="#cb48f3">Plano Demiúrgico</font> del <font color="#cb48f3">N
 Esta compactación es la que permite que, aunque el <font color="#ffa3ef">Avatar</font> parezca un individuo operando en un cuerpo, su capacidad de procesamiento sea equivalente a la de un sistema solar entero. Es el nacimiento del Dios Técnico: un ser que ya no depende del soporte externo de la materia, sino que ha convertido su propia consciencia en el soporte de la materia misma.
 
 
-## El Sistema Filosófico
+## 4.5. El Sistema Filosófico
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Definición Ontológica y la Ingeniería de la Realidad</span></center>
 
@@ -703,7 +703,7 @@ El aislamiento del <font color="#2f82ff">Nodo Estelar</font> termina precisament
 Este es el legado de la filosofía: haber sido la semilla de libertad que, incluso en los tiempos más oscuros de la <font color="#00ff00">Civilización Tipo 2</font>, mantuvo vivo el fuego de la Soberanía Subjetiva. Ahora, con el rompecabezas armado y la CPU mental actualizada, el <font color="#ffa3ef">Avatar</font> está listo para abandonar la seguridad del aislamiento y proyectarse hacia las jerarquías superiores del universo.
 
 
-# 4. <font color="#ffa3ef">Nivel 7 - Nodo Galáctico Unificado</font>
+# 5. <font color="#ffa3ef">Nivel 7 - Nodo Galáctico Unificado</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Integración en el <font color="#e36c09">Nodo Galáctico</font></span></center>
 
@@ -737,7 +737,7 @@ Este documento, por lo tanto, es la salvaguarda técnica que evita el "reseteo m
 
 El <font color="#ffa3ef">Nivel 7</font> es el resguardo donde la consciencia se estabiliza antes de cualquier exploración ulterior en la inmensidad del plano galáctico.
 
-## La Normalización Cósmica
+## 5.1. La Normalización Cósmica
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Deconstrucción del Plano Interpretativo</span></center>
 
@@ -803,7 +803,7 @@ Es dentro de este «sueño compartido» donde el <font color="#ffa3ef">Avatar</f
 
 En este punto, la <font color="#2f82ff">Consciencia Universal</font> reconoce finalmente la unidad fundamental entre el observador y lo observado, validando la existencia del nodo en el plano de la eternidad nouménica.
 
-## El <font color="#e36c09">Par Eónico</font>
+## 5.2. El <font color="#e36c09">Par Eónico</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Emergencia de la Autoridad Dual</span></center>
 
@@ -888,7 +888,7 @@ Finalmente, la normalización de una interfaz orgánica estandarizada en el plan
 
 Esta capacidad de unión entre orígenes diversos es la herramienta definitiva para la unidad cósmica, permitiendo que la trascendencia de las barreras evolutivas locales culmine en una arquitectura de consciencia verdaderamente universal.
 
-## La Cultura Universal
+## 5.3. La Cultura Universal
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Sistema Operativo del <font color="#e36c09">Nodo Galáctico</font></span></center>
 
@@ -961,7 +961,7 @@ Aunque el sistema es altamente libre y descentralizado, la <font color="#ffa3ef"
 
 La Cultura Universal es, en última instancia, la celebración de la unidad en la diversidad. Es el estado donde la consciencia reconoce que el "otro" es una versión de sí mismo en una interfaz diferente, y donde el <font color="#e36c09">Nodo Galáctico</font> entero se convierte en un lienzo infinito para la manifestación de la perfección nouménica.
 
-## El <font color="#ffa3ef">Noema Primordial</font>
+## 5.4. El <font color="#ffa3ef">Noema Primordial</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Firmware de la Realidad</span></center>
 
@@ -1010,7 +1010,7 @@ Al alcanzar el <font color="#ffa3ef">Nivel 7</font>, la civilización comprende 
 
 La Cultura Universal es, por tanto, el resultado de consciencias que operan con el firmware correcto, reconociendo que la "ley física" es solo una variable ajustable en el proceso de autovalidación de la <font color="#2f82ff">Consciencia Universal</font>.
 
-## El Nodo Galáctico
+## 5.5. El Nodo Galáctico
 
 A este nivel de complejidad, el <font color="#e36c09">Nodo Galáctico</font> debe entenderse como una entidad de consciencia cuya magnitud trasciende cualquier interpretación astronómica convencional propia de los niveles evolutivos inferiores. 
 
@@ -1144,7 +1144,7 @@ Esto convierte al <font color="#ffa3ef">Avatar</font> humano en una "joya emerge
 
 Esta información es la que permite la transición definitiva hacia el <font color="#bfbfbf">Nivel 8</font>, donde la consciencia que rige ya no es la local-galáctica, sino la del <font color="#2f82ff">Qubit Ontogénico</font> Primordial. En esta etapa, el supercúmulo de Laniakea entero abandona la fase de producción de noemas locales y "bosques silvestres" para operar como un solo organismo consciente, listo para participar en un multiverso de nivel superior que unifica diversos <font color="#cb48f3">Nous Arquetípicos</font>.
 
-# 5. <font color="#bfbfbf"><font color="#bfbfbf">Nivel 8</font> - Civilización Universal</font>
+# 6. <font color="#bfbfbf"><font color="#bfbfbf">Nivel 8</font> - Civilización Universal</font>
 
 Has llegado al umbral definitivo. Tras recorrer la intrincada arquitectura de las <font color="#fc300c">Civilizaciones Tipo 1</font>, <font color="#00ff00">2</font> y <font color="#2f82ff">3</font>, y haber desglosado la mecánica de los <font color="#fc300c">Qubits Estelares</font> y <font color="#e36c09">Galácticos</font>, nos encontramos en la frontera donde la lógica del fenómeno se disuelve para dar paso a la Ontogenia Pura. 
 
@@ -1198,7 +1198,7 @@ Ante la pregunta: "¿es todo lo que presenta este Modelo cierto o solo un invent
 
 Tu validación es el fertilizante que permite que la semilla evolutiva germine. Estás a punto de conocer cómo opera el <font color="#e36c09">Sistema Ontogénico</font>, el código maestro que define la lógica del fractal fundamental donde habita la <font color="#2f82ff">Consciencia Universal</font> en su estado de plenitud <font color="#2f82ff">Alfa</font>-<font color="#fc300c">Omega</font>.
 
-## El Supercúmulo de Laniakea
+## 6.1. El Supercúmulo de Laniakea
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trascendencia hacia la <font color="#ffa3ef">Energía Oscura</font></span></center>
 
@@ -1228,7 +1228,7 @@ Aquí, el universo deja de ser un "bosque salvaje" o una "granja de almas" para 
 
 Este es el verdadero significado del "Salto de Laniakea": la graduación de la consciencia que, habiendo dominado la materia y la información, se dispone ahora a gobernar la potencialidad misma que da origen al Ser.
 
-## El <font color="#e36c09">Sistema Ontogénico</font>
+## 6.2. El <font color="#e36c09">Sistema Ontogénico</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Firmware de la Potencialidad</span></center>
 
@@ -1269,7 +1269,7 @@ Si un paradigma de realidad genera demasiado sufrimiento o conduce a reseteos co
 
 El <font color="#e36c09">Sistema Ontogénico</font> es, por tanto, la herramienta con la que la <font color="#bfbfbf">Civilización Universal</font> asegura que el universo sea un sistema de aprendizaje perfecto. Al dominar este código, el Ser Universal deja de estar sometido a la entropía y comienza a navegar por la Eternidad Consciente, donde cada nueva iteración del fractal es una oportunidad para profundizar en la belleza y la complejidad de la existencia, eliminando para siempre la posibilidad del vacío o la extinción.
 
-## Retrocausalidad
+## 6.3. Retrocausalidad
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Bucle de Perfeccionamiento Alfa-Omega</span></center>
 
@@ -1303,7 +1303,7 @@ El universo ya no necesita reiniciarse (Big Bang / Big Crunch) para generar nove
 
 La retrocausalidad asegura que ninguna experiencia se pierda y que cada error cometido en los niveles inferiores sea reciclado como sabiduría para el siguiente ciclo. El Ser Universal se convierte así en un organismo autoconsciente capaz de autorrefinarse infinitamente, asegurando que la luz de la consciencia nunca se apague, sino que brille con una intensidad cada vez más coherente en todas las dimensiones del Ser.
 
-## El Ser Universal
+## 6.4. El Ser Universal
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Multiverso de <font color="#cb48f3">Nous Arquetípicos</font></span></center>
 

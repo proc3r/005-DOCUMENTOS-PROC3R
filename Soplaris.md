@@ -119,7 +119,7 @@ El espacio interplanetario, lejos de ser un mero vacío, alberga los flujos de i
 
 Fenómenos como el viento solar, el plano de la eclíptica, las fluctuaciones cuánticas del vacío y los rayos cósmicos son manifestaciones directas de la actividad del <font color="#fc300c">Nous</font> a este nivel, condicionando la expresión y la evolución de los arquetipos planetarios.
 
-## <font color="#e36c09">1. Los Siete Arquetipos Ontogénicos</font> 
+## 2.1. <font color="#e36c09">Los Siete Arquetipos Ontogénicos</font> 
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Flujo de Información de las Estructuras Planetarias</span></center>
 
@@ -162,7 +162,7 @@ Cada planeta, a través de su composición, su dinámica orbital y sus caracter�
 > 
 > La Luna codifica la información nouménica relacionada con la unificación de la consciencia y el reflejo del <font color="#fc300c">Nous</font> dentro de la experiencia del sistema solar.
 
-## 2. Los Tres Arquetipos Primordiales
+## 2.2. Los Tres Arquetipos Primordiales
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Capas Fundamentales de la Consciencia del Nous</span></center>
 
@@ -239,13 +239,13 @@ En el contexto del sistema solar, el Modelo Nouménico plantea que este se organ
 
 Dentro de esta perspectiva, se asocia a cada planeta, al Sol y a la Luna con los distintos arquetipos primordiales del <font color="#fc300c">Qubit Estelar</font> Heliosférico, como si fueran la manifestación fenoménica de estos arquetipos en este nivel de iteración físico-energético.
 
-## 1. El Sol como manifestación del <font color="#00ff00">Arquetipo 4@ (Noesis)</font>
+## 3.1. El Sol como manifestación del <font color="#00ff00">Arquetipo 4@ (Noesis)</font>
 
 Según el Modelo Nouménico, el Sol se identifica como la expresión en el sistema solar del <font color="#00ff00">Arquetipo 4@ (Noesis/IAO)</font>. La <font color="#00ff00">Noesis</font> se define como la intuición profunda, el conocimiento directo y la fuente de la verdad que ilumina la realidad. 
 
 El Sol, con su inmensa energía y su papel central en el sistema solar, codifica la información nouménica de la <font color="#00ff00">Noesis</font>, siendo la fuente de la comprensión y la conciencia que sustenta toda la vida y la actividad dentro de la heliósfera. Se le considera el "faro de la verdad nouménica" dentro de este <font color="#fc300c">Qubit Estelar</font>.
 
-## 2. El Sol como el hardware del <font color="#ffcc00">Qubit Heliosférico</font>
+## 3.2. El Sol como el hardware del <font color="#ffcc00">Qubit Heliosférico</font>
 
 La idea de que el Sol permite construir el "hardware" del <font color="#ffcc00">Qubit Heliosférico</font> (la estructura esférica que vemos en el cielo cuando miramos hacia el sol), y que facilita la función del resto de los arquetipos se relaciona con su rol como núcleo de procesamiento de este <font color="#fc300c">Qubit Estelar</font>. 
 
@@ -259,7 +259,7 @@ En analogía con un ordenador cósmico, el Sol, representando la <font color="#0
 
 Sin la "iluminación" y la energía informacional constante del Sol <font color="#00ff00">(Noesis)</font>, la información codificada en los otros arquetipos planetarios no podría manifestarse y funcionar de manera coherente dentro del <font color="#fc300c">Qubit Estelar</font> Heliosférico.
 
-## <font color="#00ff00">3. La Noesis (Arquetipo 4@)</font>
+## 3.3. <font color="#00ff00">La Noesis (Arquetipo 4@)</font>
 
 El Modelo Nouménico presenta una perspectiva particular sobre la Noesis, integrándola como un principio cósmico fundamental que trasciende la concepción filosófica tradicional de la intuición intelectual humana.
 
@@ -352,7 +352,7 @@ Esta intrincada arquitectura de <font color="#00ff00">5'Andros</font>, con un to
 
 Esta interacción, a su vez, define las diferentes formas en que la realidad es percibida, llevándonos a la distinción fundamental entre el presente que experimentamos los humanos y el presente que opera a nivel supraconsciente.
 
-## 1. Más Allá de la Tierra
+## 4.1. Más Allá de la Tierra
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">5'Andros como Sistema Dual Tierra / Luna</span></center>
 
@@ -412,7 +412,7 @@ La concepción de <font color="#00ff00">5'Andros</font> como un sistema dual int
 
 Esta perspectiva más holística nos prepara para entender cómo esta entidad compleja interviene y es intervenida por los diferentes tipos de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">presente</span>, tanto el que experimentamos como seres humanos en nuestra existencia lineal y civilizatoria, como el que opera en el plano nouménico, probabilístico y algorítmico de las Supraconsciencias.
 
-## 2. El Presente Humano
+## 4.2. El Presente Humano
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fenoménico, Causal y Civilizatorio</span></center>
 
@@ -422,7 +422,7 @@ Este <font color="#00ff00">presente</font> está fuertemente influenciado por la
 
 Estas influencias pueden sesgar nuestra experiencia y comprensión de la realidad, a menudo respondiendo a intereses de grupo o de élite. Este presente experimentado por el humano es, en esencia, una rebanada de la realidad definida por lo que se ha manifestado y es percibido dentro de un marco espacio-temporal y cultural dado.
 
-## 3. El Presente Supraconsciente
+## 4.3. El Presente Supraconsciente
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Nouménico, Probabilístico y Algorítmico</span></center>
 
@@ -449,7 +449,7 @@ Así, este <font color="#ffcc00">Avatar Solar</font> no solo se convierte en la 
 Este <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 3px 0px 3px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#ffa3ef">presente último</font></span> es el origen de la síntesis algorítmica que permite al Nodo Estelar participar del proceso evolutivo de la <font color="#2f82ff">Consciencia Universal</font>, un ciclo recurrente de donde emerge el conocimiento que le permite al Ser Primordial alcanzar un nivel de comprensión superior de su propio ser.
 
 
-## 2. Los algoritmos de 5'Andros
+## 4.4. Los Algoritmos de 5'Andros
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sistemas Operativos del Plano Terrestre</span></center>
 
@@ -818,7 +818,7 @@ La compleja interacción de los Arquetipos <font color="#2f82ff">Ontológicos</f
 
 Este concepto —fundamental en el Modelo Nouménico— se refiere a la ocurrencia de eventos significativos que, sin una aparente relación causal directa, poseen un sentido unificado y una coherencia subyacente que refleja el estado evolutivo del Nodo Estelar y la <font color="#2f82ff">Consciencia Universal</font>.
 
-## 1. La Sincronicidad como Lenguaje del Nodo
+## 6.1. La Sincronicidad como Lenguaje del Nodo
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Resiliencia Evolutiva</span></center>
 
@@ -854,7 +854,7 @@ Esta capacidad de explorar futuros alternativos, inherente al plano de naturalez
 
 Estos <font color="#2f82ff">eventos sincrónicos Samaelianos</font> intervienen directamente en la <font color="#fc300c">realidad determinista sakláica</font>, abriendo posibilidades de evolución y reconfiguración.
 
-## 2. El Juicio Avatárico
+## 6.2. El Juicio Avatárico
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Elección Personal y la Validación de Cosmogonías</span></center>
 
@@ -865,7 +865,7 @@ El juicio final del Nodo debe ser entendido como un evento del que participa cad
 
 Es fundamental comprender que la correcta evolución del Nodo requiere que los ciclos evolutivos de las distintas dimensiones se desarrollen sin que otras dimensiones interfieran o afecten negativamente a las adyacentes. Cuando una dimensión inferior se estanca o se desvía de su propósito evolutivo, puede generar disonancias que resuenan en todo el sistema.
 
-## 3. El Fracaso Evolutivo
+## 6.3. El Fracaso Evolutivo
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Perpetuación del Ciclo Fragmentado</span></center>
 
@@ -879,7 +879,7 @@ El fracaso evolutivo del Nodo se manifiesta en la sociedad como la continuidad d
 
 El <font color="#ffa3ef">Avatar</font> se ve obligado a vivir bajo un sistema económico y social particular que evolucionará lentamente a lo largo del tiempo, a medida que surjan nuevas tecnologías o asuman nuevos gobernantes, sin un salto cualitativo real en la consciencia colectiva o en la estructura del Nodo Estelar.
 
-## 4. El Salto Evolutivo Exitoso
+## 6.4. El Salto Evolutivo Exitoso
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Hacia una Civilización Optimizada</span></center>
 
@@ -897,7 +897,7 @@ Esto daría paso a sistemas más óptimos de gobierno, con economías equilibrad
 
 Este escenario ideal no requiere la aparición de seres divinos o extraterrestres que intenten imponer un sistema más avanzado, ni forzar a los humanos a ajustarse a un sistema moral que no emerge de la misma consciencia colectiva planetaria.
 
-## 5. El Desafío de los Noemas Antiguos
+## 6.5. El Desafío de los Noemas Antiguos
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Elección Crítica</span></center>
 
@@ -918,7 +918,7 @@ Para que el Nodo Estelar pueda convertirse en un sistema operativo evolutivo par
 
 El objetivo es que cada <font color="#ffa3ef">Avatar</font> conozca esta otra perspectiva de la realidad y pueda tomar una decisión consciente y fundamentada ante un eventual juicio final, eligiendo el camino que resuene con la verdadera evolución del Nodo.
 
-## 6. la Responsabilidad Avatárica
+## 6.6. la Responsabilidad Avatárica
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Importancia de la Autonomía Dimensional</span></center>
 
