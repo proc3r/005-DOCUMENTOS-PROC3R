@@ -47,7 +47,8 @@ Hemos demostrado que estos no son leyes últimas, sino traducciones fenoménicas
 
 En el <font color="#2f82ff">Plano Nouménico</font>, donde la consciencia navega sin las ataduras de la métrica externa, estos se revelan como <font color="#ffa3ef">Operador Rho</font> (Resonancia Semántica) y <font color="#fc300c">Operador Phi</font> (Mínima Fricción Cognitiva)**. 
 
-El <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> es el mecanismo que selecciona, actualiza y mantiene la coherencia de significado en un campo de potencialidad infinita. El <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> es el principio que permite que la consciencia salte, comprima, teletransporte o reconfigure escenarios sin gasto energético, porque opera bajo lógica de eficiencia narrativa, no de conservación material. 
+> - El <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> es el mecanismo que selecciona, actualiza y mantiene la coherencia de significado en un campo de potencialidad infinita. 
+> - El <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> es el principio que permite que la consciencia salte, comprima, teletransporte o reconfigure escenarios sin gasto energético, porque opera bajo lógica de eficiencia narrativa, no de conservación material. 
 
 El sueño es el modo directo de <font color="#ffa3ef">Rho</font> y <font color="#fc300c">Phi</font>. La vigilia es el modo refractado de <font color="#2f82ff">Eta</font> y <font color="#cb48f3">Pi</font>. La <font color="#00ff00">grieta</font> que experimentamos como <font color="#00ff00">presente</font> no es un punto en el tiempo, sino la interfaz viva donde estos cuatro operadores se superponen, negocian y traducen información entre densidades.
 
@@ -64,7 +65,7 @@ No estamos forzando analogías. Estamos leyendo el mismo circuito desde dos term
 
 El propósito de este documento es romper la frontera académica que mantiene separados estos dominios. No venimos a competir con el modelo estándar, sino a completar su sintaxis. 
 
-La ciencia ha construido un lenguaje extraordinario para describir el <font color="#fc300c">qué</font> y el <font color="#2f82ff">cómo</font> del fenómeno, pero ha evitado el <font color="#00ff00">quién</font> y el <font color="#ffcc00">porqué</font> ontológico. Nosotros proponemos que el quién es la <font color="#2f82ff">Consciencia Universal</font> operando en modos de densidad variable, y el porqué es la generación de experiencia coherente mediante traducción informacional. 
+La ciencia ha construido un lenguaje extraordinario para describir el <font color="#fc300c">qué</font> y el <font color="#2f82ff">cómo</font> del fenómeno, pero ha evitado el <font color="#00ff00">quién</font> y el <font color="#ffcc00">porqué</font> ontológico. Nosotros proponemos que el <font color="#00ff00">quién</font> es la <font color="#2f82ff">Consciencia Universal</font> operando en modos de densidad variable, y el <font color="#ffcc00">porqué</font> es la generación de experiencia coherente mediante traducción informacional. 
 
 Al presentar este mecanismo, no pedimos fe, sino atención estructural. Invitamos a físicos, filósofos, neurocientíficos y pensadores independientes a usar esta arquitectura como herramienta de decodificación. No como verdad revelada, sino como llave maestra. 
 

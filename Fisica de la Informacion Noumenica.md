@@ -491,7 +491,7 @@ Al igual que las matrices unitarias vectoriales más fundamentales <font color="
 
 Dentro de la <font color="#ffc000">estructura intrínseca</font> del cuanto de acción, la influencia de los 3 <font color="#2f82ff">Arquetipos Ontológicos</font> <font color="#fc300c">Saklas</font>, <font color="#00ff00">Cristos</font> y <font color="#2f82ff">Samael</font> se manifiesta en sus propios "generadores" u "operadores de información", que definen la esencia y el potencial de este píxel fundamental:
 
-### 2.6.1. Algoritmo <font color="#fc300c">SAKLAS U(1)</font>
+### 2.6.1. Algoritmo <font color="#fc300c">Saklas U(1)</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Identidad del Píxel</span></center>
 
@@ -501,7 +501,7 @@ En el nivel del cuanto de acción, <font color="#fc300c">Saklas <font color="#fc
 
  De aquí emana el Hamiltoniano local que define el estado total de este píxel elemental y su unicidad. <font color="#fc300c">Saklas</font> es el "fundamento del fundamento", el principio que declara "esto existe como una unidad". Es la base sobre la cual se construirán todas las propiedades y dinámicas subsiguientes.
 
-### 2.6.2. Algoritmo <font color="#00ff00">CRISTOS U(2)</font>
+### 2.6.2. Algoritmo <font color="#00ff00">Cristos U(2)</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Plantilla <font color="#00ff00">Leptónica</font> y la Trascendencia Dimensional</span></center>
 
@@ -524,7 +524,7 @@ A medida que el cuanto procesa la información nouménica subyacente, esta plant
 
 Así, <font color="#00ff00">Cristos</font> dota al cuanto de acción de la capacidad de ser una unidad fundamental con la potencialidad de manifestarse como un tipo específico de <font color="#00ff00">leptón</font>, sentando las bases para la diversidad de la materia ligera.
 
-### 2.6.3. Algoritmo <font color="#2f82ff">SAMAEL U(3)</font>
+### 2.6.3. Algoritmo <font color="#2f82ff">Samael U(3)</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Matriz de <font color="#e36c09">Neutrinos</font> y la Codificación Gluónica</span></center>
 

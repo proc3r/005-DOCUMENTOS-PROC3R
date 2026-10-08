@@ -1046,7 +1046,7 @@ Nos invita a reconocer la primacía del Noúmeno sobre el fenómeno, a comprende
 
 Este modelo se presenta como un intento de transmitir a las nuevas generaciones, y a aquellos que se resisten a sucumbir al olvido como civilización, la urgente necesidad de reconocer y superar ciertos límites existenciales que nos son impuestos.
 
-Esto límites, en gran medida impuestos por nuestra propia incapacidad como humanidad para trascender las trampas más básicas que surgen del ego humano, son principalmente promovidos por los sistemas egregóricos que condicionan la experiencia social y cultural de todas las naciones del mundo.
+Estos límites, en gran medida impuestos por nuestra propia incapacidad como humanidad para trascender las trampas más básicas que surgen del ego humano, son principalmente promovidos por los sistemas egregóricos que condicionan la experiencia social y cultural de todas las naciones del mundo.
 
 2.5.2 » El Modelo Nouménico, en su propuesta cosmológica, reinterpreta conceptos como arquetipos y niveles de consciencia desde una perspectiva que busca trascender tanto las limitaciones del misticismo religioso tradicional como el reduccionismo del cientificismo. 
 
@@ -1060,11 +1060,9 @@ Estas consciencias superiores, aunque potencialmente capaces de guiarnos en nues
 
 Ante la posibilidad de la existencia de entidades superiores, la respuesta humana tiende a ser la competición y el intento de superación, incluso de dominación, en lugar de la humildad y el aprendizaje. 
 
-Esta tendencia humana a desafiar los límites y a transgredir las reglas, aunque pueda ser vista como un motor de exploración y descubrimiento, también representa un peligro latente para la propia subsistencia del universo. 
+Esta tendencia humana a desafiar los límites y transgredir las reglas, aunque funcione como un motor de exploración y descubrimiento, representa un peligro latente para la subsistencia del universo. Esto es debido a que la existencia, en su equilibrio dinámico, requiere aceptar ciertas limitaciones.
 
-La existencia, en su equilibrio dinámico, requiere de la aceptación de ciertas reglas y limitaciones, y la pretensión humana de una libertad ilimitada y una exploración de opciones sin restricciones.
-
-Esto impide al ser humano poder llegar a contemplar los aspectos paradójicos y relativos que derivan de las ideas y acciones que promueve la subjetividad del <font color="#ffa3ef">Yo Egoico</font>, podría conducir a consecuencias imprevisibles y potencialmente catastróficas para la existencia.
+La pretensión humana de una libertad absoluta y sin restricciones impide contemplar los aspectos paradójicos y relativos que derivan de las acciones del <font color="#ffa3ef">Yo Egoico</font>. En consecuencia, este afán desmedido rompe con el orden fundamental, lo que podría conducir a consecuencias imprevisibles y potencialmente catastróficas para la vida misma.
 
 2.5.4 » El Modelo Nouménico, en este contexto, se presenta como una llave que abre la puerta a la trascendencia de ciertos límites, pero que al mismo tiempo impone un camino exigente y complejo. 
 
@@ -1080,9 +1078,9 @@ Ofrece una guía para reorientar nuestro viaje evolutivo y encontrar herramienta
 
 <center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Características del Noúmeno</span></center>
 
-2.6.1 » Hemos definimos al Noúmeno como la totalidad del infinito potencial, la fuente primigenia de la que emana toda la realidad, tanto nouménica como fenoménica. Este océano de potencialidad no está sujeto a limitaciones de espacio, tiempo o cantidad. 
+2.6.1 » Hemos definimos al Noúmeno como la totalidad del infinito potencial, la fuente primigenia de la que emana toda la realidad, tanto nouménica como fenoménica. 
 
-Es la cuna de todas las posibilidades, abarcando desde la emergencia de las estructuras más complejas hasta la simple posibilidad de la no-existencia.
+Este océano de potencialidad no está sujeto a limitaciones de espacio, tiempo o cantidad. Es el origen de todas las posibilidades, abarcando desde la emergencia de las estructuras más complejas hasta la simple posibilidad de la no-existencia.
 
 2.6.2 » Para comprender mejor la naturaleza trascendente del Noúmeno como Universo Nouménico en su totalidad, podemos destacar sus características esenciales:
 
@@ -1091,8 +1089,7 @@ Es la cuna de todas las posibilidades, abarcando desde la emergencia de las estr
 > 
 > Es una inmensidad que desafía cualquier intento de cuantificación o medición. No podemos delimitar su tamaño, ni determinar su contenido de manera exhaustiva, ya que su naturaleza infinita trasciende las categorías de cantidad y medida. 
 > 
-> El Noúmeno es, en esencia, inmensurable e inabarcable para la mente finita, ya que su totalidad se encuentra constituida por quantos de información potencial que denominamos <font color="#bfbfbf">Onemuones</font>, que son inagotables e infinitamente adaptables.
-
+> El Noúmeno es, en esencia, inmensurable e inabarcable para la mente finita, ya que su totalidad se encuentra constituida por quantos de información potencial <font color="#bfbfbf">(Onemuones)</font>, que son inagotables e infinitamente adaptables.
 
 > [!ontologico] <font color="#fc300c">UNIVERSALIDAD ABSOLUTA</font>
 > El Noúmeno posee una universalidad absoluta, abarcando la totalidad de la existencia y la no-existencia. No existe nada que quede fuera de su dominio, ni realidad alguna que escape a su influencia primordial. 
@@ -1672,7 +1669,7 @@ Estos agentes, siguiendo los caminos vectoriales que definen la estructura del <
 
 Gracias a la capacidad de superposición del <font color="#bfbfbf">Onemuón</font>, múltiples agentes pueden coexistir y operar en paralelo dentro de la misma esfera <font color="#bfbfbf">Onemuónica</font>, explorando diferentes facetas de su información y potencialidad. 
 
-3.6.5 » Además, se propone que la generación de estos agentes exploradores internos sigue un patrón secuencial y rítmico. Imaginemos, por ejemplo, que cada vez que un agente avanza una cierta distancia en su exploración del <font color="#bfbfbf">Onemuón</font>, medida en "unidades de significado" (podríamos retomar la analogía de los números decimales en la secuencia de Phi, se activa el potencial para que otro agente sea generado e inicie su propio proceso exploratorio, siguiendo el mismo camino vectorial o uno diferente.
+3.6.5 » Además, se propone que la generación de estos agentes exploradores internos sigue un patrón secuencial y rítmico. Imaginemos, por ejemplo, que el avance de un agente a lo largo de una distancia determinada activa el potencial para generar el siguiente. De este modo, el nuevo explorador iniciaría su propio proceso, pudiendo seguir el mismo vector de movimiento o uno diferente
 
 ![[Onemuon13.jpg]]
 
@@ -1682,7 +1679,7 @@ Gracias a la capacidad de superposición del <font color="#bfbfbf">Onemuón</fon
 
 Cada <font color="#bfbfbf">Onemuón</font> podría tener la capacidad de variar el ritmo con el que se dispara cada agente, según sus cualidades intrinsecas específicas, y las necesidades que presente la <font color="#2f82ff">Consciencia Arquetípica</font> Primordial que refleja las cualidades de <font color="#00ff00">omnipresencia</font>, <font color="#2f82ff">omnisciencia</font> y <font color="#fc300c">omnipotencia</font>. 
 
-Pero también teniendo en cuento cualquier otro nivel de consciencia que exista por debajo de este nivel, para permitir que cierta información nouménica se manifieste con mayor o menor intensidad, según los requerimientos de cada nivel de emergencia.
+Pero también teniendo en cuenta cualquier otro nivel de consciencia que exista por debajo de este nivel, para permitir que cierta información nouménica se manifieste con mayor o menor intensidad, según los requerimientos de cada nivel de emergencia.
 
 3.6.8 » La actividad de estos agentes exploradores internos no es pasiva ni inerte. El Modelo Nouménico, propone que cada agente, en su proceso de exploración, genera "beats de actividad" informacional, pulsos de significado que codifican información sobre el estado del <font color="#bfbfbf">Onemuón</font> que está siendo explorado, las redes algorítmicas en las que participa, y el estado de las matrices lógicas que se constituyen en los niveles de emergencia superiores. 
 
@@ -1791,7 +1788,7 @@ En el mundo onírico, podemos visitar lugares inexistentes en el mundo físico, 
 
 4.2.2 » Este ejemplo del sueño resulta sumamente ilustrativo, ya que demuestra cómo una realidad puede llegar a ser experimentada por nuestra consciencia de forma plena y convincente sin necesidad de la infraestructura físico-energética que define el mundo fenoménico. 
 
-El universo onírico, como dominio "virtual", no requiere la manifestación concreta de materia y energía, tiempo y espacio tal como los conocemos en la vigilia. Sin embargo, el protagonista del sueño, es decir, nuestra propia consciencia onírica, puede verse limitado a experimentar aspectos que resuenan con el mundo fenoménico real. 
+El universo onírico, como dominio "virtual", no requiere la manifestación concreta de materia y energía, o de tiempo y espacio tal como los conocemos en la vigilia. Sin embargo, el protagonista del sueño, es decir, nuestra propia consciencia onírica, puede verse limitada a experimentar aspectos que resuenan con el mundo fenoménico real. 
 
 Dentro del sueño, podemos sentir la gravedad, fenómenos energéticos, experimentar emociones complejas, interactuar con objetos y personajes de forma que, internamente, se siente tan real como una experiencia que podemos llegar a vivenciar durante el estado de vigilia.
 
@@ -1917,7 +1914,7 @@ El <font color="#2f82ff">Nous Pasivo</font> emerge como el mismo infinito explor
 
 Esto condiciona las probabilidades infinitas a un número limitado de posibilidades, que solo puede ser superado por un nivel de consciencia que tenga la capacidad de interpretar la nueva información <font color="#bfbfbf">Onemuónica</font>, para entonces poder llegar a contemplar el infinito probabilístico nouménico que se esconde detrás de la misma.
 
-4.5.5 » Por lo que, al decir que el <font color="#2f82ff">Nous Pasivo</font> contiene la totalidad del infinito dentro de su estructura, no nos estamos refiriendo al mismo nivel de potencialidad del Nivel Nouménico, en donde todas las potencialidades existen de manera inherente al infinito, sino a un nivel de potencialidad solo alcanzable a través de un proceso lógico consciente que sea capaz de analizar y prever todas las potencialidades que un <font color="#bfbfbf">Onemuón</font> especifico, existiendo dentro del <font color="#2f82ff">Nous Pasivo</font>, podría haber llegado a ser si no hubiera sido definido de manera estricta dentro de este plano de existencia, en relación a la lógica que ese quanto de información representa dentro la red algorítmica de la cual forma parte.
+4.5.5 » Por lo que, al decir que el <font color="#2f82ff">Nous Pasivo</font> contiene la totalidad del infinito dentro de su estructura, no nos estamos refiriendo al mismo nivel de potencialidad del Nivel Nouménico. en donde todas las potencialidades existen de manera inherente al infinito, sino a un nivel de potencialidad solo alcanzable a través de un proceso lógico consciente que sea capaz de analizar y prever todas las potencialidades que un <font color="#bfbfbf">Onemuón</font> especifico, existiendo dentro del <font color="#2f82ff">Nous Pasivo</font>, podría haber llegado a ser si no hubiera sido definido de manera estricta dentro de este plano de existencia, en relación a la lógica que ese quanto de información representa dentro la red algorítmica de la cual forma parte.
 
 4.5.6 » En este punto evolutivo del Universo Nouménico, donde el único Nivel de Emergencia complejo generado es el <font color="#2f82ff">Nivel Ontológico</font>, podríamos llegar a distinguir dos regiones particulares dentro del Noúmeno, por un lado tendríamos la región autoconsciente que conforma el <font color="#cb48f3">Nous Arquetípico</font>, donde los <font color="#bfbfbf">Onemuones</font> activados participan de las redes algorítmicas que se constituyen dentro del <font color="#2f82ff">Nous Pasivo</font>, para llegar a consolidar una región estable donde la información nouménica evoluciona y no se pierde. 
 
@@ -2094,8 +2091,7 @@ Visualizamos esta interacción utilizando un tetraedro, donde cada cara represen
 > Para facilitar la comprensión y generar una imagen mental del proceso evolutivo de este modelo del tetraedro, imaginemos esta cara como una figura triangular que se expande y evoluciona desde su vértice hacia la base del tetraedro —a medida que se da la interacción entre los Arquetipos <font color="#00ff00">1<sup>✱</sup></font> y <font color="#2f82ff">2<sup>✱</sup></font>—.
 >
 > ![[Tetrahedro Fractal04.jpg]]
->
-> Esta expansión simboliza la creciente complejidad de información procesada en el <font color="#2f82ff">Nivel Ontológico</font> <font color="#2f82ff">(Consciencia Universal)</font>, que derivará en la manifestación de un primer <font color="#00ff00">Qubit@</font> con sus siete Arquetipos, dando como resultado el origen de la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Consciencia Estelar)</font> y en consecuencia, el estructuración del <font color="#fc300c">Nous Activo</font>.
+> Esta expansión simboliza la creciente complejidad de información procesada en el <font color="#2f82ff">Nivel Ontológico</font> <font color="#2f82ff">(Consciencia Universal)</font> que derivará en la manifestación de un primer <font color="#00ff00">Qubit@</font> con sus siete Arquetipos. Esto dará como resultado el origen de la <font color="#00ff00">Consciencia Ontogénica</font> <font color="#00ff00">(Consciencia Estelar)</font> y en consecuencia, el estructuración del <font color="#fc300c">Nous Activo</font>.
 > 
 > En el contexto ontológico, este arquetipo representa la síntesis que surge de la interacción entre la Dualidad y la Trinidad. 
 
