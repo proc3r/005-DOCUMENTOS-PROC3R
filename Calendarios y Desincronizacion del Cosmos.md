@@ -27,7 +27,6 @@ Detallaremos las repercusiones de este dilema temporal, sus causas arraigadas, s
 
 Al exponer la gravedad de este punto de falla, prepararemos el terreno para comprender la necesidad urgente de la solución: un nuevo calendario diseñado para armonizar el tiempo en nuestro sistema y permitir la transición a una nueva era.
 
-
 # 1. El Tiempo como Reflejo del Noema
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Percepción Subjetiva del Tiempo en el Nodo Orgánico</span></center>

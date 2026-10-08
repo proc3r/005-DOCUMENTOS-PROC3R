@@ -440,17 +440,17 @@ En una <font color="#00ff00">Matriz Fenomenológica</font> más compleja, los ge
 
 Así, la naturaleza misma de las partículas se desvela como una manifestación algorítmica:
 
-> [!masa] <font color="#fc300c">MASA</font>
+> [!masa] <font color="#fc300c">MASA.</font>
 > La <font color="#fc300c">masa</font> es una consecuencia directa del generador del <font color="#fc300c">electromagnetismo (Saklas)</font>. Representa el proceso por el cual el <font color="#fc300c">Algoritmo Saklas</font> procesa información lineal a través del <font color="#00ff00">fotón</font>, estableciendo la unidad fundamental de presencia. 
 > 
 > La <font color="#fc300c">masa</font> es la cualidad de "ser" que emerge de la capacidad de <font color="#fc300c">Saklas</font> para definir y dar identidad a la <font color="#00ff00">Matriz Fenomenológica</font> local de una partícula, confiriéndole una forma de resistencia inherente.
 
-> [!espin] <font color="#00ff00">ESPÍN</font>
+> [!espin] <font color="#00ff00">ESPÍN.</font>
 > El <font color="#00ff00">espín</font> es la manifestación de la operación de los 3 generadores de la <font color="#00ff00">fuerza débil (Cristos)</font>. Refleja cómo este algoritmo procesa información estadística y direccional a través del sistema de bosones débiles <font color="#00ff00">(Zº</font>, <font color="#fc300c">W+</font> y <font color="#2f82ff">W-)</font>. 
 > 
 > La naturaleza cuántica del <font color="#00ff00">espín</font>, con sus valores discretos y su "rotación interna" sin movimiento físico real, es un eco de la complejidad probabilística y de las posibilidades de orientación que <font color="#00ff00">Cristos</font>, el arquetipo de la <font color="#00ff00">síntesis</font> y la elección direccional, introduce en el sistema.
 
-> [!carga] <font color="#2f82ff">CARGA</font>
+> [!carga] <font color="#2f82ff">CARGA ELÉCTRICA.</font>
 > La <font color="#2f82ff">carga</font> (eléctrica o de color) es la consecuencia directa de los 8 generadores de la <font color="#2f82ff">fuerza fuerte (Samael)</font>. Revela cómo este algoritmo procesa información estadística compleja a través del sistema de <font color="#ffa3ef">gluones</font>. 
 > 
 > La <font color="#2f82ff">carga</font> es la manifestación de la poderosa cohesión, organización y las reglas de interacción inherentes a <font color="#2f82ff">Samael</font>, el arquetipo de las reglas fundamentales que definen la matriz de la <font color="#fc300c">materia</font> y su comportamiento.
@@ -483,7 +483,7 @@ Para comprender la esencia nouménica de la <font color="#ffcc00">gravedad</font
 
 Hemos referido a la constante de Planck como el "píxel" de la <font color="#00ff00">Matriz Fenomenológica</font>, la unidad elemental de resolución de la realidad. 
 
-Sin embargo, este "píxel" no es una entidad simple y estática; es en sí mismo una <font color="#00ff00">Matriz Fenomenológica</font> compleja y multidimensional, un "cubo tridimensional mínimo" que encapsula la información nouménica esencial para la emergencia de la tridimensionalidad espacial y los flujos de información <font color="#2f82ff">energética</font> y <font color="#fc300c">material</font>.
+Sin embargo, este "píxel" no es una entidad simple y estática; es en sí mismo una matriz de sincronización vectorial, compleja y multidimensional, un "cubo tridimensional mínimo" que encapsula la información nouménica esencial para la emergencia de la tridimensionalidad espacial y los flujos de información <font color="#2f82ff">energética</font> y <font color="#fc300c">material</font>.
 
 ![[Algoritmos Quantum Accion.jpg]]
 

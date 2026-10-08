@@ -191,7 +191,7 @@ En el <font color="#e36c09">Nivel de Emergencia Ontogénico</font>, el <font col
 
 Esta es la razón por la cual el universo muestra patrones fractales en todas sus escalas; el <font color="#e36c09">Arquetipo 2@</font> ha codificado la repetición y la autosimilitud como leyes fundamentales de procesamiento.
 
-### El Logos Cósmico como Espíritu Santo
+### 3.2.1. El Logos Cósmico como Espíritu Santo
 
 Dentro de la "Trinidad de Procesamiento" inicial que manifiesta el <font color="#fc300c">Nous Activo</font>, que el <font color="#e36c09">Noema Religioso</font> podría identificar como el concepto de la **Santísima Trinidad**, el <font color="#e36c09">Logos Cósmico</font> ocupa el lugar de la Estructura o el Verbo.
 
@@ -261,7 +261,7 @@ Es dentro de esta estructura que impone el <font color="#fc300c">Qubit Estelar</
 
 Con la integración del <font color="#ffcc00">Arquetipo 3@ Logos Individual</font>, el <font color="#2f82ff">Qubit Ontogénico</font> queda funcionalmente completo. Hemos pasado de la <font color="#fc300c">intención abstracta</font> a la <font color="#e36c09">ley geométrica</font>, y de la ley a la <font color="#ffcc00">multiplicidad consciente</font>. El escenario está listo; el <font color="#e36c09">Holón Galáctico</font> ha alcanzado su máxima expansión en el plano del pensamiento puro, y la presión de las paradojas acumuladas está a punto de forzar la singularidad (el sistema estelar) que dará origen al universo manifestado.
 
-### La Singularidad Estelar
+### 3.3.1. La Singularidad Estelar
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Colapso de la Paradoja y el Qubit de Autocontención</span></center>
 
