@@ -47,7 +47,7 @@ Hemos demostrado que estos no son leyes últimas, sino traducciones fenoménicas
 
 En el <font color="#2f82ff">Plano Nouménico</font>, donde la consciencia navega sin las ataduras de la métrica externa, estos se revelan como <font color="#ffa3ef">Operador Rho</font> (Resonancia Semántica) y <font color="#fc300c">Operador Phi</font> (Mínima Fricción Cognitiva)**. 
 
-El <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> es el mecanismo que selecciona, actualiza y mantiene la coherencia de significado en un campo de potencialidad infinita. El <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> es el principio que permite que la consciencia salte, comprima, teletransporte o reconfigure escenarios sin gasto energético, porque opera bajo lógica de eficiencia narrativa, no de conservación material. 
+El <font color="#ffa3ef">Operador Rho</font> ($\rho$) es el mecanismo que selecciona, actualiza y mantiene la coherencia de significado en un campo de potencialidad infinita. El <font color="#fc300c">Operador Phi</font> ($\varphi$) es el principio que permite que la consciencia salte, comprima, teletransporte o reconfigure escenarios sin gasto energético, porque opera bajo lógica de eficiencia narrativa, no de conservación material. 
 
 El sueño es el modo directo de <font color="#ffa3ef">Rho</font> y <font color="#fc300c">Phi</font>. La vigilia es el modo refractado de <font color="#2f82ff">Eta</font> y <font color="#cb48f3">Pi</font>. La <font color="#00ff00">grieta</font> que experimentamos como <font color="#00ff00">presente</font> no es un punto en el tiempo, sino la interfaz viva donde estos cuatro operadores se superponen, negocian y traducen información entre densidades.
 
@@ -308,17 +308,17 @@ Lo que en vigilia llamamos <font color="#2f82ff">Hamiltoniano</font> y <font col
 
 El <font color="#cb48f3">Lagrangiano</font> fenomenológico es el protocolo que consolida la experiencia en una línea causal compartible; el <font color="#2f82ff">Hamiltoniano</font> fenomenológico es el protocolo que sincroniza los estados para mantener la estabilidad del escenario. Pero detrás de ellos laten sus contrapartes nouménicas: operadores que no miden energía ni trazan geodésicas, sino que seleccionan significados y economizan integración cognitiva. 
 
-En los capítulos siguientes, desmontaremos esta capa de traducción. Definiremos con precisión cómo el <font color="#2f82ff">Operador Eta</font> <font color="#2f82ff">(η)</font> <font color="#2f82ff">(Pre-Hamiltoniano)</font> y el <font color="#cb48f3">Operador Pi</font> <font color="#cb48f3">(π)</font> <font color="#cb48f3">(Pre-Lagrangiano)</font> refractan la lógica del sueño en las leyes de la vigilia, y cómo el <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> y el <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> operan en el <font color="#2f82ff">flujo nouménico</font> puro antes de que la densidad los cristalice. 
+En los capítulos siguientes, desmontaremos esta capa de traducción. Definiremos con precisión cómo el <font color="#2f82ff">Operador Eta</font> <font color="#2f82ff">(η)</font> <font color="#2f82ff">(Pre-Hamiltoniano)</font> y el <font color="#cb48f3">Operador Pi</font> <font color="#cb48f3">(π)</font> <font color="#cb48f3">(Pre-Lagrangiano)</font> refractan la lógica del sueño en las leyes de la vigilia, y cómo el <font color="#ffa3ef">Operador Rho</font> ($\rho$) y el <font color="#fc300c">Operador Phi</font> ($\varphi$) operan en el <font color="#2f82ff">flujo nouménico</font> puro antes de que la densidad los cristalice. 
 
 No estamos abandonando el rigor; estamos ampliando el alfabeto. Porque si la realidad es un sistema operativo, conocer sus funciones de renderizado es solo el primer paso. Comprender sus instrucciones de origen es lo que permite leer el código sin quedarse atrapado en la pantalla.
 
 ## 3.2. Arcano 6 (Los Enamorados)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font>: Resonancia Semántica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El <font color="#ffa3ef">Operador Rho</font>: Resonancia Semántica</span></center>
 
 ![[06 - Enamorados.png]]
 
-Si el <font color="#2f82ff">Hamiltoniano</font> <font color="#2f82ff">(η)</font> es el motor de la conservación energética en el mundo físico, el <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> es el motor de la **coherencia de significado** en el mundo nouménico. Al despojar a la realidad de sus restricciones materiales, desaparece la necesidad de conservar julios (unidad de energía) o mantener simetrías espaciotemporales rígidas. 
+Si el <font color="#2f82ff">Hamiltoniano</font> <font color="#2f82ff">(η)</font> es el motor de la conservación energética en el mundo físico, el <font color="#ffa3ef">Operador Rho</font> ($\rho$) es el motor de la **coherencia de significado** en el mundo nouménico. Al despojar a la realidad de sus restricciones materiales, desaparece la necesidad de conservar julios (unidad de energía) o mantener simetrías espaciotemporales rígidas. 
 
 Sin embargo, la experiencia no se disuelve en un caos estático de ruido blanco. Persiste una estructura, una lógica, un hilo conductor que permite que la consciencia navegue el flujo de información sin perder su identidad. Ese hilo es la <font color="#ffa3ef">Resonancia Semántica</font>.
 
@@ -330,7 +330,7 @@ Esto explica la naturaleza de la experiencia onírica y los estados expandidos d
 
 El <font color="#ffa3ef">Operador Rho</font> ha detectado que la emoción de "vulnerabilidad" o "conflicto" en la escena de la infancia es resonante con la emoción de lucha en la escena de la guerra. Por tanto, conecta ambos estados no mediante un puente espacial, sino mediante un puente de significado. La "línea evolutiva" que experimentas en el sueño no es cronológica, es **lógica**. El <font color="#ffa3ef">Operador Rho</font> crea una linealidad basada en la narrativa, no en el reloj.
 
-Podemos definir al <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> mediante tres funciones operativas fundamentales:
+Podemos definir al <font color="#ffa3ef">Operador Rho</font> ($\rho$) mediante tres funciones operativas fundamentales:
 
 > 1. <font color="#2f82ff">Selección por Identidad:</font> <font color="#ffa3ef">(ρ)</font> lee el estado actual de la consciencia (sus miedos, deseos, traumas, intuiciones) y proyecta solo aquello que es coherente con ese estado. No ves cualquier cosa en el sueño; ves lo que tu propia estructura interna está emitiendo. Eres el emisor y el receptor simultáneamente.
 > 2. <font color="#fc300c">Mantenimiento de la Coherencia:</font> Una vez actualizado un estado, <font color="#ffa3ef">(ρ)</font> trabaja para mantener su integridad narrativa. Si la emoción del sueño es de persecución, <font color="#ffa3ef">(ρ)</font> impedirá que aparezcas repentinamente en una playa relajada (a menos que haya una <font color="#ffa3ef">resolución narrativa)</font>, porque eso rompería la resonancia. La magia del sueño obedece a reglas estrictas de <font color="#e36c09">coherencia emocional</font>, aunque ignore las <font color="#fc300c">reglas de la física</font>.
@@ -348,15 +348,15 @@ El <font color="#ffa3ef">Operador Rho</font> es, por tanto, el principio ordenad
 
 Antes de que exista la conservación de la energía física, existe la conservación del sentido. La <font color="#2f82ff">energía</font> es simplemente la manifestación densa de una <font color="#ffa3ef">resonancia semántica</font> que ha encontrado <font color="#fc300c">resistencia material</font>. Comprender a <font color="#ffa3ef">(ρ)</font> es comprender que el universo no se mueve por empujones ciegos de fuerzas, sino por la atracción de coherencias que buscan actualizarse. 
 
-En el siguiente capítulo, veremos cómo esta búsqueda de sentido se traduce en acción eficiente a través del <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font>.
+En el siguiente capítulo, veremos cómo esta búsqueda de sentido se traduce en acción eficiente a través del <font color="#fc300c">Operador Phi</font> ($\varphi$).
 
 ## 3.3. Arcano 7 (El Carro)
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font>: Mínima Fricción Cognitiva</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El <font color="#fc300c">Operador Phi</font>: Mínima Fricción Cognitiva</span></center>
 
 ![[07 - El Carro.png]]
 
-Si el <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> selecciona _"qué"_ debe actualizarse basándose en el significado, el <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> determina _"cómo"_ ocurre esa actualización. 
+Si el <font color="#ffa3ef">Operador Rho</font> ($\rho$) selecciona _"qué"_ debe actualizarse basándose en el significado, el <font color="#fc300c">Operador Phi</font> ($\varphi$) determina _"cómo"_ ocurre esa actualización. 
 
 En la física clásica, el <font color="#cb48f3">Lagrangiano</font> <font color="#cb48f3">(π)</font> gobierna la trayectoria de un sistema minimizando la "acción", un balance entre energía cinética y potencial. Es la ley de la economía física: la naturaleza nunca gasta más energía de la estrictamente necesaria para ir de un punto A a un punto B. 
 
@@ -386,7 +386,7 @@ El <font color="#fc300c">Operador Phi</font> opera mediante tres mecanismos de o
 > 
 > Un instante de miedo intenso puede sentirse como una eternidad (expansión para procesar alta resonancia), mientras que horas de sueño pueden condensarse en un recuerdo fugaz (compresión de baja fricción). 
 > 
-El <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> ajusta el "framerate" de la experiencia para que coincida con la capacidad de integración del momento.
+El <font color="#fc300c">Operador Phi</font> ($\varphi$) ajusta el "framerate" de la experiencia para que coincida con la capacidad de integración del momento.
 
 > [!umbra] <font color="#ffa3ef">Resolución de Discontinuidades.</font> 
 > Cuando ocurre un cambio abrupto en el campo de información (un salto narrativo), <font color="#fc300c">(φ)</font> actúa como un suavizador algorítmico. 
@@ -395,9 +395,9 @@ El <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> a
 > 
 > Es el mecanismo que permite que aceptemos lo absurdo en el sueño sin despertar: el <font color="#fc300c">Operador Phi</font> ha encontrado la manera de integrar lo inintegrable minimizando el choque cognitivo.
 
-La distinción crítica entre el <font color="#cb48f3">Lagrangiano</font> <font color="#cb48f3">(π)</font> físico y el <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> radica en su objeto de optimización. El <font color="#cb48f3">Lagrangiano</font> <font color="#cb48f3">(π)</font> optimiza para la **supervivencia del sistema material** dentro de un entorno de recursos limitados (energía). Mientras que <font color="#fc300c">(φ)</font> optimiza para la **coherencia del sistema consciente** dentro de un entorno de significado ilimitado. 
+La distinción crítica entre el <font color="#cb48f3">Lagrangiano</font> <font color="#cb48f3">(π)</font> físico y el <font color="#fc300c">Operador Phi</font> ($\varphi$) radica en su objeto de optimización. El <font color="#cb48f3">Lagrangiano</font> <font color="#cb48f3">(π)</font> optimiza para la **supervivencia del sistema material** dentro de un entorno de recursos limitados (energía). Mientras que <font color="#fc300c">(φ)</font> optimiza para la **coherencia del sistema consciente** dentro de un entorno de significado ilimitado. 
 
-El <font color="#cb48f3">Lagrangiano</font> <font color="#cb48f3">(π)</font> te obliga a construir un puente para cruzar un río porque la materia opone resistencia. El <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font>  te permite simplemente "estar al otro lado" porque en el dominio del significado, la orilla opuesta está a una distancia de resonancia cero si la intención es lo suficientemente clara.
+El <font color="#cb48f3">Lagrangiano</font> <font color="#cb48f3">(π)</font> te obliga a construir un puente para cruzar un río porque la materia opone resistencia. El <font color="#fc300c">Operador Phi</font> ($\varphi$)  te permite simplemente "estar al otro lado" porque en el dominio del significado, la orilla opuesta está a una distancia de resonancia cero si la intención es lo suficientemente clara.
 
 Sin embargo, <font color="#fc300c">(φ)</font> no es omnipotente; está acoplado a <font color="#ffa3ef">(ρ)</font>. La mínima fricción solo puede lograrse si existe una <font color="#ffa3ef">resonancia semántica</font> que guíe la transición. Sin <font color="#ffa3ef">Rho</font>, <font color="#fc300c">Phi</font> sería un caos de saltos aleatorios. Juntos, forman el dúo dinámico del <font color="#2f82ff">Plano Nouménico</font>: <font color="#ffa3ef">(ρ)</font> dice "esto tiene sentido" y <font color="#fc300c">(φ)</font> dice "hagámoslo de la manera más fluida posible". 
 
@@ -424,7 +424,7 @@ Lo que en el registro nouménico opera como <font color="#ffa3ef">resonancia sem
 Comprender esta dinámica cruzada es la clave para dejar de ver la física y la consciencia como dominios separados y empezar a leerlas como capas de traducción de un mismo código.
 
 > [!energia] <font color="#2f82ff">EL MOTOR DEL HAMILTONIANO - El Operador <font color="#ffa3ef">(ρ)</font> como Fuente.</font>
-> La refracción del <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> hacia el <font color="#2f82ff">Operador Eta</font> <font color="#2f82ff">(η)</font> <font color="#2f82ff">(Hamiltoniano)</font> sigue una regla de preservación estructural. En el <font color="#2f82ff">Plano Nouménico</font>, <font color="#ffa3ef">(ρ)</font> garantiza que el significado no se disperse; mantiene la coherencia emocional y narrativa a través de la selección por afinidad vibratoria. 
+> La refracción del <font color="#ffa3ef">Operador Rho</font> ($\rho$) hacia el <font color="#2f82ff">Operador Eta</font> <font color="#2f82ff">(η)</font> <font color="#2f82ff">(Hamiltoniano)</font> sigue una regla de preservación estructural. En el <font color="#2f82ff">Plano Nouménico</font>, <font color="#ffa3ef">(ρ)</font> garantiza que el significado no se disperse; mantiene la coherencia emocional y narrativa a través de la selección por afinidad vibratoria. 
 > 
 > Cuando este flujo encuentra la resistencia de la <font color="#00ff00">Matriz Fenomenológica</font> planetaria, la "información semántica" no puede mantenerse en estado puro: debe materializarse para persistir. La única manera de conservar un patrón en un medio denso es fijarlo en una cantidad medible que no se cree ni se destruya, solo se transforme. 
 > 
@@ -433,7 +433,7 @@ Comprender esta dinámica cruzada es la clave para dejar de ver la física y la 
 > El <font color="#2f82ff">Hamiltoniano</font> no es una ley ajena a la consciencia; es la firma cristalizada de <font color="#ffa3ef">(ρ)</font> operando bajo <font color="#ffcc00">gravedad</font>. Donde antes había resonancia, ahora hay conservación; donde antes había conexión por sentido, ahora hay invariancia por geometría.
 
 > [!danger] <font color="#fc300c">EL MOTOR DEL LAGRANGIANO - El Operador <font color="#fc300c">(φ)</font> como Fuente.</font>
-> La refracción del <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> hacia el <font color="#cb48f3">Operador Pi</font> <font color="#cb48f3">(π)</font> <font color="#cb48f3">(Lagrangiano)</font> obedece a una lógica de economía adaptativa. 
+> La refracción del <font color="#fc300c">Operador Phi</font> ($\varphi$) hacia el <font color="#cb48f3">Operador Pi</font> <font color="#cb48f3">(π)</font> <font color="#cb48f3">(Lagrangiano)</font> obedece a una lógica de economía adaptativa. 
 > 
 > En el dominio nouménico, <font color="#fc300c">(φ)</font> elimina la <font color="#fc300c">fricción narrativa</font> permitiendo saltos, compresiones y supresiones que mantienen el flujo sin interrupciones. Pero en un medio material, los saltos tienen un costo: la inercia, la masa y la velocidad de la luz imponen límites inquebrantables. 
 > 
@@ -516,7 +516,7 @@ Lo que la cultura moderna ha etiquetado como "sueño" es, en realidad, el acceso
 
 Este espacio no está definido por coordenadas cartesianas ni por una flecha temporal unidireccional. Se estructura según una topología informacional donde la proximidad no se mide en distancia física, sino en grado de <font color="#ffa3ef">resonancia semántica</font>, y donde cada **nodo de experiencia** contiene la información estructural del todo. Operar en este registro no implica abandonar la realidad; implica cambiar la resolución de procesamiento.
 
-En este dominio, la linealidad deja de ser espacial para volverse **narrativa y emocional**. El <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> escanea el <font color="#2f82ff">campo de potencialidad</font> y actualiza estados basándose en la afinidad vibracional, no en la contigüidad física. 
+En este dominio, la linealidad deja de ser espacial para volverse **narrativa y emocional**. El <font color="#ffa3ef">Operador Rho</font> ($\rho$) escanea el <font color="#2f82ff">campo de potencialidad</font> y actualiza estados basándose en la afinidad vibracional, no en la contigüidad física. 
 
 Si en un sueño pasas de una habitación de tu infancia a un desierto bajo una luna roja, no ha ocurrido un "salto" en el espacio; ha ocurrido una transición de coherencia. El sistema ha detectado que el estado emocional de "nostalgia vulnerable" en la primera escena resuena con el estado de "soledad expansiva" en la segunda, y ha actualizado el escenario para mantener la integridad del significado. 
 
@@ -532,9 +532,9 @@ El problema surge al intentar transferir esa experiencia de vuelta al <font colo
 
 Al despertar, el sistema fuerza una traducción lineal de un contenido multidimensional, y el resultado es lo que llamamos "recuerdo difuso" o "lógica onírica absurda". La absurdez no está en el sueño; está en la incompatibilidad de formatos.
 
-Bajo esta luz, la llamada "magia onírica" deja de ser un fallo de procesamiento o una ilusión cerebral para revelarse como **coherencia operativa pura**. Volar, traspasar paredes, hablar con entidades arquetípicas o modificar la realidad con un pensamiento no son violaciones de las leyes naturales; son manifestaciones del <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> actuando sin la fricción de la <font color="#00ff00">Matriz Fenomenológica</font> planetaria. 
+Bajo esta luz, la llamada "magia onírica" deja de ser un fallo de procesamiento o una ilusión cerebral para revelarse como **coherencia operativa pura**. Volar, traspasar paredes, hablar con entidades arquetípicas o modificar la realidad con un pensamiento no son violaciones de las leyes naturales; son manifestaciones del <font color="#fc300c">Operador Phi</font> ($\varphi$) actuando sin la fricción de la <font color="#00ff00">Matriz Fenomenológica</font> planetaria. 
 
-En el registro nouménico, la <font color="#fc300c">mínima fricción cognitiva</font> que procesa el <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> permite que la intención se actualice directamente, sin la mediación de la inercia, la gravedad o la resistencia material. 
+En el registro nouménico, la <font color="#fc300c">mínima fricción cognitiva</font> que procesa el <font color="#fc300c">Operador Phi</font> ($\varphi$) permite que la intención se actualice directamente, sin la mediación de la inercia, la gravedad o la resistencia material. 
 
 El sistema no rompe reglas; opera bajo un conjunto de reglas diferente, donde la economía narrativa reemplaza a la conservación energética, y la asociación semántica reemplaza a la causalidad lineal. Lo que en vigilia requiere esfuerzo, tiempo y recursos, en el sueño se resuelve por resonancia y eficiencia informativa. 
 
@@ -748,7 +748,7 @@ Sin embargo, bajo el marco ontológico que presupone el Modelo del Camino Óctup
 > [!samael] <font color="#2f82ff">Mesones Vectoriales (Espín 1).</font>
 > **Los mesones vectoriales (espín 1)** operan con direccionalidad intrínseca actuando como el sustrato estadístico de información Bosónica de la dimensión de partículas. Su estructura matemática refleja <font color="#fc300c">flujo</font>, <font color="#2f82ff">transporte</font> y <font color="#00ff00">mediación dinámica</font>. 
 > 
-> En términos operativos, son **canales de transmisión <font color="#2f82ff">nouménica</font>**. No buscan estabilizarse; buscan conectar, traducir y mantener la coherencia en movimiento. Son la manifestación estructural del <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> y el <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> en estado puro: <font color="#ffa3ef">resonancia semántica</font> y <font color="#fc300c">mínima fricción cognitiva</font> ejecutándose sin la resistencia de la métrica externa.
+> En términos operativos, son **canales de transmisión <font color="#2f82ff">nouménica</font>**. No buscan estabilizarse; buscan conectar, traducir y mantener la coherencia en movimiento. Son la manifestación estructural del <font color="#ffa3ef">Operador Rho</font> ($\rho$) y el <font color="#fc300c">Operador Phi</font> ($\varphi$) en estado puro: <font color="#ffa3ef">resonancia semántica</font> y <font color="#fc300c">mínima fricción cognitiva</font> ejecutándose sin la resistencia de la métrica externa.
 
 > [!saklas] <font color="#fc300c">Mesones Pseudoescalares (Espín 0).</font>
 > **Los mesones pseudoescalares (espín 0)** carecen de direccionalidad intrínseca, operando como el sustrato de información escalar que ancla y condensa la materia fermiónica. Su estructura refleja <font color="#fc300c">condensación</font>, <font color="#2f82ff">potencial latente</font> y <font color="#00ff00">estabilidad de punto fijo</font>.
@@ -787,7 +787,7 @@ En el Modelo Nouménico, los mesones no son simples intercambiadores de interacc
 Su clasificación en vectoriales y pseudoescalares no es una taxonomía arbitraria; es la huella dactilar de dos modos operativos de traducción. Uno lee el código fuente; el otro lo compila en lenguaje ejecutable.
 
 > [!muon] <font color="#2f82ff">Noneto Mesónico Vectorial.</font>
-> El <font color="#2f82ff">Noneto Mesónico Vectorial</font> <font color="#ffa3ef">(ρ</font>, <font color="#fc300c">ω</font>, <font color="#fc300c">φ</font>, <font color="#fc300c">∗K)</font> opera en el registro del flujo puro. Con <font color="#2f82ff">espín 1</font>, estos estados poseen direccionalidad intrínseca y capacidad de transporte coherente. No buscan anclarse; buscan conectar. Funcionan como canales de alta fidelidad para el <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> y el <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font>. 
+> El <font color="#2f82ff">Noneto Mesónico Vectorial</font> <font color="#ffa3ef">(ρ</font>, <font color="#fc300c">ω</font>, <font color="#fc300c">φ</font>, <font color="#fc300c">∗K)</font> opera en el registro del flujo puro. Con <font color="#2f82ff">espín 1</font>, estos estados poseen direccionalidad intrínseca y capacidad de transporte coherente. No buscan anclarse; buscan conectar. Funcionan como canales de alta fidelidad para el <font color="#ffa3ef">Operador Rho</font> ($\rho$) y el <font color="#fc300c">Operador Phi</font> ($\varphi$). 
 > 
 > ![[Noneto Mesonico Vectorial Rho Plano.png]]
 > 
@@ -805,7 +805,7 @@ Su clasificación en vectoriales y pseudoescalares no es una taxonomía arbitrar
 > 
 > El <font color="#ffcc00">Octeto Mesónico</font> es la interfaz donde el <font color="#2f82ff">flujo vectorial</font> se encuentra con la resistencia de la <font color="#fc300c">métrica externa</font>, y donde la lógica fluida se traduce en reglas discretas. Aquí es donde:
 > 
-> - El <font color="#ffa3ef">Operador Rho</font> <font color="#ffa3ef">(ρ)</font> se refracta en el <font color="#2f82ff">Operador Eta</font> <font color="#2f82ff">(η)</font>: la conservación de significado se convierte en conservación de energía y simetrías espaciotemporales a través del sistema <font color="#2f82ff">Hamiltoniano</font>. 
+> - El <font color="#ffa3ef">Operador Rho</font> ($\rho$) se refracta en el <font color="#2f82ff">Operador Eta</font> <font color="#2f82ff">(η)</font>: la conservación de significado se convierte en conservación de energía y simetrías espaciotemporales a través del sistema <font color="#2f82ff">Hamiltoniano</font>. 
 > 
 > - El <font color="#fc300c">Operador Phi</font> se refracta en el <font color="#cb48f3">Operador Pi</font> <font color="#cb48f3">(π)</font>: la economía narrativa se condensa en trayectoria de mínima acción y causalidad lineal a través del sistema <font color="#cb48f3">Lagrangiano</font>.
 > 
@@ -968,7 +968,7 @@ La física nombró estas partículas siguiendo convenciones alfabéticas y crono
 
 La <font color="#2f82ff">simetría SU(3)</font> no es una curiosidad algebraica; es la topología mínima requerida para que este circuito funcione sin pérdida de coherencia. Tres dimensiones de sabor <font color="#2f82ff">(up</font>, <font color="#fc300c">down</font>, <font color="#00ff00">strange)</font> permiten la generación de los octetos y decupletes; dos modos de espín <font color="#2f82ff">(1</font> y <font color="#fc300c">0)</font> permiten la dualidad flujo/condensación; y la estructura de tres <font color="#cb48f3">quarks</font> en los bariones genera el volumen de decodificación necesario para la tridimensionalidad fenoménica. 
 
-La matemática y la fenomenología no compiten; se superponen. Cuando un físico resuelve la ecuación de movimiento para un pión, está calculando la tasa de refracción del <font color="#cb48f3">Operador Pi (π)</font>. Cuando un fenomenólogo describe la economía narrativa del sueño, está leyendo la lógica nativa del <font color="#fc300c">Operador Phi</font> <font color="#fc300c">(φ)</font> antes de su condensación. Son el mismo código, leído desde terminales distintas.
+La matemática y la fenomenología no compiten; se superponen. Cuando un físico resuelve la ecuación de movimiento para un pión, está calculando la tasa de refracción del <font color="#cb48f3">Operador Pi (π)</font>. Cuando un fenomenólogo describe la economía narrativa del sueño, está leyendo la lógica nativa del <font color="#fc300c">Operador Phi</font> ($\varphi$) antes de su condensación. Son el mismo código, leído desde terminales distintas.
 
 El diagrama del Camino Óctuple, por tanto, no clasifica partículas; enruta consciencia. Cada línea que conecta un mesón con un barión es un cable de transmisión operativa. Cada vértice de simetría es un nodo de validación cruzada. Y el conjunto completo es el mapa de circuitos que explica, por fin, cómo el sueño se consolida sin perder su coherencia de origen. 
 
