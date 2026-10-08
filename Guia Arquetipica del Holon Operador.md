@@ -1,7 +1,7 @@
 ---
 soundtrack: VO_LcRkkyWo
 indexar: true
-titulo: Los 21 Arcanos del Holón Operador
+titulo: Guía Arquetípica del Holón Operador
 ---
 ![[Hero Journey Plano.jpg]]
 
