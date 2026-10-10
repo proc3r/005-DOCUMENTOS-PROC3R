@@ -14,7 +14,7 @@ titulo: Civilización Tipo 3
 
 Para el habitante promedio de nuestra civilización actual, la realidad es una estructura sólida, compuesta de objetos que se tocan, leyes físicas que se obedecen y una biografía personal que se defiende. 
 
-Hemos sido educados bajo el paradigma de la<font color="#fc300c"> Civilización Tipo 1</font> y <font color="#00ff00">2:</font> un modelo donde el éxito se mide por el control de la materia y el progreso se define por la acumulación de energía. 
+Hemos sido educados bajo el paradigma de la<font color="#fc300c"> Civilización Tipo 1</font> y <font color="#00ff00">Tipo 2:</font> un modelo donde el éxito se mide por el control de la materia y el progreso se define por la acumulación de energía. 
 
 Miramos al cielo nocturno y vemos puntos de luz distantes; bolas de gas ardiendo en el vacío, separadas por distancias tan vastas que nos hacen sentir pequeños, accidentales y, sobre todo, profundamente solos.
 
