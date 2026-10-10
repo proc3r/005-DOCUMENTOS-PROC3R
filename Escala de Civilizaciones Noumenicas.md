@@ -14,7 +14,7 @@ Este documento propone una perspectiva que trasciende el paradigma <font color="
 
 La **Escala de Civilizaciones Nouménica** permite detectar el nivel evolutivo en el que se encuentra un sistema civilizatorio en función de la madurez de su <font color="#e36c09">Consciencia Colectiva</font>, reflejando su capacidad para trascender la lucha noemática y los dilemas existenciales.
 
-En este documento se abordarán las Civilizaciones <font color="#fc300c">Tipo 1</font> y <font color="#00ff00">Tipo 2</font>, ya que reflejan a la perfección el estado civilizatorio en el que se encuentra la humanidad actualmente. La <font color="#2f82ff">Civilización Tipo 3</font> se abordará por separado en otro documento, por representar un cambio rotundo del paradigma civilizatorio.
+En este documento se abordarán las Civilizaciones <font color="#fc300c">Tipo 1</font> y <font color="#00ff00">Tipo 2</font>, ya que reflejan a la perfección el estado evolutivo en el que se encuentra la humanidad actualmente. La <font color="#2f82ff">Civilización Tipo 3</font> se abordará por separado en otro documento, ya que representa un cambio rotundo de paradigma.
 
 ```media
 path: C:\000 FINAL\07 - Notebook LM Generated\202512\La Escala Nouménica.mp4
