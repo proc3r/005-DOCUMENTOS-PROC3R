@@ -7,6 +7,8 @@ titulo: El Origen Sumerio de los Patriarcas
 
 ![[Reyes y Patriarcas.jpg]]
 
+# Introducción
+
 La historia de la humanidad, tal como se nos ha transmitido, está repleta de enigmas que desafían nuestra lógica cotidiana. Entre los más persistentes y fascinantes se encuentran las cronologías de longevidad extraordinaria que aparecen en los textos fundacionales. 
 
 Pensemos en las edades de los patriarcas bíblicos del Génesis, como <font color="#fc300c">Matusalén</font>, quien vivió 969 años, o <font color="#ffcc00">Noé</font>, con 950. 
